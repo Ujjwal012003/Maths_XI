@@ -236,52 +236,13 @@ class LocalModelProvider:
         # Allow overriding via environment for performance tuning
         self.vision_model = os.getenv("OLLAMA_VISION_MODEL", "llava:7b")
         self.text_model = os.getenv("OLLAMA_TEXT_MODEL", "llama3.1:8b")
-        
-        # ✅ NEW: Check if OpenAI embeddings enabled
-        self.use_openai_embedding = os.getenv("USE_OPENAI_EMBEDDING", "0") == "1"
-        
-        if self.use_openai_embedding:
-            self.embedding_model = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small")
-        else:
-            self.embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "all-minilm")
+        self.embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "all-minilm")
         
         # Create embedding function with proper embedding_dim attribute
         self.embedding_func = self._create_embedding_func()
-
-def _create_embedding_func(self):
-    """Create embedding function with embedding_dim attribute"""
-    
-    # ✅ NEW: Check if using OpenAI embeddings
-    if self.use_openai_embedding:
-        async def embedding_func(texts, **kwargs):
-            try:
-                from openai import OpenAI
-                client = OpenAI()
-                
-                if isinstance(texts, str):
-                    texts = [texts]
-                
-                response = client.embeddings.create(
-                    input=texts,
-                    model=self.embedding_model
-                )
-                
-                return [item.embedding for item in response.data]
-                
-            except Exception as e:
-                print(f"OpenAI embedding error: {e}")
-                # Fallback to random
-                import numpy as np
-                if isinstance(texts, str):
-                    texts = [texts]
-                return [np.random.normal(0, 1, 512).tolist() for _ in texts]
         
-        # OpenAI text-embedding-3-small = 512 dimensions
-        embedding_func.embedding_dim = 512
-        return embedding_func
-    
-    else:
-        # Original local embedding code
+    def _create_embedding_func(self):
+        """Create embedding function with embedding_dim attribute"""
         async def embedding_func(texts, **kwargs):
             try:
                 import importlib
@@ -306,11 +267,85 @@ def _create_embedding_func(self):
                 import numpy as np
                 if isinstance(texts, str):
                     texts = [texts]
-                return [np.random.normal(0, 1, 384).tolist() for _ in texts]
+                
+                embeddings = []
+                for text in texts:
+                    hash_val = hash(text) % (2**32)
+                    np.random.seed(hash_val)
+                    embedding = np.random.normal(0, 1, 384).tolist()
+                    embeddings.append(embedding)
+                
+                return embeddings
         
+        # Add the required embedding_dim attribute
         embedding_func.embedding_dim = 384
         return embedding_func
+        
+    async def local_llm_func(self, prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
+        """Local LLM function for text processing using LLaMA 3.1"""
+        try:
+            import importlib
+            ollama = importlib.import_module('ollama')
+            
+            messages = []
+            if system_prompt:
+                messages.append({"role": "system", "content": system_prompt})
+            
+            for msg in history_messages:
+                messages.append(msg)
+            
+            messages.append({"role": "user", "content": prompt})
+            
+            options = {
+                "num_predict": 512,
+                "temperature": 0.0,
+                "top_p": 0.9,
+                "repeat_penalty": 1.1,
+                "num_ctx": 4096,
+            }
+            prompt_l = (prompt or "").lower()
+            if ("\"detailed_description\"" in prompt) or ("\"entity_info\"" in prompt) or ("json" in prompt_l):
+                options["format"] = "json"
 
+            response = ollama.chat(model=self.text_model, messages=messages, options=options)
+            return response['message']['content']
+            
+        except Exception as e:
+            print(f"Local LLM error: {e}")
+            return f"Analysis of content: {prompt[:100]}..."
+    
+    async def local_vision_func(self, prompt: str, image_path: str = None, **kwargs) -> str:
+        """Local vision model function using LLaVA"""
+        try:
+            import importlib
+            ollama = importlib.import_module('ollama')
+            
+            if image_path and os.path.exists(image_path):
+                options = {
+                    "num_predict": 256,
+                    "temperature": 0.0,
+                    "top_p": 0.9,
+                    "repeat_penalty": 1.1,
+                    "num_ctx": 4096,
+                }
+                options["format"] = "json"
+                response = ollama.generate(model=self.vision_model, prompt=prompt, images=[image_path], options=options)
+                return response['response']
+            else:
+                options = {
+                    "num_predict": 256,
+                    "temperature": 0.0,
+                    "top_p": 0.9,
+                    "repeat_penalty": 1.1,
+                    "num_ctx": 4096,
+                }
+                options["format"] = "json"
+                response = ollama.generate(model=self.text_model, prompt=prompt, options=options)
+                return response['response']
+                
+        except Exception as e:
+            print(f"Local vision model error: {e}")
+            return f"Analysis of content: {prompt[:100]}..."        
         
 class OpenAIModelProvider:
     """Provider for OpenAI chat (text + multimodal) using gpt-4.1-mini by default"""
@@ -381,74 +416,6 @@ class OpenAIModelProvider:
             print(f"OpenAI multimodal error: {e}")
             return f"{prompt[:200]}"
 
-    async def local_llm_func(self, prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
-        """Local LLM function for text processing using LLaMA 3.1"""
-        try:
-            import importlib
-            ollama = importlib.import_module('ollama')
-            
-            messages = []
-            if system_prompt:
-                messages.append({"role": "system", "content": system_prompt})
-            
-            for msg in history_messages:
-                messages.append(msg)
-            
-            messages.append({"role": "user", "content": prompt})
-            
-            options = {
-                "num_predict": 512,
-                "temperature": 0.0,
-                "top_p": 0.9,
-                "repeat_penalty": 1.1,
-                "num_ctx": 4096,
-            }
-            # Enable JSON mode only when the prompt requests a JSON schema
-            prompt_l = (prompt or "").lower()
-            if ("\"detailed_description\"" in prompt) or ("\"entity_info\"" in prompt) or ("json" in prompt_l):
-                options["format"] = "json"
-
-            response = ollama.chat(model=self.text_model, messages=messages, options=options)
-            return response['message']['content']
-            
-        except Exception as e:
-            print(f"Local LLM error: {e}")
-            return f"Analysis of content: {prompt[:100]}..."
-    
-    async def local_vision_func(self, prompt: str, image_path: str = None, **kwargs) -> str:
-        """Local vision model function using LLaVA"""
-        try:
-            import importlib
-            ollama = importlib.import_module('ollama')
-            
-            if image_path and os.path.exists(image_path):
-                options = {
-                    "num_predict": 256,
-                    "temperature": 0.0,
-                    "top_p": 0.9,
-                    "repeat_penalty": 1.1,
-                    "num_ctx": 4096,
-                }
-                options["format"] = "json"
-
-                response = ollama.generate(model=self.vision_model, prompt=prompt, images=[image_path], options=options)
-                return response['response']
-            else:
-                options = {
-                    "num_predict": 256,
-                    "temperature": 0.0,
-                    "top_p": 0.9,
-                    "repeat_penalty": 1.1,
-                    "num_ctx": 4096,
-                }
-                options["format"] = "json"
-
-                response = ollama.generate(model=self.text_model, prompt=prompt, options=options)
-                return response['response']
-                
-        except Exception as e:
-            print(f"Local vision model error: {e}")
-            return f"Analysis of content: {prompt[:100]}..."
 
 # --------------- RAG wrapper ---------------
 

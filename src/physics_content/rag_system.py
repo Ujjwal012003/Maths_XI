@@ -280,7 +280,7 @@ class LocalModelProvider:
         # Add the required embedding_dim attribute
         embedding_func.embedding_dim = 384
         return embedding_func
-
+        
     async def local_llm_func(self, prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
         """Local LLM function for text processing using LLaMA 3.1"""
         try:
@@ -303,7 +303,6 @@ class LocalModelProvider:
                 "repeat_penalty": 1.1,
                 "num_ctx": 4096,
             }
-            # Enable JSON mode only when the prompt requests a JSON schema
             prompt_l = (prompt or "").lower()
             if ("\"detailed_description\"" in prompt) or ("\"entity_info\"" in prompt) or ("json" in prompt_l):
                 options["format"] = "json"
@@ -330,7 +329,6 @@ class LocalModelProvider:
                     "num_ctx": 4096,
                 }
                 options["format"] = "json"
-
                 response = ollama.generate(model=self.vision_model, prompt=prompt, images=[image_path], options=options)
                 return response['response']
             else:
@@ -342,13 +340,12 @@ class LocalModelProvider:
                     "num_ctx": 4096,
                 }
                 options["format"] = "json"
-
                 response = ollama.generate(model=self.text_model, prompt=prompt, options=options)
                 return response['response']
                 
         except Exception as e:
             print(f"Local vision model error: {e}")
-            return f"Analysis of content: {prompt[:100]}..."
+            return f"Analysis of content: {prompt[:100]}..."        
         
 class OpenAIModelProvider:
     """Provider for OpenAI chat (text + multimodal) using gpt-4.1-mini by default"""
@@ -418,7 +415,6 @@ class OpenAIModelProvider:
         except Exception as e:
             print(f"OpenAI multimodal error: {e}")
             return f"{prompt[:200]}"
-
 
 
 # --------------- RAG wrapper ---------------

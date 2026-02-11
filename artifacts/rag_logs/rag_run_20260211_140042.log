@@ -1,0 +1,13 @@
+[2026-02-11T14:00:42] Setting up LightRAG model functions with LOCAL MODELS...
+[2026-02-11T14:00:42] RAG-Anything initialized with LOCAL MODELS (LLaVA + LLaMA + all-MiniLM)
+[2026-02-11T14:00:42] Verifying LightRAG initialization...
+[2026-02-11T14:00:54] ✅ LightRAG successfully initialized with pipeline status
+[2026-02-11T14:00:54] ✅ LightRAG is ready for queries
+[2026-02-11T14:00:54] Start: kemh101.pdf
+[2026-02-11T14:00:54] Invoking process_document_complete(timeout=600s) for kemh101.pdf
+[2026-02-11T14:11:05] Error: kemh101.pdf -> Parsing failed: No content was extracted
+[2026-02-11T14:11:05] Start: kemh102.pdf
+[2026-02-11T14:11:05] Invoking process_document_complete(timeout=600s) for kemh102.pdf
+[2026-02-11T14:17:52] Error: kemh102.pdf -> Parsing failed: No content was extracted
+[2026-02-11T14:17:52] Start: kemh103.pdf
+[2026-02-11T14:17:52] Invoking process_document_complete(timeout=600s) for kemh103.pdf
