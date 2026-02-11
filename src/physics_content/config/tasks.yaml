@@ -1,0 +1,107 @@
+research_chapter:
+  description: >
+    Research Chapter {chapter_number}: {chapter_name} using the MathRAGTool.
+    Find all official NCERT topics, definitions, theorems, and formulas.
+     Identify distinct "Types" of problems (e.g., Type 1, Type 2).
+    Verify against the official syllabus.
+  expected_output: >
+    A comprehensive research summary of the chapter's scope, including a list of all main topics, theorems (with proofs), and classified problem types.
+  agent: research_agent
+
+create_index:
+  description: >
+    Based on the research, create a JSON Index for Chapter {chapter_number}: {chapter_name}.
+    Break the chapter into 10-15 logical sections.
+    
+    Structure the JSON exactly like this:
+    [
+      {
+        "section_number": "1.1",
+        "title": "Topic Title",
+        "subtopics": ["Definition", "Geometric Interpretation", "Standard Result"]
+      }
+    ]
+    
+    Ensure logical progression (e.g., Limits -> Derivatives).
+  expected_output: >
+    A valid JSON string list representing the chapter structure.
+  agent: content_indexer
+
+write_section:
+  description: >
+    Write the detailed content for Section {section_number}: {section_title}.
+    
+    Subtopics to cover: {subtopics}
+    
+    Use the MathRAGTool to find specific proofs, working rules, and examples.
+    
+    ⚠️ **STRICT FORMATTING MANDATE**:
+    
+    1. **Structure Hierarchy (CRITICAL - REJECTION IF VIOLATED)**:
+       - `## {section_number} {section_title}` - ONLY for main section title
+       - `### {section_number}.1 Subtopic Title` - ONLY for subsections
+       - `**Bold Text**` - For ALL highlighting INSIDE content (theorems, proofs, definitions, examples)
+       - **FORBIDDEN INSIDE CONTENT**: `#`, `##`, `###`, `####` - use `**text**` instead
+    
+    2. **MANDATORY FIGURES (Crucial)**:
+       - You MUST insert the following HTML block **IMMEDIATELY** after the `##` header AND **IMMEDIATELY** after EVERY `###` header.
+       - Do not write any intro text before the figure.
+       
+       **HTML Template to use (INSERT DIRECTLY, NO MARKDOWN FENCES)**:
+       
+       <figure style="display: flex; flex-direction: column; align-items: center;">
+       <img src="https://lh3.googleusercontent.com/d/placeholder" alt="Descriptive Alt Text" style="max-width: 90%; height: auto;">
+       <figcaption style="text-align: center; margin-top: 8px;"><i><b>Figure {section_number}.X:</b> Brief caption describing the figure</i></figcaption>
+       </figure>
+       
+       **CRITICAL: Do NOT wrap the above HTML in ```html ... ```. Write the raw HTML directly.**
+    
+    3. **Content Depth (Math Specific)**:
+       - **THEORY FIRST**: Define the concept. Give the **Geometric Interpretation** (what does it mean on a graph?).
+       - **THEOREMS**: State the Theorem (Boxed/Bold). Then provide a **Proof** with reasoning steps (e.g., "Using limit laws...").
+       - **FORMULAS**: List standard results.
+       - **WORKING RULE (Algorithm)**: Provide a Numbered List:
+         1. Step 1...
+         2. Step 2...
+         3. Step 3...
+         *Tell the student HOW to approach the problem.*
+       - **GRADED EXAMPLES (Crucial)**:
+         - **Type 1 (Basic)**: Direct formula application.
+         - **Type 2 (Conceptual)**: Requires understanding the graph/theory.
+         - **Type 3 (HOTS)**: Harder problem involving multiple concepts.
+       - **COMPLETENESS**: Do not miss special cases (e.g., "Where denominator is zero").
+    
+    4. **MATH SYNTAX - ABSOLUTE REQUIREMENT (FAILURE = REJECTION)**:
+       - **Block Equations**: Use `$$` on separate lines:
+         ```
+         $$
+         x^2 + y^2 = r^2
+         $$
+         ```
+         **FORBIDDEN**: `\[...\]` `\( \)`.
+       - **Inline Math**: Use `$ x^2 $`. **FORBIDDEN**: `\( x^2 \)`.
+       - **Matrices**: Use standard LaTeX matrix commands.
+       - **Cases**: Use standard LaTeX cases environment.
+       - **Text in Math**: Use `\text` command.
+       - **Arrows**: Use `\rightarrow` or `\implies`.
+       - **Forbidden**: Do NOT use chemical commands like `\ce`.
+    
+  expected_output: >
+    A complete, well-formatted Markdown file for this specific section, strictly following the Figure and Numbering rules.
+  agent: section_writer
+
+review_section:
+  description: >
+    Review the content created for Section {section_number}.
+    
+    **QA CHECKLIST**:
+    1. Does `## {section_number}` have a figure immediately after?
+    2. Does EVERY `###` subsection have a figure immediately after?
+    3. Is numbering correct (e.g., 10.1 -> 10.1.1)?
+    4. Are LaTeX equations valid (no `\[` or `\ce`)?
+    5. Are "Solution:" steps explicit?
+    
+    Fix any missing figures or formatting errors.
+  expected_output: >
+    The final, polished Markdown content for the section.
+  agent: reviewer

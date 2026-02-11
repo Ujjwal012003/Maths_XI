@@ -1,0 +1,7 @@
+rag_storage/lightrag/kv_store_llm_response_cache.json filter=lfs diff=lfs merge=lfs -text
+rag_storage/lightrag/vdb_relationships.json filter=lfs diff=lfs merge=lfs -text
+rag_storage/lightrag/*.json filter=lfs diff=lfs merge=lfs -text
+rag_storage/lightrag/*.graphml filter=lfs diff=lfs merge=lfs -text
+rag_storage/**/*.json filter=lfs diff=lfs merge=lfs -text
+rag_storage/**/*.graphml filter=lfs diff=lfs merge=lfs -text
+rag_storage/lightrag/graph_chunk_entity_relation.graphml filter=lfs diff=lfs merge=lfs -text

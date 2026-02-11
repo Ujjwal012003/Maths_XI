@@ -1,0 +1,116 @@
+[
+  {
+    "section_number": "2.1",
+    "title": "Introduction to Inverse Trigonometric Functions",
+    "subtopics": [
+      "Definition of Inverse Trigonometric Functions",
+      "Why Restrict Domain of Trigonometric Functions",
+      "Notation and Basic Examples"
+    ]
+  },
+  {
+    "section_number": "2.2",
+    "title": "Principal Value Branches and Domain-Range Restrictions",
+    "subtopics": [
+      "Principal Value Branch Definition",
+      "Domain and Range of Each Inverse Trigonometric Function",
+      "Monotonicity and One-to-One Property",
+      "Summary Table of Domain and Range"
+    ]
+  },
+  {
+    "section_number": "2.3",
+    "title": "Properties and Identities of Inverse Trigonometric Functions",
+    "subtopics": [
+      "Complementary Angle Identities",
+      "Symmetry and Periodicity Properties",
+      "Key Identities such as sin^-1 x + cos^-1 x = \u03c0/2",
+      "Inter-relation Formulas Among Inverse Functions"
+    ]
+  },
+  {
+    "section_number": "2.4",
+    "title": "Addition and Subtraction Formulas",
+    "subtopics": [
+      "Arctangent Addition Formula",
+      "Proof of Addition Formula for Arctangent",
+      "Usage Conditions and Examples",
+      "Other Addition and Subtraction Identities"
+    ]
+  },
+  {
+    "section_number": "2.5",
+    "title": "Graphs and Geometric Interpretation",
+    "subtopics": [
+      "Graph of sin^-1 x",
+      "Graph of cos^-1 x",
+      "Graph of tan^-1 x",
+      "Reflection Principle About y = x",
+      "Geometric Interpretation Using Right Triangles",
+      "Key Points and Asymptotes"
+    ]
+  },
+  {
+    "section_number": "2.6",
+    "title": "Derivatives of Inverse Trigonometric Functions",
+    "subtopics": [
+      "Derivative of sin^-1 x and Domain Consideration",
+      "Derivative of cos^-1 x",
+      "Derivative of tan^-1 x",
+      "Derivatives of sec^-1 x, csc^-1 x and cot^-1 x",
+      "Proofs Using Implicit Differentiation",
+      "Applications to Differentiability"
+    ]
+  },
+  {
+    "section_number": "2.7",
+    "title": "Methods of Solving Inverse Trigonometric Equations",
+    "subtopics": [
+      "Basic Solving Techniques",
+      "Using Domain and Range Restrictions",
+      "Applying Identities to Simplify Equations",
+      "Examples Involving Multiple Inverse Trig Functions"
+    ]
+  },
+  {
+    "section_number": "2.8",
+    "title": "Application-Oriented Problem Types",
+    "subtopics": [
+      "Basic Direct Evaluation Problems",
+      "Simplification Using Identities",
+      "Problems Involving Differentiation",
+      "Geometric Problems Using Inverse Trig Ratios",
+      "Inequalities Involving Inverse Trigonometric Functions"
+    ]
+  },
+  {
+    "section_number": "2.9",
+    "title": "Higher-Level Identities and Their Proofs",
+    "subtopics": [
+      "Sum and Difference Identities",
+      "Multiple Angle Formulas",
+      "Combining Inverse Trig Functions",
+      "Proof Sketches and Examples"
+    ]
+  },
+  {
+    "section_number": "2.10",
+    "title": "Inverse Trigonometric Functions in Integration and Advanced Calculus",
+    "subtopics": [
+      "Using Derivatives for Integration",
+      "Integral Formulas Involving Inverse Trig Functions",
+      "Examples of Integration Where Inverse Trig Functions Arise",
+      "Linking Inverse Trig Functions with Definite and Indefinite Integrals"
+    ]
+  },
+  {
+    "section_number": "2.11",
+    "title": "Summary and Problem Classification",
+    "subtopics": [
+      "Types of Problems to Expect",
+      "Classification Based on Difficulty and Concept Required",
+      "Tips on Approaching Problems",
+      "Summary of Key Formulas and Identities"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "section_number": "1.1",
+    "title": "Introduction to Relations",
+    "subtopics": [
+      "Definition of Relation",
+      "Cartesian Product of Sets",
+      "Representation of Relation"
+    ]
+  },
+  {
+    "section_number": "1.2",
+    "title": "Types of Relations",
+    "subtopics": [
+      "Empty Relation",
+      "Universal Relation",
+      "Reflexive Relation",
+      "Symmetric Relation",
+      "Transitive Relation",
+      "Equivalence Relation"
+    ]
+  },
+  {
+    "section_number": "1.3",
+    "title": "Functions: Basic Concepts",
+    "subtopics": [
+      "Definition of a Function",
+      "Domain, Co-domain and Range",
+      "Representation of Functions"
+    ]
+  },
+  {
+    "section_number": "1.4",
+    "title": "Types of Functions",
+    "subtopics": [
+      "One to One Function (Injective)",
+      "Onto Function (Surjective)",
+      "One to One Correspondence (Bijective)",
+      "Constant Function",
+      "Identity Function",
+      "Polynomial and Rational Functions"
+    ]
+  },
+  {
+    "section_number": "1.5",
+    "title": "Composition of Functions",
+    "subtopics": [
+      "Definition and Notation",
+      "Domain and Range of Composite Functions",
+      "Examples and Properties"
+    ]
+  },
+  {
+    "section_number": "1.6",
+    "title": "Inverse of a Function",
+    "subtopics": [
+      "Definition of Invertible Function",
+      "Conditions for Invertibility",
+      "Finding the Inverse Function"
+    ]
+  },
+  {
+    "section_number": "1.7",
+    "title": "Binary Operations",
+    "subtopics": [
+      "Definition of Binary Operation",
+      "Examples on Real Numbers",
+      "Properties of Binary Operations"
+    ]
+  },
+  {
+    "section_number": "1.8",
+    "title": "Algebra of Functions",
+    "subtopics": [
+      "Addition, Subtraction of Functions",
+      "Multiplication of Functions",
+      "Division of Functions (where defined)"
+    ]
+  },
+  {
+    "section_number": "1.9",
+    "title": "Relation between Sets and Relations",
+    "subtopics": [
+      "Relation as Subset of Cartesian Product",
+      "Domain and Range of a Relation",
+      "Inverse Relation"
+    ]
+  },
+  {
+    "section_number": "1.10",
+    "title": "Advanced Properties of Relations",
+    "subtopics": [
+      "Partial Order Relation",
+      "Total Order Relation",
+      "Equivalence Classes"
+    ]
+  },
+  {
+    "section_number": "1.11",
+    "title": "Application of Relations and Functions",
+    "subtopics": [
+      "Real Life Examples",
+      "Use in Computer Science",
+      "Graphical Interpretation"
+    ]
+  }
+]
