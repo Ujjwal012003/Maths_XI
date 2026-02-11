@@ -280,6 +280,75 @@ class LocalModelProvider:
         # Add the required embedding_dim attribute
         embedding_func.embedding_dim = 384
         return embedding_func
+
+    async def local_llm_func(self, prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
+        """Local LLM function for text processing using LLaMA 3.1"""
+        try:
+            import importlib
+            ollama = importlib.import_module('ollama')
+            
+            messages = []
+            if system_prompt:
+                messages.append({"role": "system", "content": system_prompt})
+            
+            for msg in history_messages:
+                messages.append(msg)
+            
+            messages.append({"role": "user", "content": prompt})
+            
+            options = {
+                "num_predict": 512,
+                "temperature": 0.0,
+                "top_p": 0.9,
+                "repeat_penalty": 1.1,
+                "num_ctx": 4096,
+            }
+            # Enable JSON mode only when the prompt requests a JSON schema
+            prompt_l = (prompt or "").lower()
+            if ("\"detailed_description\"" in prompt) or ("\"entity_info\"" in prompt) or ("json" in prompt_l):
+                options["format"] = "json"
+
+            response = ollama.chat(model=self.text_model, messages=messages, options=options)
+            return response['message']['content']
+            
+        except Exception as e:
+            print(f"Local LLM error: {e}")
+            return f"Analysis of content: {prompt[:100]}..."
+    
+    async def local_vision_func(self, prompt: str, image_path: str = None, **kwargs) -> str:
+        """Local vision model function using LLaVA"""
+        try:
+            import importlib
+            ollama = importlib.import_module('ollama')
+            
+            if image_path and os.path.exists(image_path):
+                options = {
+                    "num_predict": 256,
+                    "temperature": 0.0,
+                    "top_p": 0.9,
+                    "repeat_penalty": 1.1,
+                    "num_ctx": 4096,
+                }
+                options["format"] = "json"
+
+                response = ollama.generate(model=self.vision_model, prompt=prompt, images=[image_path], options=options)
+                return response['response']
+            else:
+                options = {
+                    "num_predict": 256,
+                    "temperature": 0.0,
+                    "top_p": 0.9,
+                    "repeat_penalty": 1.1,
+                    "num_ctx": 4096,
+                }
+                options["format"] = "json"
+
+                response = ollama.generate(model=self.text_model, prompt=prompt, options=options)
+                return response['response']
+                
+        except Exception as e:
+            print(f"Local vision model error: {e}")
+            return f"Analysis of content: {prompt[:100]}..."
         
 class OpenAIModelProvider:
     """Provider for OpenAI chat (text + multimodal) using gpt-4.1-mini by default"""
@@ -350,74 +419,7 @@ class OpenAIModelProvider:
             print(f"OpenAI multimodal error: {e}")
             return f"{prompt[:200]}"
 
-    async def local_llm_func(self, prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
-        """Local LLM function for text processing using LLaMA 3.1"""
-        try:
-            import importlib
-            ollama = importlib.import_module('ollama')
-            
-            messages = []
-            if system_prompt:
-                messages.append({"role": "system", "content": system_prompt})
-            
-            for msg in history_messages:
-                messages.append(msg)
-            
-            messages.append({"role": "user", "content": prompt})
-            
-            options = {
-                "num_predict": 512,
-                "temperature": 0.0,
-                "top_p": 0.9,
-                "repeat_penalty": 1.1,
-                "num_ctx": 4096,
-            }
-            # Enable JSON mode only when the prompt requests a JSON schema
-            prompt_l = (prompt or "").lower()
-            if ("\"detailed_description\"" in prompt) or ("\"entity_info\"" in prompt) or ("json" in prompt_l):
-                options["format"] = "json"
 
-            response = ollama.chat(model=self.text_model, messages=messages, options=options)
-            return response['message']['content']
-            
-        except Exception as e:
-            print(f"Local LLM error: {e}")
-            return f"Analysis of content: {prompt[:100]}..."
-    
-    async def local_vision_func(self, prompt: str, image_path: str = None, **kwargs) -> str:
-        """Local vision model function using LLaVA"""
-        try:
-            import importlib
-            ollama = importlib.import_module('ollama')
-            
-            if image_path and os.path.exists(image_path):
-                options = {
-                    "num_predict": 256,
-                    "temperature": 0.0,
-                    "top_p": 0.9,
-                    "repeat_penalty": 1.1,
-                    "num_ctx": 4096,
-                }
-                options["format"] = "json"
-
-                response = ollama.generate(model=self.vision_model, prompt=prompt, images=[image_path], options=options)
-                return response['response']
-            else:
-                options = {
-                    "num_predict": 256,
-                    "temperature": 0.0,
-                    "top_p": 0.9,
-                    "repeat_penalty": 1.1,
-                    "num_ctx": 4096,
-                }
-                options["format"] = "json"
-
-                response = ollama.generate(model=self.text_model, prompt=prompt, options=options)
-                return response['response']
-                
-        except Exception as e:
-            print(f"Local vision model error: {e}")
-            return f"Analysis of content: {prompt[:100]}..."
 
 # --------------- RAG wrapper ---------------
 
