@@ -39331,5 +39331,3150 @@
     "create_time": 1770991440,
     "update_time": 1770991440,
     "_id": "4ae6d601acd2cba27bbefe7bd2250fda"
+  },
+  "508c504c3d9d1dd8af5a95acae3c7d1e": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "MATHEMATICS ",
+        "text_level": 1,
+        "bbox": [
+          303,
+          211,
+          698,
+          241
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Textbook for Class XI ",
+        "text_level": 1,
+        "bbox": [
+          326,
+          252,
+          675,
+          280
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1ps/hybrid_auto/images/291065c018f707b77ca43821e3dd1fa60979cc85e0402fa0feaef0b037770cb0.jpg",
+        "image_caption": [
+          "11076 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          423,
+          464,
+          572,
+          568
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1ps/hybrid_auto/images/6a477dc269e91e5db47125152944187dc4471ce97d18db5501b8bf60f2fbc4c9.jpg",
+        "image_caption": [
+          "m ",
+          "NNT "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          461,
+          767,
+          534,
+          818
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Rarayy Rshokicn Aunuanshghan Aor prshiaag Pp ",
+        "bbox": [
+          198,
+          855,
+          801,
+          877
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING ",
+        "bbox": [
+          198,
+          878,
+          801,
+          897
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          967,
+          561,
+          980
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "11076 - MATHEMATICS ",
+        "text_level": 1,
+        "bbox": [
+          132,
+          149,
+          399,
+          165
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Textbook for Class XI ",
+        "bbox": [
+          130,
+          169,
+          335,
+          182
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "ISBN 81-7450-486-9 ",
+        "bbox": [
+          634,
+          157,
+          852,
+          171
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "First Edition ",
+        "text_level": 1,
+        "bbox": [
+          117,
+          206,
+          237,
+          217
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "February 2006 Phalguna 1927 ",
+        "bbox": [
+          117,
+          220,
+          391,
+          233
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Reprinted ",
+        "text_level": 1,
+        "bbox": [
+          117,
+          242,
+          209,
+          255
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "October 2006, November 2007, December 2008, December 2009, January 2011, February 2012, December 2012, November 2013, December 2014, May 2016, December 2016, December 2017, January 2019, August 2019, January 2021 and November 2021 ",
+        "bbox": [
+          115,
+          257,
+          420,
+          368
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Revised Edition ",
+        "text_level": 1,
+        "bbox": [
+          117,
+          378,
+          262,
+          390
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "November 2022 Agrahayan 1944 ",
+        "bbox": [
+          117,
+          391,
+          412,
+          404
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Reprinted ",
+        "text_level": 1,
+        "bbox": [
+          117,
+          413,
+          209,
+          426
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "March 2024 Chaitra 1946  \nJune 2024 Jyaishtha 1946  \nJanuary 2025 Pausha 1946 ",
+        "bbox": [
+          115,
+          426,
+          367,
+          467
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "PD 130T BS ",
+        "text_level": 1,
+        "bbox": [
+          117,
+          486,
+          228,
+          498
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "$\\odot$ National Council of Educational Research and Training, 2006, 2022 ",
+        "bbox": [
+          117,
+          514,
+          438,
+          542
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "ALL RIGHTS RESERVED",
+        "text_level": 1,
+        "bbox": [
+          604,
+          201,
+          782,
+          213
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher. ",
+          "This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher's consent, in any form of binding or cover other than that in which it is published. ",
+          "The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable. "
+        ],
+        "bbox": [
+          506,
+          220,
+          880,
+          347
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "OFFICES OF THE PUBLICATION ",
+        "text_level": 1,
+        "bbox": [
+          529,
+          362,
+          728,
+          372
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "DIVISION, NCERT ",
+        "text_level": 1,
+        "bbox": [
+          529,
+          375,
+          638,
+          385
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "NCERT Campus ",
+        "bbox": [
+          529,
+          394,
+          623,
+          404
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Sri Aurobindo Marg ",
+        "bbox": [
+          529,
+          404,
+          636,
+          415
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "New Delhi 110 016 ",
+        "bbox": [
+          529,
+          415,
+          636,
+          425
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Phone: 011-26562708 ",
+        "bbox": [
+          732,
+          415,
+          861,
+          425
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "108, 100 Feet Road ",
+        "bbox": [
+          529,
+          432,
+          634,
+          441
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Hosdakere Halli Extension ",
+        "bbox": [
+          529,
+          442,
+          670,
+          451
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Banashankari III Stage ",
+        "bbox": [
+          529,
+          453,
+          651,
+          463
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Bengaluru 560 085 ",
+        "bbox": [
+          529,
+          464,
+          638,
+          475
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Phone:080-26725740 ",
+        "bbox": [
+          732,
+          463,
+          858,
+          473
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Navjivan Trust Building ",
+        "bbox": [
+          529,
+          485,
+          655,
+          495
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "P.O.Navjivan ",
+        "bbox": [
+          529,
+          495,
+          600,
+          505
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Ahmedabad 380 014 ",
+        "bbox": [
+          529,
+          505,
+          645,
+          514
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Phone: 079-27541446 ",
+        "bbox": [
+          732,
+          505,
+          858,
+          514
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "CWC Campus ",
+        "bbox": [
+          529,
+          521,
+          611,
+          532
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Opp. Dhankal Bus Stop ",
+        "bbox": [
+          529,
+          533,
+          653,
+          543
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Panihati ",
+        "bbox": [
+          529,
+          543,
+          574,
+          552
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Kolkata 700 114 ",
+        "bbox": [
+          529,
+          554,
+          621,
+          562
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Phone: 033-25530454 ",
+        "bbox": [
+          732,
+          554,
+          858,
+          562
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "CWC Complex ",
+        "bbox": [
+          529,
+          571,
+          611,
+          581
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Maligaon ",
+        "bbox": [
+          529,
+          581,
+          583,
+          592
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Guwahati 781 021 ",
+        "bbox": [
+          529,
+          592,
+          628,
+          600
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Phone: 0361-2674869 ",
+        "bbox": [
+          732,
+          592,
+          858,
+          600
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "₹170.00 ",
+        "bbox": [
+          115,
+          666,
+          202,
+          679
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Printed on 80 GSM paper with NCERT watermark ",
+        "bbox": [
+          117,
+          736,
+          444,
+          763
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Manipal Technologies Limited, Udayavani Building, Press Corner, Manipal, Karnataka-576104 ",
+        "bbox": [
+          115,
+          773,
+          459,
+          872
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Publication Team ",
+        "text_level": 1,
+        "bbox": [
+          500,
+          641,
+          660,
+          654
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Head, Publication : M. V. Srinivasan Division ",
+        "bbox": [
+          500,
+          663,
+          854,
+          691
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Chief Editor :Biban Sutar ",
+        "bbox": [
+          500,
+          698,
+          807,
+          713
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Chief Production : Jahan Lal ",
+        "bbox": [
+          500,
+          717,
+          794,
+          730
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Officer (In charge) ",
+        "bbox": [
+          500,
+          732,
+          658,
+          745
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Chief Business : Amitabh Kumar Manager ",
+        "bbox": [
+          500,
+          752,
+          844,
+          780
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Assistant Production : Sayuraj A.R. Officer ",
+        "bbox": [
+          500,
+          786,
+          814,
+          812
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Cover and Layout ",
+        "bbox": [
+          608,
+          834,
+          775,
+          847
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Arvinder Chawla ",
+        "bbox": [
+          619,
+          849,
+          764,
+          859
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          967,
+          561,
+          980
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Foreword ",
+        "text_level": 1,
+        "bbox": [
+          418,
+          207,
+          576,
+          233
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The National Curriculum Framework (NCF), 2005, recommends that children's life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986). ",
+        "bbox": [
+          119,
+          271,
+          873,
+          454
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge. ",
+        "bbox": [
+          119,
+          457,
+          873,
+          619
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children's life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavour by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience. ",
+        "bbox": [
+          119,
+          621,
+          873,
+          843
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The National Council of Educational Research and Training (NCERT) appreciates the hard work done by the Textbook Development Committee responsible for this ",
+        "bbox": [
+          119,
+          846,
+          871,
+          885
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "book. We wish to thank the Chairperson of the advisory group in Science and Mathematics, Professor J.V. Narlikar and the Chief Advisor for this book Professor P.K. Jain for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G.P. Deshpande, for their valuable time and contribution. As an organisation committed to the systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement. ",
+        "bbox": [
+          121,
+          138,
+          873,
+          402
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Director ",
+        "bbox": [
+          792,
+          445,
+          873,
+          460
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "New Delhi ",
+        "bbox": [
+          123,
+          464,
+          226,
+          480
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "20 December 2005 ",
+        "bbox": [
+          123,
+          486,
+          299,
+          502
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "National Council of Educational ",
+        "bbox": [
+          583,
+          464,
+          873,
+          482
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Research and Training ",
+        "bbox": [
+          662,
+          486,
+          873,
+          504
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "page_number",
+        "text": "iv ",
+        "bbox": [
+          493,
+          896,
+          512,
+          909
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Rationalisation of Content in the Textbooks ",
+        "text_level": 1,
+        "bbox": [
+          158,
+          207,
+          835,
+          233
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise. ",
+        "bbox": [
+          119,
+          271,
+          873,
+          381
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Contents of the textbooks have been rationalised in view of the following: ",
+        "text_level": 1,
+        "bbox": [
+          121,
+          391,
+          871,
+          413
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "- Overlapping with similar content included in other subject areas in the same class ",
+          "- Similar content included in the lower or higher class in the same subject ",
+          "- Difficulty level ",
+          "- Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning ",
+          "- Content, which is irrelevant in the present context "
+        ],
+        "bbox": [
+          149,
+          428,
+          871,
+          599
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "This present edition, is a reformatted version after carrying out the changes given above. ",
+        "bbox": [
+          121,
+          612,
+          873,
+          654
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "THE CONSTITUTION OF INDIA ",
+        "text_level": 1,
+        "bbox": [
+          292,
+          250,
+          702,
+          296
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "PREAMBLE ",
+        "text_level": 1,
+        "bbox": [
+          405,
+          309,
+          591,
+          331
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a $^{1}$ [SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens: ",
+        "bbox": [
+          232,
+          347,
+          764,
+          448
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "JUSTICE, social, economic and political; ",
+        "bbox": [
+          267,
+          457,
+          762,
+          498
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "LIBERTY of thought, expression, belief, faith and worship; ",
+        "bbox": [
+          269,
+          502,
+          762,
+          545
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "EQUALITY of status and of opportunity; and to promote among them all ",
+        "bbox": [
+          269,
+          549,
+          760,
+          592
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; ",
+        "bbox": [
+          269,
+          597,
+          764,
+          659
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION. ",
+        "bbox": [
+          232,
+          665,
+          764,
+          745
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_footnote",
+        "text": "1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for \"Sovereign Democratic Republic\" (w.e.f. 3.1.1977) ",
+        "bbox": [
+          232,
+          755,
+          762,
+          779
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_footnote",
+        "text": "2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for \"Unity of the Nation\" (w.e.f. 3.1.1977) ",
+        "bbox": [
+          232,
+          779,
+          760,
+          802
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Textbook Development Committee ",
+        "text_level": 1,
+        "bbox": [
+          220,
+          207,
+          779,
+          235
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "CHAIRPERSON, ADVISORY GROUP IN SCIENCE AND MATHEMATICS ",
+        "bbox": [
+          100,
+          273,
+          673,
+          289
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "J.V. Narlikar, Emeritus Professor, Chairman, Advisory Committee Inter University Centre for Astronomy & Astrophysics (IUCCA), Ganeshkhind, Pune University, Pune ",
+        "bbox": [
+          100,
+          290,
+          880,
+          331
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "CHIEF ADVISOR ",
+        "bbox": [
+          100,
+          340,
+          245,
+          356
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "P.K. Jain, Professor, Department of Mathematics, University of Delhi, Delhi ",
+        "bbox": [
+          100,
+          361,
+          786,
+          378
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "CHIEF COORDINATOR ",
+        "bbox": [
+          100,
+          388,
+          294,
+          404
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Hukum Singh, Professor, DESM, NCERT, New Delhi ",
+        "bbox": [
+          100,
+          412,
+          587,
+          429
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "MEMBERS ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          441,
+          192,
+          456
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "A.K. Rajput, Associate Professor, RIE Bhopal, M.P. ",
+        "bbox": [
+          100,
+          461,
+          566,
+          480
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "A.K. Wazalwar, Associate Professor, DESM NCERT, New Delhi ",
+        "bbox": [
+          100,
+          486,
+          683,
+          504
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "B.S.P. Raju, Professor, RIE Mysore, Karnataka ",
+        "bbox": [
+          100,
+          511,
+          525,
+          529
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "C.R. Pradeep, Assistant Professor, Department of Mathematics, Indian Institute of Science, Bangalore, Karnataka. ",
+        "bbox": [
+          98,
+          536,
+          899,
+          573
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Pradeepto Hore, Sr. Maths Master, Sarla Birla Academy Bangalore, Karnataka. ",
+        "bbox": [
+          100,
+          581,
+          805,
+          600
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "S.B. Tripathy, Lecturer, Rajkiya Pratibha Vikas Vidyalaya, Surajmal Vihar, Delhi. ",
+        "bbox": [
+          100,
+          606,
+          820,
+          625
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "S.K.S. Gautam, Professor, DESM, NCERT, New Delhi ",
+        "bbox": [
+          100,
+          631,
+          600,
+          647
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Sanjay Kumar Sinha, P.G.T., Sanskriti School Chanakyapuri, New Delhi. ",
+        "bbox": [
+          100,
+          654,
+          758,
+          673
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Sanjay Mudgal, Lecturer, CIET, New Delhi ",
+        "bbox": [
+          100,
+          679,
+          491,
+          698
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Sneha Titus, Maths Teacher, Aditi Mallya School Yelaharika, Bangalore, Karnataka ",
+        "bbox": [
+          100,
+          704,
+          841,
+          723
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Sujatha Verma, Reader in Mathematics, IGNOU, New Delhi. ",
+        "bbox": [
+          100,
+          730,
+          651,
+          750
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Uaday Singh, Lecturer, DESM, NCERT, New Delhi. ",
+        "bbox": [
+          100,
+          755,
+          570,
+          773
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "MEMBER-COORDINATOR ",
+        "bbox": [
+          100,
+          786,
+          311,
+          801
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "V.P. Singh, Associate Professor, DESM, NCERT, New Delhi ",
+        "bbox": [
+          100,
+          809,
+          647,
+          827
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+          361,
+          206,
+          619,
+          229
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The Council gratefully acknowledges the valuable contributions of the following participants of the Textbook Review Workshop: P. Bhaskar Kumar, P.G.T., Jawahar Navodaya Vidyalaya, Ananthpur, (A.P.); Vinayak Bujade, Lecturer, Vidarbha Buniyadi Junior College, Sakkardara Chowk Nagpur, Maharashtra; Vandita Kalra, Lecturer, Sarvodaya Kanya Vidyalaya Vikashpuri District Centre, New Delhi; P.L. Sachdeva Deptt. of Mathematics, Indian Institute of Science, Bangalore, Karnataka; P.K. Tiwari Assistant Commissioner (Retd.), Kendriya Vidyalaya Sangathan; Jagdish Saran, Department of Statistics, University of Delhi; Quddus Khan, Lecturer, Shibli National P.G. College Azamgarh (U.P.); Sumat Kumar Jain, Lecturer, K.L. Jain Inter College Sasni Hathras (U.P.); R.P. Gihare, Lecturer (BRC), Janpad Shiksha Kendra Chicholi Distt. Betul (M.P.); Sangeeta Arora, P.G.T., A.P.J. School Saket, New Delhi; P.N. Malhotra, ADE (Sc.), Directorate of Education, Delhi; D.R. Sharma, P.G.T., J.N.V. Mungespur, Delhi; Saroj, P.G.T. Government Girls Sr. Secondary School, No. 1, Roop Nagar, Delhi, Manoj Kumar Thakur, P.G.T., D.A.V. Public School, Rajender Nagar, Sahibabad, Ghaziabad (U.P.) and R.P. Maurya, Reader, DESM, NCERT, New Delhi. ",
+        "bbox": [
+          113,
+          250,
+          869,
+          595
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Acknowledgements are due to Professor M. Chandra, Head, Department of Education in Science and Mathematics for her support. ",
+        "bbox": [
+          113,
+          600,
+          869,
+          641
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The Council acknowledges the efforts of the Computer Incharge, Deepak Kapoor; Rakesh Kumar, Kamlesh Rao and Sajjad Haider Ansari, D.T.P. Operators; Kushal Pal Singh Yadav, Copy Editor and Proof Readers, Mukhtar Hussain and Kanwar Singh. ",
+        "bbox": [
+          113,
+          644,
+          865,
+          706
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The contribution of APC-Office, administration of DESM and Publication Department is also duly acknowledged. ",
+        "bbox": [
+          113,
+          709,
+          865,
+          751
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "bbox": [
+          461,
+          207,
+          585,
+          229
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Foreword iii Rationalisation of Content in the Textbooks ",
+        "bbox": [
+          149,
+          251,
+          895,
+          290
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "1. Sets 1 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          302,
+          895,
+          318
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1.1 Introduction 1 ",
+          "1.2 Sets and their Representations 1 ",
+          "1.3 The Empty Set 5 ",
+          "1.4 Finite and Infinite Sets 6 ",
+          "1.5 Equal Sets 7 ",
+          "1.6 Subsets 9 ",
+          "1.7 Universal Set 12 ",
+          "1.8 Venn Diagrams 13 ",
+          "1.9 Operations on Sets 13 ",
+          "1.10 Complement of a Set 18 "
+        ],
+        "bbox": [
+          151,
+          326,
+          895,
+          557
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "2. Relations and Functions 24 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          571,
+          895,
+          587
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "2.1 Introduction 24 ",
+          "2.2 Cartesian Product of Sets 24 ",
+          "2.3 Relations 28 ",
+          "2.4 Functions 30 "
+        ],
+        "bbox": [
+          149,
+          596,
+          895,
+          684
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "3. Trigonometric Functions 43 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          698,
+          895,
+          717
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "3.1 Introduction 43 ",
+          "3.2 Angles 43 ",
+          "3.3 Trigonometric Functions 49 ",
+          "3.4 Trigonometric Functions of Sum and Difference of Two Angles 57 "
+        ],
+        "bbox": [
+          149,
+          723,
+          895,
+          812
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "4. Complex Numbers and Quadratic Equations 76 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          826,
+          895,
+          845
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "4.1 Introduction 76 ",
+          "4.2 Complex Numbers 76 "
+        ],
+        "bbox": [
+          149,
+          850,
+          895,
+          890
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "4.3 Algebra of Complex Numbers 77 ",
+          "4.4 The Modulus and the Conjugate of a Complex Number 81 ",
+          "4.5 Argand Plane and Polar Representation 83 "
+        ],
+        "bbox": [
+          147,
+          138,
+          899,
+          203
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "5. Linear Inequalities 89 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          214,
+          899,
+          233
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "5.1 Introduction 89 ",
+          "5.2 Inequalities 89 ",
+          "5.3 Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation 91 "
+        ],
+        "bbox": [
+          149,
+          239,
+          899,
+          323
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "6. Permutations and Combinations 100 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          334,
+          899,
+          352
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "6.1 Introduction 100 ",
+          "6.2 Fundamental Principle of Counting 100 ",
+          "6.3 Permutations 104 ",
+          "6.4 Combinations 114 "
+        ],
+        "bbox": [
+          149,
+          359,
+          899,
+          445
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "7. Binomial Theorem 126 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          459,
+          899,
+          476
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "7.1 Introduction 126 ",
+          "7.2 Binomial Theorem for Positive Integral Indices 126 "
+        ],
+        "bbox": [
+          149,
+          482,
+          899,
+          523
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "8. Sequences and Series 135 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          536,
+          899,
+          552
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "8.1 Introduction 135 ",
+          "8.2 Sequences 135 ",
+          "8.3 Series 137 ",
+          "8.4 Geometric Progression (G.P.) 139 ",
+          "8.5 Relationship Between A.M. and G.M. 144 "
+        ],
+        "bbox": [
+          149,
+          559,
+          899,
+          666
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "9. Straight Lines 151 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          678,
+          899,
+          695
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "9.1 Introduction 151 ",
+          "9.2 Slope of a Line 152 ",
+          "9.3 Various Forms of the Equation of a Line 159 ",
+          "9.4 Distance of a Point From a Line 164 "
+        ],
+        "bbox": [
+          149,
+          701,
+          899,
+          786
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "10. Conic Sections 176 ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          798,
+          899,
+          815
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "10.1 Introduction 176 ",
+          "10.2 Sections of a Cone 176 ",
+          "10.3 Circle 179 "
+        ],
+        "bbox": [
+          149,
+          824,
+          899,
+          890
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "page_number",
+        "text": "X ",
+        "bbox": [
+          495,
+          899,
+          510,
+          909
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "10.4 Parabola 182 ",
+          "10.5 Ellipse 187 ",
+          "10.6 Hyperbola 195 "
+        ],
+        "bbox": [
+          153,
+          138,
+          897,
+          204
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "11. Introduction to Three Dimensional Geometry 208 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          217,
+          897,
+          236
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "11.1 Introduction 208 ",
+          "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space 209 ",
+          "11.3 Coordinates of a Point in Space 209 ",
+          "11.4 Distance between Two Points 211 "
+        ],
+        "bbox": [
+          153,
+          242,
+          897,
+          352
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "12. Limits and Derivatives 217 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          366,
+          897,
+          383
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "12.1 Introduction 217 ",
+          "12.2 Intuitive Idea of Derivatives 217 ",
+          "12.3 Limits 220 ",
+          "12.4 Limits of Trigonometric Functions 234 ",
+          "12.5 Derivatives 239 "
+        ],
+        "bbox": [
+          153,
+          391,
+          897,
+          502
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "13. Statistics 257 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          517,
+          897,
+          533
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "13.1 Introduction 257 ",
+          "13.2 Measures of Dispersion 259 ",
+          "13.3 Range 259 ",
+          "13.4 Mean Deviation 259 ",
+          "13.5 Variance and Standard Deviation 271 "
+        ],
+        "bbox": [
+          153,
+          543,
+          897,
+          653
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "14. Probability 289 ",
+        "text_level": 1,
+        "bbox": [
+          100,
+          666,
+          897,
+          685
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "14.1 Event 289 ",
+          "14.2 Axiomatic Approach to Probability 295 "
+        ],
+        "bbox": [
+          153,
+          691,
+          897,
+          730
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Appendix 1: Infinite Series 314 ",
+        "text_level": 1,
+        "bbox": [
+          151,
+          742,
+          897,
+          761
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "A.1.1 Introduction 314 ",
+          "A.1.2 Binomial Theorem for any Index 314 ",
+          "A.1.3 Infinite Geometric Series 316 ",
+          "A.1.4 Exponential Series 318 ",
+          "A.1.5 Logarithmic Series 321 "
+        ],
+        "bbox": [
+          153,
+          767,
+          897,
+          872
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "page_number",
+        "text": "xi ",
+        "bbox": [
+          493,
+          896,
+          512,
+          910
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Appendix 2: Mathematical Modelling 323 ",
+        "text_level": 1,
+        "bbox": [
+          94,
+          138,
+          891,
+          157
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "A.2.1 Introduction 323 ",
+          "A.2.2 Preliminaries 323 ",
+          "A.2.3 What is Mathematical Modelling 327 "
+        ],
+        "bbox": [
+          145,
+          160,
+          893,
+          217
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Answers 335 ",
+        "text_level": 1,
+        "bbox": [
+          145,
+          229,
+          893,
+          245
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Supplementary Material 357 ",
+        "text_level": 1,
+        "bbox": [
+          145,
+          255,
+          893,
+          274
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "page_number",
+        "text": "xii ",
+        "bbox": [
+          489,
+          894,
+          514,
+          910
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 11
+      }
+    ],
+    "doc_id": "doc-8694c3be9cf1c35f13ceb2903236ddc4",
+    "mtime": 1770964101.0,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1770994930.5942295,
+    "cache_version": "1.0",
+    "create_time": 1770994930,
+    "update_time": 1770994930,
+    "_id": "508c504c3d9d1dd8af5a95acae3c7d1e"
+  },
+  "5a1ffd54648ba23172abb4f3c593fe9b": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "SUPPLEMENTARY MATERIAL ",
+        "text_level": 1,
+        "bbox": [
+          217,
+          143,
+          775,
+          166
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "CHAPTER 8 ",
+        "text_level": 1,
+        "bbox": [
+          420,
+          250,
+          572,
+          267
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "8.6 Infinite G.P. and its Sum ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          290,
+          438,
+          311
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "G.P. of the form $a, ar, ar^2, ar^3, \\ldots$ is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. ",
+        "bbox": [
+          94,
+          321,
+          897,
+          362
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Let us consider the G.P., ",
+        "bbox": [
+          132,
+          365,
+          367,
+          383
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\n1, \\frac {2}{3}, \\frac {4}{9}, \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          175,
+          393,
+          316,
+          434
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Here $a = 1, r = \\frac{2}{3}$ . We have ",
+        "bbox": [
+          96,
+          447,
+          425,
+          486
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} = \\frac {1 - \\left(\\frac {2}{3}\\right) ^ {n}}{1 - \\frac {2}{3}} = 3 \\left[ 1 - \\left(\\frac {2}{3}\\right) ^ {n} \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+          175,
+          505,
+          448,
+          584
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Let us study the behaviour of $\\left(\\frac{2}{3}\\right)^n$ as $n$ becomes larger and larger: ",
+        "bbox": [
+          96,
+          603,
+          737,
+          640
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/Maths_XI/output/kemh1sm/hybrid_auto/images/c0c5ecc9e70d8f75095022470b1aed7336bbe21e76323b3be1f34e450b5b7e26.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>n</td><td>1</td><td>5</td><td>10</td><td>20</td></tr><tr><td>\\(\\left(\\frac{2}{3}\\right)^n\\)</td><td>0.6667</td><td>0.1316872428</td><td>0.01734152992</td><td>0.00030072866</td></tr></table>",
+        "bbox": [
+          98,
+          654,
+          897,
+          732
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "We observe that as $n$ becomes larger and larger, $\\left(\\frac{2}{3}\\right)^n$ becomes closer and closer to zero. Mathematically, we say that as $n$ becomes sufficiently large, $\\left(\\frac{2}{3}\\right)^n$ becomes sufficiently small. In other words as $n \\to \\infty$ , $\\left(\\frac{2}{3}\\right)^n \\to 0$ . Consequently, we find that the sum of infinitely many terms is given by $S_{\\infty} = 3$ . ",
+        "bbox": [
+          94,
+          754,
+          897,
+          904
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Now, for a geometric progression, $a, ar, ar^2, \\ldots$ , if numerical value of common ratio $r$ is less than 1, then ",
+        "bbox": [
+          96,
+          128,
+          899,
+          166
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} = \\frac {a (1 - r ^ {n})}{(1 - r)} = \\frac {a}{1 - r} - \\frac {a r ^ {n}}{1 - r}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          348,
+          176,
+          643,
+          217
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "In this case as $n\\to \\infty$ , $r^n\\to 0$ since $|r| < 1$ . Therefore ",
+        "bbox": [
+          96,
+          223,
+          604,
+          242
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} \\rightarrow \\frac {a}{1 - r}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          405,
+          255,
+          514,
+          290
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Symbolically sum to infinity is denoted by $S_{\\infty}$ or $S$ . ",
+        "bbox": [
+          96,
+          302,
+          568,
+          321
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Thus, we have $S = \\frac{a}{1 - r}$ . ",
+        "bbox": [
+          96,
+          333,
+          324,
+          362
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "For examples, ",
+        "bbox": [
+          96,
+          369,
+          232,
+          387
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(i) $1 + \\frac{1}{2} + \\frac{1}{2^2} + \\frac{1}{2^3} + \\ldots = \\frac{1}{1 - \\frac{1}{2}} = 2.$ ",
+        "bbox": [
+          175,
+          397,
+          621,
+          454
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(ii) $1 - \\frac{1}{2} + \\frac{1}{2^2} - \\frac{1}{2^3} + \\dots = \\frac{1}{1 - \\left(\\frac{-1}{2}\\right)} = \\frac{1}{1 + \\frac{1}{2}} = \\frac{2}{3}$ ",
+        "bbox": [
+          175,
+          470,
+          790,
+          530
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Exercise 8.3 ",
+        "text_level": 1,
+        "bbox": [
+          423,
+          570,
+          572,
+          589
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Find the sum to infinity in each of the following Geometric Progression. ",
+        "bbox": [
+          96,
+          619,
+          767,
+          640
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "1. $1, \\frac{1}{3}, \\frac{1}{9}, \\ldots$ ",
+        "bbox": [
+          100,
+          647,
+          256,
+          685
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 1.5) ",
+        "bbox": [
+          320,
+          657,
+          418,
+          676
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "2. 6, 1.2, .24, ... ",
+        "bbox": [
+          497,
+          657,
+          655,
+          676
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 7.5) ",
+        "bbox": [
+          713,
+          657,
+          811,
+          676
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "3. $5, \\frac{20}{7}, \\frac{80}{49}, \\ldots$ ",
+        "bbox": [
+          98,
+          700,
+          277,
+          738
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(Ans. $\\frac{35}{3}$ ) ",
+        "bbox": [
+          320,
+          701,
+          420,
+          736
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "4. $\\frac{-3}{4}, \\frac{3}{16}, \\frac{-3}{64}, \\ldots$ ",
+        "bbox": [
+          497,
+          698,
+          675,
+          739
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(Ans. $\\frac{-3}{5}$ ) ",
+        "bbox": [
+          713,
+          701,
+          814,
+          736
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "5. Prove that $3^{\\frac{1}{2}} \\times 3^{\\frac{1}{4}} \\times 3^{\\frac{1}{8}} \\dots = 3$ ",
+        "bbox": [
+          98,
+          750,
+          467,
+          777
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "6. Let $x = 1 + a + a^2 + \\ldots$ and $y = 1 + b + b^2 + \\ldots$ , where $|a| < 1$ and $|b| < 1$ . Prove that ",
+        "bbox": [
+          96,
+          783,
+          897,
+          802
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\n1 + a b + a ^ {2} b ^ {2} + \\dots = \\frac {x y}{x + y - 1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          173,
+          815,
+          467,
+          858
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "page_number",
+        "text": "358 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "CHAPTER 12 ",
+        "text_level": 1,
+        "bbox": [
+          414,
+          128,
+          579,
+          147
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "12.6 Limits Involving Exponential and Logarithmic Functions ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          171,
+          846,
+          192
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Before discussing evaluation of limits of the expressions involving exponential and logarithmic functions, we introduce these two functions stating their domain, range and also sketch their graphs roughly. ",
+        "bbox": [
+          96,
+          201,
+          899,
+          257
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number $e$ whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as $f(x) = e^{x}, x \\in \\mathbf{R}$ . Its domain is $\\mathbf{R}$ , range is the set of positive real numbers. The graph of exponential function, i.e., $y = e^{x}$ is as given in Fig.13.11. ",
+        "bbox": [
+          94,
+          258,
+          899,
+          336
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1sm/hybrid_auto/images/4983b9133e16fbaffd410954469751d5ba299aa68d2e5734fb4b2dc64fb2494a.jpg",
+        "image_caption": [
+          "Fig. 13.11 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          324,
+          358,
+          709,
+          625
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Similarly, the logarithmic function expressed as $\\log_e\\mathbf{R}^+\\to \\mathbf{R}$ is given by $\\log_{e}x = y$ if and only if $e^y = x$ . Its domain is $\\mathbf{R}^+$ which is the set of all positive real numbers and range is $\\mathbf{R}$ . The graph of logarithmic function $y = \\log_{e}x$ is shown in Fig.13.12. ",
+        "bbox": [
+          94,
+          679,
+          899,
+          739
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "header",
+        "text": "SUPPLEMENTARY MATERIAL ",
+        "bbox": [
+          579,
+          103,
+          826,
+          116
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "page_number",
+        "text": "359 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1sm/hybrid_auto/images/140e9599d074ebc2beca12105e7ad4533144f88b12480a555e9c33e0d34c1dc5.jpg",
+        "image_caption": [
+          "Fig. 13.12 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          288,
+          154,
+          747,
+          464
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "In order to prove the result $\\lim_{x\\to 0}\\frac{e^x - 1}{x} = 1$ , we make use of an inequality involving the expression $\\frac{e^x - 1}{x}$ which runs as follows: ",
+        "bbox": [
+          96,
+          529,
+          899,
+          619
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{1 + | x |} \\leq \\frac {e ^ {x} - 1}{x} \\leq 1 + (e - 2) | x | \\text {h o l d s f o r a l l} x \\text {i n} [ - 1, 1 ] \\sim \\{0 \\}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          98,
+          633,
+          724,
+          679
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Theorem 6 Prove that $\\lim_{x\\to 0}\\frac{e^x - 1}{x} = 1$ ",
+        "bbox": [
+          96,
+          692,
+          470,
+          725
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Proof Using above inequality, we get ",
+        "bbox": [
+          96,
+          730,
+          457,
+          750
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{1 + | x |} \\leq \\frac {e ^ {x} - 1}{x} \\leq 1 + | x | (e - 2), x \\hat {1} [ - 1, 1 ] \\sim \\{0 \\}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          175,
+          758,
+          681,
+          805
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Also $\\lim_{x\\to 0}\\frac{1}{1 + |x|} = \\frac{1}{1 + \\lim_{x\\to 0}|x|} = \\frac{1}{1 + 0} = 1$ ",
+        "bbox": [
+          96,
+          818,
+          525,
+          864
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "page_number",
+        "text": "360 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "and $\\lim_{x\\to 0}\\left[1 + (e - 2)\\left|x\\right|\\right] = 1 + (e - 2)\\lim_{x\\to 0}\\left|x\\right| = 1 + (e - 2)0 = 1$ ",
+        "bbox": [
+          96,
+          135,
+          741,
+          163
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Therefore, by Sandwich theorem, we get ",
+        "bbox": [
+          96,
+          165,
+          489,
+          184
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {x \\rightarrow 0} \\frac {e ^ {x} - 1}{x} = 1\n$$",
+        "text_format": "latex",
+        "bbox": [
+          175,
+          192,
+          322,
+          229
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Theorem 7 Prove that $\\lim_{x\\to 0}\\frac{\\log_e(1 + x)}{x} = 1$ ",
+        "bbox": [
+          96,
+          241,
+          529,
+          282
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Proof Let $\\frac{\\log_e(1 + x)}{x} = y$ . Then ",
+        "bbox": [
+          96,
+          293,
+          478,
+          336
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\log_ {e} (1 + x) = x y \\\\ \\Rightarrow 1 + x = e ^ {x y} \\\\ \\Rightarrow \\frac {e ^ {x y} - 1}{x} = 1 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          252,
+          345,
+          442,
+          450
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "or $\\frac{e^{xy} - 1}{xy} \\cdot y = 1$ ",
+        "bbox": [
+          96,
+          463,
+          380,
+          510
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\Rightarrow \\lim  _ {x y \\rightarrow 0} \\frac {e ^ {x y} - 1}{x y} \\lim  _ {x \\rightarrow 0} y = 1 (\\text {s i n c e} x \\rightarrow 0 \\text {g i v e s} x y \\rightarrow 0) \\\\ \\Rightarrow \\lim  _ {x \\rightarrow 0} y = 1 \\left(\\text {a s} \\lim  _ {x y \\rightarrow 0} \\frac {e ^ {x y} - 1}{x y} = 1\\right) \\\\ \\Rightarrow \\lim  _ {x \\rightarrow 0} \\frac {\\log_ {e} (1 + x)}{x} = 1 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          254,
+          524,
+          826,
+          668
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Example 5 Compute $\\lim_{x \\to 0} \\frac{e^{3x} - 1}{x}$ ",
+        "bbox": [
+          96,
+          698,
+          463,
+          738
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Solution We have ",
+        "bbox": [
+          96,
+          742,
+          284,
+          760
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\lim  _ {x \\rightarrow 0} \\frac {e ^ {3 x} - 1}{x} = \\lim  _ {3 x \\rightarrow 0} \\frac {e ^ {3 x} - 1}{3 x} \\cdot 3 \\\\ = 3 \\left(\\lim  _ {y \\rightarrow 0} \\frac {e ^ {y} - 1}{y}\\right), \\quad \\text {w h e r e} y = 3 x \\\\ = 3. 1 = 3 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          252,
+          774,
+          617,
+          888
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "header",
+        "text": "SUPPLEMENTARY MATERIAL ",
+        "bbox": [
+          579,
+          103,
+          826,
+          116
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "page_number",
+        "text": "361 ",
+        "bbox": [
+          869,
+          103,
+          895,
+          116
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Example 6 Compute $\\lim_{x\\to 0}\\frac{e^x - \\sin x - 1}{x}$ ",
+        "bbox": [
+          96,
+          138,
+          467,
+          176
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution We have $\\lim_{x\\to 0}\\frac{e^x - \\sin x - 1}{x} = \\lim_{x\\to 0}\\left[\\frac{e^x - 1}{x} -\\frac{\\sin x}{x}\\right]$ ",
+        "bbox": [
+          96,
+          188,
+          641,
+          235
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\lim  _ {x \\rightarrow 0} \\frac {e ^ {x} - 1}{x} - \\lim  _ {x \\rightarrow 0} \\frac {\\sin x}{x} = 1 - 1 = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          254,
+          250,
+          555,
+          288
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 7 Evaluate $\\lim_{x\\to 1}\\frac{\\log_{e}x}{x - 1}$ ",
+        "bbox": [
+          96,
+          299,
+          425,
+          334
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution Put $x = 1 + h$ , then as $x \\to 1 \\Rightarrow h \\to 0$ . Therefore, ",
+        "bbox": [
+          96,
+          340,
+          717,
+          359
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {x \\rightarrow 1} \\frac {\\log_ {e} x}{x - 1} = \\lim  _ {h \\rightarrow 0} \\frac {\\log_ {e} (1 + h)}{h} = 1 \\left(\\text {s i n c e} \\lim  _ {x \\rightarrow 0} \\frac {\\log_ {e} (1 + x)}{x} = 1\\right).\n$$",
+        "text_format": "latex",
+        "bbox": [
+          252,
+          366,
+          824,
+          409
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Exercise 13.2 ",
+        "text_level": 1,
+        "bbox": [
+          414,
+          469,
+          581,
+          489
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Evaluate the following limits, if exist ",
+        "bbox": [
+          96,
+          517,
+          440,
+          538
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "1. $\\lim_{x\\to 0}\\frac{e^{4x} - 1}{x}$ ",
+        "bbox": [
+          98,
+          545,
+          271,
+          586
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 4) ",
+        "bbox": [
+          356,
+          555,
+          442,
+          578
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "2. $\\lim_{x\\to 0}\\frac{e^{2 + x} - e^2}{x}$ ",
+        "bbox": [
+          510,
+          545,
+          711,
+          584
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. $e^2$ ) ",
+        "bbox": [
+          799,
+          557,
+          891,
+          578
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "3. $\\lim_{x\\to 5}\\frac{e^x - e^5}{x - 5}$ ",
+        "bbox": [
+          96,
+          597,
+          279,
+          638
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. $e^5$ ) ",
+        "bbox": [
+          356,
+          609,
+          448,
+          630
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "4. $\\lim_{x\\to 0}\\frac{e^{\\sin x} - 1}{x}$ ",
+        "bbox": [
+          510,
+          599,
+          713,
+          638
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 1) ",
+        "bbox": [
+          799,
+          609,
+          882,
+          630
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "5. $\\lim_{x\\to 3}\\frac{e^x - e^3}{x - 3}$ ",
+        "bbox": [
+          96,
+          650,
+          279,
+          691
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. $e^3$ ) ",
+        "bbox": [
+          356,
+          662,
+          448,
+          682
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "6. $\\lim_{x\\to 0}\\frac{x(e^x - 1)}{1 - \\cos x}$ ",
+        "bbox": [
+          510,
+          652,
+          715,
+          691
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 2) ",
+        "bbox": [
+          799,
+          663,
+          882,
+          682
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "7. $\\lim_{x\\to 0}\\frac{\\log_e(1 + 2x)}{x}$ ",
+        "bbox": [
+          96,
+          706,
+          320,
+          744
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 2) ",
+        "bbox": [
+          356,
+          716,
+          440,
+          736
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "8. $\\lim_{x\\to 0}\\frac{\\log\\left(1 + x^3\\right)}{\\sin^3x}$ ",
+        "bbox": [
+          510,
+          703,
+          747,
+          744
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(Ans. 1) ",
+        "bbox": [
+          799,
+          716,
+          882,
+          736
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_number",
+        "text": "362 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "header",
+        "text": "Notes ",
+        "bbox": [
+          450,
+          131,
+          544,
+          154
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          967,
+          561,
+          980
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1sm/hybrid_auto/images/f6085f7c9905103ef74163fc5192099ac43c8f92df101c5efdd43c32874ee5c6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          106,
+          143,
+          893,
+          878
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          967,
+          561,
+          980
+        ],
+        "page_idx": 7
+      }
+    ],
+    "doc_id": "doc-06746c5c44cb5c764e9c0f77920ca31e",
+    "mtime": 1770964101.0,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1770996394.956979,
+    "cache_version": "1.0",
+    "create_time": 1770996394,
+    "update_time": 1770996394,
+    "_id": "5a1ffd54648ba23172abb4f3c593fe9b"
   }
 }
