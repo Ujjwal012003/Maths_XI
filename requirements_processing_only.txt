@@ -1,0 +1,29 @@
+# --- Core Utilities ---
+python-dotenv>=1.0.0
+pydantic>=2,<3
+numpy>=1.24.0
+tqdm>=4.65.0
+loguru>=0.7.0
+tiktoken>=0.5.0           # CRITICAL: Required for token counting
+aiohttp>=3.9,<4           # CRITICAL: Required for async networking
+
+# --- RAG & Embeddings (LightRAG) ---
+lightrag-hku==1.4.7
+ollama>=0.1.6
+openai>=1.0.0
+nano-vectordb>=0.0.4
+networkx>=3.0
+
+# --- PDF Processing & MinerU (magic-pdf) ---
+pypdf>=3.0.0
+pdfminer.six>=20221105
+magic-pdf[full]>=0.6.2    # MinerU core for high-quality PDF parsing
+opencv-python>=4.8.0      
+pillow>=10.0.0            
+
+# --- Deep Learning Utilities ---
+transformers>=4.30.0      # Required by many PDF layout models
+accelerate>=0.20.0        # Optimizes model loading
+torch>=2.0.0              # (Install GPU version manually first!)
+torchvision>=0.15.0
+numexpr>=2.8.4
