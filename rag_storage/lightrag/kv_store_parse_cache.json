@@ -21517,5 +21517,6493 @@
     "create_time": 1770976573,
     "update_time": 1770976573,
     "_id": "d017edc923e009a62e581a3e289c25a1"
+  },
+  "c5b55a1487f02c186687131d94e18ddb": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "text_level": 1,
+        "bbox": [
+          126,
+          198,
+          876,
+          226
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Every body of discovery is mathematical in form because there is no other guidance we can have - DARWIN ",
+        "bbox": [
+          141,
+          290,
+          854,
+          333
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "6.1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          359,
+          279,
+          378
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Suppose you have a suitcase with a number lock. The number lock has 4 wheels each labelled with 10 digits from 0 to 9. The lock can be opened if 4 specific digits are arranged in a particular sequence with no repetition. Some how, you have forgotten this specific sequence of digits. You remember only the first digit which is 7. In order to open the lock, how many sequences of 3-digits you may have to check with? To answer this question, you may, immediately, start listing all possible arrangements of 9 remaining digits taken 3 at a time. But, this method will be tedious, because the number of possible sequences may be large. Here, in this Chapter, we shall learn some basic counting techniques which will ",
+        "bbox": [
+          96,
+          387,
+          655,
+          652
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/0950bd1660cfbc49897baa8024507a7553567b92af779d9ba0832f055c642263.jpg",
+        "image_caption": [
+          "Jacob Bernoulli (1654-1705) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          673,
+          387,
+          910,
+          597
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "enable us to answer this question without actually listing 3-digit arrangements. In fact, these techniques will be useful in determining the number of different ways of arranging and selecting objects without actually listing them. As a first step, we shall examine a principle which is most fundamental to the learning of these techniques. ",
+        "bbox": [
+          94,
+          654,
+          899,
+          742
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "6.2 Fundamental Principle of Counting ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          761,
+          517,
+          780
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Let us consider the following problem. Mohan has 3 pants and 2 shirts. How many different pairs of a pant and a shirt, can he dress up with? There are 3 ways in which a pant can be chosen, because there are 3 pants available. Similarly, a shirt can be chosen in 2 ways. For every choice of a pant, there are 2 choices of a shirt. Therefore, there are $3 \\times 2 = 6$ pairs of a pant and a shirt. ",
+        "bbox": [
+          94,
+          788,
+          899,
+          897
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "日",
+        "bbox": [
+          506,
+          52,
+          658,
+          154
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "11076CH07 ",
+        "bbox": [
+          555,
+          156,
+          613,
+          166
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "Chapter ",
+        "bbox": [
+          702,
+          138,
+          816,
+          163
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+          841,
+          125,
+          876,
+          160
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Let us name the three pants as $\\mathrm{P}_1, \\mathrm{P}_2, \\mathrm{P}_3$ and the two shirts as $\\mathrm{S}_1, \\mathrm{S}_2$ . Then, these six possibilities can be illustrated in the Fig. 6.1. ",
+        "bbox": [
+          98,
+          138,
+          897,
+          176
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Let us consider another problem of the same type. ",
+        "bbox": [
+          98,
+          179,
+          467,
+          219
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Sabnam has 2 school bags, 3 tiffin boxes and 2 water bottles. In how many ways can she carry these items (choosing one each). ",
+        "bbox": [
+          98,
+          220,
+          467,
+          298
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "A school bag can be chosen in 2 different ways. After a school bag is chosen, a tiffin box can be chosen in 3 different ways. Hence, there are $2 \\times 3 = 6$ pairs of school bag and a tiffin box. For each of these pairs a water bottle can be chosen in 2 different ways. ",
+        "bbox": [
+          96,
+          301,
+          467,
+          441
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/e16e90e7a1d172ea9fbd0d343aecfe5372347f0ba7cd8d1462aa3bc87e9e8081.jpg",
+        "image_caption": [
+          "Fig 6.1 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          478,
+          179,
+          897,
+          419
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Hence, there are $6 \\times 2 = 12$ different ways in which, Sabnam can carry these items to school. If we name the 2 school bags as $\\mathrm{B}_1, \\mathrm{B}_2$ , the three tiffin boxes as $\\mathrm{T}_1, \\mathrm{T}_2, \\mathrm{T}_3$ and the two water bottles as $\\mathrm{W}_1, \\mathrm{W}_2$ , these possibilities can be illustrated in the Fig. 6.2. ",
+        "bbox": [
+          96,
+          442,
+          899,
+          505
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/aa44ebacc2494fe270d18ac962815fd6f5c84a921ea059846ab6f6bd7e1ff93b.jpg",
+        "image_caption": [
+          "Fig 6.2 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          222,
+          507,
+          767,
+          866
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "page_number",
+        "text": "101 ",
+        "bbox": [
+          873,
+          102,
+          899,
+          115
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "In fact, the problems of the above types are solved by applying the following principle known as the fundamental principle of counting, or, simply, the multiplication principle, which states that ",
+        "bbox": [
+          94,
+          140,
+          899,
+          198
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "\"If an event can occur in $m$ different ways, following which another event can occur in $n$ different ways, then the total number of occurrence of the events in the given order is $m \\times n$ . ",
+        "bbox": [
+          94,
+          201,
+          899,
+          260
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The above principle can be generalised for any finite number of events. For example, for 3 events, the principle is as follows: ",
+        "bbox": [
+          94,
+          261,
+          899,
+          302
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "'If an event can occur in $m$ different ways, following which another event can occur in $n$ different ways, following which a third event can occur in $p$ different ways, then the total number of occurrence to 'the events in the given order is $m \\times n \\times p$ .' ",
+        "bbox": [
+          94,
+          305,
+          899,
+          366
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "In the first problem, the required number of ways of wearing a pant and a shirt was the number of different ways of the occurrence of the following events in succession: ",
+        "bbox": [
+          94,
+          368,
+          899,
+          407
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) the event of choosing a pant ",
+          "(ii) the event of choosing a shirt. "
+        ],
+        "bbox": [
+          160,
+          415,
+          489,
+          454
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "In the second problem, the required number of ways was the number of different ways of the occurrence of the following events in succession: ",
+        "bbox": [
+          94,
+          460,
+          899,
+          498
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) the event of choosing a school bag ",
+          "(ii) the event of choosing a tiffin box ",
+          "(iii) the event of choosing a water bottle. "
+        ],
+        "bbox": [
+          155,
+          505,
+          559,
+          565
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Here, in both the cases, the events in each problem could occur in various possible orders. But, we have to choose any one of the possible orders and count the number of different ways of the occurrence of the events in this chosen order. ",
+        "bbox": [
+          94,
+          571,
+          899,
+          631
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Example 1 Find the number of 4 letter words, with or without meaning, which can be formed out of the letters of the word ROSE, where the repetition of the letters is not allowed. ",
+        "bbox": [
+          94,
+          641,
+          899,
+          701
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Solution There are as many words as there are ways of filling in 4 vacant places ",
+        "bbox": [
+          94,
+          711,
+          899,
+          732
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "□□□□by the 4 letters, keeping in mind that the repetition is not allowed. The first place can be filled in 4 different ways by anyone of the 4 letters R,O,S,E. Following which, the second place can be filled in by anyone of the remaining 3 letters in 3 different ways, following which the third place can be filled in 2 different ways; following which, the fourth place can be filled in 1 way. Thus, the number of ways in which the 4 places can be filled, by the multiplication principle, is $4 \\times 3 \\times 2 \\times 1 = 24$ . Hence, the required number of words is 24. ",
+        "bbox": [
+          94,
+          736,
+          899,
+          896
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "page_number",
+        "text": "102 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          114
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          297,
+          115
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Note If the repetition of the letters was allowed, how many words can be formed? ",
+        "bbox": [
+          106,
+          143,
+          886,
+          163
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "One can easily understand that each of the 4 vacant places can be filled in succession in 4 different ways. Hence, the required number of words $= 4 \\times 4 \\times 4 \\times 4 = 256$ . ",
+        "bbox": [
+          106,
+          166,
+          884,
+          206
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Example 2 Given 4 flags of different colours, how many different signals can be generated, if a signal requires the use of 2 flags one below the other? ",
+        "bbox": [
+          96,
+          223,
+          895,
+          263
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Solution There will be as many signals as there are ways of filling in 2 vacant places ",
+        "bbox": [
+          96,
+          273,
+          895,
+          293
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "in succession by the 4 flags of different colours. The upper vacant place can ",
+        "bbox": [
+          96,
+          296,
+          895,
+          334
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "be filled in 4 different ways by anyone of the 4 flags; following which, the lower vacant place can be filled in 3 different ways by anyone of the remaining 3 different flags. ",
+        "bbox": [
+          96,
+          337,
+          895,
+          377
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Hence, by the multiplication principle, the required number of signals $= 4 \\times 3 = 12$ . ",
+        "bbox": [
+          96,
+          378,
+          869,
+          397
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Example 3 How many 2 digit even numbers can be formed from the digits 1, 2, 3, 4, 5 if the digits can be repeated? ",
+        "bbox": [
+          96,
+          407,
+          895,
+          447
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Solution There will be as many ways as there are ways of filling 2 vacant places ",
+        "bbox": [
+          96,
+          456,
+          895,
+          476
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "in succession by the five given digits. Here, in this case, we start filling in unit's ",
+        "bbox": [
+          96,
+          483,
+          895,
+          511
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "place, because the options for this place are 2 and 4 only and this can be done in 2 ways; following which the ten's place can be filled by any of the 5 digits in 5 different ways as the digits can be repeated. Therefore, by the multiplication principle, the required number of two digits even numbers is $2 \\times 5$ , i.e., 10. ",
+        "bbox": [
+          96,
+          514,
+          895,
+          593
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Example 4 Find the number of different signals that can be generated by arranging at least 2 flags in order (one below the other) on a vertical staff, if five different flags are available. ",
+        "bbox": [
+          96,
+          603,
+          895,
+          663
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Solution A signal can consist of either 2 flags, 3 flags, 4 flags or 5 flags. Now, let us count the possible number of signals consisting of 2 flags, 3 flags, 4 flags and 5 flags separately and then add the respective numbers. ",
+        "bbox": [
+          94,
+          673,
+          895,
+          733
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "There will be as many 2 flag signals as there are ways of filling in 2 vacant places ",
+        "bbox": [
+          96,
+          736,
+          895,
+          755
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "in succession by the 5 flags available. By Multiplication rule, the number of ways is $5 \\times 4 = 20$ . ",
+        "bbox": [
+          96,
+          760,
+          899,
+          818
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Similarly, there will be as many 3 flag signals as there are ways of filling in 3 ",
+        "bbox": [
+          96,
+          818,
+          895,
+          840
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "vacant places in succession by the 5 flags. ",
+        "bbox": [
+          96,
+          845,
+          596,
+          888
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "page_number",
+        "text": "103 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          115
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "The number of ways is $5 \\times 4 \\times 3 = 60$ . ",
+        "bbox": [
+          96,
+          138,
+          463,
+          157
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Continuing the same way, we find that ",
+        "bbox": [
+          96,
+          160,
+          463,
+          178
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "The number of 4 flag signals $= 5 \\times 4 \\times 3 \\times 2 = 120$ ",
+        "bbox": [
+          188,
+          182,
+          673,
+          200
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "and the number of 5 flag signals $= 5\\times 4\\times 3\\times 2\\times 1 = 120$ ",
+        "bbox": [
+          96,
+          204,
+          707,
+          222
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required no of signals $= 20 + 60 + 120 + 120 = 320$ ",
+        "bbox": [
+          96,
+          225,
+          743,
+          244
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "EXERCISE 6.1 ",
+        "text_level": 1,
+        "bbox": [
+          412,
+          261,
+          585,
+          283
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "1. How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 assuming that ",
+        "bbox": [
+          96,
+          295,
+          899,
+          334
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) repetition of the digits is allowed? ",
+          "(ii) repetition of the digits is not allowed? "
+        ],
+        "bbox": [
+          147,
+          342,
+          551,
+          383
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "2. How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the digits can be repeated? ",
+          "3. How many 4-letter code can be formed using the first 10 letters of the English alphabet, if no letter can be repeated? ",
+          "4. How many 5-digit telephone numbers can be constructed using the digits 0 to 9 if each number starts with 67 and no digit appears more than once? ",
+          "5. A coin is tossed 3 times and the outcomes are recorded. How many possible outcomes are there? ",
+          "6. Given 5 flags of different colours, how many different signals can be generated if each signal requires the use of 2 flags, one below the other? "
+        ],
+        "bbox": [
+          96,
+          388,
+          899,
+          600
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "6.3 Permutations ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          611,
+          294,
+          630
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "In Example 1 of the previous Section, we are actually counting the different possible arrangements of the letters such as ROSE, REOS, ..., etc. Here, in this list, each arrangement is different from other. In other words, the order of writing the letters is important. Each arrangement is called a permutation of 4 different letters taken all at a time. Now, if we have to determine the number of 3-letter words, with or without meaning, which can be formed out of the letters of the word NUMBER, where the repetition of the letters is not allowed, we need to count the arrangements NUM, NMU, MUN, NUB, ..., etc. Here, we are counting the permutations of 6 different letters taken 3 at a time. The required number of words $= 6 \\times 5 \\times 4 = 120$ (by using multiplication principle). ",
+        "bbox": [
+          94,
+          638,
+          901,
+          852
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "If the repetition of the letters was allowed, the required number of words would be $6 \\times 6 \\times 6 = 216$ . ",
+        "bbox": [
+          94,
+          855,
+          899,
+          893
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "page_number",
+        "text": "104 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          114
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          297,
+          115
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Definition 1 A permutation is an arrangement in a definite order of a number of objects taken some or all at a time. ",
+        "bbox": [
+          96,
+          138,
+          899,
+          176
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "In the following sub-section, we shall obtain the formula needed to answer these questions immediately. ",
+        "bbox": [
+          96,
+          179,
+          899,
+          217
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "6.3.1 Permutations when all the objects are distinct ",
+        "text_level": 1,
+        "bbox": [
+          98,
+          229,
+          623,
+          247
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Theorem 1 The number of permutations of $n$ different objects taken $r$ at a time, where $0 < r \\leq n$ and the objects do not repeat is $n(n - 1)(n - 2)\\ldots (n - r + 1)$ which is denoted by ${}^n\\mathrm{P}_r$ . ",
+        "bbox": [
+          96,
+          258,
+          897,
+          318
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Proof There will be as many permutations as there are ways of filling in $r$ vacant ",
+        "bbox": [
+          98,
+          327,
+          897,
+          346
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "places $\\square$ $\\square$ $\\square$ .by ",
+        "bbox": [
+          98,
+          349,
+          463,
+          380
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\leftarrow r \\text {v a c a n t p l a c e s} \\rightarrow\n$$",
+        "text_format": "latex",
+        "bbox": [
+          162,
+          385,
+          371,
+          404
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "the $n$ objects. The first place can be filled in $n$ ways; following which, the second place can be filled in $(n - 1)$ ways, following which the third place can be filled in $(n - 2)$ ways,..., the $r$ th place can be filled in $(n - (r - 1))$ ways. Therefore, the number of ways of filling in $r$ vacant places in succession is $n(n - 1)(n - 2)\\ldots (n - (r - 1))$ or $n(n - 1)(n - 2)\\ldots (n - r + 1)$ ",
+        "bbox": [
+          96,
+          409,
+          899,
+          508
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "This expression for ${}^n\\mathrm{P}_r$ is cumbersome and we need a notation which will help to reduce the size of this expression. The symbol $n!$ (read as factorial $n$ or $n$ factorial) comes to our rescue. In the following text we will learn what actually $n!$ means. ",
+        "bbox": [
+          96,
+          511,
+          899,
+          571
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "6.3.2 Factorial notation The notation $n!$ represents the product of first $n$ natural numbers, i.e., the product $1 \\times 2 \\times 3 \\times \\ldots \\times (n - 1) \\times n$ is denoted as $n!$ . We read this symbol as ' $n$ factorial'. Thus, $1 \\times 2 \\times 3 \\times 4 \\ldots \\times (n - 1) \\times n = n!$ ",
+        "bbox": [
+          96,
+          581,
+          897,
+          640
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} 1 = 1! \\\\ 1 \\times 2 = 2! \\\\ 1 \\times 2 \\times 3 = 3! \\\\ 1 \\times 2 \\times 3 \\times 4 = 4! \\text {a n d s o o n}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          222,
+          641,
+          500,
+          720
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "We define $0! = 1$ ",
+        "bbox": [
+          98,
+          729,
+          269,
+          745
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "We can write $5! = 5 \\times 4! = 5 \\times 4 \\times 3! = 5 \\times 4 \\times 3 \\times 2!$ ",
+        "bbox": [
+          98,
+          752,
+          655,
+          770
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 5 \\times 4 \\times 3 \\times 2 \\times 1!\n$$",
+        "text_format": "latex",
+        "bbox": [
+          279,
+          773,
+          472,
+          789
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Clearly, for a natural number $n$ ",
+        "bbox": [
+          98,
+          793,
+          393,
+          811
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} n! = n (n - 1)! \\\\ = n (n - 1) (n - 2)! \\quad [ \\text {p r o v i d e d} (n \\geq 2) ] \\\\ = n (n - 1) (n - 2) (n - 3)! \\quad [ \\text {p r o v i d e d} (n \\geq 3) ] \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          241,
+          814,
+          818,
+          874
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "and so on. ",
+        "bbox": [
+          98,
+          875,
+          198,
+          891
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_number",
+        "text": "105 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          112
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 5 Evaluate (i) 5! (ii) 7! (iii) $7! - 5!$ ",
+        "bbox": [
+          94,
+          138,
+          670,
+          160
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution (i) $5! = 1 \\times 2 \\times 3 \\times 4 \\times 5 = 120$ ",
+        "bbox": [
+          94,
+          168,
+          523,
+          187
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "(ii) $7! = 1\\times 2\\times 3\\times 4\\times 5\\times 6\\times 7 = 5040$ ",
+        "bbox": [
+          213,
+          188,
+          602,
+          207
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "and (iii) $7! - 5! = 5040 - 120 = 4920.$ ",
+        "bbox": [
+          94,
+          209,
+          557,
+          229
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Example 6 Compute (i) $\\frac{7!}{5!}$ (ii) $\\frac{12!}{(10!)(2!)}$ ",
+        "bbox": [
+          94,
+          238,
+          529,
+          283
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution (i) We have $\\frac{7!}{5!} = \\frac{7 \\times 6 \\times 5!}{5!} = 7 \\times 6 = 42$ ",
+        "bbox": [
+          94,
+          298,
+          626,
+          342
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "and (ii) $\\frac{12!}{(10!)(2!)} = \\frac{12 \\times 11 \\times (10!)}{(10!) \\times (2)} = 6 \\times 11 = 66.$ ",
+        "bbox": [
+          94,
+          359,
+          655,
+          407
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Example 7 Evaluate $\\frac{n!}{r!(n - r)!}$ , when $n = 5$ , $r = 2$ . ",
+        "bbox": [
+          94,
+          423,
+          585,
+          467
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution We have to evaluate $\\frac{5!}{2!(5 - 2)!}$ (since $n = 5, r = 2$ ) ",
+        "bbox": [
+          94,
+          485,
+          711,
+          530
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "We have $\\frac{5!}{2!(5 - 2)!} = \\frac{5!}{2!\\times 3!} = \\frac{5\\times 4}{2} = 10.$ ",
+        "bbox": [
+          94,
+          545,
+          568,
+          587
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Example 8 If $\\frac{1}{8!} + \\frac{1}{9!} = \\frac{x}{10!}$ , find $x$ . ",
+        "bbox": [
+          94,
+          606,
+          478,
+          646
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution We have $\\frac{1}{8!} + \\frac{1}{9 \\times 8!} = \\frac{x}{10 \\times 9 \\times 8!}$ ",
+        "bbox": [
+          94,
+          665,
+          500,
+          706
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Therefore $1 + \\frac{1}{9} = \\frac{x}{10 \\times 9}$ or $\\frac{10}{9} = \\frac{x}{10 \\times 9}$ ",
+        "bbox": [
+          94,
+          725,
+          508,
+          764
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "So $x = 100.$ ",
+        "bbox": [
+          94,
+          771,
+          297,
+          788
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "EXERCISE 6.2 ",
+        "text_level": 1,
+        "bbox": [
+          412,
+          802,
+          581,
+          821
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "1. Evaluate ",
+        "bbox": [
+          96,
+          833,
+          232,
+          850
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "(i) 8! ",
+        "bbox": [
+          147,
+          853,
+          202,
+          872
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "(ii) $4! - 3!$ ",
+        "bbox": [
+          399,
+          853,
+          510,
+          872
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "page_number",
+        "text": "106 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          114
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          100,
+          297,
+          115
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "2. Is $3! + 4! = 7!$ ? ",
+        "bbox": [
+          96,
+          149,
+          326,
+          181
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "3. Compute $\\frac{8!}{6! \\times 2!}$ ",
+        "bbox": [
+          405,
+          147,
+          591,
+          188
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "4. If $\\frac{1}{6!} + \\frac{1}{7!} = \\frac{x}{8!}$ , find $x$ ",
+        "bbox": [
+          636,
+          147,
+          878,
+          187
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "5. Evaluate $\\frac{n!}{(n - r)!}$ , when ",
+        "bbox": [
+          96,
+          207,
+          384,
+          250
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "(i) $n = 6, r = 2$ ",
+        "bbox": [
+          149,
+          261,
+          290,
+          280
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "(ii) $n = 9, r = 5$ . ",
+        "bbox": [
+          405,
+          263,
+          555,
+          280
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "6.3.3 Derivation of the formula for \"P ",
+        "bbox": [
+          96,
+          292,
+          493,
+          312
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { P } _ { r } = \\frac { n ! } { ( n - r ) ! } , 0 \\leq r \\leq n\n$$",
+        "text_format": "latex",
+        "bbox": [
+          254,
+          321,
+          489,
+          366
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Let us now go back to the stage where we had determined the following formula: ",
+        "bbox": [
+          96,
+          372,
+          865,
+          393
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { P } _ { r } = n ( n - 1 ) ( n - 2 ) \\dots ( n - r + 1 )\n$$",
+        "text_format": "latex",
+        "bbox": [
+          277,
+          397,
+          649,
+          418
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Multiplying numerator and denominator by $(n - r)(n - r - 1)\\ldots 3\\times 2\\times 1$ , we get ",
+        "bbox": [
+          96,
+          423,
+          878,
+          442
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { P } _ { r } = \\frac { n ( n - 1 ) ( n - 2 ) \\dots ( n - r + 1 ) ( n - r ) ( n - r - 1 ) \\dots 3 \\times 2 \\times 1 } { ( n - r ) ( n - r - 1 ) \\dots 3 \\times 2 \\times 1 } = \\frac { n ! } { ( n - r ) ! } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+          158,
+          451,
+          844,
+          502
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Thus ",
+        "bbox": [
+          96,
+          517,
+          523,
+          561
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "This is a much more convenient expression for ${}^n\\mathrm{P}_r$ than the previous one. ",
+        "bbox": [
+          96,
+          568,
+          788,
+          589
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "In particular, when $r = n$ , $n^{\\mathrm{P}_n} = \\frac{n!}{0!} = n!$ ",
+        "bbox": [
+          96,
+          597,
+          470,
+          637
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Counting permutations is merely counting the number of ways in which some or all objects at a time are rearranged. Arranging no object at all is the same as leaving behind all the objects and we know that there is only one way of doing so. Thus, we can have ",
+        "bbox": [
+          94,
+          643,
+          899,
+          720
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { P } _ { 0 } = 1 = \\frac { n ! } { n ! } = \\frac { n ! } { ( n - 0 ) ! } \\tag {1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          215,
+          732,
+          822,
+          773
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the formula (1) is applicable for $r = 0$ also. ",
+        "bbox": [
+          96,
+          802,
+          606,
+          821
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Thus ",
+        "bbox": [
+          96,
+          831,
+          459,
+          875
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "page_number",
+        "text": "107 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          112
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Theorem 2 The number of permutations of $n$ different objects taken $r$ at a time, where repetition is allowed, is $n^r$ . ",
+        "bbox": [
+          96,
+          138,
+          897,
+          176
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Proof is very similar to that of Theorem 1 and is left for the reader to arrive at. ",
+        "bbox": [
+          145,
+          179,
+          891,
+          197
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Here, we are solving some of the problems of the pervious Section using the formula for ${}^n\\mathrm{P}_r$ to illustrate its usefulness. ",
+        "bbox": [
+          96,
+          198,
+          897,
+          238
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "In Example 1, the required number of words $= {}^{4}\\mathrm{P}_{4} = 4! = 24$ . Here repetition is not allowed. If repetition is allowed, the required number of words would be $4^{4} = 256$ . ",
+        "bbox": [
+          94,
+          239,
+          897,
+          279
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The number of 3-letter words which can be formed by the letters of the word ",
+        "bbox": [
+          145,
+          280,
+          897,
+          299
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "NUMBER $= \\mathrm{^6P_3} = \\frac{6!}{3!} = 4\\times 5\\times 6 = 120.$ Here, in this case also, the repetition is not allowed. If the repetition is allowed, the required number of words would be $6^{3} = 216$ ",
+        "bbox": [
+          94,
+          311,
+          897,
+          378
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The number of ways in which a Chairman and a Vice-Chairman can be chosen from amongst a group of 12 persons assuming that one person can not hold more than ",
+        "bbox": [
+          96,
+          381,
+          897,
+          421
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "one position, clearly $^{12}\\mathrm{P}_2 = \\frac{12!}{10!} = 11 \\times 12 = 132$ . ",
+        "bbox": [
+          96,
+          431,
+          551,
+          470
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "6.3.4 Permutations when all the objects are not distinct objects Suppose we have to find the number of ways of rearranging the letters of the word ROOT. In this case, the letters of the word are not all different. There are 2 Os, which are of the same kind. Let us treat, temporarily, the 2 Os as different, say, $\\mathrm{O}_1$ and $\\mathrm{O}_2$ . The number of permutations of 4-different letters, in this case, taken all at a time is 4!. Consider one of these permutations say, $\\mathrm{RO}_1\\mathrm{O}_2\\mathrm{T}$ . Corresponding to this permutation, we have 2! permutations $\\mathrm{RO}_1\\mathrm{O}_2\\mathrm{T}$ and $\\mathrm{RO}_2\\mathrm{O}_1\\mathrm{T}$ which will be exactly the same permutation if $\\mathrm{O}_1$ and $\\mathrm{O}_2$ are not treated as different, i.e., if $\\mathrm{O}_1$ and $\\mathrm{O}_2$ are the same O at both places. ",
+        "bbox": [
+          94,
+          489,
+          897,
+          672
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of permutations $= \\frac{4!}{2!} = 3 \\times 4 = 12$ . ",
+        "bbox": [
+          96,
+          682,
+          741,
+          722
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Permutations when $\\mathrm{O}_1, \\mathrm{O}_2$ are different. ",
+        "bbox": [
+          96,
+          732,
+          388,
+          770
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Permutations when $\\mathrm{O}_1, \\mathrm{O}_2$ are the same O. ",
+        "bbox": [
+          525,
+          732,
+          814,
+          770
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\left. \\begin{array}{c} \\mathrm {R O} _ {1} \\mathrm {O} _ {2} \\mathrm {T} \\\\ \\mathrm {R O} _ {2} \\mathrm {O} _ {1} \\mathrm {T} \\end{array} \\right] \\quad \\longrightarrow \\quad \\mathrm {R O O T} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          207,
+          780,
+          794,
+          831
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\mathrm {T O} _ {1} \\mathrm {O} _ {2} \\mathrm {R} \\\\ \\mathrm {T O} _ {2} \\mathrm {O} _ {1} \\mathrm {R} \\end{array} \\longrightarrow \\quad \\mathrm {T O O R}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          207,
+          842,
+          792,
+          891
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "page_number",
+        "text": "108 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          115
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/5a0f7a8769f2f9b1b32cc1355f6fa570dc39c6a53d1b35bdf5bb0731eff4851d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          181,
+          141,
+          811,
+          760
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Let us now find the number of ways of rearranging the letters of the word INSTITUTE. In this case there are 9 letters, in which I appears 2 times and T appears 3 times. ",
+        "bbox": [
+          94,
+          770,
+          899,
+          828
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Temporarily, let us treat these letters different and name them as $\\mathrm{I}_1, \\mathrm{I}_2, \\mathrm{T}_1, \\mathrm{T}_2, \\mathrm{T}_3$ . The number of permutations of 9 different letters, in this case, taken all at a time is 9!. Consider one such permutation, say, $\\mathrm{I}_1 \\mathrm{NT}_1 \\mathrm{SI}_2 \\mathrm{T}_2 \\mathrm{U} \\mathrm{E} \\mathrm{T}_3$ . Here if $\\mathrm{I}_1, \\mathrm{I}_2$ are not same ",
+        "bbox": [
+          94,
+          830,
+          899,
+          894
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "page_number",
+        "text": "109 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          112
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "and $\\mathrm{T}_{1}, \\mathrm{T}_{2}, \\mathrm{T}_{3}$ are not same, then $\\mathrm{I}_{1}, \\mathrm{I}_{2}$ can be arranged in 2! ways and $\\mathrm{T}_{1}, \\mathrm{T}_{2}, \\mathrm{T}_{3}$ can be arranged in 3! ways. Therefore, $2! \\times 3!$ permutations will be just the same permutation corresponding to this chosen permutation $\\mathrm{I}_{1} \\mathrm{NT}_{1} \\mathrm{SI}_{2} \\mathrm{T}_{2} \\mathrm{UET}_{3}$ . Hence, total number of different permutations will be $\\frac{9!}{2!3!}$ ",
+        "bbox": [
+          96,
+          138,
+          901,
+          251
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "We can state (without proof) the following theorems: ",
+        "bbox": [
+          147,
+          258,
+          649,
+          277
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Theorem 3 The number of permutations of $n$ objects, where $p$ objects are of the same kind and rest are all different $= \\frac{n!}{p!}$ . ",
+        "bbox": [
+          96,
+          288,
+          899,
+          361
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "In fact, we have a more general theorem. ",
+        "bbox": [
+          147,
+          368,
+          544,
+          387
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Theorem 4 The number of permutations of $n$ objects, where $p_1$ objects are of one kind, $p_2$ are of second kind, ..., $p_k$ are of $k^{\\text{th}}$ kind and the rest, if any, are of different kind is $\\frac{n!}{p_1! p_2! \\cdots p_k!}$ . ",
+        "bbox": [
+          96,
+          397,
+          899,
+          491
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Example 9 Find the number of permutations of the letters of the word ALLAHABAD. ",
+        "bbox": [
+          96,
+          505,
+          897,
+          524
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Solution Here, there are 9 objects (letters) of which there are 4A's, 2 L's and rest are all different. ",
+        "bbox": [
+          96,
+          535,
+          897,
+          571
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of arrangements $= \\frac{9!}{4!2!} = \\frac{5 \\times 6 \\times 7 \\times 8 \\times 9}{2} = 7560$ ",
+        "bbox": [
+          96,
+          584,
+          869,
+          625
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Example 10 How many 4-digit numbers can be formed by using the digits 1 to 9 if repetition of digits is not allowed? ",
+        "bbox": [
+          96,
+          644,
+          899,
+          682
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Solution Here order matters for example 1234 and 1324 are two different numbers. Therefore, there will be as many 4 digit numbers as there are permutations of 9 different digits taken 4 at a time. ",
+        "bbox": [
+          96,
+          692,
+          899,
+          752
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required 4 digit numbers $= {}^{9}\\mathrm{P}_{4} = \\frac{9!}{(9 - 4)!} = \\frac{9!}{5!} = 9 \\times 8 \\times 7 \\times 6 = 3024$ . ",
+        "bbox": [
+          96,
+          763,
+          897,
+          808
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Example 11 How many numbers lying between 100 and 1000 can be formed with the digits 0, 1, 2, 3, 4, 5, if the repetition of the digits is not allowed? ",
+        "bbox": [
+          96,
+          824,
+          897,
+          862
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Solution Every number between 100 and 1000 is a 3-digit number. We, first, have to ",
+        "bbox": [
+          96,
+          872,
+          897,
+          893
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "page_number",
+        "text": "110 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          114
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          297,
+          115
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "count the permutations of 6 digits taken 3 at a time. This number would be $^6\\mathrm{P}_3$ . But, these permutations will include those also where 0 is at the 100's place. For example, 092, 042, . . ., etc are such numbers which are actually 2-digit numbers and hence the number of such numbers has to be subtracted from $^6\\mathrm{P}_3$ to get the required number. To get the number of such numbers, we fix 0 at the 100's place and rearrange the remaining 5 digits taking 2 at a time. This number is $^5\\mathrm{P}_2$ . So ",
+        "bbox": [
+          94,
+          141,
+          901,
+          282
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "The required number $= {}^{6}\\mathrm{P}_{3} - {}^{5}\\mathrm{P}_{2} = \\frac{6!}{3!} -\\frac{5!}{3!}$ ",
+        "bbox": [
+          96,
+          290,
+          542,
+          331
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 4 \\times 5 \\times 6 - 4 \\times 5 = 1 0 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          341,
+          343,
+          589,
+          358
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Example 12 Find the value of $n$ such that ",
+        "bbox": [
+          96,
+          371,
+          502,
+          388
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "(i) ${}^n\\mathrm{P}_5 = 42{}^n\\mathrm{P}_3, n > 4$ ",
+        "bbox": [
+          194,
+          418,
+          414,
+          438
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "(ii) $\\frac{{}^n\\mathrm{P}_4}{{}^{n - 1}\\mathrm{P}_4} = \\frac{5}{3},n > 4$ ",
+        "bbox": [
+          523,
+          403,
+          726,
+          445
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Solution (i) Given that ",
+        "bbox": [
+          96,
+          461,
+          326,
+          480
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { ~ P } _ { 5 } = 4 2 { } ^ { n } \\mathrm { ~ P } _ { 3 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          230,
+          491,
+          348,
+          510
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n(n - 1)(n - 2)(n - 3)(n - 4) = 42n(n - 1)(n - 2)$ ",
+        "bbox": [
+          100,
+          513,
+          735,
+          530
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Since $n > 4$ so $n(n - 1)(n - 2)\\neq 0$ ",
+        "bbox": [
+          100,
+          540,
+          568,
+          558
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Therefore, by dividing both sides by $n(n - 1)(n - 2)$ , we get ",
+        "bbox": [
+          96,
+          568,
+          668,
+          587
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(n - 3 (n - 4) = 4 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+          228,
+          593,
+          408,
+          609
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n^2 - 7n - 30 = 0$ ",
+        "bbox": [
+          100,
+          618,
+          410,
+          631
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n^2 -10n + 3n - 30$ ",
+        "bbox": [
+          100,
+          641,
+          410,
+          656
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $(n - 10)(n + 3) = 0$ ",
+        "bbox": [
+          100,
+          665,
+          416,
+          682
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n - 10 = 0$ or $n + 3 = 0$ ",
+        "bbox": [
+          100,
+          690,
+          474,
+          704
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n = 10$ or $n = -3$ ",
+        "bbox": [
+          100,
+          714,
+          463,
+          728
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "As $n$ cannot be negative, so $n = 10$ . ",
+        "bbox": [
+          96,
+          736,
+          448,
+          754
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "(ii) Given that $\\frac{{}^n\\mathrm{P}_4}{{}^{n - 1}\\mathrm{P}_4} = \\frac{5}{3}$ ",
+        "bbox": [
+          190,
+          770,
+          429,
+          812
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Therefore $3n(n - 1)(n - 2)(n - 3) = 5(n - 1)(n - 2)(n - 3)(n - 4)$ ",
+        "bbox": [
+          100,
+          823,
+          788,
+          840
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $3n = 5(n - 4)$ [as $(n - 1)(n - 2)(n - 3)\\neq 0,n > 4]$ ",
+        "bbox": [
+          100,
+          847,
+          756,
+          864
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "or $n = 10$ ",
+        "bbox": [
+          100,
+          872,
+          307,
+          887
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "page_number",
+        "text": "111 ",
+        "bbox": [
+          873,
+          102,
+          899,
+          115
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Example 13 Find $r$ , if $5^{4} \\mathrm{P}_{r} = 6^{5} \\mathrm{P}_{r-1}$ . ",
+        "bbox": [
+          96,
+          138,
+          470,
+          160
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Solution We have $5^{4} \\mathrm{P}_{r} = 6^{5} \\mathrm{P}_{r-1}$ ",
+        "bbox": [
+          96,
+          171,
+          429,
+          192
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad 5 \\times \\frac {4 !}{(4 - r) !} = 6 \\times \\frac {5 !}{(5 - r + 1) !}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          204,
+          493,
+          251
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad \\frac {5 !}{(4 - r) !} = \\frac {6 \\times 5 !}{(5 - r + 1) (5 - r) (5 - r - 1) !}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          266,
+          583,
+          312
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad (6 - r) (5 - r) = 6\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          318,
+          418,
+          337
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad r ^ {2} - 1 1 r + 2 4 = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          340,
+          395,
+          356
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad r ^ {2} - 8 r - 3 r + 2 4 = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          359,
+          418,
+          377
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad (r - 8) (r - 3) = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          381,
+          418,
+          399
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {o r} \\quad r = 8 \\quad \\text {o r} \\quad r = 3.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          402,
+          373,
+          419
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {H e n c e} \\quad r = 8, 3.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          421,
+          297,
+          438
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Example 14 Find the number of different 8-letter arrangements that can be made from the letters of the word DAUGHTER so that ",
+        "bbox": [
+          96,
+          447,
+          899,
+          483
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "(i) all vowels occur together ",
+        "bbox": [
+          185,
+          488,
+          470,
+          507
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "(ii) all vowels do not occur together. ",
+        "bbox": [
+          538,
+          488,
+          893,
+          507
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Solution (i) There are 8 different letters in the word DAUGHTER, in which there are 3 vowels, namely, A, U and E. Since the vowels have to occur together, we can for the time being, assume them as a single object (AUE). This single object together with 5 remaining letters (objects) will be counted as 6 objects. Then we count permutations of these 6 objects taken all at a time. This number would be $^6\\mathrm{P}_6 = 6!$ . Corresponding to each of these permutations, we shall have 3! permutations of the three vowels A, U, E taken all at a time. Hence, by the multiplication principle the required number of permutations $= 6! \\times 3! = 4320$ . ",
+        "bbox": [
+          94,
+          513,
+          903,
+          675
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "(ii) If we have to count those permutations in which all vowels are never together, we first have to find all possible arrangements of 8 letters taken all at a time, which can be done in 8! ways. Then, we have to subtract from this number, the number of permutations in which the vowels are always together. ",
+        "bbox": [
+          94,
+          676,
+          901,
+          755
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number $8! - 6! \\times 3! = 6! (7 \\times 8 - 6)$ ",
+        "bbox": [
+          96,
+          761,
+          709,
+          780
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = 2 \\times 6! (2 8 - 3) \\\\ = 5 0 \\times 6! = 5 0 \\times 7 2 0 = 3 6 0 0 0 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          761,
+          852,
+          818
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Example 15 In how many ways can 4 red, 3 yellow and 2 green discs be arranged in a row if the discs of the same colour are indistinguishable? ",
+        "bbox": [
+          94,
+          823,
+          899,
+          862
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Solution Total number of discs are $4 + 3 + 2 = 9$ . Out of 9 discs, 4 are of the first kind ",
+        "bbox": [
+          94,
+          874,
+          899,
+          891
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "page_number",
+        "text": "112 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          115
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "(red), 3 are of the second kind (yellow) and 2 are of the third kind (green). ",
+        "bbox": [
+          96,
+          138,
+          801,
+          159
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the number of arrangements $\\frac{9!}{4!3!2!} = 1260$ . ",
+        "bbox": [
+          96,
+          169,
+          638,
+          209
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "Example 16 Find the number of arrangements of the letters of the word INDEPENDENCE. In how many of these arrangements, ",
+        "bbox": [
+          94,
+          219,
+          899,
+          258
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) do the words start with P ",
+          "(ii) do all the vowels always occur together ",
+          "(iii) do the vowels never occur together ",
+          "(iv) do the words begin with I and end in P? "
+        ],
+        "bbox": [
+          153,
+          263,
+          591,
+          342
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "Solution There are 12 letters, of which N appears 3 times, E appears 4 times and D appears 2 times and the rest are all different. Therefore ",
+        "bbox": [
+          94,
+          350,
+          899,
+          391
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "The required number of arrangements $= \\frac{12!}{3!4!2!} = 1663200$ ",
+        "bbox": [
+          96,
+          400,
+          670,
+          442
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "(i) Let us fix $\\mathrm{P}$ at the extreme left position, we, then, count the arrangements of the remaining 11 letters. Therefore, the required number of words starting with $\\mathrm{P}$ ",
+        "bbox": [
+          106,
+          451,
+          899,
+          492
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\frac {1 1 !}{3 ! 2 ! 4 !} = 1 3 8 6 0 0.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          399,
+          500,
+          594,
+          540
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "(ii) There are 5 vowels in the given word, which are 4 Es and 1 I. Since, they have to always occur together, we treat them as a single object EEEI for the time being. This single object together with 7 remaining objects will account for 8 objects. These 8 objects, in which there are 3Ns and 2 Ds, can be rearranged in 8! 3! 2! ways. Corresponding to each of these arrangements, the 5 vowels E, E, E, E and I can be rearranged in 5! 4! ways. Therefore, by multiplication principle, the required number of arrangements ",
+        "bbox": [
+          98,
+          549,
+          901,
+          779
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\frac {8 !}{3 ! 2 !} \\times \\frac {5 !}{4 !} = 1 6 8 0 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          279,
+          786,
+          478,
+          827
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "(iii) The required number of arrangements $=$ the total number of arrangements (without any restriction) - the number of arrangements where all the vowels occur together. ",
+        "bbox": [
+          96,
+          837,
+          856,
+          897
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          116
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "page_number",
+        "text": "113 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          115
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 1 6 6 3 2 0 0 - 1 6 8 0 0 = 1 6 4 6 4 0 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          346,
+          138,
+          647,
+          156
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(iv) Let us fix I and P at the extreme ends (I at the left end and P at the right end). We are left with 10 letters. ",
+        "bbox": [
+          94,
+          157,
+          895,
+          194
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Hence, the required number of arrangements ",
+        "bbox": [
+          153,
+          197,
+          568,
+          216
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\frac {1 0 !}{3 ! 2 ! 4 !} = 1 2 6 0 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          337,
+          225,
+          510,
+          264
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "EXERCISE 6.3 ",
+        "text_level": 1,
+        "bbox": [
+          410,
+          290,
+          585,
+          312
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1. How many 3-digit numbers can be formed by using the digits 1 to 9 if no digit is repeated? ",
+          "2. How many 4-digit numbers are there with no digit repeated? ",
+          "3. How many 3-digit even numbers can be made using the digits 1, 2, 3, 4, 6, 7, if no digit is repeated? ",
+          "4. Find the number of 4-digit numbers that can be formed using the digits 1, 2, 3, 4, 5 if no digit is repeated. How many of these will be even? ",
+          "5. From a committee of 8 persons, in how many ways can we choose a chairman and a vice chairman assuming one person can not hold more than one position? ",
+          "6. Find $n$ if $n^{-1}\\mathrm{P}_3:\\mathrm{nP}_4 = 1:9$ ",
+          "7. Find $r$ if (i) $\\mathrm{P}_r = 2^6 \\mathrm{P}_{r-1}$ (ii) $\\mathrm{P}_r = 6^6 \\mathrm{P}_{r-1}$ . ",
+          "8. How many words, with or without meaning, can be formed using all the letters of the word EQUATION, using each letter exactly once? ",
+          "9. How many words, with or without meaning can be made from the letters of the word MONDAY, assuming that no letter is repeated, if. "
+        ],
+        "bbox": [
+          108,
+          323,
+          899,
+          638
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(i) 4 letters are used at a time, ",
+        "bbox": [
+          155,
+          641,
+          459,
+          660
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(ii) all letters are used at a time, ",
+        "bbox": [
+          566,
+          641,
+          878,
+          660
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(iii) all letters are used but first letter is a vowel? ",
+        "bbox": [
+          149,
+          662,
+          621,
+          679
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "10. In how many of the distinct permutations of the letters in MISSISSIPPI do the four I's not come together? ",
+          "11. In how many ways can the letters of the word PERMUTATIONS be arranged if the "
+        ],
+        "bbox": [
+          98,
+          682,
+          895,
+          741
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(i) words start with P and end with S, ",
+        "bbox": [
+          155,
+          742,
+          527,
+          761
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(ii) vowels are all together, ",
+        "bbox": [
+          566,
+          742,
+          831,
+          761
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "(iii) there are always 4 letters between P and S? ",
+        "bbox": [
+          149,
+          764,
+          619,
+          782
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "6.4 Combinations ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          792,
+          299,
+          812
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Let us now assume that there is a group of 3 lawn tennis players X, Y, Z. A team consisting of 2 players is to be formed. In how many ways can we do so? Is the team of X and Y different from the team of Y and X? Here, order is not important. In fact, there are only 3 possible ways in which the team could be constructed. ",
+        "bbox": [
+          94,
+          818,
+          895,
+          899
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "page_number",
+        "text": "114 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          100,
+          299,
+          115
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/78663b1a3885d34a1f214a72b693ffa5ee67db58abcf2ae39155f867b3d798e1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          123,
+          138,
+          299,
+          220
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/ff0192faf006a7cb8a033a9578ca9612438d694b74ed23deff0df866a1479dee.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          418,
+          138,
+          591,
+          220
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh106/hybrid_auto/images/6bd9531676a9d8d8dffedb2d8cf27283fde331dfd69eb0c46e9ba37d066c16d8.jpg",
+        "image_caption": [
+          "Fig. 6.3 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          709,
+          138,
+          884,
+          220
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "These are XY, YZ and ZX (Fig 6.3). ",
+        "bbox": [
+          94,
+          254,
+          442,
+          271
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Here, each selection is called a combination of 3 different objects taken 2 at a time. In a combination, the order is not important. ",
+        "bbox": [
+          91,
+          274,
+          899,
+          315
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Now consider some more illustrations. ",
+        "bbox": [
+          145,
+          318,
+          510,
+          334
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Twelve persons meet in a room and each shakes hand with all the others. How do we determine the number of hand shakes. X shaking hands with Y and Y with X will not be two different hand shakes. Here, order is not important. There will be as many hand shakes as there are combinations of 12 different things taken 2 at a time. ",
+        "bbox": [
+          91,
+          339,
+          899,
+          423
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Seven points lie on a circle. How many chords can be drawn by joining these points pairwise? There will be as many chords as there are combinations of 7 different things taken 2 at a time. ",
+        "bbox": [
+          91,
+          425,
+          901,
+          486
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Now, we obtain the formula for finding the number of combinations of $n$ different objects taken $r$ at a time, denoted by ${}^n\\mathrm{C}_r$ . ",
+        "bbox": [
+          91,
+          489,
+          901,
+          532
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Suppose we have 4 different objects A, B, C and D. Taking 2 at a time, if we have to make combinations, these will be AB, AC, AD, BC, BD, CD. Here, AB and BA are the same combination as order does not alter the combination. This is why we have not included BA, CA, DA, CB, DB and DC in this list. There are as many as 6 combinations of 4 different objects taken 2 at a time, i.e., $^4\\mathrm{C}_2 = 6$ . ",
+        "bbox": [
+          91,
+          533,
+          901,
+          638
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Corresponding to each combination in the list, we can arrive at 2! permutations as 2 objects in each combination can be rearranged in 2! ways. Hence, the number of permutations $= ^{4}\\mathrm{C}_{2} \\times 2!$ . ",
+        "bbox": [
+          91,
+          640,
+          903,
+          704
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "On the other hand, the number of permutations of 4 different things taken 2 at a time $= 4\\mathrm{P}_2$ . ",
+        "bbox": [
+          91,
+          709,
+          899,
+          751
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Therefore ",
+        "bbox": [
+          147,
+          776,
+          247,
+          793
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { 4 } \\mathbf { P } _ { 2 } = { } ^ { 4 } \\mathbf { C } _ { 2 } \\times 2 ! \\quad \\text { o r } \\quad \\frac { 4 ! } { ( 4 - 2 ) ! 2 ! } = { } ^ { 4 } \\mathbf { C } _ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          326,
+          760,
+          688,
+          805
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Now, let us suppose that we have 5 different objects A, B, C, D, E. Taking 3 at a time, if we have to make combinations, these will be ABC, ABD, ABE, BCD, BCE, CDE, ACE, ACD, ADE, BDE. Corresponding to each of these $^5\\mathrm{C}_3$ combinations, there are 3! permutations, because, the three objects in each combination can be ",
+        "bbox": [
+          91,
+          812,
+          903,
+          897
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "page_number",
+        "text": "115 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          115
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "rearranged in 3! ways. Therefore, the total of permutations $= {}^{5}{\\mathrm{C}}_{3} \\times  3!$ ",
+        "bbox": [
+          94,
+          144,
+          764,
+          168
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Therefore $^5\\mathbf{P}_3 = ^5\\mathbf{C}_3\\times 3!$ or $\\frac{5!}{(5 - 3)!3!} = ^5 C_3$ ",
+        "bbox": [
+          147,
+          181,
+          647,
+          225
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "These examples suggest the following theorem showing relationship between permutation and combination: ",
+        "bbox": [
+          94,
+          232,
+          897,
+          271
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Theorem 5 ${}^n\\mathrm{P}_r = {}^n\\mathrm{C}_r$ $r!$ $0 < r \\leq n$ ",
+        "bbox": [
+          96,
+          280,
+          452,
+          301
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Proof Corresponding to each combination of ${}^n\\mathrm{C}_r$ , we have $r!$ permutations, because $r$ objects in every combination can be rearranged in $r!$ ways. ",
+        "bbox": [
+          94,
+          315,
+          897,
+          353
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Hence, the total number of permutations of $n$ different things taken $r$ at a time is ${}^n\\mathrm{C}_r \\times r!$ . On the other hand, it is ${}^n\\mathrm{P}_r$ . Thus ",
+        "bbox": [
+          94,
+          356,
+          888,
+          406
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { P } _ { r } = { } ^ { n } \\mathrm { C } _ { r } \\times r ! , 0 <   r \\leq n .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          419,
+          461,
+          441
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Remarks 1. From above $\\frac{n!}{(n - r)!} = {}^n\\mathrm{C}_r\\times r!$ , i.e., ${}^n\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ ",
+        "bbox": [
+          96,
+          463,
+          760,
+          508
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "In particular, if $r = n$ , ${}^n\\mathrm{C}_n = \\frac{n!}{n!0!} = 1$ . ",
+        "bbox": [
+          96,
+          524,
+          463,
+          565
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "2. We define ${}^n\\mathrm{C}_0 = 1$ , i.e., the number of combinations of $n$ different things taken nothing at all is considered to be 1. Counting combinations is merely counting the number of ways in which some or all objects at a time are selected. Selecting nothing at all is the same as leaving behind all the objects and we know that there is only one way of doing so. This way we define ${}^n\\mathrm{C}_0 = 1$ . ",
+          "3. As $\\frac{n!}{0!(n - 0)!} = 1 = {}^n\\mathrm{C}_0$ , the formula ${}^n\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ is applicable for $r = 0$ also. Hence "
+        ],
+        "bbox": [
+          94,
+          574,
+          899,
+          752
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { C } _ { r } = \\frac { n ! } { r ! ( n - r ) ! } , 0 \\leq r \\leq n .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          764,
+          500,
+          805
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "4. ${}^n\\mathbf{C}_{n - r} = \\frac{n!}{(n - r)!(n - (n - r))!} = \\frac{n!}{(n - r)!r!} = {}^n\\mathbf{C}_r,$ ",
+        "bbox": [
+          94,
+          821,
+          632,
+          866
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "page_number",
+        "text": "116 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          100,
+          299,
+          115
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "i.e., selecting $r$ objects out of $n$ objects is same as rejecting $(n - r)$ objects. ",
+        "bbox": [
+          91,
+          141,
+          803,
+          160
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "5. ${}^n\\mathrm{C}_a = {}^n\\mathrm{C}_b\\Rightarrow a = b$ or $a = n - b$ , i.e., $n = a + b$ ",
+        "bbox": [
+          91,
+          166,
+          608,
+          185
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Theorem 6 $^n\\mathbf{C}_r + ^n\\mathbf{C}_{r - 1} = ^{n + 1}\\mathbf{C}_r$ ",
+        "bbox": [
+          94,
+          192,
+          414,
+          216
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Proof We have ${}^n\\mathrm{C}_r + {}^n\\mathrm{C}_{r - 1} = \\frac{n!}{r!(n - r)!} +\\frac{n!}{(r - 1)!(n - r + 1)!}$ ",
+        "bbox": [
+          94,
+          229,
+          702,
+          273
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\frac {n !}{r \\times (r - 1) ! (n - r) !} + \\frac {n !}{(r - 1) ! (n - r + 1) (n - r) !} \\\\ = \\frac {n !}{(r - 1) ! (n - r) !} \\left[ \\frac {1}{r} + \\frac {1}{n - r + 1} \\right] \\\\ = \\frac {n !}{(r - 1) ! (n - r) !} \\times \\frac {n - r + 1 + r}{r (n - r + 1)} = \\frac {(n + 1) !}{r ! (n + 1 - r) !} = ^ {n + 1} C _ {r} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          215,
+          290,
+          747,
+          459
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Example 17 If ${}^n\\mathrm{C}_9 = {}^n\\mathrm{C}_8$ , find ${}^n\\mathrm{C}_{17}$ . ",
+        "bbox": [
+          94,
+          473,
+          474,
+          495
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Solution We have ${}^n\\mathrm{C}_9 = {}^n\\mathrm{C}_8$ ",
+        "bbox": [
+          94,
+          507,
+          388,
+          529
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\text {i . e . ,} \\quad \\frac {n !}{9 ! (n - 9) !} = \\frac {n !}{(n - 8) ! 8 !} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          100,
+          542,
+          435,
+          586
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "or $\\frac{1}{9} = \\frac{1}{n - 8}$ or $n - 8 = 9$ or $n = 17$ ",
+        "bbox": [
+          94,
+          602,
+          604,
+          641
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Therefore ${}^n\\mathrm{C}_{17} = {}^{17}\\mathrm{C}_{17} = 1$ . ",
+        "bbox": [
+          94,
+          654,
+          388,
+          676
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Example 18 A committee of 3 persons is to be constituted from a group of 2 men and 3 women. In how many ways can this be done? How many of these committees would consist of 1 man and 2 women? ",
+        "bbox": [
+          91,
+          687,
+          899,
+          745
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Solution Here, order does not matter. Therefore, we need to count combinations. There will be as many committees as there are combinations of 5 different persons taken 3 at a time. Hence, the required number of ways $= \\sqrt[5]{C_3} = \\frac{5!}{3!2!} = \\frac{4 \\times 5}{2} = 10$ . ",
+        "bbox": [
+          91,
+          754,
+          897,
+          843
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Now, 1 man can be selected from 2 men in $^2\\mathrm{C}_1$ ways and 2 women can be selected from 3 women in $^3\\mathrm{C}_2$ ways. Therefore, the required number of committees ",
+        "bbox": [
+          91,
+          853,
+          899,
+          894
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "page_number",
+        "text": "117 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          112
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {2} C _ {1} \\times^ {3} C _ {2} = \\frac {2 !}{1 ! 1 !} \\times \\frac {3 !}{2 ! 1 !} = 6.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          250,
+          147,
+          542,
+          188
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Example 19 What is the number of ways of choosing 4 cards from a pack of 52 playing cards? In how many of these ",
+        "bbox": [
+          94,
+          204,
+          899,
+          245
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) four cards are of the same suit, ",
+          "(ii) four cards belong to four different suits, ",
+          "(iii) are face cards, ",
+          "(iv) two are red cards and two are black cards, ",
+          "(v) cards are of the same colour? "
+        ],
+        "bbox": [
+          147,
+          252,
+          615,
+          359
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Solution There will be as many ways of choosing 4 cards from 52 cards as there are combinations of 52 different things, taken 4 at a time. Therefore ",
+        "bbox": [
+          94,
+          371,
+          899,
+          413
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "The required number of ways $= ^{52}C_4 = \\frac{52!}{4!48!} = \\frac{49\\times 50\\times 51\\times 52}{2\\times 3\\times 4}$ ",
+        "bbox": [
+          96,
+          421,
+          720,
+          464
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 2 7 0 7 2 5\n$$",
+        "text_format": "latex",
+        "bbox": [
+          551,
+          473,
+          645,
+          489
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(i) There are four suits: diamond, club, spade, heart and there are 13 cards of each suit. Therefore, there are $^{13}\\mathrm{C}_4$ ways of choosing 4 diamonds. Similarly, there are $^{13}\\mathrm{C}_4$ ways of choosing 4 clubs, $^{13}\\mathrm{C}_4$ ways of choosing 4 spades and $^{13}\\mathrm{C}_4$ ways of choosing 4 hearts. Therefore ",
+        "bbox": [
+          106,
+          500,
+          901,
+          587
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "The required number of ways $= ^{13}\\mathrm{C}_4 + ^{13}\\mathrm{C}_4 + ^{13}\\mathrm{C}_4 + ^{13}\\mathrm{C}_4.$ ",
+        "bbox": [
+          147,
+          589,
+          709,
+          612
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 4 \\times \\frac {1 3 !}{4 ! 9 !} = 2 8 6 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          440,
+          621,
+          621,
+          660
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(ii) There are 13 cards in each suit. ",
+        "bbox": [
+          100,
+          673,
+          446,
+          692
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Therefore, there are $^{13}\\mathrm{C}_1$ ways of choosing 1 card from 13 cards of diamond, $^{13}\\mathrm{C}_1$ ways of choosing 1 card from 13 cards of hearts, $^{13}\\mathrm{C}_1$ ways of choosing 1 card from 13 cards of clubs, $^{13}\\mathrm{C}_1$ ways of choosing 1 card from 13 cards of spades. Hence, by multiplication principle, the required number of ways ",
+        "bbox": [
+          145,
+          700,
+          901,
+          789
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {1 3} \\mathrm {C} _ {1} \\times^ {1 3} \\mathrm {C} _ {1} \\times^ {1 3} \\mathrm {C} _ {1} \\times^ {1 3} \\mathrm {C} _ {1} = 1 3 ^ {4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          215,
+          795,
+          512,
+          818
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(iii) There are 12 face cards and 4 are to be selected out of these 12 cards. This can be done in $^{12}\\mathrm{C}_4$ ways. Therefore, the required number of ways $= \\frac{12!}{4!8!} = 495$ . ",
+        "bbox": [
+          94,
+          826,
+          899,
+          894
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "page_number",
+        "text": "118 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          100,
+          299,
+          115
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          982
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(iv) There are 26 red cards and 26 black cards. Therefore, the required number of ways $= ^{26}\\mathrm{C}_2 \\times ^{26}\\mathrm{C}_2$ ",
+        "bbox": [
+          94,
+          138,
+          899,
+          179
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\left(\\frac {2 6 !}{2 ! 2 4 !}\\right) ^ {2} = (3 2 5) ^ {2} = 1 0 5 6 2 5\n$$",
+        "text_format": "latex",
+        "bbox": [
+          275,
+          188,
+          576,
+          239
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(v) 4 red cards can be selected out of 26 red cards in $^{26}\\mathrm{C}_4$ ways. 4 black cards can be selected out of 26 black cards in $^{26}\\mathrm{C}_4$ ways. ",
+        "bbox": [
+          94,
+          250,
+          897,
+          290
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of ways $= ^{26}\\mathrm{C}_4 + ^{26}\\mathrm{C}_4$ ",
+        "bbox": [
+          96,
+          293,
+          600,
+          315
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= 2 \\times \\frac {2 6 !}{4 ! 2 2 !} = 2 9 9 0 0.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          465,
+          323,
+          675,
+          364
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "EXERCISE 6.4 ",
+        "text_level": 1,
+        "bbox": [
+          412,
+          391,
+          585,
+          410
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1. If ${}^n\\mathrm{C}_8 = {}^n\\mathrm{C}_2$ , find ${}^n\\mathrm{C}_2$ . ",
+          "2. Determine $n$ if "
+        ],
+        "bbox": [
+          96,
+          422,
+          363,
+          459
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(i) $^{2n}C_3: ^nC_3 = 12:1$ ",
+        "bbox": [
+          149,
+          463,
+          339,
+          483
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(ii) $^{2n}C_3 \\colon {}^n C_3 = 11:1$ ",
+        "bbox": [
+          561,
+          463,
+          752,
+          483
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "3. How many chords can be drawn through 21 points on a circle? ",
+          "4. In how many ways can a team of 3 boys and 3 girls be selected from 5 boys and 4 girls? ",
+          "5. Find the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5 blue balls if each selection consists of 3 balls of each colour. ",
+          "6. Determine the number of 5 card combinations out of a deck of 52 cards if there is exactly one ace in each combination. ",
+          "7. In how many ways can one select a cricket team of eleven from 17 players in which only 5 players can bowl if each cricket team of 11 must include exactly 4 bowlers? ",
+          "8. A bag contains 5 black and 6 red balls. Determine the number of ways in which 2 black and 3 red balls can be selected. ",
+          "9. In how many ways can a student choose a programme of 5 courses if 9 courses are available and 2 specific courses are compulsory for every student? "
+        ],
+        "bbox": [
+          94,
+          483,
+          897,
+          767
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Miscellaneous Examples ",
+        "text_level": 1,
+        "bbox": [
+          363,
+          786,
+          632,
+          805
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Example 20 How many words, with or without meaning, each of 3 vowels and 2 consonants can be formed from the letters of the word INVOLUTE? ",
+        "bbox": [
+          94,
+          814,
+          897,
+          852
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Solution In the word INVOLUTE, there are 4 vowels, namely, I,O,E,U and 4 consonants, namely, N, V, L and T. ",
+        "bbox": [
+          94,
+          859,
+          897,
+          900
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "page_number",
+        "text": "119 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          112
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "The number of ways of selecting 3 vowels out of $4 = {}^{4}\\mathrm{C}_{3} = 4$ ",
+        "bbox": [
+          145,
+          138,
+          732,
+          157
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "The number of ways of selecting 2 consonants out of $4 = {}^{4}\\mathrm{C}_{2} = 6$ ",
+        "bbox": [
+          145,
+          159,
+          769,
+          179
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the number of combinations of 3 vowels and 2 consonants is $4 \\times 6 = 24$ . ",
+        "bbox": [
+          94,
+          182,
+          899,
+          219
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Now, each of these 24 combinations has 5 letters which can be arranged among themselves in 5! ways. Therefore, the required number of different words is $24 \\times 5! = 2880$ . ",
+        "bbox": [
+          94,
+          226,
+          899,
+          283
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Example 21 A group consists of 4 girls and 7 boys. In how many ways can a team of 5 members be selected if the team has (i) no girl? (ii) at least one boy and one girl? (iii) at least 3 girls? ",
+        "bbox": [
+          94,
+          295,
+          901,
+          356
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Solution (i) Since, the team will not include any girl, therefore, only boys are to be selected. 5 boys out of 7 boys can be selected in $^7\\mathrm{C}_5$ ways. Therefore, the required ",
+        "bbox": [
+          94,
+          365,
+          899,
+          406
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "number of ways $= 7C_{5} = \\frac{7!}{5!2!} = \\frac{6\\times 7}{2} = 21$ ",
+        "bbox": [
+          96,
+          415,
+          521,
+          454
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(ii) Since, at least one boy and one girl are to be there in every team. Therefore, the team can consist of ",
+        "bbox": [
+          94,
+          464,
+          899,
+          504
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(a) 1 boy and 4 girls ",
+        "bbox": [
+          145,
+          510,
+          346,
+          530
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(b) 2 boys and 3 girls ",
+        "bbox": [
+          405,
+          508,
+          613,
+          530
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(c) 3 boys and 2 girls ",
+        "bbox": [
+          147,
+          535,
+          356,
+          554
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(d) 4 boys and 1 girl. ",
+        "bbox": [
+          405,
+          535,
+          608,
+          555
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "1 boy and 4 girls can be selected in $^7\\mathrm{C}_1 \\times {}^4\\mathrm{C}_4$ ways. ",
+        "bbox": [
+          185,
+          559,
+          679,
+          581
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "2 boys and 3 girls can be selected in $^7\\mathrm{C}_2 \\times {}^4\\mathrm{C}_3$ ways. ",
+        "bbox": [
+          185,
+          584,
+          688,
+          606
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "3 boys and 2 girls can be selected in $^7\\mathrm{C}_3 \\times {}^4\\mathrm{C}_2$ ways. ",
+        "bbox": [
+          185,
+          609,
+          688,
+          630
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "4 boys and 1 girl can be selected in $^7\\mathrm{C}_4 \\times {}^4\\mathrm{C}_1$ ways. ",
+        "bbox": [
+          185,
+          634,
+          685,
+          654
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of ways ",
+        "bbox": [
+          145,
+          659,
+          532,
+          676
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = ^ {7} \\mathrm {C} _ {1} \\times^ {4} \\mathrm {C} _ {4} + ^ {7} \\mathrm {C} _ {2} \\times^ {4} \\mathrm {C} _ {3} + ^ {7} \\mathrm {C} _ {3} \\times^ {4} \\mathrm {C} _ {2} + ^ {7} \\mathrm {C} _ {4} \\times^ {4} \\mathrm {C} _ {1} \\\\ = 7 + 8 4 + 2 1 0 + 1 4 0 = 4 4 1 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          185,
+          682,
+          634,
+          725
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(iii) Since, the team has to consist of at least 3 girls, the team can consist of ",
+        "bbox": [
+          94,
+          729,
+          824,
+          747
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(a) 3 girls and 2 boys, or ",
+        "bbox": [
+          147,
+          750,
+          384,
+          769
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(b) 4 girls and 1 boy. ",
+        "bbox": [
+          418,
+          750,
+          617,
+          769
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Note that the team cannot have all 5 girls, because, the group has only 4 girls. ",
+        "bbox": [
+          94,
+          777,
+          826,
+          798
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "3 girls and 2 boys can be selected in $^4\\mathrm{C}_3 \\times {}^7\\mathrm{C}_2$ ways. ",
+          "4 girls and 1 boy can be selected in $^4\\mathrm{C}_4 \\times {}^7\\mathrm{C}_1$ ways. "
+        ],
+        "bbox": [
+          145,
+          802,
+          649,
+          843
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of ways ",
+        "bbox": [
+          96,
+          847,
+          480,
+          866
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {4} \\mathrm {C} _ {3} \\times^ {7} \\mathrm {C} _ {2} + ^ {4} \\mathrm {C} _ {4} \\times^ {7} \\mathrm {C} _ {1} = 8 4 + 7 = 9 1\n$$",
+        "text_format": "latex",
+        "bbox": [
+          183,
+          872,
+          544,
+          894
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "page_number",
+        "text": "120 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          114
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          100,
+          297,
+          115
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Example 22 Find the number of words with or without meaning which can be made using all the letters of the word AGAIN. If these words are written as in a dictionary, what will be the $50^{\\text{th}}$ word? ",
+        "bbox": [
+          96,
+          140,
+          899,
+          201
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Solution There are 5 letters in the word AGAIN, in which A appears 2 times. Therefore, the required number of words $= \\frac{5!}{2!} = 60$ . ",
+        "bbox": [
+          96,
+          211,
+          899,
+          280
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "To get the number of words starting with A, we fix the letter A at the extreme left position, we then rearrange the remaining 4 letters taken all at a time. There will be as many arrangements of these 4 letters taken 4 at a time as there are permutations of 4 different things taken 4 at a time. Hence, the number of words starting with $A = 4! = 24$ . Then, starting with G, the number of words $= \\frac{4!}{2!} = 12$ as after placing G at the extreme left position, we are left with the letters A, A, I and N. Similarly, there are 12 words starting with the next letter I. Total number of words so far obtained $= 24 + 12 + 12 = 48$ . ",
+        "bbox": [
+          96,
+          288,
+          901,
+          495
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "The $49^{\\text{th}}$ word is NAAIG. The $50^{\\text{th}}$ word is NAAIG. ",
+        "bbox": [
+          147,
+          502,
+          643,
+          521
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Example 23 How many numbers greater than 1000000 can be formed by using the digits 1, 2, 0, 2, 4, 2, 4? ",
+        "bbox": [
+          96,
+          532,
+          899,
+          571
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Solution Since, 1000000 is a 7-digit number and the number of digits to be used is also 7. Therefore, the numbers to be counted will be 7-digit only. Also, the numbers have to be greater than 1000000, so they can begin either with 1, 2 or 4. ",
+        "bbox": [
+          96,
+          584,
+          899,
+          650
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "The number of numbers beginning with $1 = \\frac{6!}{3!2!} = \\frac{4 \\times 5 \\times 6}{2} = 60$ , as when 1 is fixed at the extreme left position, the remaining digits to be rearranged will be 0, 2, 2, 2, 4, 4, in which there are 3, 2s and 2, 4s. ",
+        "bbox": [
+          96,
+          660,
+          899,
+          751
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Total numbers beginning with 2 ",
+        "bbox": [
+          147,
+          761,
+          435,
+          779
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= \\frac {6 !}{2 ! 2 !} = \\frac {3 \\times 4 \\times 5 \\times 6}{2} = 1 8 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+          147,
+          789,
+          414,
+          831
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "and total numbers beginning with $4 = \\frac{6!}{3!} = 4 \\times 5 \\times 6 = 120$ ",
+        "bbox": [
+          147,
+          850,
+          677,
+          888
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          116
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "page_number",
+        "text": "121 ",
+        "bbox": [
+          873,
+          102,
+          899,
+          115
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of numbers $= 60 + 180 + 120 = 360$ . ",
+        "bbox": [
+          149,
+          138,
+          801,
+          157
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Alternative Method ",
+        "text_level": 1,
+        "bbox": [
+          98,
+          166,
+          311,
+          185
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "The number of 7-digit arrangements, clearly, $\\frac{7!}{3!2!} = 420$ . But, this will include those numbers also, which have 0 at the extreme left position. The number of such arrangements $\\frac{6!}{3!2!}$ (by fixing 0 at the extreme left position) = 60. ",
+        "bbox": [
+          96,
+          195,
+          899,
+          312
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Therefore, the required number of numbers $= 420 - 60 = 360$ . ",
+        "bbox": [
+          98,
+          321,
+          685,
+          342
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Note If one or more than one digits given in the list is repeated, it will be understood that in any number, the digits can be used as many times as is given in the list, e.g., in the above example 1 and 0 can be used only once whereas 2 and 4 can be used 3 times and 2 times, respectively. ",
+        "bbox": [
+          106,
+          353,
+          888,
+          437
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Example 24 In how many ways can 5 girls and 3 boys be seated in a row so that no two boys are together? ",
+        "bbox": [
+          96,
+          448,
+          897,
+          489
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Solution Let us first seat the 5 girls. This can be done in 5! ways. For each such arrangement, the three boys can be seated only at the cross marked places. ",
+        "bbox": [
+          96,
+          500,
+          897,
+          538
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\times G \\times G \\times G \\times G \\times G \\times .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          539,
+          452,
+          555
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "There are 6 cross marked places and the three boys can be seated in $^6\\mathrm{P}_3$ ways. Hence, by multiplication principle, the total number of ways ",
+        "bbox": [
+          96,
+          559,
+          897,
+          600
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = 5! \\times {} ^ {6} \\mathrm {P} _ {3} = 5! \\times \\frac {6 !}{3 !} \\\\ = 4 \\times 5 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 = 1 4 4 0 0. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          608,
+          570,
+          673
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Miscellaneous Exercise on Chapter 6 ",
+        "text_level": 1,
+        "bbox": [
+          297,
+          692,
+          700,
+          713
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1. How many words, with or without meaning, each of 2 vowels and 3 consonants can be formed from the letters of the word DAUGHTER? ",
+          "2. How many words, with or without meaning, can be formed using all the letters of the word EQUATION at a time so that the vowels and consonants occur together? ",
+          "3. A committee of 7 has to be formed from 9 boys and 4 girls. In how many ways can this be done when the committee consists of: "
+        ],
+        "bbox": [
+          108,
+          723,
+          899,
+          842
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "(i) exactly 3 girls? (ii) atleast 3 girls? (iii) atmost 3 girls? ",
+        "bbox": [
+          147,
+          847,
+          732,
+          869
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "4. If the different permutations of all the letter of the word EXAMINATION are ",
+        "bbox": [
+          108,
+          874,
+          897,
+          893
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "page_number",
+        "text": "122 ",
+        "bbox": [
+          104,
+          102,
+          132,
+          115
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          115
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "listed as in a dictionary, how many words are there in this list before the first word starting with E? ",
+        "bbox": [
+          145,
+          138,
+          893,
+          176
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "5. How many 6-digit numbers can be formed from the digits 0, 1, 3, 5, 7 and 9 which are divisible by 10 and no digit is repeated? ",
+          "6. The English alphabet has 5 vowels and 21 consonants. How many words with two different vowels and 2 different consonants can be formed from the alphabet? ",
+          "7. In an examination, a question paper consists of 12 questions divided into two parts i.e., Part I and Part II, containing 5 and 7 questions, respectively. A student is required to attempt 8 questions in all, selecting at least 3 from each part. In how many ways can a student select the questions? ",
+          "8. Determine the number of 5-card combinations out of a deck of 52 cards if each selection of 5 cards has exactly one king. ",
+          "9. It is required to seat 5 men and 4 women in a row so that the women occupy the even places. How many such arrangements are possible? ",
+          "10. From a class of 25 students, 10 are to be chosen for an excursion party. There are 3 students who decide that either all of them will join or none of them will join. In how many ways can the excursion party be chosen? ",
+          "11. In how many ways can the letters of the word ASSASSINATION be arranged so that all the S's are together? "
+        ],
+        "bbox": [
+          98,
+          179,
+          893,
+          543
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+          440,
+          580,
+          549,
+          599
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "$\\diamond$ Fundamental principle of counting If an event can occur in $m$ different ways, following which another event can occur in $n$ different ways, then the total number of occurrence of the events in the given order is $m \\times n$ . ",
+          "$\\diamond$ The number of permutations of $n$ different things taken $r$ at a time, where repetition is not allowed, is denoted by ${}^n\\mathrm{P}_r$ and is given by ${}^n\\mathrm{P}_r = \\frac{n!}{(n - r)!}$ , where $0 \\leq r \\leq n$ . "
+        ],
+        "bbox": [
+          123,
+          609,
+          867,
+          764
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "$\\spadesuit n! = 1\\times 2\\times 3\\times \\ldots \\times n$ ",
+          "$\\diamondsuit n! = n\\times (n - 1)!$ ",
+          "$\\diamond$ The number of permutations of $n$ different things, taken $r$ at a time, where repetition is allowed, is $n^r$ . ",
+          "$\\diamond$ The number of permutations of $n$ objects taken all at a time, where $p_1$ objects "
+        ],
+        "bbox": [
+          123,
+          771,
+          863,
+          875
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "page_number",
+        "text": "123 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          115
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "are of first kind, $p_2$ objects are of the second kind, ..., $p_k$ objects are of the $k^{\\text{th}}$ kind and rest, if any, are all different is $\\frac{n!}{p_1! p_2! \\cdots p_k!}$ . ",
+        "bbox": [
+          145,
+          141,
+          876,
+          214
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The number of combinations of $n$ different things taken $r$ at a time, denoted by ${}^n\\mathrm{C}_r$ , is given by ${}^n\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ , $0 \\leq r \\leq n$ . ",
+        "bbox": [
+          123,
+          220,
+          873,
+          292
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Historical Note ",
+        "text_level": 1,
+        "bbox": [
+          412,
+          333,
+          583,
+          350
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The concepts of permutations and combinations can be traced back to the advent of Jainism in India and perhaps even earlier. The credit, however, goes to the Jains who treated its subject matter as a self-contained topic in mathematics, under the name Vikalpa. ",
+        "bbox": [
+          121,
+          362,
+          873,
+          438
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Among the Jains, Mahavira, (around 850) is perhaps the world's first mathematician credited with providing the general formulae for permutations and combinations. ",
+        "bbox": [
+          121,
+          440,
+          873,
+          495
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "In the 6th century B.C., Sushruta, in his medicinal work, Sushruta Samhita, asserts that 63 combinations can be made out of 6 different tastes, taken one at a time, two at a time, etc. Pingala, a Sanskrit scholar around third century B.C., gives the method of determining the number of combinations of a given number of letters, taken one at a time, two at a time, etc. in his work Chhanda Sutra. Bhaskaracharya (born 1114) treated the subject matter of permutations and combinations under the name Anka Pasha in his famous work Lilavati. In addition to the general formulae for $^n\\mathrm{C}_r$ and $^n\\mathrm{P}_r$ already provided by Mahavira, Bhaskaracharya gives several important theorems and results concerning the subject. ",
+        "bbox": [
+          121,
+          498,
+          876,
+          690
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Outside India, the subject matter of permutations and combinations had its humble beginnings in China in the famous book I-King (Book of changes). It is difficult to give the approximate time of this work, since in 213 B.C., the emperor had ordered all books and manuscripts in the country to be burnt which fortunately was not completely carried out. Greeks and later Latin writers also did some scattered work on the theory of permutations and combinations. ",
+        "bbox": [
+          121,
+          691,
+          876,
+          805
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Some Arabic and Hebrew writers used the concepts of permutations and combinations in studying astronomy. Rabbi ben Ezra, for instance, determined the number of combinations of known planets taken two at a time, three at a time and so on. This was around 1140. It appears that Rabbi ben Ezra did not know ",
+        "bbox": [
+          121,
+          807,
+          876,
+          883
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "page_number",
+        "text": "124 ",
+        "bbox": [
+          104,
+          103,
+          132,
+          114
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          115
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "the formula for $^n\\mathrm{C}_r$ . However, he was aware that $^n\\mathrm{C}_r = ^n\\mathrm{C}_{n - r}$ for specific values $n$ and $r$ . In 1321, Levi Ben Gerson, another Hebrew writer came up with the formulae for $^n\\mathrm{P}_r$ , $^n\\mathrm{P}_n$ and the general formula for $^n\\mathrm{C}_r$ . ",
+        "bbox": [
+          119,
+          143,
+          873,
+          201
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "The first book which gives a complete treatment of the subject matter of permutations and combinations is Ars Conjectandi written by a Swiss, Jacob Bernoulli (1654 - 1705), posthumously published in 1713. This book contains essentially the theory of permutations and combinations as is known today. ",
+        "bbox": [
+          119,
+          201,
+          876,
+          279
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "header",
+        "text": "PERMUTATIONS AND COMBINATIONS ",
+        "bbox": [
+          519,
+          100,
+          837,
+          115
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "page_number",
+        "text": "125 ",
+        "bbox": [
+          873,
+          102,
+          901,
+          115
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          440,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 25
+      }
+    ],
+    "doc_id": "doc-c05b83304db2eb666e833b284ced073b",
+    "mtime": 1770964101.0,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1770979665.2837064,
+    "cache_version": "1.0",
+    "create_time": 1770979665,
+    "update_time": 1770979665,
+    "_id": "c5b55a1487f02c186687131d94e18ddb"
+  },
+  "59bd81764e9198497540d0454c8a058e": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "BINOMIAL THEOREM ",
+        "text_level": 1,
+        "bbox": [
+          224,
+          204,
+          773,
+          236
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Mathematics is a most exact science and its conclusions are capable of absolute proofs. - C.P. STEINMETZ ",
+        "bbox": [
+          128,
+          299,
+          871,
+          339
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "7.1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          365,
+          282,
+          383
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In earlier classes, we have learnt how to find the squares and cubes of binomials like $a + b$ and $a - b$ . Using them, we could evaluate the numerical values of numbers like $(98)^2 = (100 - 2)^2$ , $(999)^3 = (1000 - 1)^3$ , etc. However, for higher powers like $(98)^5$ , $(101)^6$ , etc., the calculations become difficult by using repeated multiplication. This difficulty was overcome by a theorem known as binomial theorem. It gives an easier way to expand $(a + b)^n$ , where $n$ is an integer or a rational number. In this Chapter, we study binomial theorem for positive integral indices only. ",
+        "bbox": [
+          96,
+          390,
+          660,
+          583
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh107/hybrid_auto/images/62bab52475b94c07f5c78267dad1df4ab81fc4771c49a50dbabce04b6e1b0ba7.jpg",
+        "image_caption": [
+          "Blaise Pascal (1623-1662) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          666,
+          380,
+          897,
+          592
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "7.2 Binomial Theorem for Positive Integral Indices ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          600,
+          653,
+          622
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Let us have a look at the following identities done earlier: ",
+        "bbox": [
+          96,
+          625,
+          636,
+          644
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (a + b) ^ {0} = 1 \\quad a + b \\neq 0 \\\\ (a + b) ^ {1} = a + b \\\\ (a + b) ^ {2} = a ^ {2} + 2 a b + b ^ {2} \\\\ (a + b) ^ {3} = a ^ {3} + 3 a ^ {2} b + 3 a b ^ {2} + b ^ {3} \\\\ (a + b) ^ {4} = (a + b) ^ {3} (a + b) = a ^ {4} + 4 a ^ {3} b + 6 a ^ {2} b ^ {2} + 4 a b ^ {3} + b ^ {4} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          160,
+          646,
+          722,
+          741
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In these expansions, we observe that ",
+        "bbox": [
+          96,
+          742,
+          450,
+          760
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) The total number of terms in the expansion is one more than the index. For example, in the expansion of $(a + b)^2$ , number of terms is 3 whereas the index of $(a + b)^2$ is 2. ",
+          "(ii) Powers of the first quantity $a$ go on decreasing by 1 whereas the powers of the second quantity $b$ increase by 1, in the successive terms. ",
+          "(iii) In each term of the expansion, the sum of the indices of $a$ and $b$ is the same and is equal to the index of $a + b$ . "
+        ],
+        "bbox": [
+          98,
+          761,
+          901,
+          896
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "日",
+        "bbox": [
+          504,
+          55,
+          653,
+          157
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "11076CH08 ",
+        "bbox": [
+          549,
+          160,
+          611,
+          169
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "Chapter ",
+        "bbox": [
+          702,
+          141,
+          816,
+          166
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+          846,
+          128,
+          878,
+          160
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "We now arrange the coefficients in these expansions as follows (Fig 7.1): ",
+        "bbox": [
+          147,
+          138,
+          841,
+          157
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh107/hybrid_auto/images/5a5c18780748aa9bdc4c71cb3dbce1ef6b32110ce19bf219abd4ecb7e53756d6.jpg",
+        "image_caption": [
+          "Fig 7.1 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          305,
+          166,
+          688,
+          321
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Do we observe any pattern in this table that will help us to write the next row? Yes we do. It can be seen that the addition of 1's in the row for index 1 gives rise to 2 in the row for index 2. The addition of 1, 2 and 2, 1 in the row for index 2, gives rise to 3 and 3 in the row for index 3 and so on. Also, 1 is present at the beginning and at the end of each row. This can be continued till any index of our interest. ",
+        "bbox": [
+          94,
+          347,
+          901,
+          444
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "We can extend the pattern given in Fig 7.2 by writing a few more rows. ",
+        "bbox": [
+          147,
+          445,
+          826,
+          464
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh107/hybrid_auto/images/f282c35aff95123c17e27269209ba8a9fbcf5042e25468bca2c9db8c58417046.jpg",
+        "image_caption": [
+          "Fig 7.2 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          262,
+          469,
+          750,
+          641
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Pascal's Triangle ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          676,
+          284,
+          695
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "The structure given in Fig 7.2 looks like a triangle with 1 at the top vertex and running down the two slanting sides. This array of numbers is known as Pascal's triangle, after the name of French mathematician Blaise Pascal. It is also known as Meru Prastara by Pingla. ",
+        "bbox": [
+          94,
+          698,
+          899,
+          774
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Expansions for the higher powers of a binomial are also possible by using Pascal's triangle. Let us expand $(2x + 3y)^5$ by using Pascal's triangle. The row for index 5 is ",
+        "bbox": [
+          94,
+          776,
+          899,
+          812
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "1 5 10 10 5 1 ",
+        "bbox": [
+          339,
+          815,
+          660,
+          831
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Using this row and our observations (i), (ii) and (iii), we get ",
+        "bbox": [
+          96,
+          834,
+          658,
+          852
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (2 x + 3 y) ^ {5} = (2 x) ^ {5} + 5 (2 x) ^ {4} (3 y) + 1 0 (2 x) ^ {3} (3 y) ^ {2} + 1 0 (2 x) ^ {2} (3 y) ^ {3} + 5 (2 x) (3 y) ^ {4} + (3 y) ^ {5} \\\\ = 3 2 x ^ {5} + 2 4 0 x ^ {4} y + 7 2 0 x ^ {3} y ^ {2} + 1 0 8 0 x ^ {2} y ^ {3} + 8 1 0 x y ^ {4} + 2 4 3 y ^ {5}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          853,
+          899,
+          891
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "header",
+        "text": "BINOMIAL THEOREM ",
+        "bbox": [
+          649,
+          103,
+          829,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "page_number",
+        "text": "127 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Now, if we want to find the expansion of $(2x + 3y)^{12}$ , we are first required to get the row for index 12. This can be done by writing all the rows of the Pascal's triangle till index 12. This is a slightly lengthy process. The process, as you observe, will become more difficult, if we need the expansions involving still larger powers. ",
+        "bbox": [
+          94,
+          138,
+          899,
+          214
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "We thus try to find a rule that will help us to find the expansion of the binomial for any power without writing all the rows of the Pascal's triangle, that come before the row of the desired index. ",
+        "bbox": [
+          94,
+          214,
+          899,
+          270
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "For this, we make use of the concept of combinations studied earlier to rewrite the numbers in the Pascal's triangle. We know that ${}^n\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ , $0 \\leq r \\leq n$ and $n$ is a non-negative integer. Also, ${}^n\\mathrm{C}_0 = 1 = {}^n\\mathrm{C}_n$ ",
+        "bbox": [
+          94,
+          273,
+          899,
+          368
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "The Pascal's triangle can now be rewritten as (Fig 7.3) ",
+        "bbox": [
+          96,
+          369,
+          621,
+          387
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh107/hybrid_auto/images/f05a2b29864dd69ec2b1e535b53d786d72e5d593aee5acf8eef5f80604f8c63e.jpg",
+        "image_caption": [
+          "Fig 7.3 Pascal's triangle "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          166,
+          391,
+          799,
+          682
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Observing this pattern, we can now write the row of the Pascal's triangle for any index without writing the earlier rows. For example, for the index 7 the row would be ",
+        "bbox": [
+          94,
+          709,
+          899,
+          748
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { 7 } \\mathrm { C } _ { 0 } \\ { } ^ { 7 } \\mathrm { C } _ { 1 } \\ { } ^ { 7 } \\mathrm { C } _ { 2 } \\ { } ^ { 7 } \\mathrm { C } _ { 3 } \\ { } ^ { 7 } \\mathrm { C } _ { 4 } \\ { } ^ { 7 } \\mathrm { C } _ { 5 } \\ { } ^ { 7 } \\mathrm { C } _ { 6 } \\ { } ^ { 7 } \\mathrm { C } _ { 7 } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          318,
+          754,
+          675,
+          777
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Thus, using this row and the observations (i), (ii) and (iii), we have ",
+        "bbox": [
+          96,
+          783,
+          722,
+          802
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(a + b) ^ {7} = ^ {7} \\mathrm {C} _ {0} a ^ {7} + 7 \\mathrm {C} _ {1} a ^ {6} b + ^ {7} \\mathrm {C} _ {2} a ^ {5} b ^ {2} + ^ {7} \\mathrm {C} _ {3} a ^ {4} b ^ {3} + 7 \\mathrm {C} _ {4} a ^ {3} b ^ {4} + ^ {7} \\mathrm {C} _ {5} a ^ {2} b ^ {5} + ^ {7} \\mathrm {C} _ {6} a b ^ {6} + ^ {7} \\mathrm {C} _ {7} b ^ {7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          94,
+          811,
+          899,
+          834
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "An expansion of a binomial to any positive integral index say $n$ can now be visualised using these observations. We are now in a position to write the expansion of a binomial to any positive integral index. ",
+        "bbox": [
+          94,
+          837,
+          899,
+          894
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "page_number",
+        "text": "128 ",
+        "bbox": [
+          100,
+          103,
+          128,
+          115
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          115
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "7.2.1 Binomial theorem for any positive integer $n$ , ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          138,
+          634,
+          157
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(a + b) ^ {n} = ^ {n} \\mathrm {C} _ {0} a ^ {n} + ^ {n} \\mathrm {C} _ {1} a ^ {n - 1} b + ^ {n} \\mathrm {C} _ {2} a ^ {n - 2} b ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n - 1} a. b ^ {n - 1} + ^ {n} \\mathrm {C} _ {n} b ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          177,
+          165,
+          818,
+          188
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Proof The proof is obtained by applying principle of mathematical induction. ",
+        "bbox": [
+          96,
+          194,
+          822,
+          213
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Let the given statement be ",
+        "bbox": [
+          96,
+          222,
+          354,
+          239
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\mathrm {P} (n): (a + b) ^ {n} = ^ {n} \\mathrm {C} _ {0} a ^ {n} + ^ {n} \\mathrm {C} _ {1} a ^ {n - 1} b + ^ {n} \\mathrm {C} _ {2} a ^ {n - 2} b ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n - 1} a. b ^ {n - 1} + ^ {n} \\mathrm {C} _ {n} b ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          170,
+          250,
+          886,
+          271
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "For $n = 1$ , we have ",
+        "bbox": [
+          173,
+          279,
+          361,
+          296
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\nP (1): (a + b) ^ {1} = ^ {1} C _ {0} a ^ {1} + ^ {1} C _ {1} b ^ {1} = a + b\n$$",
+        "text_format": "latex",
+        "bbox": [
+          173,
+          305,
+          557,
+          327
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Thus, P (1) is true. ",
+        "bbox": [
+          96,
+          334,
+          277,
+          353
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Suppose $\\mathrm{P}(k)$ is true for some positive integer $k$ , i.e. ",
+        "bbox": [
+          145,
+          362,
+          649,
+          381
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "$(a + b)^{k} = {}^{k}\\mathrm{C}_{0}a^{k} + {}^{k}\\mathrm{C}_{1}a^{k - 1}b + {}^{k}\\mathrm{C}_{2}a^{k - 2}b^{2} + \\ldots +{}^{k}\\mathrm{C}_{k}b^{k}$ 1 ",
+        "bbox": [
+          96,
+          388,
+          899,
+          429
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "We shall prove that $\\mathrm{P}(k + 1)$ is also true, i.e., ",
+        "bbox": [
+          96,
+          437,
+          525,
+          456
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(a + b) ^ {k + 1} = ^ {k + 1} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k + 1} \\mathrm {C} _ {1} a ^ {k} b + ^ {k + 1} \\mathrm {C} _ {2} a ^ {k - 1} b ^ {2} + \\dots + ^ {k + 1} \\mathrm {C} _ {k + 1} b ^ {k + 1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          147,
+          464,
+          809,
+          488
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {N o w}, (a + b) ^ {k + 1} = (a + b) (a + b) ^ {k}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          98,
+          494,
+          431,
+          513
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= (a + b) \\left(^ {k} \\mathrm {C} _ {0} a ^ {k} + ^ {k} \\mathrm {C} _ {1} a ^ {k - 1} b + ^ {k} \\mathrm {C} _ {2} a ^ {k - 2} b ^ {2} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a b ^ {k - 1} + ^ {k} \\mathrm {C} _ {k} b ^ {k}\\right) \\tag {from(1)}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          521,
+          899,
+          561
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {k} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k} \\mathrm {C} _ {1} a ^ {k} b + ^ {k} \\mathrm {C} _ {2} a ^ {k - 1} b ^ {2} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a ^ {2} b ^ {k - 1} + ^ {k} \\mathrm {C} _ {k} a b ^ {k} + ^ {k} \\mathrm {C} _ {0} a ^ {k} b\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          568,
+          873,
+          590
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n+ ^ {k} \\mathrm {C} _ {1} a ^ {k - 1} b ^ {2} + ^ {k} \\mathrm {C} _ {2} a ^ {k - 2} b ^ {3} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a b ^ {k} + ^ {k} \\mathrm {C} _ {k} b ^ {k + 1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          279,
+          596,
+          702,
+          619
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "[by actual multiplication] ",
+        "bbox": [
+          690,
+          616,
+          897,
+          635
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {k} \\mathrm {C} _ {0} a ^ {k + 1} + \\left(^ {k} \\mathrm {C} _ {1} + ^ {k} \\mathrm {C} _ {0}\\right) a ^ {k} b + \\left(^ {k} \\mathrm {C} _ {2} + ^ {k} \\mathrm {C} _ {1}\\right) a ^ {k - 1} b ^ {2} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          644,
+          737,
+          666
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n+ \\left(^ {k} \\mathrm {C} _ {k} + ^ {k} \\mathrm {C} _ {k - 1}\\right) a b ^ {k} + ^ {k} \\mathrm {C} _ {k} b ^ {k + 1} \\quad [ \\text {g r o u p i n g l i k e t e r m s} ]\n$$",
+        "text_format": "latex",
+        "bbox": [
+          286,
+          672,
+          873,
+          694
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= ^ {k + 1} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k + 1} \\mathrm {C} _ {1} a ^ {k} b + ^ {k + 1} \\mathrm {C} _ {2} a ^ {k - 1} \\mathrm {b} ^ {2} + \\dots + ^ {k + 1} \\mathrm {C} _ {k} a b ^ {k} + ^ {k + 1} \\mathrm {C} _ {k + 1} b ^ {k + 1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          698,
+          897,
+          722
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "(by using ${}^{\\mathrm{k + 1}}\\mathrm{C}_0 = 1$ , ${}^k\\mathrm{C}_r + {}^k\\mathrm{C}_{r - 1} = {}^k +1\\mathrm{C}_r$ and ${}^k\\mathrm{C}_k = 1 = {}^k +1\\mathrm{C}_{k + 1}$ ) ",
+        "bbox": [
+          158,
+          728,
+          811,
+          751
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Thus, it has been proved that $\\mathrm{P}(k + 1)$ is true whenever $\\mathrm{P}(k)$ is true. Therefore, by principle of mathematical induction, $\\mathrm{P}(n)$ is true for every positive integer $n$ . ",
+        "bbox": [
+          94,
+          757,
+          899,
+          796
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "We illustrate this theorem by expanding $(x + 2)^6$ : ",
+        "bbox": [
+          147,
+          804,
+          606,
+          824
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (x + 2) ^ {6} = ^ {6} \\mathrm {C} _ {0} x ^ {6} + ^ {6} \\mathrm {C} _ {1} x ^ {5}. 2 + ^ {6} \\mathrm {C} _ {2} x ^ {4} 2 ^ {2} + ^ {6} \\mathrm {C} _ {3} x ^ {3}. 2 ^ {3} + ^ {6} \\mathrm {C} _ {4} x ^ {2}. 2 ^ {4} + ^ {6} \\mathrm {C} _ {5} x. 2 ^ {5} + ^ {6} \\mathrm {C} _ {6}. 2 ^ {6}. \\\\ = x ^ {6} + 1 2 x ^ {5} + 6 0 x ^ {4} + 1 6 0 x ^ {3} + 2 4 0 x ^ {2} + 1 9 2 x + 6 4 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          147,
+          831,
+          897,
+          878
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Thus $(x + 2)^6 = x^6 + 12x^5 + 60x^4 + 160x^3 + 240x^2 + 192x + 64$ . ",
+        "bbox": [
+          96,
+          888,
+          692,
+          907
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "header",
+        "text": "BINOMIAL THEOREM ",
+        "bbox": [
+          649,
+          103,
+          829,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "page_number",
+        "text": "129 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Observations ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          138,
+          243,
+          154
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "1. The notation $\\sum_{k=0}^{n}{}^{n} \\mathrm{C}_{k} a^{n-k} b^{k}$ stands for ",
+        "bbox": [
+          96,
+          166,
+          525,
+          210
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n{ } ^ { n } \\mathrm { C } _ { 0 } a ^ { n } b ^ { 0 } + { } ^ { n } \\mathrm { C } _ { 1 } a ^ { n - 1 } b ^ { 1 } + \\ldots + { } ^ { n } \\mathrm { C } _ { \\mathrm { r } } a ^ { n - r } b ^ { r } + \\ldots + { } ^ { n } \\mathrm { C } _ { n } a ^ { n - n } b ^ { n } , \\text { w h e r e } b ^ { 0 } = 1 = a ^ { n - n } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          143,
+          216,
+          835,
+          236
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Hence the theorem can also be stated as ",
+        "bbox": [
+          96,
+          236,
+          487,
+          252
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(a + b) ^ {n} = \\sum_ {k = 0} ^ {n} ^ {n} \\mathrm {C} _ {k} a ^ {n - k} b ^ {k}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          341,
+          264,
+          613,
+          309
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "2. The coefficients ${}^n\\mathrm{C}_r$ occurring in the binomial theorem are known as binomial coefficients. ",
+          "3. There are $(n + 1)$ terms in the expansion of $(a + b)^n$ , i.e., one more than the index. ",
+          "4. In the successive terms of the expansion the index of $a$ goes on decreasing by unity. It is $n$ in the first term, $(n - 1)$ in the second term, and so on ending with zero in the last term. At the same time the index of $b$ increases by unity, starting with zero in the first term, 1 in the second and so on ending with $n$ in the last term. ",
+          "5. In the expansion of $(a + b)^n$ , the sum of the indices of $a$ and $b$ is $n + 0 = n$ in the first term, $(n - 1) + 1 = n$ in the second term and so on $0 + n = n$ in the last term. Thus, it can be seen that the sum of the indices of $a$ and $b$ is $n$ in every term of the expansion. "
+        ],
+        "bbox": [
+          94,
+          314,
+          897,
+          524
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "7.2.2 Some special cases In the expansion of $(a + b)^n$ ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          535,
+          643,
+          554
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "(i) Taking $a = x$ and $b = -y$ , we obtain ",
+        "bbox": [
+          94,
+          562,
+          495,
+          581
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (x - y) ^ {n} = [ x + (- y) ] ^ {n} \\\\ = ^ {n} C _ {0} x ^ {n} + ^ {n} C _ {1} x ^ {n - 1} (- y) + ^ {n} C _ {2} x ^ {n - 2} (- y) ^ {2} + ^ {n} C _ {3} x ^ {n - 3} (- y) ^ {3} + \\dots + ^ {n} C _ {n} (- y) ^ {n} \\\\ = ^ {n} C _ {0} x ^ {n} - ^ {n} C _ {1} x ^ {n - 1} y + ^ {n} C _ {2} x ^ {n - 2} y ^ {2} - ^ {n} C _ {3} x ^ {n - 3} y ^ {3} + \\dots + (- 1) ^ {n} ^ {n} C _ {n} y ^ {n} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          145,
+          590,
+          895,
+          669
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Thus $(x - y)^{n} = {}^{n}\\mathrm{C}_{0}x^{n} - {}^{n}\\mathrm{C}_{1}x^{n - 1}y + {}^{n}\\mathrm{C}_{2}x^{n - 2}y^{2} + \\ldots +(-1)^{n}{}^{n}\\mathrm{C}_{n}y^{n}$ ",
+        "bbox": [
+          96,
+          675,
+          715,
+          697
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Using this, we have $(x - 2y)^{5} = {}^{5}\\mathrm{C}_{0}x^{5} - {}^{5}\\mathrm{C}_{1}x^{4}(2y) + {}^{5}\\mathrm{C}_{2}x^{3}(2y)^{2} - {}^{5}\\mathrm{C}_{3}x^{2}(2y)^{3} +$ ",
+        "bbox": [
+          96,
+          703,
+          897,
+          726
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} ^ {5} \\mathrm {C} _ {4} x (2 y) ^ {4} - ^ {5} \\mathrm {C} _ {5} (2 y) ^ {5} \\\\ = x ^ {5} - 1 0 x ^ {4} y + 4 0 x ^ {3} y ^ {2} - 8 0 x ^ {2} y ^ {3} + 8 0 x y ^ {4} - 3 2 y ^ {5}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          703,
+          897,
+          780
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "(ii) Taking $a = 1$ , $b = x$ , we obtain ",
+        "bbox": [
+          96,
+          788,
+          435,
+          805
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (1 + x) ^ {n} = ^ {n} C _ {0} (1) ^ {n} + ^ {n} C _ {1} (1) ^ {n - 1} x + ^ {n} C _ {2} (1) ^ {n - 2} x ^ {2} + \\dots + ^ {n} C _ {n} x ^ {n} \\\\ = ^ {n} \\mathrm {C} _ {0} + ^ {n} \\mathrm {C} _ {1} x + ^ {n} \\mathrm {C} _ {2} x ^ {2} + ^ {n} \\mathrm {C} _ {3} x ^ {3} + \\dots + ^ {n} \\mathrm {C} _ {n} x ^ {n} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          198,
+          815,
+          756,
+          866
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Thus ",
+        "bbox": [
+          96,
+          872,
+          681,
+          894
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "page_number",
+        "text": "130 ",
+        "bbox": [
+          100,
+          103,
+          128,
+          115
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          115
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "In particular, for $x = 1$ , we have ",
+        "bbox": [
+          96,
+          138,
+          405,
+          154
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n2 ^ {n} = ^ {n} C _ {0} + ^ {n} C _ {1} + ^ {n} C _ {2} + \\dots + ^ {n} C _ {n}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          250,
+          166,
+          557,
+          188
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(iii) Taking $a = 1$ , $b = -x$ , we obtain ",
+        "bbox": [
+          96,
+          194,
+          485,
+          213
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 - x) ^ {n} = ^ {n} C _ {0} - ^ {n} C _ {1} x + ^ {n} C _ {2} x ^ {2} - \\dots + (- 1) ^ {n} ^ {n} C _ {n} x ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          173,
+          220,
+          653,
+          242
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "In particular, for $x = 1$ , we get ",
+        "bbox": [
+          119,
+          251,
+          410,
+          269
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n0 = ^ {n} C _ {0} - ^ {n} C _ {1} + ^ {n} C _ {2} - \\dots + (- 1) ^ {n} ^ {n} C _ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          264,
+          277,
+          613,
+          301
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 1 Expand $\\left(x^{2} + \\frac{3}{x}\\right)^{4}, x \\neq 0$ ",
+        "bbox": [
+          96,
+          314,
+          461,
+          359
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution By using binomial theorem, we have ",
+        "bbox": [
+          96,
+          366,
+          536,
+          385
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} x ^ {2} + \\frac {3}{x} ^ {4} = ^ {4} \\mathrm {C} _ {0} (x ^ {2}) ^ {4} + ^ {4} \\mathrm {C} _ {1} (x ^ {2}) ^ {3} \\left(\\frac {3}{x}\\right) + ^ {4} \\mathrm {C} _ {2} (x ^ {2}) ^ {2} \\left(\\frac {3}{x}\\right) ^ {2} + ^ {4} \\mathrm {C} _ {3} (x ^ {2}) \\left(\\frac {3}{x}\\right) ^ {3} + ^ {4} \\mathrm {C} _ {4} \\left(\\frac {3}{x}\\right) ^ {4} \\\\ = x ^ {8} + 4. x ^ {6} \\cdot \\frac {3}{x} + 6. x ^ {4} \\cdot \\frac {9}{x ^ {2}} + 4. x ^ {2} \\cdot \\frac {2 7}{x ^ {3}} + \\frac {8 1}{x ^ {4}} \\\\ = x ^ {8} + 1 2 x ^ {5} + 5 4 x ^ {2} + \\frac {1 0 8}{x} + \\frac {8 1}{x ^ {4}}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          111,
+          391,
+          895,
+          554
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 2 Compute $(98)^{5}$ . ",
+        "bbox": [
+          96,
+          565,
+          363,
+          584
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution We express 98 as the sum or difference of two numbers whose powers are easier to calculate, and then use Binomial Theorem. ",
+        "bbox": [
+          94,
+          595,
+          899,
+          631
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Write $98 = 100 - 2$ ",
+        "bbox": [
+          96,
+          637,
+          279,
+          654
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Therefore, $(98)^{5} = (100 - 2)^{5}$ ",
+        "bbox": [
+          96,
+          660,
+          380,
+          679
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = ^ {5} \\mathrm {C} _ {0} (1 0 0) ^ {5} - ^ {5} \\mathrm {C} _ {1} (1 0 0) ^ {4}. 2 + ^ {5} \\mathrm {C} _ {2} (1 0 0) ^ {3} 2 ^ {2} \\\\ - ^ {5} \\mathrm {C} _ {3} (1 0 0) ^ {2} (2) ^ {3} + ^ {5} \\mathrm {C} _ {4} (1 0 0) (2) ^ {4} - ^ {5} \\mathrm {C} _ {5} (2) ^ {5} \\\\ = 1 0 0 0 0 0 0 0 0 0 0 - 5 \\times 1 0 0 0 0 0 0 0 0 \\times 2 + 1 0 \\times 1 0 0 0 0 0 0 \\times 4 - 1 0 \\times 1 0 0 0 0 \\\\ \\times 8 + 5 \\times 1 0 0 \\times 1 6 - 3 2 \\\\ = 1 0 0 4 0 0 0 8 0 0 0 - 1 0 0 0 8 0 0 0 3 2 = 9 0 3 9 2 0 7 9 6 8. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          684,
+          897,
+          805
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 3 Which is larger $(1.01)^{1000000}$ or $10,000?$ ",
+        "bbox": [
+          96,
+          815,
+          587,
+          834
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution Splitting 1.01 and using binomial theorem to write the first few terms we have ",
+        "bbox": [
+          94,
+          843,
+          899,
+          881
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "header",
+        "text": "BINOMIAL THEOREM ",
+        "bbox": [
+          649,
+          103,
+          829,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_number",
+        "text": "131 ",
+        "bbox": [
+          869,
+          103,
+          895,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} (1. 0 1) ^ {1 0 0 0 0 0 0} = (1 + 0. 0 1) ^ {1 0 0 0 0 0 0} \\\\ = ^ {1 0 0 0 0 0 0} C _ {0} + ^ {1 0 0 0 0 0 0} C _ {1} (0. 0 1) + \\text {o t h e r p o s i t i v e t e r m s} \\\\ = 1 + 1 0 0 0 0 0 0 \\times 0. 0 1 + \\text {o t h e r p o s i t i v e t e r m s} \\\\ = 1 + 1 0 0 0 0 + \\text {o t h e r p o s i t i v e t e r m s} \\\\ > 1 0 0 0 0 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          153,
+          138,
+          732,
+          283
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Hence $(1.01)^{1000000} > 10000$ ",
+        "bbox": [
+          98,
+          299,
+          455,
+          318
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Example 4 Using binomial theorem, prove that $6^{n} - 5n$ always leaves remainder 1 when divided by 25. ",
+        "bbox": [
+          96,
+          339,
+          899,
+          378
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution For two numbers $a$ and $b$ if we can find numbers $q$ and $r$ such that $a = bq + r$ , then we say that $b$ divides $a$ with $q$ as quotient and $r$ as remainder. Thus, in order to show that $6^n - 5n$ leaves remainder 1 when divided by 25, we prove that $6^n - 5n = 25k + 1$ , where $k$ is some natural number. ",
+        "bbox": [
+          94,
+          391,
+          899,
+          475
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "We have ",
+        "bbox": [
+          96,
+          486,
+          185,
+          504
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 + a) ^ {n} = ^ {n} C _ {0} + ^ {n} C _ {1} a + ^ {n} C _ {2} a ^ {2} + \\dots + ^ {n} C _ {n} a ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          256,
+          514,
+          668,
+          536
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "For $a = 5$ , we get ",
+        "bbox": [
+          96,
+          543,
+          288,
+          562
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 + 5) ^ {n} = ^ {n} \\mathrm {C} _ {0} + ^ {n} \\mathrm {C} _ {1} 5 + ^ {n} \\mathrm {C} _ {2} 5 ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n} 5 ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          230,
+          571,
+          623,
+          593
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "i.e. $(6)^{n} = 1 + 5n + 5^{2}.^{n}\\mathrm{C}_{2} + 5^{3}.^{n}\\mathrm{C}_{3} + \\ldots +5^{n}$ ",
+        "bbox": [
+          100,
+          605,
+          598,
+          625
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "i.e. $6^{n} - 5n = 1 + 5^{2}$ $(^{n}\\mathrm{C}_{2} + ^{n}\\mathrm{C}_{3}5 + \\ldots +5^{n - 2})$ ",
+        "bbox": [
+          100,
+          637,
+          576,
+          657
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "or $6^{n} - 5n = 1 + 25\\left(^{n}\\mathrm{C}_{2} + 5.^{n}\\mathrm{C}_{3} + \\ldots +5^{n - 2}\\right)$ ",
+        "bbox": [
+          100,
+          669,
+          598,
+          690
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "or $6^{n} - 5n = 25k + 1$ where $k = {}^n\\mathbf{C}_2 + 5.^n\\mathbf{C}_3 + \\ldots +5^{n - 2}.$ ",
+        "bbox": [
+          100,
+          701,
+          728,
+          723
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "This shows that when divided by 25, $6^{n} - 5n$ leaves remainder 1. ",
+        "bbox": [
+          96,
+          729,
+          705,
+          748
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "EXERCISE 7.1 ",
+        "text_level": 1,
+        "bbox": [
+          414,
+          774,
+          581,
+          793
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Expand each of the expressions in Exercises 1 to 5. ",
+        "bbox": [
+          96,
+          805,
+          587,
+          824
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "1. $(1 - 2x)^{5}$ ",
+        "bbox": [
+          113,
+          858,
+          224,
+          877
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "2. $\\left(\\frac{2}{x} -\\frac{x}{2}\\right)^{5}$ ",
+        "bbox": [
+          388,
+          842,
+          519,
+          887
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "3. $(2x - 3)^6$ ",
+        "bbox": [
+          594,
+          859,
+          717,
+          875
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "page_number",
+        "text": "132 ",
+        "bbox": [
+          100,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          116
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "4. $\\left(\\frac{x}{3} + \\frac{1}{x}\\right)^5$ ",
+        "bbox": [
+          108,
+          140,
+          247,
+          187
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "5. $\\left(x + \\frac{1}{x}\\right)^6$ ",
+        "bbox": [
+          386,
+          140,
+          523,
+          188
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Using binomial theorem, evaluate each of the following: ",
+        "bbox": [
+          96,
+          203,
+          621,
+          222
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "6. (96)3 ",
+          "7. (102) $^5$ ",
+          "8. (101)4 ",
+          "9. (99)5 ",
+          "10. Using Binomial Theorem, indicate which number is larger $(1.1)^{10000}$ or 1000. ",
+          "11. Find $(a + b)^4 - (a - b)^4$ . Hence, evaluate $(\\sqrt{3} + \\sqrt{2})^4 - (\\sqrt{3} - \\sqrt{2})^4$ . ",
+          "12. Find $(x + 1)^6 + (x - 1)^6$ . Hence or otherwise evaluate $(\\sqrt{2} + 1)^6 + (\\sqrt{2} - 1)^6$ . ",
+          "13. Show that $9^{n + 1} - 8n - 9$ is divisible by 64, whenever $n$ is a positive integer. ",
+          "14. Prove that $\\sum_{r=0}^{n} 3^{r} n \\mathrm{C}_{r} = 4^{n}$ . "
+        ],
+        "bbox": [
+          98,
+          226,
+          891,
+          429
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Miscellaneous Exercise on Chapter 7 ",
+        "text_level": 1,
+        "bbox": [
+          297,
+          453,
+          698,
+          472
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1. If $a$ and $b$ are distinct integers, prove that $a - b$ is a factor of $a^n - b^n$ , whenever $n$ is a positive integer. ",
+          "[Hint write $a^n = (a - b + b)^n$ and expand] ",
+          "2. Evaluate $\\left(\\sqrt{3} + \\sqrt{2}\\right)^6 - \\left(\\sqrt{3} - \\sqrt{2}\\right)^6$ . ",
+          "3. Find the value of $\\left(a^2 + \\sqrt{a^2 - 1}\\right)^4 + \\left(a^2 - \\sqrt{a^2 - 1}\\right)^4$ . ",
+          "4. Find an approximation of $(0.99)^5$ using the first three terms of its expansion. ",
+          "5. Expand using Binomial Theorem $\\left(1 + \\frac{x}{2} - \\frac{2}{x}\\right)^4$ , $x \\neq 0$ . ",
+          "6. Find the expansion of $(3x^{2} - 2ax + 3a^{2})^{3}$ using binomial theorem. "
+        ],
+        "bbox": [
+          108,
+          486,
+          897,
+          750
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+          444,
+          767,
+          551,
+          788
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "$\\diamond$ The expansion of a binomial for any positive integral $n$ is given by Binomial Theorem, which is $(a + b)^n = {}^n\\mathrm{C}_0a^n +{}^n\\mathrm{C}_1a^{n - 1}b + {}^n\\mathrm{C}_2a^{n - 2}b^2 +\\ldots +$ ${}^n\\mathrm{C}_{n - 1}a.b^{n - 1} + {}^n\\mathrm{C}_n b^n.$ ",
+          "$\\diamond$ The coefficients of the expansions are arranged in an array. This array is called Pascal's triangle. "
+        ],
+        "bbox": [
+          123,
+          796,
+          873,
+          894
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "header",
+        "text": "BINOMIAL THEOREM ",
+        "bbox": [
+          649,
+          103,
+          829,
+          116
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "page_number",
+        "text": "133 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Historical Note ",
+        "text_level": 1,
+        "bbox": [
+          412,
+          149,
+          583,
+          166
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The ancient Indian mathematicians knew about the coefficients in the expansions of $(x + y)^n$ , $0 \\leq n \\leq 7$ . The arrangement of these coefficients was in the form of a diagram called Meru-Prastara, provided by Pingla in his book Chhanda shastra (200B.C.). This triangular arrangement is also found in the work of Chinese mathematician Chu-shi-kie in 1303. The term binomial coefficients was first introduced by the German mathematician, Michael Stipel (1486-1567) in approximately 1544. Bombelli (1572) also gave the coefficients in the expansion of $(a + b)^n$ , for $n = 1, 2, \\ldots, 7$ and Oughtred (1631) gave them for $n = 1, 2, \\ldots, 10$ . The arithmetic triangle, popularly known as Pascal's triangle and similar to the Meru-Prastara of Pingla was constructed by the French mathematician Blaise Pascal (1623-1662) in 1665. ",
+        "bbox": [
+          121,
+          178,
+          873,
+          388
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The present form of the binomial theorem for integral values of $n$ appeared in Trate du triangle arithmetic, written by Pascal and published posthumously in 1665. ",
+        "bbox": [
+          123,
+          391,
+          873,
+          447
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh107/hybrid_auto/images/e3cdadd1c1d8a460e3f29bcfc9684fc9a7685a9964a5e6b0c7aa3bd4719ac185.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          440,
+          519,
+          555,
+          538
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "page_number",
+        "text": "134 ",
+        "bbox": [
+          100,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          168,
+          103,
+          294,
+          115
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          435,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 8
+      }
+    ],
+    "doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "mtime": 1770964101.0,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1770983398.9463377,
+    "cache_version": "1.0",
+    "create_time": 1770983398,
+    "update_time": 1770983398,
+    "_id": "59bd81764e9198497540d0454c8a058e"
   }
 }
