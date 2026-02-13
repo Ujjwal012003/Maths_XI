@@ -28005,5 +28005,1548 @@
     "create_time": 1770983398,
     "update_time": 1770983398,
     "_id": "59bd81764e9198497540d0454c8a058e"
+  },
+  "f7b2970741e4e72559f4962dc59afc8c": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "INFINITE SERIES ",
+        "text_level": 1,
+        "bbox": [
+          286,
+          222,
+          707,
+          252
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "A.1.1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          314,
+          301,
+          333
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "As discussed in the Chapter 9 on Sequences and Series, a sequence $a_1, a_2, \\ldots, a_n, \\ldots$ having infinite number of terms is called infinite sequence and its indicated sum, i.e., $a_1 + a_2 + a_3 + \\ldots + a_n + \\ldots$ is called an infinite series associated with infinite sequence. This series can also be expressed in abbreviated form using the sigma notation, i.e., ",
+        "bbox": [
+          94,
+          340,
+          895,
+          421
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\na _ {1} + a _ {2} + a _ {3} + \\dots + a _ {n} + \\dots = \\sum_ {k = 1} ^ {\\infty} a _ {k}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          215,
+          434,
+          591,
+          478
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In this Chapter, we shall study about some special types of series which may be required in different problem situations. ",
+        "bbox": [
+          94,
+          483,
+          895,
+          523
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "A.1.2 Binomial Theorem for any Index ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          532,
+          514,
+          552
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In Chapter 8, we discussed the Binomial Theorem in which the index was a positive integer. In this Section, we state a more general form of the theorem in which the index is not necessarily a whole number. It gives us a particular type of infinite series, called Binomial Series. We illustrate few applications, by examples. ",
+        "bbox": [
+          94,
+          555,
+          895,
+          637
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "We know the formula ",
+        "bbox": [
+          147,
+          638,
+          358,
+          654
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 + x) ^ {n} = ^ {n} C _ {0} + ^ {n} C _ {1} x + \\dots + ^ {n} C _ {n} x ^ {n}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          215,
+          666,
+          604,
+          688
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Here, $n$ is non-negative integer. Observe that if we replace index $n$ by negative integer or a fraction, then the combinations ${}^n\\mathbf{C}_r$ do not make any sense. ",
+        "bbox": [
+          94,
+          692,
+          895,
+          739
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "We now state (without proof), the Binomial Theorem, giving an infinite series in which the index is negative or a fraction and not a whole number. ",
+        "bbox": [
+          94,
+          745,
+          895,
+          785
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Theorem The formula ",
+        "bbox": [
+          96,
+          793,
+          320,
+          809
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 + x) ^ {m} = 1 + m x + \\frac {m (m - 1)}{1 . 2} x ^ {2} + \\frac {m (m - 1) (m - 2)}{1 . 2 . 3} x ^ {3} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          821,
+          758,
+          865
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "holds whenever $|x| < 1$ . ",
+        "bbox": [
+          94,
+          875,
+          318,
+          899
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "header",
+        "text": "Appendix ",
+        "bbox": [
+          683,
+          140,
+          811,
+          163
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+          844,
+          128,
+          869,
+          160
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Remark 1. Note carefully the condition $|x| < 1$ , i.e., $-1 < x < 1$ is necessary when $m$ is negative integer or a fraction. For example, if we take $x = -2$ and $m = -2$ , we obtain ",
+        "bbox": [
+          96,
+          138,
+          899,
+          197
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\n(1 - 2) ^ {- 2} = 1 + (- 2) (- 2) + \\frac {(- 2) (- 3)}{1 . 2} (- 2) ^ {2} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          207,
+          651,
+          250
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "or $1 = 1 + 4 + 12 + \\dots .$ ",
+        "bbox": [
+          96,
+          257,
+          405,
+          273
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "This is not possible. ",
+        "bbox": [
+          147,
+          277,
+          331,
+          296
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "2. Note that there are infinite numbers of terms in the expansion of $(1 + x)^m$ , when $m$ is a negative integer or a fraction ",
+        "bbox": [
+          96,
+          302,
+          899,
+          342
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Consider $\\left(a + b\\right)^{m} = \\left[a\\left(1 + \\frac{b}{a}\\right)\\right]^{m} = a^{m}\\left(1 + \\frac{b}{a}\\right)^{m}$ ",
+        "bbox": [
+          96,
+          353,
+          653,
+          400
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = a ^ {m} \\left[ 1 + m \\frac {b}{a} + \\frac {m (m - 1)}{1 . 2} \\left(\\frac {b}{a}\\right) ^ {2} + \\dots \\right] \\\\ = a ^ {m} + m a ^ {m - 1} b + \\frac {m (m - 1)}{1 . 2} a ^ {m - 2} b ^ {2} + \\dots \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          367,
+          418,
+          732,
+          530
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "This expansion is valid when $\\left|\\frac{b}{a}\\right| < 1$ or equivalently when $|b| < |a|$ . ",
+        "bbox": [
+          147,
+          546,
+          799,
+          590
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "The general term in the expansion of $(a + b)^m$ is ",
+        "bbox": [
+          147,
+          597,
+          606,
+          616
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {m (m - 1) (m - 2) \\dots (m - r + 1) a ^ {m - r} b ^ {r}}{1 . 2 . 3 \\dots r}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          322,
+          625,
+          670,
+          672
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "We give below certain particular cases of Binomial Theorem, when we assume $|x| < 1$ , these are left to students as exercises: ",
+        "bbox": [
+          96,
+          678,
+          899,
+          725
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "1. $(1 + x)^{-1} = 1 - x + x^{2} - x^{3} + \\dots$ ",
+          "2. $(1 - x)^{-1} = 1 + x + x^{2} + x^{3} + \\dots$ ",
+          "3. $(1 + x)^{-2} = 1 - 2x + 3x^{2} - 4x^{3} + \\dots$ ",
+          "4. $(1 - x)^{-2} = 1 + 2x + 3x^{2} + 4x^{3} + \\dots$ "
+        ],
+        "bbox": [
+          147,
+          730,
+          544,
+          828
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Example 1 Expand $\\left(1 - \\frac{x}{2}\\right)^{-\\frac{1}{2}}$ , when $|x| < 2$ . ",
+        "bbox": [
+          96,
+          840,
+          538,
+          893
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "header",
+        "text": "INFINITE SERIES ",
+        "bbox": [
+          685,
+          103,
+          824,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "page_number",
+        "text": "315 ",
+        "bbox": [
+          867,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Solution We have ",
+        "bbox": [
+          96,
+          138,
+          279,
+          156
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\left(1 - \\frac {x}{2}\\right) ^ {- \\frac {1}{2}} = 1 + \\frac {\\left(- \\frac {1}{2}\\right)}{1} \\left(\\frac {- x}{2}\\right) + \\frac {\\left(- \\frac {1}{2}\\right) \\left(- \\frac {3}{2}\\right)}{1 . 2} \\left(- \\frac {x}{2}\\right) ^ {2} + \\dots \\\\ = 1 + \\frac {x}{4} + \\frac {3 x ^ {2}}{3 2} + \\dots \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          267,
+          169,
+          784,
+          292
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "A.1.3 Infinite Geometric Series ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          307,
+          440,
+          326
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "From Chapter 9, Section 9.5, a sequence $a_1, a_2, a_3, \\ldots, a_n$ is called G.P., if $\\frac{a_{k+1}}{a_k} = r$ (constant) for $k = 1, 2, 3, \\ldots, n-1$ . Particularly, if we take $a_1 = a$ , then the resulting sequence $a, ar, ar^2, \\ldots, ar^{n-1}$ is taken as the standard form of G.P., where $a$ is first term and $r$ , the common ratio of G.P. ",
+        "bbox": [
+          96,
+          331,
+          905,
+          448
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Earlier, we have discussed the formula to find the sum of finite series $a + ar + ar^2 + \\ldots + ar^{n-1}$ which is given by ",
+        "bbox": [
+          94,
+          451,
+          901,
+          495
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} = \\frac {a \\left(1 - r ^ {n}\\right)}{1 - r}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          508,
+          371,
+          558
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "In this section, we state the formula to find the sum of infinite geometric series $a + ar + ar^2 + \\ldots + ar^{q-1} + \\ldots$ and illustrate the same by examples. ",
+        "bbox": [
+          94,
+          574,
+          901,
+          616
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Let us consider the G.P. 1, $\\frac{2}{3}, \\frac{4}{9}, \\ldots$ ",
+        "bbox": [
+          147,
+          630,
+          508,
+          669
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Here $a = 1, r = \\frac{2}{3}$ . We have ",
+        "bbox": [
+          96,
+          685,
+          380,
+          723
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} = \\frac {1 - \\left(\\frac {2}{3}\\right) ^ {n}}{1 - \\frac {2}{3}} = 3 \\left[ 1 - \\left(\\frac {2}{3}\\right) ^ {n} \\right] \\tag {1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          747,
+          820,
+          828
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Let us study the behaviour of $\\left(\\frac{2}{3}\\right)^n$ as $n$ becomes larger and larger. ",
+        "bbox": [
+          147,
+          852,
+          792,
+          897
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "page_number",
+        "text": "316 ",
+        "bbox": [
+          98,
+          103,
+          130,
+          116
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          103,
+          299,
+          116
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/Maths_XI/output/kemh1a1/hybrid_auto/images/cd931be10221aaa1ded68249c8520bc241e108a6e563e7d046b221909676b87f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>n</td><td>1</td><td>5</td><td>10</td><td>20</td></tr><tr><td>(2/3)n</td><td>0.6667</td><td>0.1316872428</td><td>0.01734152992</td><td>0.00030072866</td></tr></table>",
+        "bbox": [
+          100,
+          138,
+          899,
+          225
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "We observe that as $n$ becomes larger and larger, $\\left(\\frac{2}{3}\\right)^n$ becomes closer and closer to zero. Mathematically, we say that as $n$ becomes sufficiently large, $\\left(\\frac{2}{3}\\right)^n$ becomes sufficiently small. In other words, as $n \\to \\infty, \\left(\\frac{2}{3}\\right)^n \\to 0$ . Consequently, we find that the sum of infinitely many terms is given by $S = 3$ . ",
+        "bbox": [
+          96,
+          236,
+          895,
+          429
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Thus, for infinite geometric progression $a, ar, ar^2, \\ldots$ , if numerical value of common ratio $r$ is less than 1, then ",
+        "bbox": [
+          96,
+          431,
+          895,
+          469
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} = \\frac {a \\left(1 - r ^ {n}\\right)}{1 - r} = \\frac {a}{1 - r} - \\frac {a r ^ {n}}{1 - r}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          337,
+          480,
+          638,
+          530
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "In this case, $r^n \\to 0$ as $n \\to \\infty$ since $|r| < 1$ and then $\\frac{ar^n}{1 - r} \\to 0$ . Therefore, ",
+        "bbox": [
+          147,
+          546,
+          869,
+          584
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "equation",
+        "text": "$$\nS _ {n} \\rightarrow \\frac {a}{1 - r} \\text {a s} n \\rightarrow \\infty .\n$$",
+        "text_format": "latex",
+        "bbox": [
+          341,
+          603,
+          561,
+          638
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Symbolically, sum to infinity of infinite geometric series is denoted by S. Thus, we have $S = \\frac{a}{1 - r}$ . ",
+        "bbox": [
+          96,
+          646,
+          895,
+          710
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "For example ",
+        "bbox": [
+          96,
+          717,
+          220,
+          735
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "(i) $1 + \\frac{1}{2} + \\frac{1}{2^2} + \\frac{1}{2^3} + \\ldots = \\frac{1}{1 - \\frac{1}{2}} = 2$ ",
+          "(ii) $1 - \\frac{1}{2} + \\frac{1}{2^2} - \\frac{1}{2^3} + \\ldots = \\frac{1}{1 - \\left(-\\frac{1}{2}\\right)} = \\frac{1}{1 + \\frac{1}{2}} = \\frac{2}{3}$ "
+        ],
+        "bbox": [
+          149,
+          748,
+          604,
+          890
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "header",
+        "text": "INFINITE SERIES ",
+        "bbox": [
+          688,
+          103,
+          824,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "page_number",
+        "text": "317 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Example 2 Find the sum to infinity of the G.P. ; ",
+        "bbox": [
+          96,
+          138,
+          549,
+          157
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {- 5}{4}, \\frac {5}{1 6}, \\frac {- 5}{6 4}, \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          166,
+          369,
+          207
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Solution Here $a = \\frac{-5}{4}$ and $r = -\\frac{1}{4}$ . Also $|r| < 1$ . ",
+        "bbox": [
+          96,
+          220,
+          566,
+          261
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Hence, the sum to infinity is $\\frac{\\frac{-5}{4}}{1 + \\frac{1}{4}} = \\frac{\\frac{-5}{4}}{\\frac{5}{4}} = -1$ . ",
+        "bbox": [
+          147,
+          277,
+          589,
+          358
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "A.1.4 Exponential Series ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          368,
+          373,
+          388
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Leonhard Euler (1707 - 1783), the great Swiss mathematician introduced the number $e$ in his calculus text in 1748. The number $e$ is useful in calculus as $\\pi$ in the study of the circle. ",
+        "bbox": [
+          94,
+          388,
+          895,
+          447
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Consider the following infinite series of numbers ",
+        "bbox": [
+          147,
+          450,
+          606,
+          469
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n1 + \\frac {1}{1 !} + \\frac {1}{2 !} + \\frac {1}{3 !} + \\frac {1}{4 !} + \\dots \\tag {1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          478,
+          882,
+          519
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "The sum of the series given in (1) is denoted by the number $e$ ",
+        "bbox": [
+          147,
+          524,
+          732,
+          543
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Let us estimate the value of the number $e$ . ",
+        "bbox": [
+          147,
+          546,
+          551,
+          562
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Since every term of the series (1) is positive, it is clear that its sum is also positive. ",
+        "bbox": [
+          147,
+          565,
+          893,
+          584
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Consider the two sums ",
+        "bbox": [
+          147,
+          587,
+          369,
+          603
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{3 !} + \\frac {1}{4 !} + \\frac {1}{5 !} + \\dots + \\frac {1}{n !} + \\dots \\tag {2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          614,
+          882,
+          654
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "and $\\frac{1}{2^2} +\\frac{1}{2^3} +\\frac{1}{2^4} +\\dots +\\frac{1}{2^{n - 1}} +\\dots$ ... (3) ",
+        "bbox": [
+          96,
+          666,
+          884,
+          710
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Observe that ",
+        "bbox": [
+          96,
+          716,
+          224,
+          732
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{3 !} = \\frac {1}{6} \\text {a n d} \\frac {1}{2 ^ {2}} = \\frac {1}{4}, \\text {w h i c h g i v e s} \\frac {1}{3 !} <   \\frac {1}{2 ^ {2}}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          742,
+          613,
+          785
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{4 !} = \\frac {1}{2 4} \\text {a n d} \\frac {1}{2 ^ {3}} = \\frac {1}{8}, \\text {w h i c h g i v e s} \\frac {1}{4 !} <   \\frac {1}{2 ^ {3}}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          798,
+          628,
+          840
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{5 !} = \\frac {1}{1 2 0} \\text {a n d} \\frac {1}{2 ^ {4}} = \\frac {1}{1 6}, \\text {w h i c h g i v e s} \\frac {1}{5 !} <   \\frac {1}{2 ^ {4}}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          853,
+          655,
+          896
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "page_number",
+        "text": "318 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          115
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          116
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Therefore, by analogy, we can say that ",
+        "bbox": [
+          149,
+          138,
+          521,
+          157
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{n !} <   \\frac {1}{2 ^ {n - 1}}, \\text {w h e n} n > 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          166,
+          440,
+          207
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "We observe that each term in (2) is less than the corresponding term in (3), ",
+        "bbox": [
+          149,
+          214,
+          858,
+          233
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\text {T h e r e f o r e} \\quad \\left(\\frac {1}{3 !} + \\frac {1}{4 !} + \\frac {1}{5 !} + \\dots + \\frac {1}{n !}\\right) <   \\left(\\frac {1}{2 ^ {2}} + \\frac {1}{2 ^ {3}} + \\frac {1}{2 ^ {4}} + \\dots + \\frac {1}{2 ^ {n - 1}} + \\dots\\right) \\tag {4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          98,
+          241,
+          886,
+          288
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Adding $\\left(1 + \\frac{1}{1!} + \\frac{1}{2!}\\right)$ on both sides of (4), we get, ",
+        "bbox": [
+          98,
+          302,
+          615,
+          346
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\left(1 + \\frac {1}{1 !} + \\frac {1}{2 !}\\right) + \\left(\\frac {1}{3 !} + \\frac {1}{4 !} + \\frac {1}{5 !} + \\dots + \\frac {1}{n !} + \\dots\\right) \\\\ <   \\left\\{\\left(1 + \\frac {1}{1 !} + \\frac {1}{2 !}\\right) + \\left(\\frac {1}{2 ^ {2}} + \\frac {1}{2 ^ {3}} + \\frac {1}{2 ^ {4}} + \\dots + \\frac {1}{2 ^ {n - 1}} + \\dots\\right) \\right\\} \\tag {5} \\\\ = \\left\\{1 + \\left(1 + \\frac {1}{2} + \\frac {1}{2 ^ {2}} + \\frac {1}{2 ^ {3}} + \\frac {1}{2 ^ {4}} + \\dots + \\frac {1}{2 ^ {n - 1}} + \\dots\\right) \\right\\} \\\\ = 1 + \\frac {1}{1 - \\frac {1}{2}} = 1 + 2 = 3 \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          361,
+          884,
+          606
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Left hand side of (5) represents the series (1). Therefore $e < 3$ and also $e > 2$ and hence $2 < e < 3$ . ",
+        "bbox": [
+          96,
+          616,
+          895,
+          654
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Remark The exponential series involving variable $x$ can be expressed as ",
+        "bbox": [
+          98,
+          663,
+          786,
+          682
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\ne ^ {x} = 1 + \\frac {x}{1 !} + \\frac {x ^ {2}}{2 !} + \\frac {x ^ {3}}{3 !} + \\dots + \\frac {x ^ {n}}{n !} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          344,
+          692,
+          647,
+          733
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 3 Find the coefficient of $x^2$ in the expansion of $e^{2x + 3}$ as a series in powers of $x$ . ",
+        "bbox": [
+          96,
+          747,
+          895,
+          786
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution In the exponential series ",
+        "bbox": [
+          98,
+          796,
+          423,
+          815
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\ne ^ {x} = 1 + \\frac {x}{1 !} + \\frac {x ^ {2}}{2 !} + \\frac {x ^ {3}}{3 !} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          335,
+          826,
+          576,
+          866
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "replacing $x$ by $(2x + 3)$ , we get ",
+        "bbox": [
+          96,
+          874,
+          399,
+          893
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "header",
+        "text": "INFINITE SERIES ",
+        "bbox": [
+          688,
+          103,
+          824,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "page_number",
+        "text": "319 ",
+        "bbox": [
+          869,
+          103,
+          897,
+          116
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "equation",
+        "text": "$$\ne ^ {2 x + 3} = 1 + \\frac {(2 x + 3)}{1 !} + \\frac {(2 x + 3) ^ {2}}{2 !} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          311,
+          147,
+          653,
+          192
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Here, the general term is $\\frac{(2x + 3)^n}{n!} = \\frac{(3 + 2x)^n}{n!}$ . This can be expanded by the Binomial Theorem as ",
+        "bbox": [
+          96,
+          211,
+          901,
+          277
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{n !} \\left[ 3 ^ {n} + ^ {n} \\mathrm {C} _ {1} 3 ^ {n - 1} (2 x) + ^ {n} \\mathrm {C} _ {2} 3 ^ {n - 2} (2 x) ^ {2} + \\dots + (2 x) ^ {n} \\right].\n$$",
+        "text_format": "latex",
+        "bbox": [
+          217,
+          289,
+          707,
+          328
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Here, the coefficient of $x^{2}$ is $\\frac{{}^{n} \\mathrm{C}_{2} 3^{n-2} 2^{2}}{n!}$ . Therefore, the coefficient of $x^{2}$ in the whole series is ",
+        "bbox": [
+          96,
+          343,
+          901,
+          409
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\sum_ {n = 2} ^ {\\infty} \\frac {n \\mathrm {C} _ {2} 3 ^ {n - 2} 2 ^ {2}}{n !} = 2 \\sum_ {n = 2} ^ {\\infty} \\frac {n (n - 1) 3 ^ {n - 2}}{n !} \\\\ = 2 \\sum_ {n = 2} ^ {\\infty} \\frac {3 ^ {n - 2}}{(n - 2) !} [ \\text {u s i n g} n! = n (n - 1) (n - 2)! ] \\\\ = 2 \\left[ 1 + \\frac {3}{1 !} + \\frac {3 ^ {2}}{2 !} + \\frac {3 ^ {3}}{3 !} + \\dots \\right] \\\\ = 2 e ^ {3} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          207,
+          422,
+          814,
+          625
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Thus $2e^{3}$ is the coefficient of $x^{2}$ in the expansion of $e^{2x + 3}$ . Alternatively $e^{2x + 3} = e^{3}$ . $e^{2x}$ ",
+        "bbox": [
+          96,
+          630,
+          685,
+          668
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\n= e ^ {3} \\left[ 1 + \\frac {2 x}{1 !} + \\frac {(2 x) ^ {2}}{2 !} + \\frac {(2 x) ^ {3}}{3 !} + \\dots \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+          367,
+          676,
+          675,
+          723
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Thus, the coefficient of $x^2$ in the expansion of $e^{2x + 3}$ is $e^3 \\cdot \\frac{2^2}{2!} = 2e^3$ . ",
+        "bbox": [
+          96,
+          741,
+          713,
+          782
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Example 4 Find the value of $e^2$ , rounded off to one decimal place. ",
+        "bbox": [
+          96,
+          799,
+          726,
+          818
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Solution Using the formula of exponential series involving $x$ , we have ",
+        "bbox": [
+          96,
+          828,
+          901,
+          847
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "text": "$$\ne ^ {x} = 1 + \\frac {x}{1 !} + \\frac {x ^ {2}}{2 !} + \\frac {x ^ {3}}{3 !} + \\dots + \\frac {x ^ {n}}{n !} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          220,
+          856,
+          527,
+          897
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "page_number",
+        "text": "320 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          116
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Putting $x = 2$ , we get ",
+        "bbox": [
+          96,
+          140,
+          305,
+          159
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} e ^ {2} = 1 + \\frac {2}{1 !} + \\frac {2 ^ {2}}{2 !} + \\frac {2 ^ {3}}{3 !} + \\frac {2 ^ {4}}{4 !} + \\frac {2 ^ {5}}{5 !} + \\frac {2 ^ {6}}{6 !} + \\dots \\\\ = 1 + 2 + 2 + \\frac {4}{3} + \\frac {2}{3} + \\frac {4}{1 5} + \\frac {4}{4 5} + \\dots \\\\ \\geq \\text {t h e} \\geq 7. 3 5 5. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          175,
+          632,
+          296
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "On the other hand, we have ",
+        "bbox": [
+          96,
+          309,
+          365,
+          327
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} e ^ {2} <   \\left(1 + \\frac {2}{1 !} + \\frac {2 ^ {2}}{2 !} + \\frac {2 ^ {3}}{3 !} + \\frac {2 ^ {4}}{4 !}\\right) + \\frac {2 ^ {5}}{5 !} \\left(1 + \\frac {2}{6} + \\frac {2 ^ {2}}{6 ^ {2}} + \\frac {2 ^ {3}}{6 ^ {3}} + \\dots\\right) \\\\ = 7 + \\frac {4}{1 5} \\left(1 + \\frac {1}{3} + \\left(\\frac {1}{3}\\right) ^ {2} + \\dots\\right) = 7 + \\frac {4}{1 5} \\left(\\frac {1}{1 - \\frac {1}{3}}\\right) = 7 + \\frac {2}{5} = 7. 4. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          343,
+          820,
+          497
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Thus, $e^2$ lies between 7.355 and 7.4. Therefore, the value of $e^2$ , rounded off to one decimal place, is 7.4. ",
+        "bbox": [
+          96,
+          520,
+          897,
+          562
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "A.1.5 Logarithmic Series ",
+        "text_level": 1,
+        "bbox": [
+          96,
+          576,
+          373,
+          595
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Another very important series is logarithmic series which is also in the form of infinite series. We state the following result without proof and illustrate its application with an example. ",
+        "bbox": [
+          94,
+          603,
+          897,
+          665
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Theorem If $|x| < 1$ , then ",
+        "bbox": [
+          96,
+          678,
+          348,
+          695
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\log_ {e} (1 + x) = x - \\frac {x ^ {2}}{2} + \\frac {x ^ {3}}{3} - \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          707,
+          500,
+          748
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The series on the right hand side of the above is called the logarithmic series. ",
+        "bbox": [
+          96,
+          755,
+          837,
+          774
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Note The expansion of $\\log_e(1 + x)$ is valid for $x = 1$ . Substituting $x = 1$ in the expansion of $\\log_e(1 + x)$ , we get ",
+        "bbox": [
+          106,
+          783,
+          884,
+          826
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\log_ {e} 2 = 1 - \\frac {1}{2} + \\frac {1}{3} - \\frac {1}{4} + \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          224,
+          836,
+          448,
+          872
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "header",
+        "text": "INFINITE SERIES ",
+        "bbox": [
+          688,
+          103,
+          824,
+          116
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "page_number",
+        "text": "321 ",
+        "bbox": [
+          869,
+          103,
+          895,
+          116
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Example 5 If $\\alpha, \\beta$ are the roots of the equation $x^{2} - px + q = 0$ , prove that ",
+        "bbox": [
+          96,
+          144,
+          822,
+          166
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\log_ {e} \\left(1 + p x + q x ^ {2}\\right) = (\\alpha + \\beta) x - \\frac {\\alpha^ {2} + \\beta^ {2}}{2} x ^ {2} + \\frac {\\alpha^ {3} + \\beta^ {3}}{3} x ^ {3} - \\dots\n$$",
+        "text_format": "latex",
+        "bbox": [
+          241,
+          179,
+          803,
+          223
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Solution Right hand side = [αx - α²x²/2 + α³x³/3 - ... ] + [βx - β²x²/2 + β³x³/3 - ... ] ",
+        "bbox": [
+          96,
+          245,
+          839,
+          298
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\log_ {e} (1 + \\alpha x) + \\log (1 + \\beta x) \\\\ = \\log_ {e} \\left(1 + (\\alpha + \\beta) x + \\alpha \\beta x ^ {2}\\right) \\\\ = \\log_ {e} \\left(1 + p x + q x ^ {2}\\right) = \\text {L e f t h a n d s i d e}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          96,
+          245,
+          839,
+          412
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Here, we have used the facts $\\alpha + \\beta = p$ and $\\alpha \\beta = q$ . We know this from the given roots of the quadratic equation. We have also assumed that both $|\\alpha x| < 1$ and $|\\beta x| < 1$ . ",
+        "bbox": [
+          96,
+          419,
+          899,
+          495
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/Maths_XI/output/kemh1a1/hybrid_auto/images/90c039868c806193811b1e158ffda0c92f7668a36a8d0fd21708d28bba6ecf3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          440,
+          709,
+          555,
+          728
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "page_number",
+        "text": "322 ",
+        "bbox": [
+          98,
+          103,
+          128,
+          116
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "header",
+        "text": "MATHEMATICS ",
+        "bbox": [
+          173,
+          102,
+          299,
+          116
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "footer",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          433,
+          966,
+          561,
+          980
+        ],
+        "page_idx": 8
+      }
+    ],
+    "doc_id": "doc-55d88b35ec7854058a4d9b21984ee307",
+    "mtime": 1770964101.0,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1770986323.1243858,
+    "cache_version": "1.0",
+    "create_time": 1770986323,
+    "update_time": 1770986323,
+    "_id": "f7b2970741e4e72559f4962dc59afc8c"
   }
 }

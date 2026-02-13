@@ -16078,5 +16078,1285 @@
     "create_time": 1770980877,
     "update_time": 1770982799,
     "_id": "chunk-3dd9a619070808b3a4ae1c741a6c44e4"
+  },
+  "chunk-41ff00f01bd3dd8444d212c2464e21a3": {
+    "tokens": 800,
+    "content": "BINOMIAL THEOREM \n\nMathematics is a most exact science and its conclusions are capable of absolute proofs. - C.P. STEINMETZ \n\n7.1 Introduction \n\nIn earlier classes, we have learnt how to find the squares and cubes of binomials like $a + b$ and $a - b$ . Using them, we could evaluate the numerical values of numbers like $(98)^2 = (100 - 2)^2$ , $(999)^3 = (1000 - 1)^3$ , etc. However, for higher powers like $(98)^5$ , $(101)^6$ , etc., the calculations become difficult by using repeated multiplication. This difficulty was overcome by a theorem known as binomial theorem. It gives an easier way to expand $(a + b)^n$ , where $n$ is an integer or a rational number. In this Chapter, we study binomial theorem for positive integral indices only. \n\n7.2 Binomial Theorem for Positive Integral Indices \n\nLet us have a look at the following identities done earlier: \n\nIn these expansions, we observe that \n\nWe now arrange the coefficients in these expansions as follows (Fig 7.1): \n\nDo we observe any pattern in this table that will help us to write the next row? Yes we do. It can be seen that the addition of 1's in the row for index 1 gives rise to 2 in the row for index 2. The addition of 1, 2 and 2, 1 in the row for index 2, gives rise to 3 and 3 in the row for index 3 and so on. Also, 1 is present at the beginning and at the end of each row. This can be continued till any index of our interest. \n\nWe can extend the pattern given in Fig 7.2 by writing a few more rows. \n\nPascal's Triangle \n\nThe structure given in Fig 7.2 looks like a triangle with 1 at the top vertex and running down the two slanting sides. This array of numbers is known as Pascal's triangle, after the name of French mathematician Blaise Pascal. It is also known as Meru Prastara by Pingla. \n\nExpansions for the higher powers of a binomial are also possible by using Pascal's triangle. Let us expand $(2x + 3y)^5$ by using Pascal's triangle. The row for index 5 is \n\n1 5 10 10 5 1 \n\nUsing this row and our observations (i), (ii) and (iii), we get \n\nNow, if we want to find the expansion of $(2x + 3y)^{12}$ , we are first required to get the row for index 12. This can be done by writing all the rows of the Pascal's triangle till index 12. This is a slightly lengthy process. The process, as you observe, will become more difficult, if we need the expansions involving still larger powers. \n\nWe thus try to find a rule that will help us to find the expansion of the binomial for any power without writing all the rows of the Pascal's triangle, that come before the row of the desired index. \n\nFor this, we make use of the concept of combinations studied earlier to rewrite the numbers in the Pascal's triangle. We know that ${}^n\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ , $0 \\leq r \\leq n$ and $n$ is a non-negative integer. Also, ${}^n\\mathrm{C}_0 = 1 = {}^n\\mathrm{C}_n$ \n\nThe Pascal's triangle can now be rewritten as (Fig 7.3) \n\nObserving this pattern, we can now write the row of the Pascal",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:f3342d027622fea20142c2b4f25cef70",
+      "default:extract:00a04c50dba726eb02d820e78718984b"
+    ],
+    "create_time": 1770984105,
+    "update_time": 1770984184,
+    "_id": "chunk-41ff00f01bd3dd8444d212c2464e21a3"
+  },
+  "chunk-3546825ec33b6be2736edaac54e353e6": {
+    "tokens": 800,
+    "content": "\\mathrm{C}_r = \\frac{n!}{r!(n - r)!}$ , $0 \\leq r \\leq n$ and $n$ is a non-negative integer. Also, ${}^n\\mathrm{C}_0 = 1 = {}^n\\mathrm{C}_n$ \n\nThe Pascal's triangle can now be rewritten as (Fig 7.3) \n\nObserving this pattern, we can now write the row of the Pascal's triangle for any index without writing the earlier rows. For example, for the index 7 the row would be \n\nThus, using this row and the observations (i), (ii) and (iii), we have \n\nAn expansion of a binomial to any positive integral index say $n$ can now be visualised using these observations. We are now in a position to write the expansion of a binomial to any positive integral index. \n\n7.2.1 Binomial theorem for any positive integer $n$ , \n\nProof The proof is obtained by applying principle of mathematical induction. \n\nLet the given statement be \n\nFor $n = 1$ , we have \n\nThus, P (1) is true. \n\nSuppose $\\mathrm{P}(k)$ is true for some positive integer $k$ , i.e. \n\n$(a + b)^{k} = {}^{k}\\mathrm{C}_{0}a^{k} + {}^{k}\\mathrm{C}_{1}a^{k - 1}b + {}^{k}\\mathrm{C}_{2}a^{k - 2}b^{2} + \\ldots +{}^{k}\\mathrm{C}_{k}b^{k}$ 1 \n\nWe shall prove that $\\mathrm{P}(k + 1)$ is also true, i.e., \n\n[by actual multiplication] \n\n(by using ${}^{\\mathrm{k + 1}}\\mathrm{C}_0 = 1$ , ${}^k\\mathrm{C}_r + {}^k\\mathrm{C}_{r - 1} = {}^k +1\\mathrm{C}_r$ and ${}^k\\mathrm{C}_k = 1 = {}^k +1\\mathrm{C}_{k + 1}$ ) \n\nThus, it has been proved that $\\mathrm{P}(k + 1)$ is true whenever $\\mathrm{P}(k)$ is true. Therefore, by principle of mathematical induction, $\\mathrm{P}(n)$ is true for every positive integer $n$ . \n\nWe illustrate this theorem by expanding $(x + 2)^6$ : \n\nThus $(x + 2)^6 = x^6 + 12x^5 + 60x^4 + 160x^3 + 240x^2 + 192x + 64$ . \n\nObservations \n\n1. The notation $\\sum_{k=0}^{n}{}^{n} \\mathrm{C}_{k} a^{n-k} b^{k}$ stands for \n\nHence the theorem can also be stated as \n\n7.2.2 Some special cases In the expansion of $(a + b)^n$ \n\n(i) Taking $a = x$ and $b = -y$ , we obtain \n\nThus $(x - y)^{n} = {}^{n}\\mathrm{C}_{0}x^{n} - {}^{n}\\mathrm{C}_{1}x^{n - 1}y + {}^{n}\\mathrm{C}_{2}x^{n - 2}y^{2} + \\ldots +(-1)^{n}{}^{n}\\mathrm{C}_{n}y^{n}$ \n\nUsing this, we have $(x - 2y)^{5} = {}^{5}\\mathrm{C}_{0}x^{5}",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:d0dbebd9afb80c2546314b943df8880f",
+      "default:extract:2dd4e23d996e5ba3303179241f8e88a2"
+    ],
+    "create_time": 1770984105,
+    "update_time": 1770984184,
+    "_id": "chunk-3546825ec33b6be2736edaac54e353e6"
+  },
+  "chunk-47b5c08d304819cdc1d3a788c3ea11b4": {
+    "tokens": 800,
+    "content": "^{n} - {}^{n}\\mathrm{C}_{1}x^{n - 1}y + {}^{n}\\mathrm{C}_{2}x^{n - 2}y^{2} + \\ldots +(-1)^{n}{}^{n}\\mathrm{C}_{n}y^{n}$ \n\nUsing this, we have $(x - 2y)^{5} = {}^{5}\\mathrm{C}_{0}x^{5} - {}^{5}\\mathrm{C}_{1}x^{4}(2y) + {}^{5}\\mathrm{C}_{2}x^{3}(2y)^{2} - {}^{5}\\mathrm{C}_{3}x^{2}(2y)^{3} +$ \n\n(ii) Taking $a = 1$ , $b = x$ , we obtain \n\nThus \n\nIn particular, for $x = 1$ , we have \n\n(iii) Taking $a = 1$ , $b = -x$ , we obtain \n\nIn particular, for $x = 1$ , we get \n\nExample 1 Expand $\\left(x^{2} + \\frac{3}{x}\\right)^{4}, x \\neq 0$ \n\nSolution By using binomial theorem, we have \n\nExample 2 Compute $(98)^{5}$ . \n\nSolution We express 98 as the sum or difference of two numbers whose powers are easier to calculate, and then use Binomial Theorem. \n\nWrite $98 = 100 - 2$ \n\nTherefore, $(98)^{5} = (100 - 2)^{5}$ \n\nExample 3 Which is larger $(1.01)^{1000000}$ or $10,000?$ \n\nSolution Splitting 1.01 and using binomial theorem to write the first few terms we have \n\nHence $(1.01)^{1000000} > 10000$ \n\nExample 4 Using binomial theorem, prove that $6^{n} - 5n$ always leaves remainder 1 when divided by 25. \n\nSolution For two numbers $a$ and $b$ if we can find numbers $q$ and $r$ such that $a = bq + r$ , then we say that $b$ divides $a$ with $q$ as quotient and $r$ as remainder. Thus, in order to show that $6^n - 5n$ leaves remainder 1 when divided by 25, we prove that $6^n - 5n = 25k + 1$ , where $k$ is some natural number. \n\nWe have \n\nFor $a = 5$ , we get \n\ni.e. $(6)^{n} = 1 + 5n + 5^{2}.^{n}\\mathrm{C}_{2} + 5^{3}.^{n}\\mathrm{C}_{3} + \\ldots +5^{n}$ \n\ni.e. $6^{n} - 5n = 1 + 5^{2}$ $(^{n}\\mathrm{C}_{2} + ^{n}\\mathrm{C}_{3}5 + \\ldots +5^{n - 2})$ \n\nor $6^{n} - 5n = 1 + 25\\left(^{n}\\mathrm{C}_{2} + 5.^{n}\\mathrm{C}_{3} + \\ldots +5^{n - 2}\\right)$ \n\nor $6^{n} - 5n = 25k + 1$ where $k = {}^n\\mathbf{C}_2 + 5.^n\\mathbf{C}_3 + \\ldots +5^{n - 2}.$ \n\nThis shows that when divided by 25, $",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:890b44d83c41dc977eea21758bea49f1",
+      "default:extract:b1c20a4006dfd57cb86a3173f31d4271"
+    ],
+    "create_time": 1770984105,
+    "update_time": 1770984184,
+    "_id": "chunk-47b5c08d304819cdc1d3a788c3ea11b4"
+  },
+  "chunk-8c5521fa1244a9820157ada244d2f25d": {
+    "tokens": 523,
+    "content": "mathrm{C}_{2} + 5.^{n}\\mathrm{C}_{3} + \\ldots +5^{n - 2}\\right)$ \n\nor $6^{n} - 5n = 25k + 1$ where $k = {}^n\\mathbf{C}_2 + 5.^n\\mathbf{C}_3 + \\ldots +5^{n - 2}.$ \n\nThis shows that when divided by 25, $6^{n} - 5n$ leaves remainder 1. \n\nEXERCISE 7.1 \n\nExpand each of the expressions in Exercises 1 to 5. \n\n1. $(1 - 2x)^{5}$ \n\n2. $\\left(\\frac{2}{x} -\\frac{x}{2}\\right)^{5}$ \n\n3. $(2x - 3)^6$ \n\n4. $\\left(\\frac{x}{3} + \\frac{1}{x}\\right)^5$ \n\n5. $\\left(x + \\frac{1}{x}\\right)^6$ \n\nUsing binomial theorem, evaluate each of the following: \n\nMiscellaneous Exercise on Chapter 7 \n\nSummary \n\nHistorical Note \n\nThe ancient Indian mathematicians knew about the coefficients in the expansions of $(x + y)^n$ , $0 \\leq n \\leq 7$ . The arrangement of these coefficients was in the form of a diagram called Meru-Prastara, provided by Pingla in his book Chhanda shastra (200B.C.). This triangular arrangement is also found in the work of Chinese mathematician Chu-shi-kie in 1303. The term binomial coefficients was first introduced by the German mathematician, Michael Stipel (1486-1567) in approximately 1544. Bombelli (1572) also gave the coefficients in the expansion of $(a + b)^n$ , for $n = 1, 2, \\ldots, 7$ and Oughtred (1631) gave them for $n = 1, 2, \\ldots, 10$ . The arithmetic triangle, popularly known as Pascal's triangle and similar to the Meru-Prastara of Pingla was constructed by the French mathematician Blaise Pascal (1623-1662) in 1665. \n\nThe present form of the binomial theorem for integral values of $n$ appeared in Trate du triangle arithmetic, written by Pascal and published posthumously in 1665.",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:cebce950afe45901de0fc727babf987f",
+      "default:extract:d618feca2cf8871b2c5bae3d3f42f8b3"
+    ],
+    "create_time": 1770984105,
+    "update_time": 1770984184,
+    "_id": "chunk-8c5521fa1244a9820157ada244d2f25d"
+  },
+  "chunk-7713b73e7d36c7f2dd3826c76c1d4426": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh107/hybrid_auto/images/62bab52475b94c07f5c78267dad1df4ab81fc4771c49a50dbabce04b6e1b0ba7.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a classical portrait of Blaise Pascal, a French mathematician, physicist, and inventor, depicted from the chest up. Pascal is shown wearing 17th-century attire, including a dark, formal coat with a white collar and a cravat. His hair is shoulder-length, wavy, and brown, framing a pale, serious face with a contemplative expression. The background is dark and plain, focusing attention on Pascal's face and upper body. The lighting is soft and even, highlighting the textures of his clothing and the subtle details of his facial features. The portrait is painted in a realistic style typical of Baroque-era European art, emphasizing naturalism and depth. The image is relevant to the surrounding content as it visually introduces Blaise Pascal, after whom Pascal's triangle is named, a key concept in the binomial theorem chapter. This connection underscores Pascal's historical significance in mathematics, particularly in combinatorics and algebra. The image serves as a visual anchor linking the mathematical theory discussed in the text to its historical originator.",
+    "tokens": 289,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 4,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:5801c0192eca7e3d61939ff073700fe0",
+      "default:extract:c9d5d940a2688e9aa207dbf9a65ea900"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Portrait of Blaise Pascal (image)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984683,
+    "_id": "chunk-7713b73e7d36c7f2dd3826c76c1d4426"
+  },
+  "chunk-77d87507752c6ed505940a627e8f565b": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (a + b) ^ {0} = 1 \\quad a + b \\neq 0 \\\\ (a + b) ^ {1} = a + b \\\\ (a + b) ^ {2} = a ^ {2} + 2 a b + b ^ {2} \\\\ (a + b) ^ {3} = a ^ {3} + 3 a ^ {2} b + 3 a b ^ {2} + b ^ {3} \\\\ (a + b) ^ {4} = (a + b) ^ {3} (a + b) = a ^ {4} + 4 a ^ {3} b + 6 a ^ {2} b ^ {2} + 4 a b ^ {3} + b ^ {4} \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given set of equations represents the binomial expansions of (a + b)^n for n = 0, 1, 2, 3, and 4. Mathematically, these expansions express the power of a binomial sum as a sum of terms involving powers of a and b multiplied by binomial coefficients. The variables a and b are arbitrary quantities, typically real or complex numbers, and n is a non-negative integer indicating the power to which the binomial is raised. The operations involved include exponentiation, multiplication, and addition. Each term in the expansion corresponds to a specific binomial coefficient, which can be derived from Pascal's triangle, reflecting combinatorial counts of selecting terms. This equation set is foundational in algebra and combinatorics, illustrating how powers of sums can be expanded systematically without direct multiplication. The expansions have theoretical significance in polynomial theory, combinatorics, and probability, and practical applications in numerical computations, algebraic simplifications, and series expansions. Within the broader context of the binomial theorem chapter, these expansions serve as concrete examples demonstrating the pattern of coefficients and terms that lead to the general binomial theorem formula for positive integral indices. They also connect to Pascal's triangle, which provides a combinatorial method to determine coefficients efficiently.",
+    "tokens": 460,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 5,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:39e7b1e3e784098554d1e9fc7764a30b",
+      "default:extract:1f572dc0dfb4918d8d0c3e8a68ee72c2"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial expansions for powers 0 to 4 (equation)",
+    "original_type": "equation",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984683,
+    "_id": "chunk-77d87507752c6ed505940a627e8f565b"
+  },
+  "chunk-0b509c6dbfd16736f166ae1f45e91998": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(i) The total number of terms in the expansion is one more than the index. For example, in the expansion of $(a + b)^2$ , number of terms is 3 whereas the index of $(a + b)^2$ is 2. ', '(ii) Powers of the first quantity $a$ go on decreasing by 1 whereas the powers of the second quantity $b$ increase by 1, in the successive terms. ', '(iii) In each term of the expansion, the sum of the indices of $a$ and $b$ is the same and is equal to the index of $a + b$ . '], 'bbox': [98, 761, 901, 896], 'page_idx': 0}\n\nAnalysis: The content is a structured textual list presenting three key observations about the binomial expansion of (a + b)^n. It is organized as enumerated points (i), (ii), and (iii), each describing fundamental properties of binomial expansions: the number of terms relative to the index, the pattern of powers of the variables a and b, and the sum of the exponents in each term. These points are directly related to the preceding discussion on binomial theorem and Pascal's triangle, serving as foundational rules that explain how the coefficients and powers behave in the expansion. The list supports the broader mathematical explanation by summarizing essential characteristics that facilitate understanding and application of the binomial theorem for positive integral indices. This content is crucial for knowledge retrieval as it encapsulates the core principles needed to expand binomials efficiently and connects the theoretical concept of Pascal's triangle to practical expansion steps.",
+    "tokens": 359,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 6,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:0d21e2397462675c76cf483e3dbb9f78",
+      "default:extract:efde4b292433a2a80be386a07122a9a3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Key Properties of Binomial Expansion (list)",
+    "original_type": "list",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984683,
+    "_id": "chunk-0b509c6dbfd16736f166ae1f45e91998"
+  },
+  "chunk-5509a60e6cafa820a380c96e91f6aee5": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': '日', 'bbox': [504, 55, 653, 157], 'page_idx': 0}\n\nAnalysis: The header content consists of a single character '日', which is a Chinese/Japanese character meaning 'sun' or 'day'. Positioned prominently on the page with a bounding box indicating a large font size, it appears isolated from the surrounding mathematical content focused on the Binomial Theorem. Given the context of a mathematics textbook discussing algebraic expansions and Pascal's triangle, this header is likely unrelated to the main mathematical discourse and may serve as a decorative or thematic element, a section marker, or a typographical artifact. Its presence does not contribute directly to the mathematical explanations or the logical flow of the chapter on the Binomial Theorem. For knowledge retrieval, this header is a non-technical element and should be treated as a visual or cultural symbol rather than a content-bearing header within the mathematical context.",
+    "tokens": 202,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 7,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:f9835eef834b0288b39f74c683ff0935",
+      "default:extract:621eba69bbd36eb597baa107ff0b4c76"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Isolated Character Header '日' (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984683,
+    "_id": "chunk-5509a60e6cafa820a380c96e91f6aee5"
+  },
+  "chunk-290dc2db4e0131fa35714d48c1834edf": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': '11076CH08 ', 'bbox': [549, 160, 611, 169], 'page_idx': 0}\n\nAnalysis: The header content '11076CH08' appears to be a coded or cataloging identifier rather than a descriptive title. Structurally, it is a short alphanumeric string positioned prominently, likely serving as a chapter or section code within the document. It lacks semantic information about the subject matter but functions as a reference marker. In the context of the surrounding content, which discusses the Binomial Theorem and its related subtopics, this header likely denotes Chapter 8 or a specific section within a larger textbook or document. Its role is organizational, helping to index and locate content rather than convey thematic information. This header supports the broader discussion by providing a navigational anchor, facilitating knowledge retrieval and cross-referencing within the educational material.",
+    "tokens": 191,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 8,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:50f838d063ff9bd6a6ac97b749060571",
+      "default:extract:d5c76a85893b0f0509969e1aa0fdb6d1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter 8 Identifier (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984723,
+    "_id": "chunk-290dc2db4e0131fa35714d48c1834edf"
+  },
+  "chunk-5e041953a65f49fc2b4ceca6158aa5fd": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'Chapter ', 'bbox': [702, 141, 816, 166], 'page_idx': 0}\n\nAnalysis: The header content 'Chapter ' appears to be a partial or incomplete chapter title extracted from the document's layout coordinates. It is positioned prominently at the top of the page, indicating its role as a major structural marker within the text. Although the specific chapter number or title is missing, its placement suggests it introduces a new chapter, likely the one on the Binomial Theorem as indicated by the surrounding context. This header serves as a navigational and organizational element, delineating the start of a significant section that frames the subsequent detailed mathematical discussion. It supports the broader discourse by signaling a transition to focused content on binomial expansions, Pascal's triangle, and related algebraic concepts, thereby aiding knowledge retrieval by marking a key thematic boundary in the document.",
+    "tokens": 191,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 9,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:7243b59ea59ee8f112df7b816ea8e52e",
+      "default:extract:9f00fa28fe173f059d166475c0956b22"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter Header (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984723,
+    "_id": "chunk-5e041953a65f49fc2b4ceca6158aa5fd"
+  },
+  "chunk-5c831f894bfa2b8f7d4221937fdac11c": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '7 ', 'bbox': [846, 128, 878, 160], 'page_idx': 0}\n\nAnalysis: The content represents the page number '7' located at the bottom or top margin of the page, serving as a navigational and organizational element within the textbook. It is a standalone numeric indicator without embedded instructional or conceptual information. The page number is crucial for referencing and locating the detailed discussion on the Binomial Theorem, specifically the introduction and Pascal's triangle explanation. It supports the broader context by anchoring the content within the book's structure, enabling readers to track progression through the chapter on binomial expansions and related combinatorial patterns.",
+    "tokens": 151,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 10,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:db94c978e05d9928b88ca818cc080f0e",
+      "default:extract:fb2e30ed4731a3a5d0b659149b929d24"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 7 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984723,
+    "_id": "chunk-5c831f894bfa2b8f7d4221937fdac11c"
+  },
+  "chunk-d7af17d1ab367b6710c96da6b1baf55e": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 0}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of the page (coordinates [433, 966, 561, 980]) on page index 0. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version validity of the document. This footer serves as a temporal marker, contextualizing the document's currency and edition within the broader educational material on the Binomial Theorem. It supports knowledge retrieval by providing a reference point for the document's publication timeline, which is critical for users verifying the relevance and update status of the mathematical content presented in the surrounding chapters.",
+    "tokens": 206,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 11,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:6d85ff69304d7540aec80b8dca61df97",
+      "default:extract:0aa193f0cfb4009904ad60ee243624ff"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 0,
+    "create_time": 1770984600,
+    "update_time": 1770984723,
+    "_id": "chunk-d7af17d1ab367b6710c96da6b1baf55e"
+  },
+  "chunk-5134432a6cef3f129c330e235145f74f": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh107/hybrid_auto/images/5a5c18780748aa9bdc4c71cb3dbce1ef6b32110ce19bf219abd4ecb7e53756d6.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 7.1' presents a neatly arranged tabular layout of numbers forming a triangular pattern known as Pascal's triangle. The triangle is composed of rows of integers, starting with a single '1' at the top vertex. Each subsequent row contains one more element than the previous, with the first and last elements of every row being '1'. The numbers inside the triangle are generated by summing the two numbers directly above them from the preceding row, illustrating the additive property of Pascal's triangle. The triangle is displayed in black text on a white background, with clear spacing between numbers to emphasize the triangular shape. The image visually supports the surrounding mathematical context by demonstrating the pattern of binomial coefficients used in binomial expansions. The layout is simple and clean, focusing solely on the numerical pattern without additional graphical embellishments. This visual representation aids in understanding how coefficients for binomial expansions can be derived without direct calculation, linking directly to the textual explanation of the binomial theorem and its relation to combinations and factorial expressions.",
+    "tokens": 285,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 12,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ae64d46f874243418687d23586a42dce",
+      "default:extract:2faecfa7a298afcf2adef2c1b55d8327"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Pascal's Triangle Illustration for Binomial Coefficients (image)",
+    "original_type": "image",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984788,
+    "_id": "chunk-5134432a6cef3f129c330e235145f74f"
+  },
+  "chunk-1acf4d65966d27c2fe4b476e1eabc372": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh107/hybrid_auto/images/f282c35aff95123c17e27269209ba8a9fbcf5042e25468bca2c9db8c58417046.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 7.2' presents a neatly arranged triangular array of numbers known as Pascal's triangle. The triangle is composed of multiple rows, each row containing a sequence of integers. The topmost row (index 0) starts with a single number '1'. Each subsequent row begins and ends with '1', and the numbers inside the row are formed by the sum of the two numbers directly above it from the previous row. For example, the third row (index 2) contains the numbers 1, 2, 1, where '2' is the sum of the two '1's above it. The triangle is centered horizontally on the page, with each row aligned so that the numbers form a symmetrical triangle shape. The numbers are written in a clear, legible font, and the layout uses black text on a white background, ensuring high contrast and readability. The image visually supports the surrounding text that discusses the binomial theorem and the pattern of coefficients in binomial expansions. It illustrates how the coefficients for powers of binomials correspond to the rows of Pascal's triangle, providing a visual aid to understand the pattern and the recursive addition property of the coefficients. The image is a static diagram without any additional graphical elements such as colors or shading, focusing purely on the numerical pattern. This visual representation is crucial for comprehending the binomial coefficients and their generation without resorting to factorial calculations or combination formulas, as explained in the surrounding content.",
+    "tokens": 372,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 13,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:53f9530fc2da9fd6b03f72576c8d4df3",
+      "default:extract:138726c9c8ec67626f320b8670464a09"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Pascal's Triangle Diagram for Binomial Coefficients (image)",
+    "original_type": "image",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984788,
+    "_id": "chunk-1acf4d65966d27c2fe4b476e1eabc372"
+  },
+  "chunk-3ad08857f6a853ce1b7267844bf5d778": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (2 x + 3 y) ^ {5} = (2 x) ^ {5} + 5 (2 x) ^ {4} (3 y) + 1 0 (2 x) ^ {3} (3 y) ^ {2} + 1 0 (2 x) ^ {2} (3 y) ^ {3} + 5 (2 x) (3 y) ^ {4} + (3 y) ^ {5} \\\\ = 3 2 x ^ {5} + 2 4 0 x ^ {4} y + 7 2 0 x ^ {3} y ^ {2} + 1 0 8 0 x ^ {2} y ^ {3} + 8 1 0 x y ^ {4} + 2 4 3 y ^ {5}. \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents the binomial expansion of the expression (2x + 3y)^5 using the Binomial Theorem for positive integral indices. Mathematically, it expresses the fifth power of a binomial sum as a sum of terms involving powers of each variable multiplied by binomial coefficients. Here, the variables are x and y, which are indeterminates or real numbers, and the constants 2 and 3 are coefficients multiplying these variables inside the binomial. The expansion uses the binomial coefficients from the 5th row of Pascal's triangle: 1, 5, 10, 10, 5, 1. Each term is constructed as C(5, r) * (2x)^(5-r) * (3y)^r for r = 0 to 5, where C(5, r) = 5!/(r!(5-r)!) are the combination numbers. The equation demonstrates the application of the binomial theorem to simplify the computation of powers of binomials without repeated multiplication. The operations involved include exponentiation, multiplication, and addition. The expansion also shows the distributive property of multiplication over addition and the use of factorial-based combinatorial coefficients. This equation is fundamental in algebra and combinatorics, illustrating how Pascal's triangle relates to binomial coefficients and polynomial expansions. It has practical applications in probability theory, algebraic computations, and numerical methods where polynomial expansions are required. Within the broader context of the chapter, this equation exemplifies the use of Pascal's triangle and combinations to efficiently expand binomials raised to positive integral powers, avoiding the cumbersome process of manual multiplication and highlighting the combinatorial structure underlying polynomial expansions.",
+    "tokens": 565,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 14,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:5d918d7894ec7a89282b6ee560f62440",
+      "default:extract:60fc35036c643b474c39af9df3a99f60"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (2x + 3y)^5 (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984788,
+    "_id": "chunk-3ad08857f6a853ce1b7267844bf5d778"
+  },
+  "chunk-a2bd96a75b5aae9da6ab0fa0e399d248": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'BINOMIAL THEOREM ', 'bbox': [649, 103, 829, 116], 'page_idx': 1}\n\nAnalysis: The header 'BINOMIAL THEOREM' serves as the primary title for the chapter or section focused on the binomial theorem. It is prominently placed at the beginning of the content, indicating the start of a comprehensive discussion on the topic. The structure is hierarchical, with this header introducing subsequent subheaders such as '7.1 Introduction' and '7.2 Binomial Theorem for Positive Integral Indices,' which organize the content into logical segments. Key elements include the theorem's definition, its application to positive integral powers, and the connection to Pascal's triangle and combinations. This header anchors the entire discussion, providing a clear thematic focus and facilitating navigation and retrieval of information related to binomial expansions, combinatorial coefficients, and algebraic identities. It supports the broader educational objective of explaining the binomial theorem's principles, patterns, and computational methods within a mathematical curriculum context.",
+    "tokens": 224,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 15,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ed7930f99cc49487b291f4088566464b",
+      "default:extract:d46d57ca824d50d97c4bcd9ac0f3ca1d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Main Header (header)",
+    "original_type": "header",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984788,
+    "_id": "chunk-a2bd96a75b5aae9da6ab0fa0e399d248"
+  },
+  "chunk-dbc53ca893dfd9cff61ce89fa6199372": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '127 ', 'bbox': [869, 103, 897, 116], 'page_idx': 1}\n\nAnalysis: This page_number content represents the page number '127' located at the bottom or corner of the page, serving as a navigational and organizational element within the document. The page number is presented in a simple numeric format with bounding box coordinates indicating its position on the page. It functions as a reference point linking the textual and mathematical content on this page to the overall structure of the chapter on the Binomial Theorem. The page number supports the reader's ability to locate, cite, and cross-reference the detailed explanations and examples related to Pascal's triangle, binomial expansions, and combinatorial coefficients discussed in the surrounding pages. Although minimal in textual content, the page number is crucial for maintaining the document's coherence and facilitating knowledge retrieval within the broader mathematical discourse.",
+    "tokens": 195,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 16,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:316ad92e3b4624c4db6b8a0d6607ba6e",
+      "default:extract:d4fca760ceab823508e6da5077168fff"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 127 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984853,
+    "_id": "chunk-dbc53ca893dfd9cff61ce89fa6199372"
+  },
+  "chunk-52d42a5f168b16eb178c6950878af7aa": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 1}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of page 1. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or printing cycle of the document. This footer serves as a temporal marker, situating the educational content on the Binomial Theorem within a specific publication timeframe. Its presence supports the broader context by providing users and knowledge retrieval systems with metadata about the currency and version of the material, which is critical for referencing, citation, and ensuring the use of up-to-date academic resources.",
+    "tokens": 191,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 17,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:957efd4533deff6c2c6eff9c1451c178",
+      "default:extract:eb1e943ac77d2b1aca73c7334fa97a42"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 1,
+    "create_time": 1770984600,
+    "update_time": 1770984853,
+    "_id": "chunk-52d42a5f168b16eb178c6950878af7aa"
+  },
+  "chunk-e14b6fbc940a2711424ea72fabe5d086": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh107/hybrid_auto/images/f05a2b29864dd69ec2b1e535b53d786d72e5d593aee5acf8eef5f80604f8c63e.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 7.3 Pascal's triangle' presents a triangular array of binomial coefficients arranged in a structured format. The triangle is composed of rows of numbers, each row corresponding to a non-negative integer index starting from 0 at the top vertex. The topmost row contains a single number '1'. Each subsequent row starts and ends with '1', and the interior numbers are the sum of the two numbers directly above it from the previous row, illustrating the additive pattern characteristic of Pascal's triangle. The numbers are arranged in a centered alignment forming a symmetrical triangle. The rows shown extend at least up to index 7, with numbers such as 1, 7, 21, 35, 35, 21, 7, 1 visible in the 7th row. The numbers are displayed in a clear, black font on a white background, ensuring high contrast and readability. The image visually encodes the combinatorial formula for binomial coefficients, where each number corresponds to the value of nCr for given n and r. This visual representation directly supports the surrounding text's explanation of how Pascal's triangle can be used to find binomial expansions without enumerating all previous rows, emphasizing the connection between the triangle and combinations. The image is a static, two-dimensional diagram without additional graphical embellishments or color coding, focusing purely on the numerical pattern and its mathematical significance.",
+    "tokens": 362,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 18,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ee2ab26ffb999db9c1f5042dbf8465e6",
+      "default:extract:067e1e868492e88153d5f3cedf93c2e7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Pascal's Triangle with Binomial Coefficients up to Index 7 (image)",
+    "original_type": "image",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984853,
+    "_id": "chunk-e14b6fbc940a2711424ea72fabe5d086"
+  },
+  "chunk-2ed1f93ff466e8108e220f47f555625b": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n{ } ^ { 7 } \\mathrm { C } _ { 0 } \\ { } ^ { 7 } \\mathrm { C } _ { 1 } \\ { } ^ { 7 } \\mathrm { C } _ { 2 } \\ { } ^ { 7 } \\mathrm { C } _ { 3 } \\ { } ^ { 7 } \\mathrm { C } _ { 4 } \\ { } ^ { 7 } \\mathrm { C } _ { 5 } \\ { } ^ { 7 } \\mathrm { C } _ { 6 } \\ { } ^ { 7 } \\mathrm { C } _ { 7 } .\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the sequence of binomial coefficients for n = 7, specifically the set {^7C_0, ^7C_1, ^7C_2, ^7C_3, ^7C_4, ^7C_5, ^7C_6, ^7C_7}. These coefficients correspond to the 7th row of Pascal's triangle and are defined by the combination formula ^nC_r = n! / (r!(n-r)!), where n = 7 and r ranges from 0 to 7. Each term ^7C_r counts the number of ways to choose r elements from a set of 7 distinct elements. The mathematical operations involved include factorials and binomial coefficients, which are central to combinatorics. In the context of the binomial theorem, these coefficients serve as weights in the expansion of (a + b)^7, allowing the expression to be written as a sum of terms a^{7-r}b^r multiplied by ^7C_r. This equation is fundamental in algebra, probability, and discrete mathematics, providing a direct method to compute binomial expansions without constructing the entire Pascal's triangle. It also illustrates the principle of mathematical induction and the recursive nature of binomial coefficients. Practically, these coefficients are used in polynomial expansions, probability distributions (e.g., binomial distribution), and combinatorial counting problems. Within the broader discussion, this equation exemplifies the transition from pattern recognition in Pascal's triangle to a formal combinatorial formula, enabling efficient computation of binomial expansions for any positive integer exponent.",
+    "tokens": 489,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 19,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:9c3bbd2b72d1bbaa81101a6e899e3c6a",
+      "default:extract:c058831b6c323b69076d92730ac20f42"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Coefficients for n=7 (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984853,
+    "_id": "chunk-2ed1f93ff466e8108e220f47f555625b"
+  },
+  "chunk-8832f5a70fe16020224810e072f8f799": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(a + b) ^ {7} = ^ {7} \\mathrm {C} _ {0} a ^ {7} + 7 \\mathrm {C} _ {1} a ^ {6} b + ^ {7} \\mathrm {C} _ {2} a ^ {5} b ^ {2} + ^ {7} \\mathrm {C} _ {3} a ^ {4} b ^ {3} + 7 \\mathrm {C} _ {4} a ^ {3} b ^ {4} + ^ {7} \\mathrm {C} _ {5} a ^ {2} b ^ {5} + ^ {7} \\mathrm {C} _ {6} a b ^ {6} + ^ {7} \\mathrm {C} _ {7} b ^ {7}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (a + b)^7 using the binomial theorem. Mathematically, it expresses the seventh power of a binomial sum as a sum of terms involving binomial coefficients and powers of the individual terms a and b. The variables a and b are arbitrary quantities, which can be real or complex numbers, and the exponent 7 is a positive integer indicating the power to which the binomial is raised. The notation ^{7}C_r denotes the binomial coefficient, defined as 7!/(r!(7-r)!), representing the number of ways to choose r elements from a set of 7, and these coefficients correspond to the entries in the 7th row of Pascal's triangle. The operations involved include exponentiation of variables a and b, multiplication by binomial coefficients, and summation over r from 0 to 7. This equation is fundamental in combinatorics and algebra, providing a direct formula for expanding powers of binomials without iterative multiplication. It is closely related to Pascal's triangle, which visually encodes the binomial coefficients, and the principle of mathematical induction, which underpins the proof of the binomial theorem. Practically, this expansion is used in probability theory, algebraic simplifications, and in calculating coefficients in polynomial expressions. Within the broader discussion, this equation exemplifies the general binomial theorem for any positive integer n, illustrating how the pattern of coefficients from Pascal's triangle can be generalized and computed using combinations, thereby avoiding the need to construct the entire triangle for large powers.",
+    "tokens": 518,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 20,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:de7de32b136d91760e32dd1bfa63323c",
+      "default:extract:0448cdb20c00be830273981b68d559ec"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (a + b)^7 (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984895,
+    "_id": "chunk-8832f5a70fe16020224810e072f8f799"
+  },
+  "chunk-36930750ef6b1f235cc039b0c35fe4e1": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '128 ', 'bbox': [100, 103, 128, 115], 'page_idx': 2}\n\nAnalysis: The content on this page is minimal, consisting solely of the page number '128' positioned within the page layout. It serves as a navigational and referential element within the document, enabling readers to locate and reference specific sections easily. The page number is typically placed in a consistent location (coordinates given by bbox) to maintain uniformity across the publication. Although it contains no substantive textual or conceptual information, it plays a crucial role in the document's structure by linking the detailed mathematical exposition on binomial expansions and Pascal's triangle from preceding pages to subsequent content. This page number supports the broader discussion by providing a clear marker for the continuation of the topic, facilitating cross-referencing and citation in academic or instructional contexts.",
+    "tokens": 187,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 21,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:cbac04366d647cd8d7a46ed900698b88",
+      "default:extract:3f4e19f5e99ea727abdb4bb980ac40a8"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 128 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984895,
+    "_id": "chunk-36930750ef6b1f235cc039b0c35fe4e1"
+  },
+  "chunk-79aa9f789f3784e8a38c45076db3c25c": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 103, 294, 115], 'page_idx': 2}\n\nAnalysis: The header 'MATHEMATICS' serves as a broad categorical label that introduces or demarcates the subject area of the content that follows. Positioned on page 2, it likely functions as a sectional or chapter-level header, signaling a transition or emphasis on mathematical concepts, specifically related to binomial expansions and Pascal's triangle as seen in the surrounding context. The header is succinct and general, providing a thematic anchor for the detailed mathematical explanations, proofs, and examples that follow. It connects the preceding discussion on Pascal's triangle and binomial expansions to a formal mathematical framework, supporting the broader educational narrative by framing the content within the discipline of mathematics. This header is crucial for knowledge retrieval as it helps classify the content under the domain of mathematics, facilitating indexing and thematic organization.",
+    "tokens": 200,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 22,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:556d1be81a6fef43f8080a6e34cebac5",
+      "default:extract:5780ed6dc862c2518f548eafc969e7bb"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984895,
+    "_id": "chunk-79aa9f789f3784e8a38c45076db3c25c"
+  },
+  "chunk-cb64beb7fd0f93c64e311ea3bf6d8c13": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 2}\n\nAnalysis: The footer content is minimal, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 2. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version timeline of the document. This footer serves as a temporal marker, contextualizing the document's currency and edition status within the broader mathematical exposition on Pascal's triangle and the binomial theorem. It supports knowledge retrieval by providing a reference point for the document's publication or reprint cycle, which is relevant for citation, version control, and historical tracking of the educational content.",
+    "tokens": 191,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 23,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:083b27e752fb30981625589fc7238004",
+      "default:extract:eacf16dca399beb1c287018898346548"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 2,
+    "create_time": 1770984600,
+    "update_time": 1770984895,
+    "_id": "chunk-cb64beb7fd0f93c64e311ea3bf6d8c13"
+  },
+  "chunk-7a3cdf45b8a787be1d95bb2a9d25ed51": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(a + b) ^ {n} = ^ {n} \\mathrm {C} _ {0} a ^ {n} + ^ {n} \\mathrm {C} _ {1} a ^ {n - 1} b + ^ {n} \\mathrm {C} _ {2} a ^ {n - 2} b ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n - 1} a. b ^ {n - 1} + ^ {n} \\mathrm {C} _ {n} b ^ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the Binomial Theorem for any positive integer exponent n. It expresses the expansion of the binomial expression (a + b)^n as a finite sum of terms involving binomial coefficients and powers of a and b. Here, n is a non-negative integer indicating the power to which the binomial is raised; a and b are variables or constants representing the terms of the binomial. The notation ^nC_r denotes the binomial coefficient, defined combinatorially as n!/(r!(n-r)!), which counts the number of ways to choose r elements from a set of n elements. The equation uses summation of terms where each term is a product of a binomial coefficient and powers of a and b, with the exponents of a decreasing from n to 0 and those of b increasing from 0 to n, ensuring the total degree of each term is n. This theorem is fundamental in combinatorics, algebra, and probability theory, providing a direct formula for expanding powers of binomials without recursive construction of Pascal's triangle. It also underpins the concept of combinations and is closely related to the binomial distribution in statistics. The equation is proven using mathematical induction and the recursive properties of binomial coefficients. Practically, it is used in algebraic expansions, calculating probabilities, and solving problems in discrete mathematics and computer science. Within the broader discussion, this equation formalizes the pattern observed in Pascal's triangle and generalizes the binomial expansion to any positive integral power, enabling efficient computation and deeper understanding of polynomial expansions.",
+    "tokens": 462,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 24,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:12e03914e2656bb8288f02e0314e7679",
+      "default:extract:c5341d68ebbff313dc164e0d438b1a74"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem for Positive Integer Powers (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770984986,
+    "_id": "chunk-7a3cdf45b8a787be1d95bb2a9d25ed51"
+  },
+  "chunk-120bc2b80ce3a580e62ee24b0789432d": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\mathrm {P} (n): (a + b) ^ {n} = ^ {n} \\mathrm {C} _ {0} a ^ {n} + ^ {n} \\mathrm {C} _ {1} a ^ {n - 1} b + ^ {n} \\mathrm {C} _ {2} a ^ {n - 2} b ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n - 1} a. b ^ {n - 1} + ^ {n} \\mathrm {C} _ {n} b ^ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation \\( \\mathrm{P}(n): (a + b)^n = {}^n\\mathrm{C}_0 a^n + {}^n\\mathrm{C}_1 a^{n-1}b + {}^n\\mathrm{C}_2 a^{n-2}b^2 + \\dots + {}^n\\mathrm{C}_{n-1} a b^{n-1} + {}^n\\mathrm{C}_n b^n \\) represents the binomial theorem for any positive integer exponent \\(n\\). It expresses the expansion of the binomial expression \\((a+b)^n\\) as a finite sum of terms involving powers of \\(a\\) and \\(b\\) multiplied by binomial coefficients \\({}^n\\mathrm{C}_r\\), which count the number of ways to choose \\(r\\) elements from \\(n\\). Here, \\(a\\) and \\(b\\) are variables or constants, \\(n\\) is a non-negative integer, and \\(r\\) ranges from 0 to \\(n\\). The binomial coefficients \\({}^n\\mathrm{C}_r = \\frac{n!}{r!(n-r)!}\\) are combinatorial numbers derived from factorials, reflecting the structure of Pascal's triangle. The equation uses summation of terms involving powers and coefficients, illustrating polynomial expansion. This theorem is fundamental in combinatorics, algebra, and probability theory, providing a direct formula to expand binomials without recursive construction of Pascal's triangle. It is proven by mathematical induction, establishing its validity for all positive integers \\(n\\). The equation connects to the principle of combinations and the structure of Pascal's triangle, enabling efficient computation of binomial expansions. Practical applications include algebraic simplification, probability distributions (e.g., binomial distribution), and series expansions in calculus. Within the broader discussion, this equation formalizes the binomial expansion process, replacing the need for manual enumeration of Pascal's triangle rows and enabling generalization to any power \\(n\\).",
+    "tokens": 581,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 25,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ee7d32f273fa99998402eecd095ece1b",
+      "default:extract:41b16989e29b7115cced90e940dafb79"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem for Positive Integer Powers (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770984986,
+    "_id": "chunk-120bc2b80ce3a580e62ee24b0789432d"
+  },
+  "chunk-860c2ab41f47949dc81e5eb6ae973c89": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nP (1): (a + b) ^ {1} = ^ {1} C _ {0} a ^ {1} + ^ {1} C _ {1} b ^ {1} = a + b\n$$\nFormat: latex\n\nMathematical Analysis: The equation P(1): (a + b)^1 = ^1C_0 a^1 + ^1C_1 b^1 = a + b represents the base case of the binomial theorem for n=1. It expresses the expansion of a binomial raised to the first power as a sum of terms involving binomial coefficients and powers of the variables a and b. Here, a and b are variables or constants, and the binomial coefficients ^nC_r denote combinations, defined as n!/(r!(n-r)!), representing the number of ways to choose r elements from n. The equation uses the binomial coefficient notation and simple exponentiation. This base case is fundamental in the inductive proof of the binomial theorem, which generalizes the expansion of (a + b)^n for any positive integer n. The equation illustrates the simplest expansion, confirming that the binomial theorem holds for n=1, serving as the starting point for mathematical induction. It connects to the broader discussion on binomial expansions, Pascal's triangle, and combinatorial coefficients, providing a foundation for understanding polynomial expansions in algebra and combinatorics. Practical applications include algebraic simplifications, probability theory, and combinatorial enumeration.",
+    "tokens": 318,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 26,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:af2fdf808147e679812fd2d78161dbda",
+      "default:extract:1675d92a6bb486b8dfe7e9beba2e529d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Base case of the Binomial Theorem (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770984986,
+    "_id": "chunk-860c2ab41f47949dc81e5eb6ae973c89"
+  },
+  "chunk-dd33272a9dbcad99e7397c2ba9f75e45": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(a + b) ^ {k + 1} = ^ {k + 1} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k + 1} \\mathrm {C} _ {1} a ^ {k} b + ^ {k + 1} \\mathrm {C} _ {2} a ^ {k - 1} b ^ {2} + \\dots + ^ {k + 1} \\mathrm {C} _ {k + 1} b ^ {k + 1}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the binomial expansion of the expression \\((a + b)^{k+1}\\), where \\(k+1\\) is a positive integer exponent. It expresses the power of a binomial as a sum of terms involving binomial coefficients \\({}^{k+1}C_r\\), powers of \\(a\\) and \\(b\\), and the index \\(r\\) running from 0 to \\(k+1\\). Each term in the expansion is of the form \\({}^{k+1}C_r a^{k+1-r} b^r\\), where \\({}^{k+1}C_r = \\frac{(k+1)!}{r!(k+1-r)!}\\) is the binomial coefficient representing the number of combinations of \\(r\\) elements chosen from \\(k+1\\). The variables \\(a\\) and \\(b\\) are arbitrary quantities (which can be numbers, variables, or expressions), and \\(k\\) is a non-negative integer. The equation uses summation of terms with decreasing powers of \\(a\\) and increasing powers of \\(b\\), reflecting the combinatorial structure of the binomial coefficients. This formula is a direct consequence of the binomial theorem and is fundamental in combinatorics, algebra, and probability theory. It provides a closed-form expression for expanding binomials raised to any positive integer power without enumerating Pascal's triangle rows explicitly. The equation is proven using mathematical induction, relying on the recursive property of binomial coefficients: \\({}^kC_r + {}^kC_{r-1} = {}^{k+1}C_r\\). This relationship connects the current expansion to the previous one, establishing the inductive step. The binomial theorem and this expansion have broad applications including polynomial expansions, probability distributions (e.g., binomial distribution), and series approximations. In the broader context of the surrounding content, this equation formalizes the method to expand \\((a+b)^n\\) for any positive integer \\(n\\), streamlining the process beyond manual construction of Pascal's triangle and enabling algebraic manipulation and computation of binomial expansions efficiently.",
+    "tokens": 586,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 27,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:66a1847f00a3729d37990ac1cca6518d",
+      "default:extract:bc2c5efdf04c36ed372f74fa33d902e7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion Formula for Power k+1 (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770984986,
+    "_id": "chunk-dd33272a9dbcad99e7397c2ba9f75e45"
+  },
+  "chunk-3b242b1989d607f79634957307e62f6a": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\text {N o w}, (a + b) ^ {k + 1} = (a + b) (a + b) ^ {k}\n$$\nFormat: latex\n\nMathematical Analysis: The equation $(a + b)^{k + 1} = (a + b)(a + b)^k$ expresses the recursive relationship fundamental to the binomial theorem. It states that raising a binomial sum to the power $k+1$ can be achieved by multiplying the binomial $(a + b)$ by its $k$th power. Here, $a$ and $b$ are variables or constants representing terms in the binomial, and $k$ is a non-negative integer exponent. This equation is pivotal in the inductive proof of the binomial theorem, which provides a formula for expanding $(a + b)^n$ for any positive integer $n$. The operation involves exponentiation and multiplication of algebraic expressions. The equation leverages the principle of mathematical induction by assuming the expansion for power $k$ and then demonstrating it for $k+1$. This step is crucial in establishing the general binomial expansion formula involving binomial coefficients ${}^nC_r$, which count combinations and correspond to entries in Pascal's triangle. The equation connects the algebraic manipulation of powers with combinatorial coefficients, enabling efficient computation of binomial expansions without enumerating all terms manually. It underpins applications in algebra, probability, and combinatorics, where expansions of binomials are frequently required. Within the broader discussion, this equation serves as the inductive step that validates the binomial theorem, linking the combinatorial definition of coefficients to the algebraic expansion of powers.",
+    "tokens": 356,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 28,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:cb6502cd4b9c2e5c0c7356a87b73eb49",
+      "default:extract:a01b8d2206656b534b58629f986d18b3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Recursive step in the binomial theorem proof (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985102,
+    "_id": "chunk-3b242b1989d607f79634957307e62f6a"
+  },
+  "chunk-ca39c60bb180360c8edf567ebfebf28d": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= (a + b) \\left(^ {k} \\mathrm {C} _ {0} a ^ {k} + ^ {k} \\mathrm {C} _ {1} a ^ {k - 1} b + ^ {k} \\mathrm {C} _ {2} a ^ {k - 2} b ^ {2} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a b ^ {k - 1} + ^ {k} \\mathrm {C} _ {k} b ^ {k}\\right) \\tag {from(1)}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the step in the inductive proof of the Binomial Theorem, expressing the expansion of (a + b)^(k+1) as the product of (a + b) and the known expansion of (a + b)^k. Here, the variables a and b are arbitrary terms (often real or complex numbers), and k is a non-negative integer representing the current power in the induction process. The notation ^{k}C_{r} denotes the binomial coefficient, defined combinatorially as nCr = n! / (r!(n-r)!), which counts the number of ways to choose r elements from a set of k elements. The expression inside the parentheses is the binomial expansion of (a + b)^k, a sum of terms each involving powers of a and b multiplied by the corresponding binomial coefficient. Multiplying this sum by (a + b) initiates the step to derive the expansion for (a + b)^{k+1}, which is fundamental in proving the Binomial Theorem by induction. This operation uses algebraic distribution and the combinatorial identity relating binomial coefficients: ^{k+1}C_r = ^kC_r + ^kC_{r-1}. The equation is central in combinatorics and algebra, providing a formula for expanding powers of binomials without enumerating Pascal's triangle rows. It has applications in probability theory, algebraic expansions, and discrete mathematics. Within the broader framework, this equation bridges the inductive hypothesis and the inductive step, confirming the validity of the binomial expansion for all positive integers n, thus formalizing the Binomial Theorem.",
+    "tokens": 492,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 29,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:0e0e8e6f34dd2211dfa7cc29a312928d",
+      "default:extract:681ed1ed523bdc0be47ad6a82d933b49"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inductive Step in the Proof of the Binomial Theorem (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985102,
+    "_id": "chunk-ca39c60bb180360c8edf567ebfebf28d"
+  },
+  "chunk-785eaa25ba7b52697d104fe8232eedb3": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= ^ {k} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k} \\mathrm {C} _ {1} a ^ {k} b + ^ {k} \\mathrm {C} _ {2} a ^ {k - 1} b ^ {2} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a ^ {2} b ^ {k - 1} + ^ {k} \\mathrm {C} _ {k} a b ^ {k} + ^ {k} \\mathrm {C} _ {0} a ^ {k} b\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents an intermediate step in the inductive proof of the Binomial Theorem for a positive integer exponent n. It expresses the expansion of (a + b)^(k+1) in terms of binomial coefficients and powers of a and b, using the known expansion for (a + b)^k. Here, the variables are: n (a positive integer exponent), k (an integer such that 0 ≤ k < n), a and b (variables or constants in the binomial expression), and the binomial coefficients denoted by ^nC_r = n! / (r!(n-r)!). The equation uses summation of terms involving combinations (binomial coefficients) multiplied by powers of a and b, reflecting the combinatorial nature of the expansion. The operations include exponentiation, multiplication, and addition. This step leverages the recursive property of binomial coefficients, specifically the identity ^{k+1}C_r = ^kC_r + ^kC_{r-1}, to combine terms and prove the formula for (a + b)^{k+1} based on the assumption for (a + b)^k. The equation is central to the principle of mathematical induction applied to the Binomial Theorem, which states that (a + b)^n = Σ_{r=0}^n ^nC_r a^{n-r} b^r. This theorem is fundamental in algebra and combinatorics, providing a direct formula for expanding binomials raised to any positive integer power without constructing Pascal's triangle explicitly. It has applications in probability, algebraic expansions, series approximations, and discrete mathematics. Within the broader discussion, this equation bridges the combinatorial definition of binomial coefficients with the algebraic expansion of binomials, enabling efficient computation and theoretical understanding of polynomial expansions.",
+    "tokens": 536,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 30,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ca823cf2c49c7203a48e58eb839a4715",
+      "default:extract:8bb746b255c6843322d36ca56d1f4627"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inductive Step in the Proof of the Binomial Theorem (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985102,
+    "_id": "chunk-785eaa25ba7b52697d104fe8232eedb3"
+  },
+  "chunk-2fbcf81ca3b41fb8ad5b5fc12a09001c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n+ ^ {k} \\mathrm {C} _ {1} a ^ {k - 1} b ^ {2} + ^ {k} \\mathrm {C} _ {2} a ^ {k - 2} b ^ {3} + \\dots + ^ {k} \\mathrm {C} _ {k - 1} a b ^ {k} + ^ {k} \\mathrm {C} _ {k} b ^ {k + 1}\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents a partial sum of terms from the binomial expansion of (a + b)^(k+1), specifically starting from the term with the binomial coefficient ^kC_1 and continuing through to ^kC_k, with powers of a and b adjusted accordingly. Here, k is a non-negative integer representing the current power index, a and b are variables or constants in the binomial expression, and ^kC_r denotes the binomial coefficient \"k choose r\", defined as k!/(r!(k-r)!). The terms follow the pattern ^kC_r * a^(k-r) * b^(r+1) for r = 1 to k, indicating a shift in the power of b by one compared to the standard binomial expansion terms. This expression arises in the inductive step of the proof of the binomial theorem, where the expansion of (a + b)^(k+1) is derived from (a + b)^k by multiplying by (a + b) and regrouping terms using Pascal's identity: ^(k+1)C_r = ^kC_r + ^kC_(r-1). The equation illustrates how the coefficients and powers transform during this step, highlighting the combinatorial structure underlying the binomial theorem. The binomial theorem itself is fundamental in algebra, combinatorics, and probability theory, providing a closed-form expression for expanding powers of binomials without enumerating all terms individually. This equation is crucial in demonstrating the inductive proof, connecting the combinatorial coefficients to the algebraic expansion, and enabling efficient computation of binomial expansions for any positive integer exponent. It also relates to Pascal's triangle, where each row corresponds to binomial coefficients for a given power, and the identity used reflects the recursive construction of the triangle. Practical applications include polynomial expansions, probability distributions (e.g., binomial distribution), and series approximations in analysis. Within the broader discussion, this equation exemplifies the stepwise reasoning that validates the binomial theorem for all positive integers, reinforcing the link between combinatorial identities and algebraic expressions.",
+    "tokens": 551,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 31,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:2d69fd4bb21e9089ca9aef25a0eb402a",
+      "default:extract:758625fcac53db99bf20fd5cb9cd8a7e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Partial sum of binomial expansion terms in inductive proof (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985102,
+    "_id": "chunk-2fbcf81ca3b41fb8ad5b5fc12a09001c"
+  },
+  "chunk-ba99649534c795cfd95e68888d92d135": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= ^ {k} \\mathrm {C} _ {0} a ^ {k + 1} + \\left(^ {k} \\mathrm {C} _ {1} + ^ {k} \\mathrm {C} _ {0}\\right) a ^ {k} b + \\left(^ {k} \\mathrm {C} _ {2} + ^ {k} \\mathrm {C} _ {1}\\right) a ^ {k - 1} b ^ {2} + \\dots\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents an intermediate step in the inductive proof of the Binomial Theorem for a positive integer exponent n. It expresses the expansion of (a + b)^(k+1) in terms of binomial coefficients and powers of a and b, using the known expansion for (a + b)^k. Here, the variables are: k, a non-negative integer representing the current exponent; a and b, variables or constants in the binomial expression; and the binomial coefficients denoted by ^kC_r, which are combinations defined as nCr = n! / (r!(n-r)!). The equation shows the sum of terms where each coefficient for the (k+1)-th power is formed by adding adjacent binomial coefficients from the k-th row, reflecting Pascal's rule: ^{k+1}C_r = ^kC_r + ^kC_{r-1}. The powers of a decrease from k+1 to lower powers, while powers of b increase correspondingly, maintaining the total degree k+1. This step is crucial in the inductive argument that establishes the binomial expansion formula for any positive integer exponent, linking combinatorial identities with algebraic expansions. The equation embodies the recursive structure of Pascal's triangle and the combinatorial foundation of the binomial coefficients. Its practical applications include polynomial expansions, probability theory, and combinatorics, where it simplifies computations of coefficients without enumerating all terms explicitly. Within the broader framework, this equation bridges the combinatorial definition of binomial coefficients with their algebraic role in expanding binomials, providing a systematic method to derive coefficients for any power n, thus generalizing the binomial expansion beyond small cases.",
+    "tokens": 475,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 32,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:4dcee658eb2ed7577c55259b90fdd046",
+      "default:extract:0993d6cdf0f493d709acab79bd9454ef"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inductive Step in Binomial Theorem Expansion (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985211,
+    "_id": "chunk-ba99649534c795cfd95e68888d92d135"
+  },
+  "chunk-ef0d27e13dd8d95a59777a6bc6551bd2": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n+ \\left(^ {k} \\mathrm {C} _ {k} + ^ {k} \\mathrm {C} _ {k - 1}\\right) a b ^ {k} + ^ {k} \\mathrm {C} _ {k} b ^ {k + 1} \\quad [ \\text {g r o u p i n g l i k e t e r m s} ]\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents a step in the inductive proof of the Binomial Theorem, specifically the manipulation of binomial coefficients during the expansion of (a + b)^{k+1}. The terms involve binomial coefficients denoted by {}^{k}C_{r}, which represent combinations or 'n choose r', defined as n!/(r!(n-r)!) for non-negative integers n and r with 0 ≤ r ≤ n. The expression + ({}^{k}C_{k} + {}^{k}C_{k-1}) a b^{k} + {}^{k}C_{k} b^{k+1} arises from grouping like terms after multiplying (a + b) by the expansion of (a + b)^k. The addition of binomial coefficients {}^{k}C_{k} + {}^{k}C_{k-1} corresponds to the Pascal's identity, which states that {}^{k+1}C_{k} = {}^{k}C_{k} + {}^{k}C_{k-1}. This identity is fundamental in constructing Pascal's triangle and is crucial in the inductive step proving the binomial theorem. The variables a and b are arbitrary terms in the binomial expression, and k is a positive integer representing the current power in the induction. The powers of a and b decrease and increase respectively, maintaining the total degree k+1. This equation exemplifies the combinatorial structure underlying binomial expansions and highlights the recursive nature of binomial coefficients. It connects the algebraic expansion with combinatorial identities, reinforcing the theoretical foundation of the binomial theorem. Practically, this equation and the binomial theorem have applications in algebra, probability theory, combinatorics, and numerical analysis, enabling efficient computation of polynomial expansions without enumerating all terms explicitly. Within the broader discussion, this equation is a critical component of the inductive proof framework that establishes the validity of the binomial theorem for all positive integers n, thereby generalizing the expansion of (a + b)^n and linking it to combinatorial coefficients.",
+    "tokens": 535,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 33,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:dee579dc6e37d8cbc62d5c770fba0cf2",
+      "default:extract:5c9cfb68aa205215415221bf5325cf80"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inductive Step Grouping in Binomial Theorem Proof (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985211,
+    "_id": "chunk-ef0d27e13dd8d95a59777a6bc6551bd2"
+  },
+  "chunk-f8a37cf93d726aac6cbfe58a867007f4": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= ^ {k + 1} \\mathrm {C} _ {0} a ^ {k + 1} + ^ {k + 1} \\mathrm {C} _ {1} a ^ {k} b + ^ {k + 1} \\mathrm {C} _ {2} a ^ {k - 1} \\mathrm {b} ^ {2} + \\dots + ^ {k + 1} \\mathrm {C} _ {k} a b ^ {k} + ^ {k + 1} \\mathrm {C} _ {k + 1} b ^ {k + 1}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the binomial expansion of the expression (a + b) raised to the power (k + 1), where k is a non-negative integer. It expresses (a + b)^(k+1) as a sum of terms involving binomial coefficients and powers of a and b. The binomial coefficient ^{k+1}C_r = \\frac{(k+1)!}{r!(k+1-r)!} counts the number of ways to choose r elements from (k+1) elements, and it corresponds to the entries in Pascal's triangle at row (k+1). Each term in the expansion is of the form ^{k+1}C_r * a^{k+1-r} * b^r, where r ranges from 0 to k+1. The equation uses the principle of mathematical induction and the combinatorial identity ^{k+1}C_r = ^kC_r + ^kC_{r-1} to prove the binomial theorem for any positive integer exponent. This formula generalizes the expansion of binomials without enumerating all previous rows of Pascal's triangle, enabling direct computation of coefficients for any power. It is fundamental in algebra, combinatorics, and probability theory, and has applications in polynomial expansions, series approximations, and discrete probability distributions. The equation is central to the broader discussion of the binomial theorem, illustrating how the coefficients and powers systematically combine to form the expanded polynomial expression.",
+    "tokens": 459,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 34,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:4c59eb7b3e279cba2311f477498d54f4",
+      "default:extract:dcaf981b15cc9eae6338b46e48eb2c52"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion for Power (k+1) (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985211,
+    "_id": "chunk-f8a37cf93d726aac6cbfe58a867007f4"
+  },
+  "chunk-3106d5a02d0e7bdc6fb41f0b180caff4": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (x + 2) ^ {6} = ^ {6} \\mathrm {C} _ {0} x ^ {6} + ^ {6} \\mathrm {C} _ {1} x ^ {5}. 2 + ^ {6} \\mathrm {C} _ {2} x ^ {4} 2 ^ {2} + ^ {6} \\mathrm {C} _ {3} x ^ {3}. 2 ^ {3} + ^ {6} \\mathrm {C} _ {4} x ^ {2}. 2 ^ {4} + ^ {6} \\mathrm {C} _ {5} x. 2 ^ {5} + ^ {6} \\mathrm {C} _ {6}. 2 ^ {6}. \\\\ = x ^ {6} + 1 2 x ^ {5} + 6 0 x ^ {4} + 1 6 0 x ^ {3} + 2 4 0 x ^ {2} + 1 9 2 x + 6 4 \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (x + 2)^6 using the Binomial Theorem. Mathematically, it expresses the power of a binomial raised to a positive integer exponent n (here n=6) as a sum of terms involving binomial coefficients and powers of the individual terms x and 2. The variables are: x, a variable or indeterminate; 2, a constant term; and the binomial coefficients denoted by ^6C_r, which are combinations defined as ^nC_r = n! / (r!(n-r)!). The operations include exponentiation, multiplication, and summation of terms indexed by r from 0 to 6. The binomial coefficients correspond to the 6th row of Pascal's triangle, providing the weights for each term. This equation is a direct application of the Binomial Theorem, which generalizes the expansion of (a + b)^n for any positive integer n without enumerating all terms manually. The physical or theoretical significance lies in its utility for combinatorial counting, algebraic expansions, and probability theory. It relates to the concept of combinations and Pascal's triangle, as the coefficients are combinatorial numbers. Practically, such expansions are used in algebraic simplifications, polynomial approximations, and in fields like statistics and physics where polynomial expressions arise. Within the broader discussion, this equation exemplifies the application of the Binomial Theorem to efficiently compute expansions for higher powers, avoiding the cumbersome process of constructing Pascal's triangle row by row, and illustrates the power of combinatorial methods in algebra.",
+    "tokens": 589,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 35,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:2f531a5ff30e949a1d1c1f8ce496080a",
+      "default:extract:bb751ae3f0b0fc96dea6f01a301f026a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (x + 2)^6 (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985211,
+    "_id": "chunk-3106d5a02d0e7bdc6fb41f0b180caff4"
+  },
+  "chunk-6f4af656f93858dffa841c7b169a6149": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'BINOMIAL THEOREM ', 'bbox': [649, 103, 829, 116], 'page_idx': 3}\n\nAnalysis: The header 'BINOMIAL THEOREM' serves as a pivotal structural element marking the introduction of the formal statement and proof of the binomial theorem within the mathematical exposition. Positioned after a detailed discussion on Pascal's triangle and combinations, it signals a transition from foundational concepts to the theorem's general formulation and its proof by mathematical induction. This header organizes the content by delineating the theorem's presentation, proof, and illustrative examples, thereby anchoring the subsequent detailed mathematical discourse. It connects prior combinatorial insights to the broader discussion on binomial expansions, facilitating knowledge retrieval by clearly identifying the section dedicated to the theorem itself.",
+    "tokens": 171,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 36,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:0d760b7111866e7e93c60434e8c72ebf",
+      "default:extract:7400700c28787712e07631c65f91d634"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Section Header (header)",
+    "original_type": "header",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985281,
+    "_id": "chunk-6f4af656f93858dffa841c7b169a6149"
+  },
+  "chunk-f5354eeb3acf5eb8b4f055e089775871": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '129 ', 'bbox': [869, 103, 897, 116], 'page_idx': 3}\n\nAnalysis: This page_number content represents the physical page number '129' of the document, located at the bottom or corner of the page as indicated by its bounding box coordinates. It serves as a navigational and referential element within the document, allowing readers to locate and reference specific content efficiently. Although it contains no substantive textual or mathematical information, its presence is crucial for maintaining the document's structural integrity and supporting cross-referencing between sections. In the broader context, page number 129 situates the detailed mathematical exposition on the Binomial Theorem and its proof within the document's pagination, linking the theoretical discussion on pages 2 to 4 with the overall document flow.",
+    "tokens": 177,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 37,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:629f213f61e1befb70e48e7759acfe16",
+      "default:extract:03319b5569074b731e5667bff7f620aa"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page number 129 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985281,
+    "_id": "chunk-f5354eeb3acf5eb8b4f055e089775871"
+  },
+  "chunk-74ec0fbb03d0a0231d54c3519bc87a83": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 3}\n\nAnalysis: The footer content is minimal, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 3, as indicated by the bounding box coordinates and page index. This footer serves as a publication metadata element, providing information about the edition or reprint year of the document. It is structurally isolated from the main mathematical content on the page, which discusses binomial theorem expansions and special cases. The footer's presence supports document version control and helps users identify the currency of the material, which is critical for referencing and knowledge retrieval in academic or educational contexts.",
+    "tokens": 170,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 38,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:3ece98589cb7f0f8b6f502f420dc23c3",
+      "default:extract:471fcf2a5c82905dba5435b27acdebac"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 3,
+    "create_time": 1770984600,
+    "update_time": 1770985281,
+    "_id": "chunk-74ec0fbb03d0a0231d54c3519bc87a83"
+  },
+  "chunk-2ac67eb9f2fcb30f8b9e744bd60b9e40": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n{ } ^ { n } \\mathrm { C } _ { 0 } a ^ { n } b ^ { 0 } + { } ^ { n } \\mathrm { C } _ { 1 } a ^ { n - 1 } b ^ { 1 } + \\ldots + { } ^ { n } \\mathrm { C } _ { \\mathrm { r } } a ^ { n - r } b ^ { r } + \\ldots + { } ^ { n } \\mathrm { C } _ { n } a ^ { n - n } b ^ { n } , \\text { w h e r e } b ^ { 0 } = 1 = a ^ { n - n } .\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (a + b)^n, where n is a positive integer. It expresses the expanded form as a sum of terms involving binomial coefficients, powers of a, and powers of b. Specifically, the term {}^nC_r a^{n-r} b^r corresponds to the coefficient of the r-th term in the expansion, where {}^nC_r = n! / (r!(n-r)!) is the binomial coefficient representing the number of ways to choose r elements from n. The variables a and b are arbitrary quantities, and n is the exponent indicating the power to which the binomial is raised. The powers a^{n-r} and b^r reflect the distribution of the exponent n between the two terms a and b in each term of the expansion. The equation uses summation notation implicitly, enumerating terms from r=0 to r=n, with the understanding that a^{n-n} = a^0 = 1 and b^0 = 1, ensuring the first and last terms are well-defined. This formula is fundamental in combinatorics and algebra, providing a direct method to expand binomials without repeated multiplication. It is closely related to Pascal's triangle, where the binomial coefficients appear, and is proven using mathematical induction as indicated in the surrounding context. The binomial theorem has wide applications in probability theory, algebraic expansions, numerical methods, and analysis of algorithms. In the broader framework, this equation underpins the proofs and examples given, such as expansions of (x+2)^6, (x-y)^n, and practical computations like (98)^5, illustrating its utility in simplifying complex power expressions and facilitating approximations.",
+    "tokens": 527,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 39,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:d441fc110386859ee64fef217706eefe",
+      "default:extract:a33034484b6c9ddfb03d53cd5280ed80"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion Formula (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985281,
+    "_id": "chunk-2ac67eb9f2fcb30f8b9e744bd60b9e40"
+  },
+  "chunk-d51f9fe15463c10dcc497c955bb2ed70": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(a + b) ^ {n} = \\sum_ {k = 0} ^ {n} ^ {n} \\mathrm {C} _ {k} a ^ {n - k} b ^ {k}.\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the Binomial Theorem, a fundamental result in algebra that provides a closed-form expression for the expansion of a binomial raised to a positive integer power n. Mathematically, it states that (a + b)^n equals the sum from k = 0 to n of the binomial coefficients C(n, k) multiplied by a^(n-k) and b^k. Here, 'a' and 'b' are variables or constants, 'n' is a positive integer exponent, and C(n, k) = n! / (k!(n-k)!) denotes the binomial coefficient, representing the number of ways to choose k elements from n. The summation symbol Σ indicates the addition of all terms for k ranging from 0 to n. This theorem is proven using mathematical induction, as outlined in the surrounding context, and is foundational in combinatorics, algebra, and probability theory. It connects to Pascal's triangle through the binomial coefficients and facilitates expansions of expressions like (x + y)^n without direct multiplication. Practical applications include polynomial expansions, probability distributions (e.g., binomial distribution), numerical approximations, and computational simplifications. Within the broader discussion, this equation serves as the central theorem being proved and applied to various special cases and examples, illustrating its versatility and importance in mathematical analysis and problem-solving.",
+    "tokens": 342,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 40,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:35e9a5f729a3d12689b49ba57d2f0f1c",
+      "default:extract:fc1eebc5c0656ded95c11f1ea6a806e6"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem for Positive Integer Powers (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985374,
+    "_id": "chunk-d51f9fe15463c10dcc497c955bb2ed70"
+  },
+  "chunk-d8f85d728b19c69014e662c357e7bfef": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['2. The coefficients ${}^n\\\\mathrm{C}_r$ occurring in the binomial theorem are known as binomial coefficients. ', '3. There are $(n + 1)$ terms in the expansion of $(a + b)^n$ , i.e., one more than the index. ', '4. In the successive terms of the expansion the index of $a$ goes on decreasing by unity. It is $n$ in the first term, $(n - 1)$ in the second term, and so on ending with zero in the last term. At the same time the index of $b$ increases by unity, starting with zero in the first term, 1 in the second and so on ending with $n$ in the last term. ', '5. In the expansion of $(a + b)^n$ , the sum of the indices of $a$ and $b$ is $n + 0 = n$ in the first term, $(n - 1) + 1 = n$ in the second term and so on $0 + n = n$ in the last term. Thus, it can be seen that the sum of the indices of $a$ and $b$ is $n$ in every term of the expansion. '], 'bbox': [94, 314, 897, 524], 'page_idx': 4}\n\nAnalysis: The list is a structured enumeration of key properties and observations related to the binomial theorem expansion of (a + b)^n. It is organized as a numbered list, each item detailing a distinct characteristic: the nature of binomial coefficients, the number of terms in the expansion, the pattern of exponents for variables a and b, and the invariant sum of these exponents in each term. These elements are interrelated, collectively describing the algebraic structure and combinatorial aspects of the binomial expansion. Positioned after the proof and examples of the binomial theorem, this list consolidates foundational insights that support comprehension and application of the theorem. It serves as a concise reference for understanding term formation, coefficient significance, and exponent behavior, thereby reinforcing the broader discussion on binomial expansions and their special cases. This content is critical for knowledge retrieval as it encapsulates essential formulaic and combinatorial principles underlying the binomial theorem.",
+    "tokens": 496,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 41,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:9747675101501944609309d8753e0ff8",
+      "default:extract:2342ae8ff6870c7b5067fcc43e3025c0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Key Properties of Binomial Theorem Expansion (list)",
+    "original_type": "list",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985374,
+    "_id": "chunk-d8f85d728b19c69014e662c357e7bfef"
+  },
+  "chunk-71c403dadecc1985bd7201dab0693488": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (x - y) ^ {n} = [ x + (- y) ] ^ {n} \\\\ = ^ {n} C _ {0} x ^ {n} + ^ {n} C _ {1} x ^ {n - 1} (- y) + ^ {n} C _ {2} x ^ {n - 2} (- y) ^ {2} + ^ {n} C _ {3} x ^ {n - 3} (- y) ^ {3} + \\dots + ^ {n} C _ {n} (- y) ^ {n} \\\\ = ^ {n} C _ {0} x ^ {n} - ^ {n} C _ {1} x ^ {n - 1} y + ^ {n} C _ {2} x ^ {n - 2} y ^ {2} - ^ {n} C _ {3} x ^ {n - 3} y ^ {3} + \\dots + (- 1) ^ {n} ^ {n} C _ {n} y ^ {n} \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the binomial expansion of the expression (x - y)^n, where n is a positive integer. It is derived by applying the binomial theorem to the binomial (x + (-y))^n, which allows the expansion of powers of sums into a sum of terms involving binomial coefficients. The variables x and y are arbitrary quantities, and n is a positive integer exponent. The binomial coefficients, denoted as ^nC_k, represent the number of ways to choose k elements from n, and are defined combinatorially as n!/(k!(n-k)!). The expansion involves powers of x and y, with alternating signs due to the negative term (-y)^k, resulting in terms of the form (-1)^k * ^nC_k * x^{n-k} * y^k. This alternating sign pattern is a direct consequence of the negative sign in the binomial. The equation uses summation notation implicitly through the series of terms from k=0 to k=n. This formula is fundamental in algebra and combinatorics, providing a closed-form expression for powers of binomials, and is essential in proofs by induction, combinatorial identities, and polynomial expansions. It also has practical applications in probability theory, numerical analysis, and series approximations. Within the broader context of the surrounding content, this equation exemplifies a special case of the binomial theorem, illustrating how the theorem adapts when one term is negative, and it serves as a basis for further examples and applications such as expansions of (x - 2y)^5 and computations involving powers of numbers expressed as sums or differences. The equation also highlights the interplay between algebraic manipulation and combinatorial coefficients, reinforcing the principle of mathematical induction used to prove the general binomial theorem.",
+    "tokens": 631,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 42,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:67c8f1aecfa22cd56e1a54c093646568",
+      "default:extract:ab42872107f2d8b7236772e68ac31555"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (x - y)^n (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985374,
+    "_id": "chunk-71c403dadecc1985bd7201dab0693488"
+  },
+  "chunk-eea2938876ba3a4e8db663418e334ae4": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} ^ {5} \\mathrm {C} _ {4} x (2 y) ^ {4} - ^ {5} \\mathrm {C} _ {5} (2 y) ^ {5} \\\\ = x ^ {5} - 1 0 x ^ {4} y + 4 0 x ^ {3} y ^ {2} - 8 0 x ^ {2} y ^ {3} + 8 0 x y ^ {4} - 3 2 y ^ {5}. \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents the partial expansion and simplification of the binomial expression (x - 2y)^5 using the binomial theorem. The binomial theorem states that for any positive integer n, (a + b)^n can be expanded as the sum from k=0 to n of nCk * a^(n-k) * b^k, where nCk denotes the binomial coefficient. Here, the variables x and y are real numbers, and the expression involves powers of x and y combined with coefficients derived from binomial coefficients and powers of 2. The left side shows two specific terms from the binomial expansion: the term with k=4, which is 5C4 * x * (2y)^4, and the term with k=5, which is 5C5 * (2y)^5, with alternating signs due to the negative sign in the binomial (x - 2y). The right side is the full expansion of (x - 2y)^5, explicitly listing all terms with their coefficients and powers, demonstrating the alternating signs and the combinatorial coefficients multiplied by powers of 2. The mathematical operations include combinatorial coefficients (binomial coefficients), exponentiation, multiplication, and addition/subtraction. This equation is situated within the context of proving and illustrating the binomial theorem and its special cases, particularly expansions involving negative terms. The physical or theoretical significance lies in its utility for polynomial expansions, combinatorics, and algebraic manipulations. It relates directly to the principle of mathematical induction used to prove the binomial theorem and exemplifies how binomial coefficients and powers combine in polynomial expansions. Practical applications include algebraic simplifications, probability theory (binomial distributions), numerical approximations, and computational mathematics. This equation exemplifies the broader framework of binomial expansions and their use in expressing powers of binomials as sums of terms involving binomial coefficients and powers of the individual terms.",
+    "tokens": 543,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 43,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:791e6437e1c6923f631533343b1bb3e3",
+      "default:extract:853d4a2809322300605996d7ca2ac928"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (x - 2y)^5 (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985374,
+    "_id": "chunk-eea2938876ba3a4e8db663418e334ae4"
+  },
+  "chunk-166b85d5f3e7300f12eaff7e7e73f4e2": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (1 + x) ^ {n} = ^ {n} C _ {0} (1) ^ {n} + ^ {n} C _ {1} (1) ^ {n - 1} x + ^ {n} C _ {2} (1) ^ {n - 2} x ^ {2} + \\dots + ^ {n} C _ {n} x ^ {n} \\\\ = ^ {n} \\mathrm {C} _ {0} + ^ {n} \\mathrm {C} _ {1} x + ^ {n} \\mathrm {C} _ {2} x ^ {2} + ^ {n} \\mathrm {C} _ {3} x ^ {3} + \\dots + ^ {n} \\mathrm {C} _ {n} x ^ {n} \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (1 + x)^n, where n is a positive integer. It expresses the power of a binomial sum as a finite sum of terms involving binomial coefficients and powers of x. The variables are: n, a positive integer indicating the power; x, a variable or real number; and the binomial coefficients denoted by ^nC_k, which represent the number of combinations of n items taken k at a time. The equation uses summation of terms of the form ^nC_k * x^k, where k ranges from 0 to n. The binomial coefficients are defined combinatorially as ^nC_k = n! / (k!(n-k)!). This expansion is a direct application of the binomial theorem, a fundamental result in combinatorics and algebra. The equation simplifies the expression (1 + x)^n into a polynomial of degree n, facilitating computations and theoretical analysis. It is significant in probability theory, algebraic expansions, and numerical methods. The equation also serves as a basis for special cases such as (x - y)^n and for approximations in calculus. Within the broader context, this equation exemplifies the inductive proof of the binomial theorem and illustrates how binomial coefficients govern the structure of polynomial expansions. It connects combinatorial identities with algebraic expressions and underpins many practical applications including series expansions, probability distributions (e.g., binomial distribution), and computational algorithms.",
+    "tokens": 514,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 44,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:8d0e3ff7e13032b5323a28d0b4346719",
+      "default:extract:ba5493b2950738bc74298e2ee14e9331"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (1 + x)^n (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985422,
+    "_id": "chunk-166b85d5f3e7300f12eaff7e7e73f4e2"
+  },
+  "chunk-67dbc92f889529cb5550cc2525e41e12": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '130 ', 'bbox': [100, 103, 128, 115], 'page_idx': 4}\n\nAnalysis: This page_number content represents the physical page number '130' of the document, located at coordinates [100, 103, 128, 115] on page index 4. It serves as a navigational and referential element within the document, enabling readers to locate and cite specific content. The page number is part of the document's pagination system, which organizes the mathematical exposition on the Binomial Theorem and its special cases. Although it contains no substantive mathematical content itself, it is crucial for contextualizing the surrounding detailed proofs, examples, and expansions presented on adjacent pages (3 to 5). This page number supports the broader discussion by providing a structural anchor point for the reader, facilitating knowledge retrieval and cross-referencing within the text.",
+    "tokens": 194,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 45,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:3e885d806adc5e7f0ad6a9e374ea57e7",
+      "default:extract:0481f3cde17d64b0fd9664aa32da304b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 130 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985422,
+    "_id": "chunk-67dbc92f889529cb5550cc2525e41e12"
+  },
+  "chunk-6f1b36a23c62539e670b02d8959d9a5c": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 103, 294, 115], 'page_idx': 4}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level categorical label demarcating the subject area of the content that follows. Positioned on page 4, it likely introduces a new section or chapter focused on mathematical concepts, theories, or applications. This header is broad and thematic rather than specific, providing organizational structure to the document by signaling a transition or emphasis on mathematical content. It connects to the preceding detailed mathematical proofs and examples (such as the binomial theorem and its special cases) by framing the broader academic or instructional context. This header aids in knowledge retrieval by clearly marking the domain of the subsequent material, facilitating navigation and thematic indexing within the document.",
+    "tokens": 178,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 46,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:e966425c8aa16d1a2e0ff974a1ab733f",
+      "default:extract:cc91b696cec7dade5ee73e6ccc2f3998"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985422,
+    "_id": "chunk-6f1b36a23c62539e670b02d8959d9a5c"
+  },
+  "chunk-c99ccefafa72ba517c6abcfe821cc32e": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 4}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of page 4. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version validity of the document. This footer serves as a temporal marker, linking the mathematical content on binomial theorem proofs and examples to a specific publication timeframe. Its presence supports knowledge retrieval by providing a reference point for the document's currency and edition, which is critical for academic citation and version control in educational materials. The footer's simplicity ensures it does not distract from the main content but still offers essential metadata about the document's reprint status.",
+    "tokens": 205,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 47,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:de9403622115c59586ebd77d5c8a2fd3",
+      "default:extract:336d809ce8c43e933dd51c8aae3b9ea4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 4,
+    "create_time": 1770984600,
+    "update_time": 1770985422,
+    "_id": "chunk-c99ccefafa72ba517c6abcfe821cc32e"
+  },
+  "chunk-f38c629aa327fbe025a471b32c821a23": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n2 ^ {n} = ^ {n} C _ {0} + ^ {n} C _ {1} + ^ {n} C _ {2} + \\dots + ^ {n} C _ {n}.\n$$\nFormat: latex\n\nMathematical Analysis: The equation expresses the well-known combinatorial identity that the sum of all binomial coefficients for a fixed non-negative integer n equals 2 raised to the power n. Mathematically, it states that \\(2^n = \\sum_{k=0}^n {n \\choose k}\\), where \\({n \\choose k}\\) denotes the binomial coefficient representing the number of ways to choose k elements from a set of n elements. The variables involved are n, a non-negative integer indicating the power and the size of the set, and k, the index of summation ranging from 0 to n. The binomial coefficients \\({n \\choose k}\\) are defined as \\(\\frac{n!}{k!(n-k)!}\\). This identity is a direct consequence of the binomial theorem, which expands \\((a+b)^n\\) into a sum involving these coefficients. Setting \\(a = 1\\) and \\(b = 1\\) in the binomial theorem yields this equation, highlighting the total number of subsets of an n-element set (since each element can be either included or excluded, giving 2 choices per element, hence \\(2^n\\) subsets). The equation is fundamental in combinatorics, probability theory, and algebra, serving as a cornerstone for counting arguments and expansions. It relates to other concepts in the context such as the binomial theorem expansions for expressions like \\((x - y)^n\\) and practical computations of powers by binomial expansion. Its theoretical significance lies in connecting algebraic expansions with combinatorial interpretations, and practically, it underpins algorithms in computer science, statistical calculations, and discrete mathematics. Within the broader discussion, this identity supports the understanding of binomial expansions and their applications in evaluating powers, proving divisibility properties, and solving exercises involving polynomial expansions.",
+    "tokens": 443,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 48,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:8338bb0bdcef13135c69641f3f117eb7",
+      "default:extract:0bca4bd28f1a9404fede28b5c7316613"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Sum of Binomial Coefficients Equals Power of Two (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985529,
+    "_id": "chunk-f38c629aa327fbe025a471b32c821a23"
+  },
+  "chunk-410fdec9fbdc47a2669e8539198df530": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(1 - x) ^ {n} = ^ {n} C _ {0} - ^ {n} C _ {1} x + ^ {n} C _ {2} x ^ {2} - \\dots + (- 1) ^ {n} ^ {n} C _ {n} x ^ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (1 - x)^n using the Binomial Theorem. Mathematically, it expresses (1 - x)^n as a finite sum of terms involving binomial coefficients ^nC_k, powers of x, and alternating signs. Here, n is a non-negative integer exponent, x is a variable or real number, and ^nC_k denotes the binomial coefficient, defined as n!/(k!(n-k)!). The alternating signs arise from the negative term in the binomial (1 - x), resulting in (-1)^k factors for each term. The operations include summation of terms, exponentiation of x, and multiplication by binomial coefficients. This expansion is fundamental in combinatorics and algebra, providing a way to express powers of binomials as sums of simpler terms. It is closely related to Pascal's triangle and combinatorial counting principles. In the surrounding context, this equation is used to derive special cases, compute powers of numbers expressed as sums or differences, and prove number theory results such as divisibility and remainders. The equation's theoretical significance lies in its role as a foundational tool for polynomial expansions, approximations, and algebraic manipulations. Practically, it enables efficient computation of powers, series expansions, and solving problems in probability, algebra, and numerical analysis. Within the broader discussion, this equation exemplifies the application of the Binomial Theorem to various algebraic expressions and demonstrates its utility in problem-solving and proofs.",
+    "tokens": 400,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 49,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:3dbc66d534ad3ada3f89755c32a4cd6c",
+      "default:extract:6578d3758128babc619c281619f032a1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (1 - x)^n (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985529,
+    "_id": "chunk-410fdec9fbdc47a2669e8539198df530"
+  },
+  "chunk-5b7aa4398b2a3b616b2389a193b404fc": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n0 = ^ {n} C _ {0} - ^ {n} C _ {1} + ^ {n} C _ {2} - \\dots + (- 1) ^ {n} ^ {n} C _ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation 0 = ^{n}C_0 - ^{n}C_1 + ^{n}C_2 - ... + (-1)^n ^{n}C_n represents the alternating sum of binomial coefficients for a fixed integer n. Here, ^{n}C_k denotes the binomial coefficient, defined as n!/(k!(n-k)!), which counts the number of ways to choose k elements from a set of n elements. The alternating signs indicate the use of the binomial theorem applied to (1 - 1)^n, which equals zero for all positive integers n. This identity is a direct consequence of the binomial expansion: (a + b)^n = sum_{k=0}^n ^{n}C_k a^{n-k} b^k, by substituting a = 1 and b = -1. The equation highlights the combinatorial symmetry and cancellation properties of binomial coefficients under alternating signs. It is fundamental in combinatorics, algebra, and number theory, often used to prove identities, evaluate sums, and analyze polynomial expansions. Within the broader context of the surrounding content, which discusses binomial expansions, special cases, and applications such as modular arithmetic and approximations, this equation exemplifies a key property of binomial coefficients and their behavior under sign alternation. It also connects to the concept of the binomial theorem and its use in expanding expressions like (x - y)^n and in proving divisibility properties, as seen in the examples provided. Practical applications include combinatorial proofs, series expansions, and simplifying expressions involving alternating sums of combinations.",
+    "tokens": 405,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 50,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:7923d1a919332f44d0847256dd226dcd",
+      "default:extract:bacb859f740ab52fc4e017c05558a059"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Alternating Sum of Binomial Coefficients Identity (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985529,
+    "_id": "chunk-5b7aa4398b2a3b616b2389a193b404fc"
+  },
+  "chunk-e829bff3c6286a07e4d5b2268d03166c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} x ^ {2} + \\frac {3}{x} ^ {4} = ^ {4} \\mathrm {C} _ {0} (x ^ {2}) ^ {4} + ^ {4} \\mathrm {C} _ {1} (x ^ {2}) ^ {3} \\left(\\frac {3}{x}\\right) + ^ {4} \\mathrm {C} _ {2} (x ^ {2}) ^ {2} \\left(\\frac {3}{x}\\right) ^ {2} + ^ {4} \\mathrm {C} _ {3} (x ^ {2}) \\left(\\frac {3}{x}\\right) ^ {3} + ^ {4} \\mathrm {C} _ {4} \\left(\\frac {3}{x}\\right) ^ {4} \\\\ = x ^ {8} + 4. x ^ {6} \\cdot \\frac {3}{x} + 6. x ^ {4} \\cdot \\frac {9}{x ^ {2}} + 4. x ^ {2} \\cdot \\frac {2 7}{x ^ {3}} + \\frac {8 1}{x ^ {4}} \\\\ = x ^ {8} + 1 2 x ^ {5} + 5 4 x ^ {2} + \\frac {1 0 8}{x} + \\frac {8 1}{x ^ {4}}. \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given equation represents the binomial expansion of the expression \\( \\left(x^{2} + \\frac{3}{x}\\right)^{4} \\) using the Binomial Theorem. The Binomial Theorem states that for any integer \\( n \\geq 0 \\), \\( (a + b)^n = \\sum_{k=0}^n {n \\choose k} a^{n-k} b^k \\), where \\( {n \\choose k} \\) are binomial coefficients. Here, the variables are \\( a = x^2 \\) and \\( b = \\frac{3}{x} \\), with \\( n = 4 \\). The equation expands the power by summing terms of the form \\( {4 \\choose k} (x^2)^{4-k} \\left(\\frac{3}{x}\\right)^k \\), which simplifies to powers of \\( x \\) and constants. The binomial coefficients \\( {4 \\choose k} \\) for \\( k=0,1,2,3,4 \\) are 1, 4, 6, 4, and 1 respectively. The expansion results in a polynomial with mixed positive and negative powers of \\( x \\), specifically \\( x^8, x^5, x^2, x^{-1}, x^{-4} \\). This illustrates the application of the Binomial Theorem to expressions involving both polynomial and rational terms. The mathematical operations include exponentiation, multiplication, and summation over binomial coefficients. The context is algebraic expansion and simplification, useful in algebra, calculus, and mathematical problem solving. The equation demonstrates how to handle binomial expansions when terms are not simple monomials but involve fractional powers, highlighting the theorem's versatility. It relates to other examples in the text where binomial expansions are used to simplify powers, approximate values, or prove divisibility properties. Practically, such expansions are used in series approximations, combinatorics, and solving algebraic equations. Within the broader framework, this example concretely applies the binomial theorem to a non-trivial expression, reinforcing understanding of binomial coefficients and power manipulations.",
+    "tokens": 799,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 51,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:f432ca9435d19338f92913d9741fa2c3",
+      "default:extract:995a344e652e7bc90800e8a9cef18edc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of \\( \\left(x^{2} + \\frac{3}{x}\\right)^{4} \\) (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985529,
+    "_id": "chunk-e829bff3c6286a07e4d5b2268d03166c"
+  },
+  "chunk-a0b4775aaad09f1125f2dd2a06e8cb3c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} = ^ {5} \\mathrm {C} _ {0} (1 0 0) ^ {5} - ^ {5} \\mathrm {C} _ {1} (1 0 0) ^ {4}. 2 + ^ {5} \\mathrm {C} _ {2} (1 0 0) ^ {3} 2 ^ {2} \\\\ - ^ {5} \\mathrm {C} _ {3} (1 0 0) ^ {2} (2) ^ {3} + ^ {5} \\mathrm {C} _ {4} (1 0 0) (2) ^ {4} - ^ {5} \\mathrm {C} _ {5} (2) ^ {5} \\\\ = 1 0 0 0 0 0 0 0 0 0 0 - 5 \\times 1 0 0 0 0 0 0 0 0 \\times 2 + 1 0 \\times 1 0 0 0 0 0 0 \\times 4 - 1 0 \\times 1 0 0 0 0 \\\\ \\times 8 + 5 \\times 1 0 0 \\times 1 6 - 3 2 \\\\ = 1 0 0 4 0 0 0 8 0 0 0 - 1 0 0 0 8 0 0 0 3 2 = 9 0 3 9 2 0 7 9 6 8. \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of (98)^5 using the Binomial Theorem. It expresses 98 as (100 - 2) and expands (100 - 2)^5 as a sum of terms involving binomial coefficients ^5C_k, powers of 100, and powers of 2 with alternating signs due to the negative term. Variables include n=5 (the exponent), a=100, and b=-2. The binomial coefficients ^5C_k are combinatorial numbers representing the number of ways to choose k elements from 5. The operations include exponentiation, multiplication, and summation with alternating signs. This expansion simplifies the computation of large powers by breaking them into manageable terms. The context is numerical computation and algebraic manipulation using the Binomial Theorem, illustrating practical use in evaluating powers of numbers close to round figures. The equation also demonstrates the application of combinatorics in algebra and the utility of binomial expansions in approximations and exact calculations. It relates to the broader discussion on binomial expansions, special cases, and examples illustrating the theorem's power in simplifying complex expressions and solving problems in number theory and algebra.",
+    "tokens": 620,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 52,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:85715726959324e6ccb5b6000196d26b",
+      "default:extract:ae2ca1fd606e7ad75d581944d70d5fa3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (98)^5 (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985585,
+    "_id": "chunk-a0b4775aaad09f1125f2dd2a06e8cb3c"
+  },
+  "chunk-02659071bde140b1f6d7c6bcaac84e8f": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'BINOMIAL THEOREM ', 'bbox': [649, 103, 829, 116], 'page_idx': 5}\n\nAnalysis: The header 'BINOMIAL THEOREM' serves as a primary sectional title that introduces the mathematical concept of the binomial theorem. Structurally, it is a standalone header that demarcates the beginning of a focused discussion on the binomial theorem, following preliminary observations and special cases related to binomial expansions. Key elements include the explicit naming of the theorem, which signals a shift from examples and observations to a formal treatment or detailed explanation. This header connects preceding content on binomial expansions and special cases to subsequent examples, proofs, and exercises, thereby organizing the material into a coherent thematic unit. Its placement on page 5, after initial observations and special cases on page 4, indicates a transition from informal or illustrative content to a formal exposition. This header is significant for knowledge retrieval as it marks the entry point for all content related to the binomial theorem, facilitating navigation and contextual understanding within the broader mathematical discussion on binomial expansions and their applications.",
+    "tokens": 240,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 53,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:39a20f05b728194a740d31777cf577b1",
+      "default:extract:8856f3ee23742e26b0377454479009da"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Section Header (header)",
+    "original_type": "header",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985585,
+    "_id": "chunk-02659071bde140b1f6d7c6bcaac84e8f"
+  },
+  "chunk-8562a500a95e7c21ab5f2c9020323c41": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '131 ', 'bbox': [869, 103, 895, 116], 'page_idx': 5}\n\nAnalysis: This page_number content represents the physical page number '131' located at the bottom or corner of the page, indicated by its bounding box coordinates. It serves as a navigational and referential element within the document, allowing readers to locate and reference specific content efficiently. The page number is part of the pagination system that organizes the document sequentially. In the broader context, this page number situates the detailed mathematical exposition and examples of the binomial theorem between pages 4 and 6, helping to maintain continuity and structure in the presentation of the topic. Although it contains no substantive textual content, its presence is crucial for document navigation, citation, and cross-referencing within the educational material on binomial expansions and related exercises.",
+    "tokens": 189,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 54,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:ff9efebcf6a9ef1013d6120723dc7b55",
+      "default:extract:c2af298b52aa23d25261f8f2f1b2ff7d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 131 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985585,
+    "_id": "chunk-8562a500a95e7c21ab5f2c9020323c41"
+  },
+  "chunk-d93d86499ed48b365e4aefa3689915e2": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 5}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of page 5. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version of the document. This footer serves as a temporal marker, providing context about the currency and edition of the material, which is important for citation, version control, and knowledge retrieval. In relation to the surrounding content, which is mathematical exposition on the binomial theorem and exercises, the footer does not contribute to the academic content but supports the document's metadata and publication details. It helps users and systems identify the document's edition, ensuring that references or further study are aligned with the correct version of the text.",
+    "tokens": 219,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 55,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:eb7bed58ca19cec0f8bbccd24f213a4e",
+      "default:extract:349cc425ef8551ac7f626c458c3edf2c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 5,
+    "create_time": 1770984600,
+    "update_time": 1770985585,
+    "_id": "chunk-d93d86499ed48b365e4aefa3689915e2"
+  },
+  "chunk-9a5159b83248bbdd9e43216cb178f052": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} (1. 0 1) ^ {1 0 0 0 0 0 0} = (1 + 0. 0 1) ^ {1 0 0 0 0 0 0} \\\\ = ^ {1 0 0 0 0 0 0} C _ {0} + ^ {1 0 0 0 0 0 0} C _ {1} (0. 0 1) + \\text {o t h e r p o s i t i v e t e r m s} \\\\ = 1 + 1 0 0 0 0 0 0 \\times 0. 0 1 + \\text {o t h e r p o s i t i v e t e r m s} \\\\ = 1 + 1 0 0 0 0 + \\text {o t h e r p o s i t i v e t e r m s} \\\\ > 1 0 0 0 0 \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The equation analyzes the value of (1.01) raised to the power 1,000,000 using the binomial theorem. It expresses (1.01)^{1000000} as (1 + 0.01)^{1000000} and expands it into binomial coefficients: \\( \\binom{1000000}{0} + \\binom{1000000}{1} (0.01) + \\text{other positive terms} \\). The first two terms are explicitly calculated as 1 and 10,000, respectively, showing that the sum is already greater than 10,000 before adding the remaining positive terms. Variables include the base 1.01, the exponent 1,000,000, and the binomial coefficients \\( \\binom{n}{k} \\) representing combinations. The operations involve exponentiation, binomial expansion, and summation of positive terms. This equation is situated in the context of comparing large powers and approximations, demonstrating that (1.01)^{1000000} exceeds 10,000 by leveraging the binomial theorem. The physical or theoretical significance lies in illustrating growth rates and exponential approximations. It relates to other examples using the binomial theorem for expansions and computations of powers. Practical applications include estimating compound interest, population growth, or any process modeled by exponential functions. This equation exemplifies the power of binomial expansion in bounding and approximating large exponentials within the broader framework of algebraic manipulation and combinatorial identities.",
+    "tokens": 572,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 56,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:434b82238f4d9ae3e9dd9bc2fbce7d8c",
+      "default:extract:4d460899f14a9de815c3173e38aad4e6"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion Approximation of (1.01)^{1000000} (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985693,
+    "_id": "chunk-9a5159b83248bbdd9e43216cb178f052"
+  },
+  "chunk-3551c59344b72474626934a4842b6d25": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(1 + a) ^ {n} = ^ {n} C _ {0} + ^ {n} C _ {1} a + ^ {n} C _ {2} a ^ {2} + \\dots + ^ {n} C _ {n} a ^ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the Binomial Theorem, which provides the expansion of a binomial expression raised to a positive integer power n. Mathematically, it states that (1 + a)^n can be expanded as the sum of terms involving binomial coefficients ^nC_k multiplied by powers of a, from k=0 to k=n. Here, n is a non-negative integer representing the exponent, a is a variable or constant term, and ^nC_k denotes the binomial coefficient, defined as n!/(k!(n-k)!), representing the number of ways to choose k elements from n. The operations involved include exponentiation, multiplication, and summation. This theorem is fundamental in combinatorics, algebra, and probability theory, providing a direct formula for polynomial expansion without repeated multiplication. In the surrounding context, it is used to expand expressions like (x^2 + 3/x)^4, compute powers such as (98)^5 by rewriting as (100 - 2)^5, and analyze inequalities and divisibility properties involving powers, such as proving remainders modulo 25. The binomial theorem connects to combinatorial identities and modular arithmetic, illustrating its broad applicability. Practically, it simplifies calculations of large powers, aids in series expansions, and underpins many proofs in number theory and algebra. Within the broader framework, this equation serves as the foundational tool for the examples and exercises presented, demonstrating its central role in understanding polynomial expansions and their applications.",
+    "tokens": 383,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 57,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:3fd5fb3830e34451dbb45d9005a73825",
+      "default:extract:65d6bb0319137880169beae0fc0cfcf9"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Expansion (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985693,
+    "_id": "chunk-3551c59344b72474626934a4842b6d25"
+  },
+  "chunk-ed95ef3edcf68cb345b23e8fbc85852c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n(1 + 5) ^ {n} = ^ {n} \\mathrm {C} _ {0} + ^ {n} \\mathrm {C} _ {1} 5 + ^ {n} \\mathrm {C} _ {2} 5 ^ {2} + \\dots + ^ {n} \\mathrm {C} _ {n} 5 ^ {n}\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the binomial expansion of the expression (1 + 5)^n using the Binomial Theorem. Mathematically, it states that (1 + 5)^n can be expanded as the sum of terms of the form C(n, k) * 1^(n-k) * 5^k, where C(n, k) denotes the binomial coefficient \"n choose k\". Here, the variable n is a non-negative integer representing the power to which the binomial is raised. The binomial coefficients ^nC_k are defined combinatorially as n!/(k!(n-k)!). The powers of 5 increase from 0 to n, corresponding to each term in the expansion. The equation uses summation of products involving binomial coefficients and powers, illustrating the discrete combinatorial structure underlying polynomial expansions. In the surrounding context, this expansion is used to analyze expressions like 6^n by rewriting 6 as (1 + 5) and expanding to study divisibility properties modulo 25. This highlights the theoretical significance of the binomial theorem in number theory and modular arithmetic, particularly in proving congruences and remainder properties. The equation relates to other binomial expansions and combinatorial identities discussed in the text, serving as a foundational tool for algebraic manipulation and problem solving. Practical applications include simplifying powers of sums, computing large powers efficiently, and proving divisibility or remainder results in modular arithmetic. Within the broader framework, this equation exemplifies the use of binomial expansions to transform complex expressions into sums of simpler terms, facilitating algebraic proofs and numerical computations.",
+    "tokens": 428,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 58,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:83fa31231a003890f36f6f3563e63afc",
+      "default:extract:39d69b65525eda491edbf741e97bc907"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Expansion of (1 + 5)^n (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985693,
+    "_id": "chunk-ed95ef3edcf68cb345b23e8fbc85852c"
+  },
+  "chunk-c1fae7a33e37d68155b553e721882f48": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '132 ', 'bbox': [100, 103, 128, 116], 'page_idx': 6}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '132'. It is structured as a minimal text element with bounding box coordinates and page index metadata, typical for page numbering in documents. The key information is the page number itself, which serves as a navigational and referential marker within the document. Its relationship to surrounding content is purely positional, providing a reference point that connects the detailed mathematical discussions and exercises on binomial theorem from previous pages to the broader document structure. This page number supports knowledge retrieval by enabling precise location referencing within the text, facilitating cross-referencing, citation, and navigation. It does not contain substantive content but is essential for organizing and contextualizing the surrounding mathematical exposition and exercises.",
+    "tokens": 187,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 59,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:d80d7a79745a39e148f42923f9addd3a",
+      "default:extract:99490bc732535d738bbdec7551349350"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 132 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985693,
+    "_id": "chunk-c1fae7a33e37d68155b553e721882f48"
+  },
+  "chunk-abf42da3fde6def6742c940fc8aecad7": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 103, 294, 116], 'page_idx': 6}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional title that demarcates the beginning of a new thematic or topical segment within the document, likely on page 6. Positioned after detailed examples and exercises related to the binomial theorem and its applications, this header signals a transition to broader or different mathematical content. Structurally, it is a standalone header with a bounding box indicating prominence and spatial separation from surrounding text. Its role is to organize the document into coherent parts, facilitating navigation and contextual understanding. This header supports the broader discussion by framing subsequent mathematical topics or summaries, thus aiding knowledge retrieval by clearly marking the start of a new mathematical section.",
+    "tokens": 179,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 60,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:8fb6b4903be314790c55ff548603052e",
+      "default:extract:8bd4bef98b4a929e275d193a9a5b3a96"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS Section Header (header)",
+    "original_type": "header",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985746,
+    "_id": "chunk-abf42da3fde6def6742c940fc8aecad7"
+  },
+  "chunk-801d19bdb4ecb396e5bf64464d1f5c0c": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 6}\n\nAnalysis: The footer content is minimal, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 6. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or printing cycle of the document. This footer serves as a temporal marker, contextualizing the document's currency and version within the broader mathematical discussion on binomial theorem expansions and exercises. It supports knowledge retrieval by providing a reference point for the document's publication timeline, which is essential for citation, version control, and understanding the document's relevance in ongoing academic or educational use.",
+    "tokens": 190,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 61,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:6d5160aab7091e09401e8597fb497880",
+      "default:extract:45d8a4cab941025a8f8b9c952a1771ba"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 6,
+    "create_time": 1770984600,
+    "update_time": 1770985746,
+    "_id": "chunk-801d19bdb4ecb396e5bf64464d1f5c0c"
+  },
+  "chunk-bbaa2710739ddadf1f1221faa0d074b4": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['6. (96)3 ', '7. (102) $^5$ ', '8. (101)4 ', '9. (99)5 ', '10. Using Binomial Theorem, indicate which number is larger $(1.1)^{10000}$ or 1000. ', '11. Find $(a + b)^4 - (a - b)^4$ . Hence, evaluate $(\\\\sqrt{3} + \\\\sqrt{2})^4 - (\\\\sqrt{3} - \\\\sqrt{2})^4$ . ', '12. Find $(x + 1)^6 + (x - 1)^6$ . Hence or otherwise evaluate $(\\\\sqrt{2} + 1)^6 + (\\\\sqrt{2} - 1)^6$ . ', '13. Show that $9^{n + 1} - 8n - 9$ is divisible by 64, whenever $n$ is a positive integer. ', '14. Prove that $\\\\sum_{r=0}^{n} 3^{r} n \\\\mathrm{C}_{r} = 4^{n}$ . '], 'bbox': [98, 226, 891, 429], 'page_idx': 7}\n\nAnalysis: The content is a numbered list of mathematical exercises primarily focused on applications of the binomial theorem and related algebraic expressions. The list is structured sequentially, with each item presenting a distinct problem or question involving binomial expansions, inequalities, divisibility proofs, or summation identities. Key elements include algebraic expressions to expand or evaluate, comparisons of exponential expressions, and proofs of divisibility or summation formulas using binomial coefficients. The list items are interconnected through the common theme of binomial theorem applications, supporting the broader instructional context of the chapter, which includes examples, solutions, exercises, and historical notes on binomial coefficients. This list serves as practice problems reinforcing the theoretical concepts and proofs discussed earlier, facilitating knowledge retrieval on binomial expansions, combinatorial identities, and modular arithmetic within the scope of binomial theorem applications.",
+    "tokens": 456,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 62,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:646c88fe26629864b87426c6a95345a3",
+      "default:extract:775a34d6656b7792783a8b0a2112197c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Exercises List (list)",
+    "original_type": "list",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985746,
+    "_id": "chunk-bbaa2710739ddadf1f1221faa0d074b4"
+  },
+  "chunk-4a07bd96af981c58548e03b76c07b144": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['1. If $a$ and $b$ are distinct integers, prove that $a - b$ is a factor of $a^n - b^n$ , whenever $n$ is a positive integer. ', '[Hint write $a^n = (a - b + b)^n$ and expand] ', '2. Evaluate $\\\\left(\\\\sqrt{3} + \\\\sqrt{2}\\\\right)^6 - \\\\left(\\\\sqrt{3} - \\\\sqrt{2}\\\\right)^6$ . ', '3. Find the value of $\\\\left(a^2 + \\\\sqrt{a^2 - 1}\\\\right)^4 + \\\\left(a^2 - \\\\sqrt{a^2 - 1}\\\\right)^4$ . ', '4. Find an approximation of $(0.99)^5$ using the first three terms of its expansion. ', '5. Expand using Binomial Theorem $\\\\left(1 + \\\\frac{x}{2} - \\\\frac{2}{x}\\\\right)^4$ , $x \\\\neq 0$ . ', '6. Find the expansion of $(3x^{2} - 2ax + 3a^{2})^{3}$ using binomial theorem. '], 'bbox': [108, 486, 897, 750], 'page_idx': 7}\n\nAnalysis: The content is a structured list of six mathematical exercises focused on applications of the binomial theorem and algebraic expansions. Each list item presents a distinct problem involving polynomial factorization, evaluation of expressions with radicals, approximation using binomial expansions, and polynomial expansions with multiple variables. The list is organized sequentially, with each item building on the conceptual framework of binomial expansions introduced in the surrounding context, which includes proofs and examples related to binomial theorem properties and modular arithmetic. The list supports the broader discussion by providing practice problems that reinforce theoretical concepts, facilitating deeper understanding and application of binomial expansions in various algebraic contexts. The problems vary in complexity and type, including factorization proofs, radical expressions, approximations, and multi-term expansions, reflecting a comprehensive approach to mastering binomial theorem applications. This list is significant for knowledge retrieval as it encapsulates key problem types that illustrate the theorem's versatility and connects theoretical proofs to practical exercises.",
+    "tokens": 495,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 63,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:19ebdb77ff3e13812e6f93ca092d80b3",
+      "default:extract:2337ff9798b614277ae409681c7053da"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Practice Exercises (list)",
+    "original_type": "list",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985746,
+    "_id": "chunk-4a07bd96af981c58548e03b76c07b144"
+  },
+  "chunk-db340ede2d0c1fa3458a63e61e8421ff": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['$\\\\diamond$ The expansion of a binomial for any positive integral $n$ is given by Binomial Theorem, which is $(a + b)^n = {}^n\\\\mathrm{C}_0a^n +{}^n\\\\mathrm{C}_1a^{n - 1}b + {}^n\\\\mathrm{C}_2a^{n - 2}b^2 +\\\\ldots +$ ${}^n\\\\mathrm{C}_{n - 1}a.b^{n - 1} + {}^n\\\\mathrm{C}_n b^n.$ ', \"$\\\\diamond$ The coefficients of the expansions are arranged in an array. This array is called Pascal's triangle. \"], 'bbox': [123, 796, 873, 894], 'page_idx': 7}\n\nAnalysis: The content is a two-item textual list that succinctly presents foundational concepts related to the binomial theorem. The first item states the general formula for the expansion of a binomial expression raised to a positive integral power n, explicitly showing the sum of terms involving binomial coefficients and powers of the variables a and b. The second item introduces Pascal's triangle as the structured array that organizes these binomial coefficients. The list is logically organized to first define the binomial expansion formula and then connect it to the geometric arrangement of coefficients, establishing a conceptual link between algebraic expressions and combinatorial structures. This list supports the surrounding mathematical discussion by providing a concise reference to the binomial theorem's formula and the significance of Pascal's triangle, which underpins the examples and proofs on the preceding pages, including the modular arithmetic problem involving powers of 6 and binomial coefficients. It serves as a foundational summary that aids in understanding the algebraic manipulations and combinatorial reasoning used in the chapter. For knowledge retrieval, the list highlights the key terminologies: 'binomial expansion formula', 'binomial coefficients', and 'Pascal's triangle', which are central to the chapter's theme on binomial theorem and its applications.",
+    "tokens": 441,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 64,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:7e6ebc8869921c100e4285305b19e6e0",
+      "default:extract:cd69f2f6fdc14a967c953a5cbe16b619"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Key Concepts of Binomial Theorem and Pascal's Triangle (list)",
+    "original_type": "list",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985784,
+    "_id": "chunk-db340ede2d0c1fa3458a63e61e8421ff"
+  },
+  "chunk-63d05f11a875ac7dcb7c3448ea5a8ace": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'BINOMIAL THEOREM ', 'bbox': [649, 103, 829, 116], 'page_idx': 7}\n\nAnalysis: The header 'BINOMIAL THEOREM' serves as a sectional title that introduces the topic of the binomial theorem on page 7. It is prominently placed to demarcate the beginning of a focused discussion or exposition on the binomial theorem, following examples and exercises related to binomial expansions and modular arithmetic on page 6. The header organizes the content by signaling a shift from problem-solving and exercises to a more formal or theoretical treatment of the binomial theorem. This structural cue helps readers navigate the material, linking prior applied examples to the underlying mathematical principles. The header's placement and formatting emphasize its role as a key thematic anchor, supporting knowledge retrieval by clearly identifying the subject matter and facilitating connections to subsequent historical notes and summaries on the theorem's development.",
+    "tokens": 200,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 65,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:46d3c22d7c91a6e49330e04a1391a360",
+      "default:extract:4ede911cf9dabff65d1d940dd83520c7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Binomial Theorem Section Header (header)",
+    "original_type": "header",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985784,
+    "_id": "chunk-63d05f11a875ac7dcb7c3448ea5a8ace"
+  },
+  "chunk-0169577d9d9986f181b4d3c58a9bf7b7": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '133 ', 'bbox': [869, 103, 897, 116], 'page_idx': 7}\n\nAnalysis: This page_number content represents the physical page number '133' of the document, located at the bottom or corner of the page as indicated by its bounding box coordinates. It serves as a navigational and referential element within the document's pagination system. The page number is isolated from the main textual content and does not contain substantive mathematical or theoretical information itself. However, it is crucial for indexing, cross-referencing, and locating specific content within the broader text. In the context of the surrounding pages, which include detailed mathematical proofs, exercises, and historical notes on the binomial theorem, this page number helps users orient themselves and access the relevant sections efficiently. It supports the structural organization of the document by marking the transition between content sections and enabling systematic retrieval of information.",
+    "tokens": 197,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 66,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:6c40983d8f8cb706f036d4b1e9df57ef",
+      "default:extract:83408a02559469963b8ae3605e5137da"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 133 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985784,
+    "_id": "chunk-0169577d9d9986f181b4d3c58a9bf7b7"
+  },
+  "chunk-e7d37c7390658b88b4e27bad60519a70": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 7}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 7, likely serving as a publication or edition identifier. The structure is simple, with no additional elements such as copyright, contact information, or navigation links. This footer acts as a temporal marker, indicating the edition or reprint cycle of the document, which is important for version control and citation. In the broader context of the mathematical content on preceding pages, this footer provides metadata about the document's currency and edition, supporting users in referencing or verifying the material's timeliness.",
+    "tokens": 175,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 67,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:627c2b65b1437a47bc804af67d466847",
+      "default:extract:3962b2df83f2fa7fc082bab154258a1e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 7,
+    "create_time": 1770984600,
+    "update_time": 1770985784,
+    "_id": "chunk-e7d37c7390658b88b4e27bad60519a70"
+  },
+  "chunk-8a257b7c122620703a8d29d31c697038": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh107/hybrid_auto/images/e3cdadd1c1d8a460e3f29bcfc9684fc9a7685a9964a5e6b0c7aa3bd4719ac185.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a triangular array of numbers arranged in rows, known as Pascal's Triangle. The triangle is composed of multiple rows, each row containing a sequence of integers. The topmost row starts with a single number '1'. Each subsequent row begins and ends with '1', and every interior number is the sum of the two numbers directly above it from the previous row. The numbers are centered and aligned to form a symmetrical triangle. The color scheme is monochromatic with black numbers on a white background, ensuring clear visibility and contrast. The lighting is uniform, with no shadows or highlights, emphasizing the clarity of the numerical pattern. The image is a clean, digital rendering without any additional decorative elements or text. This visual representation directly relates to the surrounding context discussing the binomial theorem, its historical development, and the coefficients in the expansion of (x + y)^n. Pascal's Triangle is a fundamental tool for understanding binomial coefficients, which are central to the exercises and historical notes on the page. The image serves as a visual aid to complement the mathematical explanations and historical references, illustrating the arrangement of coefficients that ancient and modern mathematicians studied. The technical detail lies in the precise numerical pattern and the triangular layout, which visually encodes the binomial coefficients for integral values of n.",
+    "tokens": 339,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 68,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:40bae9b7226ab925cde0a164ff22d0f6",
+      "default:extract:7ce9812b3efe043873559d09794be4b7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Pascal's Triangle illustrating binomial coefficients (image)",
+    "original_type": "image",
+    "page_idx": 8,
+    "create_time": 1770984600,
+    "update_time": 1770985840,
+    "_id": "chunk-8a257b7c122620703a8d29d31c697038"
+  },
+  "chunk-aac768e68b6f329ff5d762c3a1bf14f9": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '134 ', 'bbox': [100, 103, 128, 116], 'page_idx': 8}\n\nAnalysis: This page_number content represents the physical page number '134' of the document, located at coordinates [100, 103, 128, 116] on page index 8. It serves as a navigational and referential element within the document, linking the textual and mathematical content on this page to the overall pagination structure. The page number is crucial for citation, cross-referencing, and locating specific content within the broader text. In the surrounding context, which includes exercises on binomial theorem expansions and a historical note on the development of binomial coefficients, the page number anchors the reader's position in the document, facilitating structured progression through the mathematical discourse and historical insights.",
+    "tokens": 179,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 69,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:5235d754059ef42a259c52758ac1860e",
+      "default:extract:a7ad79d61a454e79cf3524620877e373"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 134 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 8,
+    "create_time": 1770984600,
+    "update_time": 1770985840,
+    "_id": "chunk-aac768e68b6f329ff5d762c3a1bf14f9"
+  },
+  "chunk-0ddf04f89c03296fadb8e2a747addeeb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 103, 294, 115], 'page_idx': 8}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional title that demarcates the beginning of a new major topic or chapter within the document. Positioned on page 8, immediately following detailed exercises, summaries, and historical notes related to binomial expansions and the binomial theorem, this header likely introduces a broader or new mathematical subject area. The content structure indicates a hierarchical organization where this header functions as a primary division, signaling a transition from specific binomial theorem discussions to potentially wider mathematical concepts. Its placement and typographic prominence (capitalized and isolated) emphasize its role as a thematic anchor, facilitating navigation and contextual understanding within the document. This header supports the broader discussion by clearly segmenting content, aiding knowledge retrieval by marking a distinct conceptual boundary in the text.",
+    "tokens": 201,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 70,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:1dc824d9baaae12f55a997955d9c760f",
+      "default:extract:a20d17d834a91280bb90e3126b99af90"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Mathematics Section Header (header)",
+    "original_type": "header",
+    "page_idx": 8,
+    "create_time": 1770984600,
+    "update_time": 1770985840,
+    "_id": "chunk-0ddf04f89c03296fadb8e2a747addeeb"
+  },
+  "chunk-87f62f1b056f2f658b8f03a736bd6de6": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [435, 966, 561, 980], 'page_idx': 8}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 8, likely serving as a publication or edition identifier. The structure is simple, containing no additional elements such as copyright, publisher information, or contact details. This footer acts as a temporal marker, indicating the edition or reprint cycle of the document, which is important for version control and citation accuracy. In the broader context of the mathematical content on binomial theorem and historical notes, this footer provides metadata about the document's currency and edition, supporting knowledge retrieval by clarifying the publication timeframe.",
+    "tokens": 178,
+    "full_doc_id": "doc-d6bb3fc3dd7ed5af90159127b4418eba",
+    "chunk_order_index": 71,
+    "file_path": "kemh107.pdf",
+    "llm_cache_list": [
+      "default:extract:b20f0888664420c7daf2c9a2b06b6de1",
+      "default:extract:928512bfd468003ee782ff000a0f879f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 8,
+    "create_time": 1770984600,
+    "update_time": 1770985840,
+    "_id": "chunk-87f62f1b056f2f658b8f03a736bd6de6"
   }
 }
