@@ -10262,5 +10262,1543 @@
     "create_time": 1770968149,
     "update_time": 1770972083,
     "_id": "chunk-bc47b2cda1756f2fa2a60f772fa6dc1a"
+  },
+  "chunk-fbbb04978492e476f75e9b933284f244": {
+    "tokens": 800,
+    "content": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS \n\nMathematics is the Queen of Sciences and Arithmetic is the Queen of Mathematics. - GAUSS \n\n4.1 Introduction \n\nIn earlier classes, we have studied linear equations in one and two variables and quadratic equations in one variable. We have seen that the equation $x^{2} + 1 = 0$ has no real solution as $x^{2} + 1 = 0$ gives $x^{2} = -1$ and square of every real number is non-negative. So, we need to extend the real number system to a larger system so that we can find the solution of the equation $x^{2} = -1$ . In fact, the main objective is to solve the equation $ax^{2} + bx + c = 0$ , where $\\mathrm{D} = b^{2} - 4ac < 0$ , which is not possible in the system of real numbers. \n\n4.2 Complex Numbers \n\nLet us denote $\\sqrt{-1}$ by the symbol $i$ . Then, we have $i^2 = -1$ . This means that $i$ is a solution of the equation $x^2 + 1 = 0$ . \n\nA number of the form $a + ib$ , where $a$ and $b$ are real numbers, is defined to be a complex number. For example, $2 + i3$ , $(-1) + i\\sqrt{3}$ , $4 + i\\left(\\frac{-1}{11}\\right)$ are complex numbers. \n\nFor the complex number $z = a + ib$ , $a$ is called the real part, denoted by $\\operatorname{Re} z$ and $b$ is called the imaginary part denoted by $\\operatorname{Im} z$ of the complex number $z$ . For example, if $z = 2 + i5$ , then $\\operatorname{Re} z = 2$ and $\\operatorname{Im} z = 5$ . \n\nTwo complex numbers $z_{1} = a + ib$ and $z_{2} = c + id$ are equal if $a = c$ and $b = d$ . \n\nExample 1 If $4x + i(3x - y) = 3 + i(-6)$ , where $x$ and $y$ are real numbers, then find the values of $x$ and $y$ . \n\nSolution We have \n\nEquating the real and the imaginary parts of (1), we get \n\nwhich, on solving simultaneously, give $x = \\frac{3}{4}$ and $y = \\frac{33}{4}$ . \n\n4.3 Algebra of Complex Numbers \n\nIn this Section, we shall develop the algebra of complex numbers. \n\n4.3.1 Addition of two complex numbers Let $z_{1} = a + ib$ and $z_{2} = c + id$ be any two complex numbers. Then, the sum $z_{1} + z_{2}$ is defined as follows: \n\n$z_{1} + z_{2} = (a + c) + i(b + d)$ , which is again a complex number. For example, $(2 + i3) + (-6 + i5) = (2 - 6) + i(3 + 5) = -4 + i8$ \n\nThe addition of complex numbers satisfy the following properties: \n\n4.3.2 Difference of two complex numbers Given any two complex numbers $z_{1}$ and $z_{2}$ , the difference $z_{1} - z_{2}$ is defined as follows: \n\nFor example, $(6 + 3i) - (2 - i) = (6 +",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:c78e6dea79347bcb73136c96fe676d8b",
+      "default:extract:bf041da16e145353a2e828406da3888a"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974412,
+    "_id": "chunk-fbbb04978492e476f75e9b933284f244"
+  },
+  "chunk-c698b22072d8c55622532f7283a15e29": {
+    "tokens": 800,
+    "content": ") = (2 - 6) + i(3 + 5) = -4 + i8$ \n\nThe addition of complex numbers satisfy the following properties: \n\n4.3.2 Difference of two complex numbers Given any two complex numbers $z_{1}$ and $z_{2}$ , the difference $z_{1} - z_{2}$ is defined as follows: \n\nFor example, $(6 + 3i) - (2 - i) = (6 + 3i) + (-2 + i) = 4 + 4i$ \n\nand \n\n4.3.3 Multiplication of two complex numbers Let $z_{1} = a + ib$ and $z_{2} = c + id$ be any two complex numbers. Then, the product $z_{1}z_{2}$ is defined as follows: \n\nFor example, $(3 + i5)(2 + i6) = (3 \\times 2 - 5 \\times 6) + i(3 \\times 6 + 5 \\times 2) = -24 + i28$ \n\nThe multiplication of complex numbers possesses the following properties, which we state without proofs. \n\n(vi) The distributive law For any three complex numbers $z_{1},z_{2},z_{3}$ \n\n4.3.4 Division of two complex numbers Given any two complex numbers $z_{1}$ and $z_{2}$ , where $z_{2} \\neq 0$ , the quotient $\\frac{z_{1}}{z_{2}}$ is defined by \n\nFor example, let $z_{1} = 6 + 3i$ and $z_{2} = 2 - i$ \n\nThen $\\frac{z_1}{z_2} = \\left((6 + 3i)\\times \\frac{1}{2 - i}\\right) = (6 + 3i)\\left(\\frac{2}{2^2 + (-1)^2} +i\\frac{-(-1)}{2^2 + (-1)^2}\\right)$ \n\n4.3.5 Power of $i$ we know that \n\nAlso, we have $i^{-1} = \\frac{1}{i} \\times \\frac{i}{i} = \\frac{i}{-1} = -i, \\quad i^{-2} = \\frac{1}{i^2} = \\frac{1}{-1} = -1,$ \n\nIn general, for any integer $k$ , $i^{4k} = 1$ , $i^{4k + 1} = i$ , $i^{4k + 2} = -1$ , $i^{4k + 3} = -i$ \n\n4.3.6 The square roots of a negative real number \n\nNote that $i^2 = -1$ and $(-i)^2 = i^2 = -1$ \n\nTherefore, the square roots of $-1$ are $i, -i$ . However, by the symbol $\\sqrt{-1}$ , we would mean $i$ only. \n\nNow, we can see that $i$ and $-i$ both are the solutions of the equation $x^{2} + 1 = 0$ or $x^{2} = -1$ . \n\nSimilarly $\\left(\\sqrt{3} i\\right)^{2} = \\left(\\sqrt{3}\\right)^{2}i^{2} = 3(-1) = -3$ \n\nTherefore, the square roots of $-3$ are $\\sqrt{3}i$ and $-\\sqrt{3}i$ . \n\nAgain, the symbol $\\sqrt{-3}$ is meant to represent $\\sqrt{3}i$ only,",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:ef27ade1d95f6f2269c4e08cb12108d6",
+      "default:extract:8a3e590da777c483d25c6a01a8f6ffe3"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974412,
+    "_id": "chunk-c698b22072d8c55622532f7283a15e29"
+  },
+  "chunk-89dfc2bb848419de6573d59f165ae672": {
+    "tokens": 800,
+    "content": "= -1$ . \n\nSimilarly $\\left(\\sqrt{3} i\\right)^{2} = \\left(\\sqrt{3}\\right)^{2}i^{2} = 3(-1) = -3$ \n\nTherefore, the square roots of $-3$ are $\\sqrt{3}i$ and $-\\sqrt{3}i$ . \n\nAgain, the symbol $\\sqrt{-3}$ is meant to represent $\\sqrt{3}i$ only, i.e., $\\sqrt{-3} = \\sqrt{3}i$ . \n\nGenerally, if $a$ is a positive real number, $\\sqrt{-a} = \\sqrt{a} \\sqrt{-1} = \\sqrt{a} i$ , \n\nWe already know that $\\sqrt{a} \\times \\sqrt{b} = \\sqrt{ab}$ for all positive real numbers $a$ and $b$ . This result also holds true when either $a > 0$ , $b < 0$ or $a < 0$ , $b > 0$ . What if $a < 0$ , $b < 0$ ? Let us examine. \n\nNote that \n\n$i^2 = \\sqrt{-1}\\sqrt{-1} = \\sqrt{(-1)(-1)}$ (by assuming $\\sqrt{a}\\times \\sqrt{b} = \\sqrt{ab}$ for all real numbers) $= \\sqrt{1} = 1$ , which is a contradiction to the fact that $i^2 = -1$ \n\nTherefore, $\\sqrt{a} \\times \\sqrt{b} \\neq \\sqrt{ab}$ if both $a$ and $b$ are negative real numbers. \n\nFurther, if any of $a$ and $b$ is zero, then, clearly, $\\sqrt{a} \\times \\sqrt{b} = \\sqrt{ab} = 0$ . \n\n4.3.7 Identities We prove the following identity \n\n$\\left(z_{1} + z_{2}\\right)^{2} = z_{1}^{2} + z_{2}^{2} + 2z_{1}z_{2}$ , for all complex numbers $z_{1}$ and $z_{2}$ . \n\nProof We have, $(z_{1} + z_{2})^{2} = (z_{1} + z_{2})(z_{1} + z_{2}),$ \n\nSimilarly, we can prove the following identities: \n\nIn fact, many other identities which are true for all real numbers, can be proved to be true for all complex numbers. \n\nExample 2 Express the following in the form of $a + bi$ : \n\n(i) $\\left(-5i\\right)\\left(\\frac{1}{8} i\\right)$ \n\n(ii) $\\left(-i\\right)\\left(2i\\right)\\left(-\\frac{1}{8} i\\right)^{3}$ \n\nSolution (i) $\\left(-5i\\right)\\left(\\frac{1}{8}i\\right) = \\frac{-5}{8}i^{2} = \\frac{-5}{8}(-1) = \\frac{5}{8} = \\frac{5}{8} + i0$ \n\n(ii) $\\left(-i\\right)\\left(2i\\right)\\left(-\\frac{1}{8} i\\right)^{3} = 2\\times \\frac{1}{8\\times 8\\times 8}\\times i^{5} = \\frac{1}{256}\\left(i^{2}\\right)^{2}i = \\frac{1}{256} i.$ \n\nExample 3 Express $(5 - 3i)^{3}$ in the form $",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:afa6343b2928e68d93266d9f9af8a006",
+      "default:extract:930ef58cc7b13112dac75a28c9657114"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974412,
+    "_id": "chunk-89dfc2bb848419de6573d59f165ae672"
+  },
+  "chunk-6f9d853ed0b7b312d288ae25da62786a": {
+    "tokens": 800,
+    "content": "i\\right)\\left(2i\\right)\\left(-\\frac{1}{8} i\\right)^{3} = 2\\times \\frac{1}{8\\times 8\\times 8}\\times i^{5} = \\frac{1}{256}\\left(i^{2}\\right)^{2}i = \\frac{1}{256} i.$ \n\nExample 3 Express $(5 - 3i)^{3}$ in the form $a + ib$ . \n\nSolution We have, $(5 - 3i)^{3} = 5^{3} - 3 \\times 5^{2} \\times (3i) + 3 \\times 5(3i)^{2} - (3i)^{3}$ \n\nExample 4 Express $\\left(-\\sqrt{3} + \\sqrt{-2}\\right)\\left(2\\sqrt{3} - i\\right)$ in the form of $a + ib$ \n\nSolution We have, $\\left(-\\sqrt{3} + \\sqrt{-2}\\right)\\left(2\\sqrt{3} - i\\right) = \\left(-\\sqrt{3} + \\sqrt{2}i\\right)\\left(2\\sqrt{3} - i\\right)$ \n\n4.4 The Modulus and the Conjugate of a Complex Number \n\nLet $z = a + ib$ be a complex number. Then, the modulus of $z$ , denoted by $|z|$ , is defined to be the non-negative real number $\\sqrt{a^2 + b^2}$ , i.e., $|z| = \\sqrt{a^2 + b^2}$ and the conjugate of $z$ , denoted as $\\overline{z}$ , is the complex number $a - ib$ , i.e., $\\overline{z} = a - ib$ . \n\nFor example, $\\left| 3 + i \\right| = \\sqrt{3^2 + 1^2} = \\sqrt{10}$ , $\\left| 2 - 5i \\right| = \\sqrt{2^2 + (-5)^2} = \\sqrt{29}$ , \n\nand $\\overline{3 + i} = 3 - i, \\overline{2 - 5i} = 2 + 5i, \\overline{-3i - 5} = 3i - 5$ \n\nObserve that the multiplicative inverse of the non-zero complex number $z$ is given by \n\nor $z\\overline{z} = |z|^2$ \n\nFurthermore, the following results can easily be derived. \n\nFor any two complex numbers $z_{1}$ and $z_{2}$ , we have \n\n(i) \n\n(ii) $\\left|\\frac{z_1}{z_2}\\right| = \\frac{|z_1|}{|z_2|}$ provided $|z_2| \\neq 0$ \n\n(iii) $\\overline{z_1z_2} = \\overline{z_1}\\overline{z_2}$ \n\n(iv) $\\overline{z_1 \\pm z_2} = \\overline{z_1} \\pm \\overline{z_2}$ (v) $\\overline{\\left(\\frac{z_1}{z_2}\\right)} = \\frac{\\overline{z_1}}{\\overline{z_2}}$ provided $z_2 \\neq 0$ . \n\nExample 5 Find the multiplicative inverse of $2 - 3i$ . \n\nSolution Let $z = 2 - 3i$ \n\nThen $\\overline{z} = 2 +",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b585c6525e194159fb16e99e229d01b4",
+      "default:extract:50776b9e9af542722a739e8fd44d1ead"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974412,
+    "_id": "chunk-6f9d853ed0b7b312d288ae25da62786a"
+  },
+  "chunk-e10c9e7432865fef38671d724e550e3d": {
+    "tokens": 800,
+    "content": "z_2}$ (v) $\\overline{\\left(\\frac{z_1}{z_2}\\right)} = \\frac{\\overline{z_1}}{\\overline{z_2}}$ provided $z_2 \\neq 0$ . \n\nExample 5 Find the multiplicative inverse of $2 - 3i$ . \n\nSolution Let $z = 2 - 3i$ \n\nThen $\\overline{z} = 2 + 3i$ and $\\left|z\\right|^2 = 2^2 +(-3)^2 = 13$ \n\nTherefore, the multiplicative inverse of $2 - 3i$ is given by \n\nThe above working can be reproduced in the following manner also, \n\nExample 6 Express the following in the form $a + ib$ \n\n(i) $\\frac{5 + \\sqrt{2}i}{1 - \\sqrt{2}i}$ \n\n(ii) \n\n35 \n\nSolution (i) We have, $\\frac{5 + \\sqrt{2}i}{1 - \\sqrt{2}i} = \\frac{5 + \\sqrt{2}i}{1 - \\sqrt{2}i} \\times \\frac{1 + \\sqrt{2}i}{1 + \\sqrt{2}i} = \\frac{5 + 5\\sqrt{2}i + \\sqrt{2}i - 2}{1 - \\left(\\sqrt{2}i\\right)^2}$ \n\n(ii) $i^{-35} = \\frac{1}{i^{35}} = \\frac{1}{\\left(i^2\\right)^{17}i} = \\frac{1}{-i}\\times \\frac{i}{i} = \\frac{i}{-i^2} = i$ \n\nEXERCISE 4.1 \n\nExpress each of the complex number given in the Exercises 1 to 10 in the form $a + ib$ . \n\n1. $(5i)\\left(-\\frac{3}{5}i\\right)$ \n\n2. $i^9 +i^{19}$ \n\n3. $i^{-39}$ \n\n4. $3(7 + i7) + i(7 + i7)$ \n\n5. $(1 - i) - (-1 + i6)$ \n\n6. $\\left(\\frac{1}{5} + i\\frac{2}{5}\\right) - \\left(4 + i\\frac{5}{2}\\right)$ \n\n7. $\\left[\\left(\\frac{1}{3} + i\\frac{7}{3}\\right) + \\left(4 + i\\frac{1}{3}\\right)\\right] - \\left(-\\frac{4}{3} + i\\right)$ \n\n8. $(1 - i)^{4}$ \n\n9. $\\left(\\frac{1}{3} + 3i\\right)^3$ \n\n10. $\\left(-2 - \\frac{1}{3} i\\right)^{3}$ \n\nFind the multiplicative inverse of each of the complex numbers given in the Exercises 11 to 13. \n\n11. $4 - 3i$ \n\n12. $\\sqrt{5} + 3i$ \n\n13. -i \n\n14. Express the following expression in the form of $a + ib$ : \n\n4.5 Argand Plane and Polar Representation \n\nWe already know that corresponding to each ordered pair of real numbers $(x,y)$ , we get a unique point in the XY-plane and vice-versa with reference to a set of mutually perpendicular lines known as the $x$ -axis and the $y$ -axis. The complex number $x + iy$ which corresponds to the ordered pair $(x,y)$ can be represented geometrically as the",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:2be87d140188deaa5c8bf6c7e946ad77",
+      "default:extract:0c5a628a838e6b1222a616543a460458"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974468,
+    "_id": "chunk-e10c9e7432865fef38671d724e550e3d"
+  },
+  "chunk-1cd4d6e2b8562d2e48f6c7b9da6d26d9": {
+    "tokens": 800,
+    "content": "the form of $a + ib$ : \n\n4.5 Argand Plane and Polar Representation \n\nWe already know that corresponding to each ordered pair of real numbers $(x,y)$ , we get a unique point in the XY-plane and vice-versa with reference to a set of mutually perpendicular lines known as the $x$ -axis and the $y$ -axis. The complex number $x + iy$ which corresponds to the ordered pair $(x,y)$ can be represented geometrically as the unique point $\\mathrm{P}(x,y)$ in the XY-plane and vice-versa. \n\nSome complex numbers such as $2 + 4i, -2 + 3i, 0 + 1i, 2 + 0i, -5 - 2i$ and $1 - 2i$ which correspond to the ordered \n\npairs $(2,4),(-2,3),(0,1),(2,0),(-5, - 2)$ , and $(1, - 2)$ , respectively, have been represented geometrically by the points A, B, C, D, E, and F, respectively in the Fig 4.1. \n\nThe plane having a complex number assigned to each of its points is called the complex plane or the Argand plane. \n\nObviously, in the Argand plane, the modulus of the complex number \n\n$x + iy = \\sqrt{x^2 + y^2}$ is the distance between the point $\\mathrm{P}(x,y)$ and the origin O $(0,0)$ (Fig 4.2). The points on the $x$ -axis correspond to the complex numbers of the form $a + i0$ and the points on the $y$ -axis correspond to the complex numbers of the form \n\n$0 + i b$ . The $x$ -axis and $y$ -axis in the Argand plane are called, respectively, the real axis and the imaginary axis. \n\nThe representation of a complex number $z = x + iy$ and its conjugate $z = x - iy$ in the Argand plane are, respectively, the points $\\mathrm{P}(x, y)$ and $\\mathrm{Q}(x, -y)$ . \n\nGeometrically, the point $(x, -y)$ is the mirror image of the point $(x, y)$ on the real axis (Fig 4.3). \n\nMiscellaneous Examples \n\nExample 7 Find the conjugate of $\\frac{(3 - 2i)(2 + 3i)}{(1 + 2i)(2 - i)}$ . \n\nSolution We have, $\\frac{(3 - 2i)(2 + 3i)}{(1 + 2i)(2 - i)}$ \n\nTherefore, conjugate of $\\frac{(3 - 2i)(2 + 3i)}{(1 + 2i)(2 - i)}$ is $\\frac{63}{25} + \\frac{16}{25}i$ . \n\nExample 8 If $x + iy = \\frac{a + ib}{a - ib}$ , prove that $x^2 + y^2 = 1$ . \n\nSolution We have, \n\nSo that, $x - iy = \\frac{a^2 - b^2}{a^2 + b^2} - \\frac{2ab}{a^2 + b^2} i$ \n\nTherefore, \n\nMiscellaneous Exercise on Chapter 4 \n\n(i) $\\operatorname{Re}\\left(\\frac{z_1z_2}{\\overline{z}_1}\\right)$ \n\n(ii) $\\operatorname{Im}\\left(\\frac{1}{z_1\\overline{z}_1}\\right)$ \n\nSummary \n\nFor any non-zero complex number $z = a + ib",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:e431584d5db5e684798e5a7aa100ff51",
+      "default:extract:f2bea5f2b1a080fa809d7d06a71f16b4"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974468,
+    "_id": "chunk-1cd4d6e2b8562d2e48f6c7b9da6d26d9"
+  },
+  "chunk-3da7d51103f682e91f2a63666d731a50": {
+    "tokens": 515,
+    "content": "\\frac{2ab}{a^2 + b^2} i$ \n\nTherefore, \n\nMiscellaneous Exercise on Chapter 4 \n\n(i) $\\operatorname{Re}\\left(\\frac{z_1z_2}{\\overline{z}_1}\\right)$ \n\n(ii) $\\operatorname{Im}\\left(\\frac{1}{z_1\\overline{z}_1}\\right)$ \n\nSummary \n\nFor any non-zero complex number $z = a + ib$ ( $a \\neq 0$ , $b \\neq 0$ ), there exists the complex number $\\frac{a}{a^2 + b^2} + i\\frac{-b}{a^2 + b^2}$ , denoted by $\\frac{1}{z}$ or $z^{-1}$ , called the multiplicative inverse of $z$ such that $(a + ib)\\frac{a}{a^2 + b^2} + i\\frac{-b}{a^2 + b^2} = 1 + i0 = 1$ \n\nHistorical Note \n\nThe fact that square root of a negative number does not exist in the real number system was recognised by the Greeks. But the credit goes to the Indian mathematician Mahavira (850) who first stated this difficulty clearly. \"He mentions in his work 'Ganitasara Sangraha' as in the nature of things a negative (quantity) is not a square (quantity)', it has, therefore, no square root\". Bhaskara, another Indian mathematician, also writes in his work Bijaganita, written in 1150. \"There is no square root of a negative quantity, for it is not a square.\" Cardan (1545) considered the problem of solving \n\nHe obtained $x = 5 + \\sqrt{-15}$ and $y = 5 - \\sqrt{-15}$ as the solution of it, which was discarded by him by saying that these numbers are 'useless'. Albert Girard (about 1625) accepted square root of negative numbers and said that this will enable us to get as many roots as the degree of the polynomial equation. Euler was the first to introduce the symbol $i$ for $\\sqrt{-1}$ and W.R. Hamilton (about 1830) regarded the complex number $a + ib$ as an ordered pair of real numbers $(a, b)$ thus giving it a purely mathematical definition and avoiding use of the so-called 'imaginary numbers'.",
+    "chunk_order_index": 6,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:d19ceaba78da26353aba3de6e57b61ef",
+      "default:extract:7baad1fcd01248ff14d1108036ea270c"
+    ],
+    "create_time": 1770974345,
+    "update_time": 1770974468,
+    "_id": "chunk-3da7d51103f682e91f2a63666d731a50"
+  },
+  "chunk-a231d20195d3c5bc628ba0b78f1ef442": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh104/hybrid_auto/images/ed92640d96e3f6d0a4bdc0b7c210979e89950aef256b717d828b98b6808fadf6.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a scanned page from a mathematics textbook focusing on the topic of complex numbers and quadratic equations. The layout is typical of educational material, with a clear hierarchical structure using numbered sections and subsections. The top of the page features the chapter title 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS' in bold uppercase letters, followed by a famous quote by Gauss emphasizing the importance of mathematics. Below this, the content is divided into sections starting with '4.1 Introduction' and continuing with '4.2 Complex Numbers' and '4.3 Algebra of Complex Numbers'. The text is primarily black on a white background, using a serif font for readability. Mathematical expressions are embedded within the text using standard notation, including variables, equations, and symbols such as square roots and imaginary unit 'i'. The page includes inline equations like x^2 + 1 = 0, definitions of complex numbers in the form a + ib, and examples illustrating the concepts. There are also numbered examples and solutions, such as solving for variables x and y from a complex equation. The image shows no illustrations or diagrams but relies heavily on symbolic mathematical notation and explanatory text. The content is logically organized to introduce the concept of complex numbers as an extension of the real number system to solve quadratic equations with negative discriminants. The page also introduces algebraic operations on complex numbers, including addition and subtraction, with examples demonstrating these operations. The lighting is even, ensuring all text and symbols are clearly legible. The visual style is formal and academic, consistent with a high school or early college mathematics textbook. The image contextually supports the surrounding content by providing foundational definitions, examples, and algebraic properties essential for understanding complex numbers and their role in solving quadratic equations.",
+    "tokens": 432,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 7,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:c357def0682d91594714fb25af1b7710",
+      "default:extract:1ef253fa5b7d89ae28fabb1a00d7119f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1770974873,
+    "update_time": 1770974938,
+    "_id": "chunk-a231d20195d3c5bc628ba0b78f1ef442"
+  },
+  "chunk-81a8ebe8fa96db4df6febc59db3c42cb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': '11076CH05 ', 'bbox': [508, 55, 666, 172], 'page_idx': 0}\n\nAnalysis: The header content '11076CH05 ' appears to be a coded or formatted identifier, likely representing Chapter 5 of a textbook or document, as suggested by the 'CH05' segment. The structure is concise, consisting of a numeric prefix followed by an alphanumeric chapter code. This header serves as a navigational or organizational marker within the document, delineating the start of a new chapter or major section. In the surrounding context, it precedes detailed discussions on complex numbers and quadratic equations, indicating that the content following this header belongs to Chapter 5. This header supports the broader educational structure by segmenting the material into manageable units, facilitating knowledge retrieval and contextual understanding for readers or learners. It does not contain descriptive text but functions as a metadata element for content organization.",
+    "tokens": 201,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 8,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:c44b7767008354be2f56b5ea41548c01",
+      "default:extract:56383ab6ae6e48aa56f93b7c60c16429"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter 5 Identifier Header (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770974873,
+    "update_time": 1770974938,
+    "_id": "chunk-81a8ebe8fa96db4df6febc59db3c42cb"
+  },
+  "chunk-b9aa6994adeeafc8c1e2b1c876fe9a7e": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'Chapter ', 'bbox': [702, 138, 816, 165], 'page_idx': 0}\n\nAnalysis: The header content 'Chapter ' appears to be a placeholder or incomplete chapter title located at the beginning of the document (page 0). Its structure is minimal, consisting solely of the word 'Chapter' without a specific chapter number or title, which suggests it is intended to introduce a new major section or division within the text. Given the surrounding context, which includes detailed sections on complex numbers and quadratic equations, this header likely serves as a top-level organizational marker for the chapter covering these mathematical topics. It establishes a hierarchical framework for the subsequent sections (4.1 Introduction, 4.2 Complex Numbers, 4.3 Algebra of Complex Numbers), supporting navigation and thematic grouping. The bounding box coordinates indicate its placement at the top of the page, consistent with standard header positioning. Although lacking explicit detail, this header is significant as it signals the start of a comprehensive discussion on complex numbers and quadratic equations, thereby anchoring the reader's understanding of the content's scope and progression.",
+    "tokens": 238,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 9,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:93d7b2e80a6123cfe7a2491bb24f8df2",
+      "default:extract:4a49e453beac6044ece843a39756a416"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter Header (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770974873,
+    "update_time": 1770974938,
+    "_id": "chunk-b9aa6994adeeafc8c1e2b1c876fe9a7e"
+  },
+  "chunk-d0ced1d5ca7999b2e51350a48b659963": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '4 ', 'bbox': [841, 127, 876, 160], 'page_idx': 0}\n\nAnalysis: The content represents the page number '4' located at the top right corner of the page, indicating the fourth page of the textbook or document. This page number is part of a structured mathematical text discussing complex numbers and quadratic equations. The page number serves as a navigational and referential element, linking the detailed mathematical explanations, examples, and algebraic operations on complex numbers presented on this page to the broader chapter. It supports the organization of the content, allowing readers to locate and reference specific sections such as the introduction to complex numbers, their algebra, and example problems. The page number is crucial for knowledge retrieval, enabling efficient cross-referencing within the educational material and maintaining the logical flow of the chapter on complex numbers and quadratic equations.",
+    "tokens": 191,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 10,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:88b1107f010629fa1dd9431c63726910",
+      "default:extract:3fba066a6f5b821fd2ce9211cde50934"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 4 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 0,
+    "create_time": 1770974873,
+    "update_time": 1770974938,
+    "_id": "chunk-d0ced1d5ca7999b2e51350a48b659963"
+  },
+  "chunk-1a058aa8297609806ff866b7f2ffc12d": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 0}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of the page. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version timeline of the document. This footer serves as a temporal marker, providing context about the currency and edition of the educational material on complex numbers and quadratic equations. Its presence supports knowledge retrieval by helping users identify the publication timeframe, which is critical for referencing and verifying the relevance of mathematical content in academic or instructional settings. The footer's simplicity ensures it does not distract from the main content but subtly anchors the document in a specific publication period, reinforcing the document's authenticity and version control within the broader educational discussion.",
+    "tokens": 217,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 11,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:82f3223eb828a46790788fe7a79fa436",
+      "default:extract:772b24c7fe3a445facf84da854d0c0c7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 0,
+    "create_time": 1770974873,
+    "update_time": 1770975018,
+    "_id": "chunk-1a058aa8297609806ff866b7f2ffc12d"
+  },
+  "chunk-5643bce66d9cfa3f128770558459401b": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n4 x + i (3 x - y) = 3 + i (- 6) \\quad \\dots \\tag {1}\n$$\nFormat: latex\n\nMathematical Analysis: The equation 4x + i(3x - y) = 3 + i(-6) represents an equality between two complex numbers expressed in the standard form a + ib, where a and b are real numbers and i is the imaginary unit satisfying i^2 = -1. Here, x and y are real variables to be determined. The left-hand side (LHS) is a complex number with real part 4x and imaginary part (3x - y), while the right-hand side (RHS) is the complex number with real part 3 and imaginary part -6. The equation asserts that these two complex numbers are equal, which implies equality of their corresponding real and imaginary parts separately: 4x = 3 and 3x - y = -6. This system of linear equations in real variables x and y can be solved simultaneously to find their values. The equation exemplifies the fundamental property of complex numbers that equality holds if and only if both real and imaginary parts are equal. This concept is crucial in the algebra of complex numbers, particularly in solving equations involving complex expressions. It also illustrates the extension of real number solutions to complex solutions, addressing cases where quadratic equations have negative discriminants and no real roots. The equation is a practical example in the broader discussion of complex number operations, demonstrating how to equate and solve for unknowns in complex expressions, reinforcing the understanding of complex number equality and its application in algebraic manipulations.",
+    "tokens": 345,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 12,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b961ad24b6680388f8c690b6eefdc42b",
+      "default:extract:ed6e1be2236d3c0c90b042ba68ee459b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Equality of Complex Numbers with Real Variables (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975018,
+    "_id": "chunk-5643bce66d9cfa3f128770558459401b"
+  },
+  "chunk-c8fdb7b20d3222897efefca9ecc508cf": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n4 x = 3, 3 x - y = - 6,\n$$\nFormat: latex\n\nMathematical Analysis: The given system of linear equations, 4x = 3 and 3x - y = -6, represents two simultaneous equations in two real variables x and y. The first equation, 4x = 3, is a simple linear equation that can be solved directly for x, yielding x = 3/4. Substituting this value into the second equation, 3x - y = -6, allows solving for y, resulting in y = 33/4. These equations arise from equating the real and imaginary parts of a complex number equality, specifically from the expression 4x + i(3x - y) = 3 + i(-6). Here, x and y are real variables representing coefficients in the complex number expression. The mathematical operations involved include linear algebraic manipulation and substitution. This system exemplifies the method of equating real and imaginary parts to solve for unknowns in complex number equations, a fundamental technique in complex number algebra. The equations illustrate how complex numbers can be used to translate problems into systems of real equations, facilitating solutions that are not possible within the real number system alone. This approach is crucial in solving quadratic equations with negative discriminants by extending the number system to complex numbers. The system also demonstrates the interplay between algebraic structures and complex analysis, highlighting the practical application of complex numbers in solving polynomial equations and in fields such as electrical engineering, quantum mechanics, and applied mathematics. Overall, these equations serve as a concrete example within the broader framework of complex number algebra, emphasizing the utility of separating real and imaginary components to solve equations involving complex variables.",
+    "tokens": 362,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 13,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:4e0e08fe89ae6c0096986352adacc841",
+      "default:extract:14897deeae6f0d17b196e2d633382949"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "System of linear equations from equating real and imaginary parts (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975018,
+    "_id": "chunk-c8fdb7b20d3222897efefca9ecc508cf"
+  },
+  "chunk-9f144644ae41950375fc1ccfece7fcbe": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(i) The closure law The sum of two complex numbers is a complex number, i.e., $z_{1} + z_{2}$ is a complex number for all complex numbers $z_{1}$ and $z_{2}$ . ', '(ii) The commutative law For any two complex numbers $z_{1}$ and $z_{2}$ , $z_{1} + z_{2} = z_{2} + z_{1}$ ', '(iii) The associative law For any three complex numbers $z_{1}, z_{2}, z_{3}, (z_{1} + z_{2}) + z_{3} = z_{1} + (z_{2} + z_{3})$ . ', '(iv) The existence of additive identity There exists the complex number $0 + i0$ (denoted as 0), called the additive identity or the zero complex number, such that, for every complex number $z$ , $z + 0 = z$ . ', '(v) The existence of additive inverse To every complex number $z = a + ib$ , we have the complex number $-a + i(-b)$ (denoted as $-z$ ), called the additive inverse or negative of $z$ . We observe that $z + (-z) = 0$ (the additive identity). '], 'bbox': [149, 488, 897, 769], 'page_idx': 1}\n\nAnalysis: This list is a structured enumeration of the fundamental properties of addition for complex numbers, presented in a logical sequence that builds the algebraic framework for complex number operations. It includes five key properties: closure, commutativity, associativity, existence of additive identity, and existence of additive inverse. Each item defines a specific algebraic law or concept essential for understanding how complex numbers behave under addition. The list is embedded within a broader mathematical discussion on complex numbers and their algebra, supporting the explanation of addition in section 4.3.1. It connects to preceding examples and definitions by formalizing the properties that justify the operations shown. This content is significant for knowledge retrieval as it encapsulates the axiomatic basis for addition in the complex number system, which is foundational for further algebraic manipulations and solving quadratic equations with complex roots.",
+    "tokens": 499,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 14,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:7ec5760642f2e34ad6972a51f0ea2549",
+      "default:extract:c7f6fb5e3c8ba546560785b01a3aed28"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Properties of Addition of Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975018,
+    "_id": "chunk-9f144644ae41950375fc1ccfece7fcbe"
+  },
+  "chunk-7e4daf43b66be5a615b2f4c1ea612630": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nz _ {1} - z _ {2} = z _ {1} + (- z _ {2}).\n$$\nFormat: latex\n\nMathematical Analysis: The equation $z_1 - z_2 = z_1 + (-z_2)$ expresses the subtraction of two complex numbers $z_1$ and $z_2$ in terms of addition. Here, $z_1$ and $z_2$ are complex numbers typically represented as $z_1 = a + ib$ and $z_2 = c + id$, where $a, b, c, d \\in \\mathbb{R}$, and $i$ is the imaginary unit with $i^2 = -1$. The operation $-z_2$ denotes the additive inverse of $z_2$, which is $-c - id$. This equation highlights that subtraction in the complex number system is defined as the addition of the additive inverse, consistent with the algebraic structure of a field. The equation uses the fundamental operations of addition and negation within the complex number algebra. This identity is foundational in the algebra of complex numbers, ensuring that subtraction is well-defined and can be manipulated using addition properties. It relates directly to the properties of complex numbers introduced earlier, such as addition and equality, and is essential for solving equations and performing algebraic manipulations involving complex numbers. Practically, this equation underpins computational methods in complex arithmetic, signal processing, and other applied fields where complex numbers are used. Within the broader framework, it reinforces the extension of real number operations to complex numbers, maintaining algebraic consistency and enabling the solution of quadratic equations with negative discriminants by working in the complex domain.",
+    "tokens": 359,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 15,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:4d1eaec303fc73b08c9f6c377816a4ff",
+      "default:extract:ed27602ddb74b361da55b2a3849f893a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975083,
+    "_id": "chunk-7e4daf43b66be5a615b2f4c1ea612630"
+  },
+  "chunk-6668aa443872f401f61b196a43a685bb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [408, 103, 841, 118], 'page_idx': 1}\n\nAnalysis: The header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS' serves as a primary thematic title that introduces the overarching topic of the section. It is prominently placed at the beginning of the content, indicating a shift from general mathematical concepts to a focused study on complex numbers and their application in solving quadratic equations. The structure is hierarchical, with this header setting the stage for subsequent subheaders such as '4.1 Introduction', '4.2 Complex Numbers', and '4.3 Algebra of Complex Numbers', which progressively delve into definitions, properties, and operations involving complex numbers. Key elements include the introduction of the imaginary unit 'i', the extension of the real number system, and the algebraic manipulation of complex numbers to solve quadratic equations with negative discriminants. The header establishes the context and significance by linking the necessity of complex numbers to the limitations of real numbers in solving certain quadratic equations, thus supporting the broader mathematical discussion on number systems and equation solving techniques. This content is essential for knowledge retrieval as it marks the conceptual transition and frames the detailed exploration of complex numbers within the curriculum.",
+    "tokens": 271,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 16,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:c53ef152507897d9cf07e8953a866f98",
+      "default:extract:2a5084562046aaf34fe697a583ce1fe9"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations (header)",
+    "original_type": "header",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975083,
+    "_id": "chunk-6668aa443872f401f61b196a43a685bb"
+  },
+  "chunk-fc9081319a4df860333823e72dd4d88f": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '77 ', 'bbox': [876, 103, 897, 116], 'page_idx': 1}\n\nAnalysis: This page_number content represents the physical page number '77' located at the bottom right corner of the page, indicated by its bounding box coordinates. It serves as a navigational and referential element within the document, allowing readers to locate and reference the specific page in the broader text. The page number is isolated from the main textual content but is crucial for organizing the document structure and supporting cross-referencing. In the context of the surrounding content, which covers complex numbers and their algebraic operations, the page number helps situate the reader within the chapter progression and facilitates easy retrieval of information related to complex number operations such as multiplication and division discussed on this page.",
+    "tokens": 176,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 17,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:66f0eeba52f0e89c06feae70db2b11c1",
+      "default:extract:269e551e89c8eb3ee892f266ea0ac358"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 77 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975083,
+    "_id": "chunk-fc9081319a4df860333823e72dd4d88f"
+  },
+  "chunk-1d40e1af21a174cb9db6493e88d4a65d": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 1}\n\nAnalysis: The footer content is minimalistic, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 1. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or version timeline of the document. This footer serves as a temporal marker, providing context about the currency and potential validity period of the mathematical content on complex numbers and quadratic equations. Its presence supports knowledge retrieval by signaling the document's update cycle, which is relevant for users seeking the most recent or authoritative version of the educational material. The footer's simplicity ensures it does not distract from the main content but still anchors the document in a specific publication timeframe, reinforcing the document's reliability and relevance within the broader academic discussion.",
+    "tokens": 219,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 18,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1a5fd0069717dc9fad60c4eb56173d9c",
+      "default:extract:f95fe57999b0b40a24c1afdba6a2f1d4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 1,
+    "create_time": 1770974873,
+    "update_time": 1770975083,
+    "_id": "chunk-1d40e1af21a174cb9db6493e88d4a65d"
+  },
+  "chunk-c7bd3fd7e07de38aa80779b1b279b149": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nz _ {1} z _ {2} = (a c - b d) + i (a d + b c)\n$$\nFormat: latex\n\nMathematical Analysis: The equation z_1 z_2 = (ac - bd) + i(ad + bc) represents the multiplication of two complex numbers z_1 = a + ib and z_2 = c + id, where a, b, c, d are real numbers and i is the imaginary unit with the property i^2 = -1. The expression decomposes the product into its real part (ac - bd) and imaginary part (ad + bc), reflecting the distributive and associative properties of complex number multiplication. This operation is fundamental in the algebra of complex numbers, enabling the extension of real number arithmetic to the complex plane. It preserves the structure of complex numbers as a field and is essential for applications in engineering, physics, and applied mathematics, such as signal processing, control theory, and quantum mechanics. The equation also relates to the geometric interpretation of complex multiplication as scaling and rotation in the complex plane, where the modulus and argument of the product correspond to the product of moduli and sum of arguments of the factors. This formula is a cornerstone in the broader discussion of complex number operations, illustrating how algebraic manipulation aligns with geometric intuition and providing a basis for further topics like division, powers, and roots of complex numbers.",
+    "tokens": 296,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 19,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:442224e7e32a86578ca62d932869ba21",
+      "default:extract:d4b0d158cf9dd6ac27ba9ab7f5e0ed04"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Multiplication of Two Complex Numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975156,
+    "_id": "chunk-c7bd3fd7e07de38aa80779b1b279b149"
+  },
+  "chunk-eec420fbe921d64db090da807bbbdacd": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(i) The closure law The product of two complex numbers is a complex number, the product $z_{1}z_{2}$ is a complex number for all complex numbers $z_{1}$ and $z_{2}$ . ', '(ii) The commutative law For any two complex numbers $z_{1}$ and $z_{2}$ '], 'bbox': [153, 261, 895, 321], 'page_idx': 2}\n\nAnalysis: The list is a structured enumeration of algebraic properties related to the multiplication of complex numbers, presented as part of a broader mathematical exposition on complex number operations. It is organized as a numbered list with each item describing a specific property or law, such as closure and commutativity, using formal mathematical language and notation. The list items are interrelated components that collectively define the fundamental algebraic rules governing complex number multiplication. This content supports the surrounding discussion by formalizing the theoretical framework necessary for understanding complex number algebra, following examples of addition, subtraction, multiplication, and division. It serves as a foundational reference for learners to grasp the behavior and characteristics of complex number operations, facilitating knowledge retrieval on algebraic properties in complex analysis.",
+    "tokens": 267,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 20,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:64d9725a0aeeb09897aec0110defd01c",
+      "default:extract:4be133acd02067ade65f4981ed0cc1f1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Properties of Multiplication of Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975156,
+    "_id": "chunk-eec420fbe921d64db090da807bbbdacd"
+  },
+  "chunk-ff770e7abb3a354be40233263fa809ae": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nz _ {1} z _ {2} = z _ {2} z _ {1}\n$$\nFormat: latex\n\nMathematical Analysis: The equation $z_1 z_2 = z_2 z_1$ expresses the commutative property of multiplication for complex numbers. Here, $z_1$ and $z_2$ represent arbitrary complex numbers, typically expressed in the form $z = a + ib$, where $a$ and $b$ are real numbers and $i$ is the imaginary unit satisfying $i^2 = -1$. The operation involved is the multiplication of two complex numbers, which combines their real and imaginary parts according to the distributive law and the fundamental property of $i$. This equation asserts that the order of multiplication does not affect the product, a key algebraic property distinguishing complex numbers from certain other algebraic structures like matrices or quaternions where multiplication is not commutative. Within the context of the algebra of complex numbers, this property underpins the development of further operations such as division, powers, and roots of complex numbers. It also facilitates the simplification of expressions and the solution of equations involving complex variables. The commutativity of multiplication is foundational in complex analysis, signal processing, quantum mechanics, and electrical engineering, where complex numbers model oscillations, waves, and other phenomena. This equation relates directly to the broader discussion on the algebraic properties of complex numbers, complementing the definitions and examples of addition, subtraction, multiplication, and division presented earlier, and reinforcing the structural similarities between complex numbers and real numbers in terms of arithmetic operations.",
+    "tokens": 338,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 21,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1a528302fafcffcef8dac571cc7feb66",
+      "default:extract:d97982f9c0c64dc8b56fe405396cdaa1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Commutative Property of Complex Number Multiplication (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975156,
+    "_id": "chunk-ff770e7abb3a354be40233263fa809ae"
+  },
+  "chunk-440a71da4a92c351004ef8dccb99a480": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(iii) The associative law For any three complex numbers $z_{1}, z_{2}, z_{3}$ , $(z_{1}z_{2})z_{3} = z_{1}(z_{2}z_{3})$ . ', '(iv) The existence of multiplicative identity There exists the complex number $1 + i0$ (denoted as 1), called the multiplicative identity such that $z.1 = z$ , for every complex number $z$ . ', '(v) The existence of multiplicative inverse For every non-zero complex number $z = a + ib$ or $a + bi (a \\\\neq 0, b \\\\neq 0)$ , we have the complex number $\\\\frac{a}{a^2 + b^2} + i \\\\frac{-b}{a^2 + b^2}$ (denoted by $\\\\frac{1}{z}$ or $z^{-1}$ ), called the multiplicative inverse of $z$ such that $z \\\\cdot \\\\frac{1}{z} = 1$ (the multiplicative identity). '], 'bbox': [147, 343, 897, 606], 'page_idx': 2}\n\nAnalysis: This list is a structured enumeration of key algebraic properties related to the multiplication of complex numbers, presented as part of a broader mathematical exposition on complex number operations. The list items are organized sequentially, each describing a fundamental property: (iii) the associative law, (iv) the existence of a multiplicative identity, and (v) the existence of a multiplicative inverse. Each item includes formal mathematical notation and definitions, establishing the foundational rules that govern complex number multiplication. These properties are interrelated, collectively defining the algebraic structure of complex numbers as a field under multiplication. The list supports the surrounding content by formalizing the theoretical framework necessary for understanding complex number operations, following earlier sections on addition, subtraction, multiplication, and division. It provides essential knowledge for subsequent topics such as powers of i and square roots of negative numbers, thereby reinforcing the continuity and depth of the algebraic treatment of complex numbers. This content is crucial for knowledge retrieval in advanced mathematics, particularly in complex analysis and algebra, as it encapsulates the core multiplicative properties that enable further exploration and application of complex numbers.",
+    "tokens": 501,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 22,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:e1a7226158a7d5234098993db1018eb2",
+      "default:extract:7c677b4956d476f85b65a26629fb4979"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Properties of Multiplication of Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975156,
+    "_id": "chunk-440a71da4a92c351004ef8dccb99a480"
+  },
+  "chunk-92aabc9928811fb2d1df67d0ae3d0dc1": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(a) $z_{1}(z_{2} + z_{3}) = z_{1}z_{2} + z_{1}z_{3}$ ', '(b) $(z_{1} + z_{2})z_{3} = z_{1}z_{3} + z_{2}z_{3}$ '], 'bbox': [200, 634, 480, 673], 'page_idx': 2}\n\nAnalysis: The content is a two-item enumerated list presenting distributive properties of complex number multiplication over addition. The list items are algebraic identities: (a) z1(z2 + z3) = z1z2 + z1z3 and (b) (z1 + z2)z3 = z1z3 + z2z3. These express the left and right distributive laws respectively, fundamental properties in the algebra of complex numbers. Positioned within a section on multiplication properties, this list supports the broader discussion on complex number operations by explicitly stating key algebraic laws without proofs. It connects to preceding examples and definitions, reinforcing understanding of complex number multiplication's behavior and its consistency with standard algebraic rules. This list is crucial for knowledge retrieval related to complex number algebraic properties and their application in problem solving.",
+    "tokens": 288,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 23,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:f046d002c4e6b3df3a8d015a6ee2aa1f",
+      "default:extract:7ab4e9b9973f6f1eb8194861e2dee5ef"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Distributive Properties of Complex Number Multiplication (list)",
+    "original_type": "list",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975220,
+    "_id": "chunk-92aabc9928811fb2d1df67d0ae3d0dc1"
+  },
+  "chunk-4552a11f7ea38ff127957e314730a0a6": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\frac {z _ {1}}{z _ {2}} = z _ {1} \\frac {1}{z _ {2}}\n$$\nFormat: latex\n\nMathematical Analysis: The equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\) expresses the division of two complex numbers \\( z_1 \\) and \\( z_2 \\) (with \\( z_2 \\neq 0 \\)) in terms of multiplication by the reciprocal of \\( z_2 \\). Here, \\( z_1 \\) and \\( z_2 \\) are complex numbers typically represented as \\( z_1 = a + ib \\) and \\( z_2 = c + id \\), where \\( a, b, c, d \\in \\mathbb{R} \\) and \\( i \\) is the imaginary unit satisfying \\( i^2 = -1 \\). The operation \\( \\frac{1}{z_2} \\) denotes the multiplicative inverse of \\( z_2 \\), which can be computed using the conjugate of \\( z_2 \\) as \\( \\frac{1}{z_2} = \\frac{\\overline{z_2}}{|z_2|^2} = \\frac{c - id}{c^2 + d^2} \\). This transforms division into multiplication, facilitating algebraic manipulation within the field of complex numbers. The equation is fundamental in the algebra of complex numbers, illustrating how division is defined and computed, and it underpins more advanced operations such as complex function analysis and signal processing. It relates directly to the properties of complex conjugates, modulus, and the distributive law of multiplication over addition. Practically, this equation is used in electrical engineering, control theory, and applied mathematics where complex division is required. Within the broader discussion, it serves as a bridge from basic arithmetic operations on complex numbers to more sophisticated algebraic structures and operations.",
+    "tokens": 419,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 24,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:be553aa29cf21878494a8810c8007233",
+      "default:extract:07efe0f6dc08b3f3da019f84bcd05817"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Division of Two Complex Numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975220,
+    "_id": "chunk-4552a11f7ea38ff127957e314730a0a6"
+  },
+  "chunk-08641f122232c536a210a8f787bbbb89": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '78 ', 'bbox': [98, 103, 119, 116], 'page_idx': 2}\n\nAnalysis: This page_number content represents the physical page number '78' located on the page with index 2 in the document. The content is minimal, consisting solely of the page number text '78' with its bounding box coordinates specified. It serves as a navigational and referential element within the document, enabling users to identify their position in the text. In the broader context, this page number anchors the surrounding mathematical exposition on complex numbers, specifically continuing the discussion on powers of i and square roots of negative real numbers. While it contains no conceptual information itself, it is crucial for structuring the document and supporting cross-referencing and citation.",
+    "tokens": 171,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 25,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:88b52f3b2e580d3dec0cede5f6c5699c",
+      "default:extract:d82d450ac50dbd40c2ff3c84f4fb997c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 78 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975220,
+    "_id": "chunk-08641f122232c536a210a8f787bbbb89"
+  },
+  "chunk-536e5679ff10b43ffc6a710450aa5a39": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 284, 116], 'page_idx': 2}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level categorical label that organizes the content within the document. Positioned on page 2, it likely marks the beginning of a new major section or chapter focused on mathematical concepts, specifically complex numbers as indicated by the surrounding content. This header is succinct and broad, providing a thematic anchor that contextualizes subsequent detailed discussions such as algebra of complex numbers, operations on complex numbers, powers of the imaginary unit, and square roots of negative numbers. Its placement supports navigation and knowledge retrieval by signaling a shift to mathematical theory and problem-solving, thereby connecting earlier examples and solutions to a structured theoretical framework.",
+    "tokens": 173,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 26,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:111de4120ac516da13e4e5c4cecece57",
+      "default:extract:023016a58cd14fc831c547ad47e4f3de"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975220,
+    "_id": "chunk-536e5679ff10b43ffc6a710450aa5a39"
+  },
+  "chunk-0e78ea180b1b14750beff37015e68e81": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 2}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 2, as indicated by the bounding box coordinates and page index. This footer serves as a publication or edition marker, providing temporal context for the document's version. It is structurally isolated from the main mathematical content on complex numbers, acting as a metadata element rather than instructional or explanatory text. Its presence supports knowledge retrieval by indicating the currency and edition of the material, which is critical for referencing, citation, and version control in academic or educational contexts.",
+    "tokens": 170,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 27,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:a34939ab8784359d7b2634e2d93f7f38",
+      "default:extract:6b644db1bfb3faaf1f55c880fb09383c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 2,
+    "create_time": 1770974873,
+    "update_time": 1770975305,
+    "_id": "chunk-0e78ea180b1b14750beff37015e68e81"
+  },
+  "chunk-ea4f9cb11f8812797f7f9a8975bd5571": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= (6 + 3 i) \\left(\\frac {2 + i}{5}\\right) = \\frac {1}{5} [ 1 2 - 3 + i (6 + 6) ] = \\frac {1}{5} (9 + 1 2 i)\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the division of two complex numbers, specifically calculating \\( \\frac{z_1}{z_2} \\) where \\( z_1 = 6 + 3i \\) and \\( z_2 = 2 - i \\). The division is performed by multiplying \\( z_1 \\) by the multiplicative inverse of \\( z_2 \\), which is expressed as \\( \\frac{1}{z_2} = \\frac{2 + i}{5} \\) after rationalizing the denominator. The denominator's magnitude squared is \\( 2^2 + (-1)^2 = 5 \\), ensuring the denominator is a positive real number. The multiplication \\( (6 + 3i)(2 + i) \\) is expanded using distributive and associative properties of complex numbers, yielding \\( 12 - 3 + i(6 + 6) = 9 + 12i \\). Finally, the entire expression is scaled by \\( \\frac{1}{5} \\), resulting in \\( \\frac{9}{5} + \\frac{12}{5}i \\). This operation leverages the algebraic structure of complex numbers, particularly the use of conjugates to simplify division. It is fundamental in complex analysis, electrical engineering, and applied mathematics where complex division is required. The equation exemplifies the method of dividing complex numbers by converting the divisor into a real denominator, preserving the form \\( a + bi \\). It also connects to the broader discussion on complex arithmetic, including multiplication, powers of \\( i \\), and identities involving complex numbers.",
+    "tokens": 408,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 28,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:5406bd2eba08a5870842e0d7db2ed110",
+      "default:extract:b5fcc9fca8592fd6fe420fd25e8bcfb0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Division of two complex numbers example (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975305,
+    "_id": "chunk-ea4f9cb11f8812797f7f9a8975bd5571"
+  },
+  "chunk-f248868f8fab7b10dd937a4a4ca15bb7": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\ni ^ {3} = i ^ {2} i = (- 1) i = - i, \\quad i ^ {4} = \\left(i ^ {2}\\right) ^ {2} = (- 1) ^ {2} = 1\n$$\nFormat: latex\n\nMathematical Analysis: This equation expresses the powers of the imaginary unit i, which is defined by the fundamental property i^2 = -1. The equation shows that i^3 can be decomposed as i^2 multiplied by i, resulting in (-1) * i = -i, and that i^4 equals (i^2)^2 = (-1)^2 = 1. Here, i is the imaginary unit, a complex number satisfying i^2 = -1. The operations used include exponentiation and multiplication within the complex number system. This equation is central in complex number theory, illustrating the cyclical nature of powers of i with period 4. It underpins the algebraic structure of complex numbers and is crucial for simplifying expressions involving powers of i. The equation relates to the broader discussion on complex arithmetic, including multiplication, division, and powers of i, and is foundational for understanding complex roots, complex exponentials, and Euler's formula. Practically, it is used in electrical engineering, signal processing, and quantum mechanics where complex numbers model oscillations and waveforms. This cyclical property allows for efficient computation and simplification in these domains.",
+    "tokens": 309,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 29,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:148cbe93f0603827fb2fcf7a9aae23b3",
+      "default:extract:1eee7fff676a27b47ed4c4622898a66c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Powers of the Imaginary Unit i (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975305,
+    "_id": "chunk-f248868f8fab7b10dd937a4a4ca15bb7"
+  },
+  "chunk-939d54b98d8de8fee290fa9a28679294": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\ni ^ {5} = \\left(i ^ {2}\\right) ^ {2} i = (- 1) ^ {2} i = i, \\quad i ^ {6} = \\left(i ^ {2}\\right) ^ {3} = (- 1) ^ {3} = - 1, \\text {e t c .}\n$$\nFormat: latex\n\nMathematical Analysis: This equation expresses powers of the imaginary unit i in terms of its fundamental property i^2 = -1. It shows how higher integer powers of i can be reduced using the cyclic nature of i's powers with period 4. Specifically, i^5 is rewritten as (i^2)^2 * i, which simplifies to (-1)^2 * i = i, and i^6 as (i^2)^3 = (-1)^3 = -1. The variables involved are powers of i, where i is defined as the imaginary unit satisfying i^2 = -1. The operations used include exponentiation, multiplication, and the application of the fundamental identity of i. This equation is situated in the context of complex number theory, particularly the algebraic manipulation of powers of i. It highlights the periodicity of powers of i, which is crucial in simplifying expressions involving complex numbers. The theoretical significance lies in demonstrating the cyclical pattern of i's powers, which underpins many results in complex analysis and electrical engineering (e.g., phasor analysis). It relates to other concepts such as the definition of complex multiplication, roots of negative numbers, and identities involving complex numbers. Practically, this cyclic property is used in computations involving complex exponentials, signal processing, and solving polynomial equations with complex roots. Within the broader framework, this equation exemplifies the foundational algebraic properties of the imaginary unit that enable the extension of real numbers to complex numbers and facilitate the manipulation of complex expressions.",
+    "tokens": 398,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 30,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:6fb333542ef3289cd1280758beb78fe0",
+      "default:extract:9ad1ea110dad7e7c26b425d4bc20282f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Powers of the Imaginary Unit i (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975305,
+    "_id": "chunk-939d54b98d8de8fee290fa9a28679294"
+  },
+  "chunk-a3d544fb07f7969141778e3b15bb4a68": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\ni ^ {- 3} = \\frac {1}{i ^ {3}} = \\frac {1}{- i} \\times \\frac {i}{i} = \\frac {i}{1} = i, \\quad i ^ {- 4} = \\frac {1}{i ^ {4}} = \\frac {1}{1} = 1\n$$\nFormat: latex\n\nMathematical Analysis: This equation analyzes the negative integer powers of the imaginary unit i, where i is defined by the fundamental property i^2 = -1. The equation expresses i raised to negative powers -3 and -4 by rewriting them as reciprocals of positive powers, i.e., i^{-k} = 1 / i^k. For i^{-3}, it uses the identity i^3 = -i to simplify the reciprocal, multiplying numerator and denominator by i to rationalize the denominator, resulting in i^{-3} = i. For i^{-4}, since i^4 = 1, the reciprocal is simply 1. The variables involved are integer exponents and the imaginary unit i, a complex number satisfying i^2 = -1. The operations include exponentiation with integer exponents, reciprocal (division), and multiplication of complex numbers. This analysis is situated within the broader context of complex number arithmetic, particularly powers of i, which exhibit a cyclic pattern with period 4. The theoretical significance lies in understanding the behavior of powers of i, including negative exponents, which is essential for complex analysis, signal processing, and electrical engineering. The equation relates to the cyclicity of i's powers and complements the earlier stated general formula for i^{4k + r}. Practically, this understanding aids in simplifying expressions involving complex exponentials and in computations involving roots of unity. Overall, the equation reinforces the algebraic structure of the imaginary unit and its powers within the complex number system.",
+    "tokens": 398,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 31,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:cb2cdc90cecdf212dc024212f459ed87",
+      "default:extract:4816cc2f8f0d9ed0463d438e204f0e8b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Negative Powers of the Imaginary Unit i (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975375,
+    "_id": "chunk-a3d544fb07f7969141778e3b15bb4a68"
+  },
+  "chunk-8e1c72da90f047ec22ffb614fd91675e": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\left(- \\sqrt {3} i\\right) ^ {2} = \\left(- \\sqrt {3}\\right) ^ {2} i ^ {2} = - 3\n$$\nFormat: latex\n\nMathematical Analysis: This equation demonstrates the computation of the square of a complex number expressed in the form of a purely imaginary number multiplied by a real scalar. Specifically, it evaluates the square of -√3 times the imaginary unit i. The variables involved are the real number √3 (the positive square root of 3) and the imaginary unit i, defined by the property i^2 = -1. The equation uses exponentiation and multiplication of complex numbers, applying the property that (ab)^2 = a^2 b^2 for real and complex numbers a and b. The calculation proceeds by squaring the real scalar -√3, yielding 3, and squaring i, yielding -1, then multiplying these results to get -3. This illustrates the concept of square roots of negative real numbers in the complex plane, showing that the square of a purely imaginary number can yield a negative real number. The equation is significant in the context of extending the real number system to complex numbers to solve equations like x^2 = -3, which have no real solutions. It relates to the broader discussion on the properties of the imaginary unit, powers of i, and the definition of square roots of negative numbers. Practically, this understanding is foundational in fields such as electrical engineering, quantum mechanics, and applied mathematics, where complex numbers model oscillations, waves, and other phenomena. The equation exemplifies how complex arithmetic preserves algebraic consistency and extends the solvability of polynomial equations.",
+    "tokens": 357,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 32,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:726c6dd58ac74ecbb07e4cd60b2b7184",
+      "default:extract:e15b26a665ca7c4dd41155238a5b1995"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Square of a purely imaginary complex number (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975375,
+    "_id": "chunk-8e1c72da90f047ec22ffb614fd91675e"
+  },
+  "chunk-5098dcaaf96234552fa5bd6dba24c2a4": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [408, 102, 841, 118], 'page_idx': 3}\n\nAnalysis: The header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS' serves as a thematic and structural marker that introduces a new section or chapter focused on the interplay between complex numbers and quadratic equations. Positioned after detailed discussions on operations with complex numbers (multiplication, division, powers of i, square roots of negative numbers, and identities), this header signals a transition to applying these foundational concepts to quadratic equations. It organizes the content by delineating a shift from algebraic properties and arithmetic of complex numbers to their role in solving quadratic equations, thus connecting prior theoretical groundwork to practical applications. This header is significant as it frames the subsequent content, guiding readers to understand the relevance of complex numbers in the context of quadratic equations, supporting knowledge retrieval by clearly categorizing the material within the broader mathematical discourse on complex analysis and algebra.",
+    "tokens": 216,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 33,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:211ff6c8aac8620218566953a3fa3a78",
+      "default:extract:ec365e4f1bfab694852a337b37672e26"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations (header)",
+    "original_type": "header",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975375,
+    "_id": "chunk-5098dcaaf96234552fa5bd6dba24c2a4"
+  },
+  "chunk-bbbe5e90e8f300a90da742ec75c41872": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '79 ', 'bbox': [878, 103, 899, 116], 'page_idx': 3}\n\nAnalysis: The content on this page_number is minimal, consisting solely of the page number '79' positioned typically at the top or bottom margin of the page. It serves as a navigational and referential element within the document, enabling readers to locate and reference specific sections easily. Although it contains no substantive mathematical content, its presence is crucial for maintaining the document's structural integrity and facilitating cross-referencing. In the broader context, this page number anchors the detailed mathematical discussions on complex numbers, their operations, and properties found on the surrounding pages, supporting efficient knowledge retrieval and document navigation.",
+    "tokens": 159,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 34,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:4c8e0f28de9a440f11095be0a774db67",
+      "default:extract:d719780b581324c7f30e3b62daa9fcb2"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 79 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975375,
+    "_id": "chunk-bbbe5e90e8f300a90da742ec75c41872"
+  },
+  "chunk-e85fbb3c6592a99f956577a5f1c38e79": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 982], 'page_idx': 3}\n\nAnalysis: The footer content consists of a brief text element 'Reprint 2025-26' positioned at the bottom of page 3, indicating the reprint edition or publication year range of the document. Structurally, it is a standalone footer element, separated from the main mathematical content on complex numbers, serving as a publication metadata marker. This footer provides temporal context and version control information relevant for citation, archival, and referencing purposes. It supports the broader discussion by situating the technical content within a specific edition timeline, aiding users in identifying the document's currency and authenticity. The bounding box coordinates confirm its placement in the footer region, consistent with standard footer conventions.",
+    "tokens": 181,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 35,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b6c0d9773c090dc691e39a95a2458025",
+      "default:extract:7472a3e88c0b75cb4edb53c8c8d1f859"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Edition Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 3,
+    "create_time": 1770974873,
+    "update_time": 1770975420,
+    "_id": "chunk-e85fbb3c6592a99f956577a5f1c38e79"
+  },
+  "chunk-63aeabae553a8991f4f76589542a2ffa": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} = \\left(z _ {1} + z _ {2}\\right) z _ {1} + \\left(z _ {1} + z _ {2}\\right) z _ {2} \\quad \\text {(D i s t r i b u t i v e l a w)} \\\\ = z _ {1} ^ {2} + z _ {2} z _ {1} + z _ {1} z _ {2} + z _ {2} ^ {2} \\quad \\text {(D i s t r i b u t i v e l a w)} \\\\ = z _ {1} ^ {2} + z _ {1} z _ {2} + z _ {1} z _ {2} + z _ {2} ^ {2} \\quad \\text {(C o m m u t a t i v e l a w o f m u l t i p l i c a t i o n)} \\\\ = z _ {1} ^ {2} + 2 z _ {1} z _ {2} + z _ {2} ^ {2} \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: This equation demonstrates the algebraic expansion of the square of a sum of two complex numbers, z_1 and z_2, using fundamental algebraic properties. Mathematically, it expresses (z_1 + z_2)^2 as z_1^2 + 2z_1z_2 + z_2^2. The variables z_1 and z_2 represent arbitrary complex numbers, each of the form a + bi, where a and b are real numbers and i is the imaginary unit satisfying i^2 = -1. The operations used include addition, multiplication, and exponentiation (specifically squaring). The equation applies the distributive law twice to expand the product (z_1 + z_2)(z_1 + z_2), then uses the commutative law of multiplication to combine like terms. This identity is fundamental in complex number algebra and mirrors the binomial expansion known from real numbers, confirming that many algebraic identities hold in the complex domain. It is significant in simplifying expressions involving complex numbers, solving polynomial equations, and analyzing functions in complex analysis. The equation relates to the broader discussion by illustrating that algebraic identities valid for real numbers extend naturally to complex numbers, reinforcing the structural consistency of complex arithmetic. Practical applications include signal processing, electrical engineering, and quantum mechanics, where manipulation of complex expressions is routine.",
+    "tokens": 551,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 36,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:5b3bde03edeb3154bbd9c1b75a7ba6e4",
+      "default:extract:ad222e42c5868bb405365ac288391607"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Square of the Sum of Two Complex Numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770974873,
+    "update_time": 1770975420,
+    "_id": "chunk-63aeabae553a8991f4f76589542a2ffa"
+  },
+  "chunk-921cf0b04c761626f51f92842c95d793": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(i) $\\\\left(z_{1} - z_{2}\\\\right)^{2} = z_{1}^{2} - 2z_{1}z_{2} + z_{2}^{2}$ ', '(ii) $\\\\left(z_{1} + z_{2}\\\\right)^{3} = z_{1}^{3} + 3z_{1}^{2}z_{2} + 3z_{1}z_{2}^{2} + z_{2}^{3}$ ', '(iii) $\\\\left(z_{1} - z_{2}\\\\right)^{3} = z_{1}^{3} - 3z_{1}^{2}z_{2} + 3z_{1}z_{2}^{2} - z_{2}^{3}$ ', '(iv) $z_1^2 -z_2^2 = (z_1 + z_2)(z_1 - z_2)$ '], 'bbox': [153, 508, 534, 643], 'page_idx': 4}\n\nAnalysis: The content is a structured list of algebraic identities involving complex numbers, specifically binomial expansions and factorizations. The list is organized as four enumerated items, each presenting a distinct identity: (i) the square of a difference, (ii) the cube of a sum, (iii) the cube of a difference, and (iv) the difference of squares factorization. These identities are expressed in terms of complex variables z_1 and z_2, highlighting their applicability to complex number operations. The list supports the broader discussion on complex number algebra by providing foundational identities that facilitate manipulation and simplification of complex expressions. It connects to preceding content on powers of i, square roots of negative numbers, and complex number operations, reinforcing the algebraic framework necessary for understanding complex arithmetic and proofs. This list is essential for knowledge retrieval as it encapsulates key algebraic formulas that are frequently used in complex number theory and problem solving.",
+    "tokens": 438,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 37,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:9ad10185616a94f2a3c0e4b3aaae936c",
+      "default:extract:428cb5702cb5f247e9a7e6744d4ddd17"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Algebraic Identities for Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 4,
+    "create_time": 1770974873,
+    "update_time": 1770975420,
+    "_id": "chunk-921cf0b04c761626f51f92842c95d793"
+  },
+  "chunk-29472af09b58d3195966aca0d6204810": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '80 ', 'bbox': [98, 103, 119, 115], 'page_idx': 4}\n\nAnalysis: This page_number content represents the physical page number '80' located on page index 4 of the document. The content is minimal, consisting solely of the page number text '80' with its bounding box coordinates provided. It serves as a navigational and referential element within the document, enabling users to identify their position in the text. In the broader context, this page number anchors the surrounding mathematical content on complex numbers, specifically the continuation of examples and the introduction of the modulus and conjugate of complex numbers. While the page number itself contains no substantive mathematical information, it is crucial for referencing, citation, and structuring the document for ease of use and retrieval.",
+    "tokens": 178,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 38,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b4710735b2ba63cf8413c1cae422069a",
+      "default:extract:a215e94eb7746e62723b6c768a037532"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 80 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 4,
+    "create_time": 1770974873,
+    "update_time": 1770975420,
+    "_id": "chunk-29472af09b58d3195966aca0d6204810"
+  },
+  "chunk-9a4686159a87e3e207102d13089373ad": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 284, 115], 'page_idx': 4}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level thematic marker that introduces or categorizes the content on page 4 within the broader document. Positioned after detailed discussions on complex numbers, powers of the imaginary unit i, square roots of negative numbers, and related algebraic identities, this header likely signals a transition to a new section or a broader mathematical context. Its placement suggests it functions as a sectional or chapter-level header, organizing the content into a clear domain. This header supports knowledge retrieval by providing a semantic anchor for the mathematical concepts discussed, facilitating navigation and contextual understanding within the document's structure.",
+    "tokens": 167,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 39,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:0a7c179aec77a7f9381c20a04a9fb1c5",
+      "default:extract:b74102931f576a9611e494abe204c877"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS Section Header (header)",
+    "original_type": "header",
+    "page_idx": 4,
+    "create_time": 1770974873,
+    "update_time": 1770975482,
+    "_id": "chunk-9a4686159a87e3e207102d13089373ad"
+  },
+  "chunk-9cf9799e34f92a2c375a530184713fbf": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 4}\n\nAnalysis: The footer content is minimal, consisting solely of a reprint date notation 'Reprint 2025-26'. It is positioned at the bottom of page 4, indicating the edition or version timeline of the document. This footer serves as a bibliographic and version control element, providing users with information about the currency and validity period of the material. It is structurally isolated from the main mathematical content, acting as a metadata marker rather than contributing to the instructional or conceptual discussion. Its presence supports knowledge retrieval by timestamping the document, which is critical for referencing, citation, and ensuring users are aware of the document's edition in relation to the complex number theory content discussed in the surrounding pages.",
+    "tokens": 187,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 40,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:d5a0f9cfb42bd90a64ca2c06980c2f46",
+      "default:extract:53d3d58e6625e85e1f21ce33673354bf"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 4,
+    "create_time": 1770974873,
+    "update_time": 1770975482,
+    "_id": "chunk-9cf9799e34f92a2c375a530184713fbf"
+  },
+  "chunk-9647822dabbadc2e0eae1b84e1e790f0": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= 1 2 5 - 2 2 5 i - 1 3 5 + 2 7 i = - 1 0 - 1 9 8 i.\n$$\nFormat: latex\n\nMathematical Analysis: The equation presented appears to be a simplification or combination of complex number terms expressed in the form a + bi, where a and b are real numbers and i is the imaginary unit satisfying i^2 = -1. The left side of the equation shows a sum of complex terms with coefficients 125, -225i, -135, and 27i, which are combined by adding their real parts (125 - 135) and imaginary parts (-225i + 27i) separately. This yields the simplified complex number -10 - 198i. The variables represent real coefficients of the real and imaginary parts of complex numbers. The operations used include addition and subtraction of complex numbers, which rely on the linearity of complex addition. The context is the algebraic manipulation of complex numbers, specifically expressing sums and products in standard form a + bi. This is fundamental in complex number theory, which extends real number arithmetic to include imaginary units, enabling solutions to equations like x^2 + 1 = 0. The equation exemplifies the process of combining complex terms and simplifying them, reinforcing the understanding of complex addition and the standard form representation. It relates to the broader discussion on complex number identities, arithmetic operations, and expressing complex expressions in canonical form. Practical applications include electrical engineering (AC circuit analysis), quantum mechanics, and signal processing, where complex numbers model oscillations and waves. This equation illustrates the algebraic manipulation skills necessary for these applications and theoretical explorations.",
+    "tokens": 360,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 41,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:38f58cc1a9e2d176962cb30ac3934bda",
+      "default:extract:7cc078c92a14d27bceede5168e73235a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Simplification of a sum of complex numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975482,
+    "_id": "chunk-9647822dabbadc2e0eae1b84e1e790f0"
+  },
+  "chunk-a1fe813fb71b3ecc1ddec42293dbe03b": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= - 6 + \\sqrt {3} i + 2 \\sqrt {6} i - \\sqrt {2} i ^ {2} = \\left(- 6 + \\sqrt {2}\\right) + \\sqrt {3} \\left(1 + 2 \\sqrt {2}\\right) i\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the simplification and rearrangement of a complex number expression into the standard form a + bi, where a and b are real numbers. The original expression involves real and imaginary components combined through addition and multiplication, including square roots and powers of the imaginary unit i. Specifically, the term -√2 i^2 uses the identity i^2 = -1 to convert the imaginary unit squared into a real number, changing the sign and allowing the combination of like terms. Variables include the imaginary unit i, defined as √-1, and real numbers under square roots (√2, √3, √6). The operations used are addition, multiplication, and exponentiation, along with the application of the fundamental property of i^2 = -1. This equation is situated in the context of expressing complex numbers in the canonical form a + bi, which is essential for performing algebraic operations, understanding complex number properties, and facilitating further analysis such as finding modulus, conjugates, or performing arithmetic. The equation exemplifies the process of simplifying complex expressions by separating real and imaginary parts, a foundational step in complex number theory. It relates to other concepts in the context such as the modulus, conjugate, and powers of i, and is crucial for practical applications in engineering, physics, and applied mathematics where complex numbers model oscillations, waves, and electrical circuits. Overall, this equation illustrates the algebraic manipulation and standardization of complex numbers within the broader framework of complex number arithmetic and identities.",
+    "tokens": 389,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 42,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:2f44ac637c1a3cb7805f059e102f0e3d",
+      "default:extract:ce25582c39a63434fe5a7af68fc7b0ce"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Simplification of a Complex Number Expression into Standard Form (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975482,
+    "_id": "chunk-a1fe813fb71b3ecc1ddec42293dbe03b"
+  },
+  "chunk-365084175b905aa49b4f53f40019a7b3": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nz ^ {- 1} = \\frac {1}{a + i b} = \\frac {a}{a ^ {2} + b ^ {2}} + i \\frac {- b}{a ^ {2} + b ^ {2}} = \\frac {a - i b}{a ^ {2} + b ^ {2}} = \\frac {\\bar {z}}{| z | ^ {2}}\n$$\nFormat: latex\n\nMathematical Analysis: This equation expresses the multiplicative inverse (reciprocal) of a non-zero complex number z = a + ib, where a and b are real numbers and i is the imaginary unit with i^2 = -1. The inverse z^{-1} is given by 1/(a + ib), which is rationalized by multiplying numerator and denominator by the complex conjugate \\overline{z} = a - ib. This yields z^{-1} = (a - ib)/(a^2 + b^2), where the denominator is the modulus squared |z|^2 = a^2 + b^2, a non-negative real number. The equation shows that the inverse can be written as the conjugate divided by the modulus squared, linking algebraic operations on complex numbers to their geometric interpretation in the complex plane. The operations involved include complex conjugation, modulus calculation, and division of complex numbers. This formula is fundamental in complex analysis and is widely used in solving equations, simplifying expressions, and in fields such as electrical engineering, signal processing, and control theory where complex numbers model oscillations and waves. It also illustrates the interplay between algebraic and geometric properties of complex numbers, reinforcing the concept that division in the complex plane corresponds to scaling by the reciprocal of the modulus and rotation by the negative of the argument. Within the broader context, this equation complements the discussion on modulus, conjugate, and arithmetic of complex numbers, providing a practical tool for expressing inverses explicitly in standard form a + ib.",
+    "tokens": 414,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 43,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:c9d787d6c7756aabdf6a456db00307c9",
+      "default:extract:421ec4ca5cf05d7200ca27e23132598c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Multiplicative Inverse of a Complex Number (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975550,
+    "_id": "chunk-365084175b905aa49b4f53f40019a7b3"
+  },
+  "chunk-9d36b63f2a3d77ee8bcebad62b006840": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [408, 102, 841, 118], 'page_idx': 5}\n\nAnalysis: This header, titled 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS', serves as a thematic and structural marker within the document, indicating a transition or introduction to a new section focused on the interplay between complex numbers and quadratic equations. Positioned after detailed discussions on complex number properties, identities, and examples, it signals a shift towards applying these concepts to quadratic equations. The header is prominently placed with a bounding box spanning a wide horizontal area on page 5, emphasizing its importance. It organizes the content by delineating a new topic area, guiding readers to anticipate a focus on solving or analyzing quadratic equations using complex numbers. This connection supports the broader mathematical discourse by linking foundational complex number theory to practical algebraic applications, facilitating knowledge retrieval related to both complex arithmetic and polynomial equations.",
+    "tokens": 208,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 44,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:95e291b6e94b247c634fa266d2e6086d",
+      "default:extract:22507c6dc1c31aad45685dbb82c7ffaf"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations Section Header (header)",
+    "original_type": "header",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975550,
+    "_id": "chunk-9d36b63f2a3d77ee8bcebad62b006840"
+  },
+  "chunk-af711f82730621ad3245713bf37c2acf": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '81 ', 'bbox': [876, 103, 895, 116], 'page_idx': 5}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '81'. It is a minimal structural component of the document, typically located in the page footer or header, used for navigation and reference. The bounding box coordinates suggest its placement on the page layout. Although it contains no substantive mathematical or conceptual information, it serves an important organizational role by linking the content on this page to the overall document structure. In the broader context, this page number helps users locate and cite specific sections, such as the detailed discussion on complex numbers, their modulus, conjugates, and related examples found on surrounding pages.",
+    "tokens": 165,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 45,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:eb3668aa781f45c5a68127e7e6ec91e4",
+      "default:extract:d7be2d1604ff1ecdd944fb95d98c3592"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 81 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975550,
+    "_id": "chunk-af711f82730621ad3245713bf37c2acf"
+  },
+  "chunk-aa7ac6c42907f5a4839378601282e29f": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 982], 'page_idx': 5}\n\nAnalysis: The footer content is a brief, single-line text element positioned at the bottom of page 5, indicating 'Reprint 2025-26'. It is structurally minimal, serving as a publication or edition marker rather than providing instructional or conceptual information. This footer functions as a metadata element, linking the document to its reprint edition timeline, which is critical for version control and citation accuracy. In the broader context of the mathematical exposition on complex numbers, identities, and examples, this footer does not contribute to the mathematical discourse but supports document provenance and publication history. Its presence aids in knowledge retrieval by timestamping the edition, ensuring users reference the correct version of the material.",
+    "tokens": 183,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 46,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:66d07fffb34448d5e7d1602b8b767258",
+      "default:extract:0d1cd0090decf24d55a3b6afb1e4b199"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Edition Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 5,
+    "create_time": 1770974873,
+    "update_time": 1770975550,
+    "_id": "chunk-aa7ac6c42907f5a4839378601282e29f"
+  },
+  "chunk-4b61bdc3bb65816dbacb77e277186a32": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nz ^ {- 1} = \\frac {\\bar {z}}{| z | ^ {2}} = \\frac {2 + 3 i}{1 3} = \\frac {2}{1 3} + \\frac {3}{1 3} i\n$$\nFormat: latex\n\nMathematical Analysis: The equation expresses the multiplicative inverse (reciprocal) of a non-zero complex number z in terms of its conjugate and modulus. Mathematically, for a complex number z = a + ib, its inverse z^{-1} is given by \\( z^{-1} = \\frac{\\overline{z}}{|z|^2} \\), where \\( \\overline{z} = a - ib \\) is the complex conjugate and \\( |z| = \\sqrt{a^2 + b^2} \\) is the modulus of z. The equation shows the specific example where z = 2 - 3i, so \\( \\overline{z} = 2 + 3i \\) and \\( |z|^2 = 2^2 + (-3)^2 = 13 \\). Thus, \\( z^{-1} = \\frac{2 + 3i}{13} = \\frac{2}{13} + \\frac{3}{13}i \\). The operations involved include complex conjugation, modulus calculation (Euclidean norm), and division of complex numbers by a real scalar. This formula is fundamental in complex analysis and algebra, enabling division by complex numbers by converting the denominator into a real number via multiplication by the conjugate. It also relates to the geometric interpretation of complex numbers on the Argand plane, where the inverse corresponds to a reflection and scaling. The equation is crucial in solving equations involving complex numbers, signal processing, control theory, and electrical engineering, where complex division is frequent. Within the broader context, it connects the algebraic properties of complex numbers with their geometric representation and provides a method to express complex division in the standard form a + ib, facilitating further manipulation and understanding.",
+    "tokens": 436,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 47,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:df7ea33f1f106f988ca615bd85a244f5",
+      "default:extract:c98e2a3436da6094ebb689934323c29d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Multiplicative Inverse of a Complex Number (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975610,
+    "_id": "chunk-4b61bdc3bb65816dbacb77e277186a32"
+  },
+  "chunk-86ca221183a372844a5beeea361ee0f5": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} z ^ {- 1} = \\frac {1}{2 - 3 i} = \\frac {2 + 3 i}{(2 - 3 i) (2 + 3 i)} \\\\ = \\frac {2 + 3 i}{2 ^ {2} - (3 i) ^ {2}} = \\frac {2 + 3 i}{1 3} = \\frac {2}{1 3} + \\frac {3}{1 3} i \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the multiplicative inverse (reciprocal) of a non-zero complex number z = 2 - 3i. The inverse z^{-1} is defined such that z * z^{-1} = 1 in the field of complex numbers. To find z^{-1}, the expression 1/(2 - 3i) is rationalized by multiplying numerator and denominator by the complex conjugate of the denominator, 2 + 3i. This eliminates the imaginary part in the denominator, leveraging the identity (a - bi)(a + bi) = a^2 + b^2, which equals the modulus squared |z|^2. Here, |z|^2 = 2^2 + (-3)^2 = 13. The resulting expression is (2 + 3i)/13, which is then separated into its real and imaginary parts as (2/13) + (3/13)i. The variables are: z, a complex number with real part 2 and imaginary part -3; i, the imaginary unit satisfying i^2 = -1; and z^{-1}, the multiplicative inverse of z. The operations used include complex conjugation, multiplication, division, and the use of modulus squared. This equation is fundamental in complex number arithmetic, particularly in division and inversion operations, and is crucial in fields such as electrical engineering, signal processing, and quantum mechanics where complex numbers model oscillations and waves. It also illustrates the algebraic structure of the complex field and the geometric interpretation of inversion in the Argand plane. The equation ties into the broader discussion on complex number properties, conjugates, moduli, and their algebraic manipulations, reinforcing the method to express complex division in standard form a + ib.",
+    "tokens": 495,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 48,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:61e0b4aec1833303b744e98c77baee99",
+      "default:extract:9d42b72d1f26f7d31743b1fb7ddfae80"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Multiplicative Inverse of a Complex Number (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975610,
+    "_id": "chunk-86ca221183a372844a5beeea361ee0f5"
+  },
+  "chunk-f619280a969b8c9075825fa70535bc68": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n= \\frac {3 + 6 \\sqrt {2} i}{1 + 2} = \\frac {3 (1 + 2 \\sqrt {2} i)}{3} = 1 + 2 \\sqrt {2} i.\n$$\nFormat: latex\n\nMathematical Analysis: This equation demonstrates the simplification of a complex fraction into the standard form a + ib, where a and b are real numbers. The numerator is the complex number 3 + 6√2 i, and the denominator is the real number 1 + 2 = 3. Dividing the numerator by 3, the expression is rewritten as (3(1 + 2√2 i))/3, which simplifies to 1 + 2√2 i. Here, the variable i represents the imaginary unit satisfying i^2 = -1. The operations used include complex number division, scalar multiplication, and simplification of radicals. This equation is situated in the context of expressing complex numbers in the form a + ib, a fundamental step in complex number arithmetic and analysis. It illustrates the process of rationalizing and simplifying complex expressions, which is essential in fields such as electrical engineering, quantum mechanics, and applied mathematics. The equation also relates to the broader discussion of complex number operations, including addition, multiplication, conjugation, and modulus, as well as their geometric interpretation on the Argand plane. By converting complex expressions into the standard form, it facilitates further operations and interpretations within the complex number framework.",
+    "tokens": 317,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 49,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b38dc44d39358a4583d443e604c72d77",
+      "default:extract:8bd0e576d7f10a11b010a514335b8c74"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Simplification of a Complex Fraction to Standard Form (equation)",
+    "original_type": "equation",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975610,
+    "_id": "chunk-f619280a969b8c9075825fa70535bc68"
+  },
+  "chunk-4b33fec8958c4ae6c1b5289ed0f8c37c": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '82 ', 'bbox': [98, 103, 119, 115], 'page_idx': 6}\n\nAnalysis: This page_number content represents the physical page number '82' located on page index 6 of the document. It is a small, isolated element typically found in the footer or header area of a page, serving as a navigational aid for readers. The content structure is minimal, consisting solely of the numeric page identifier without additional text or graphical elements. Its key role is to provide a reference point within the document, linking the current page to the overall pagination scheme. This page number supports the broader discussion by enabling users to locate and cite specific content sections, facilitating knowledge retrieval and cross-referencing within the document. Although it does not contain substantive educational content, it is essential for document organization and user orientation.",
+    "tokens": 185,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 50,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1c70f9668ef172f3dd65a839bb76c3f8",
+      "default:extract:4056b61db285f09fe670014e0104483a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 82 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975610,
+    "_id": "chunk-4b33fec8958c4ae6c1b5289ed0f8c37c"
+  },
+  "chunk-b1864a84ec23a7f75efb7f7b3a61d8cb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 284, 115], 'page_idx': 6}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional or chapter title, indicating a transition or overarching theme for the content that follows. Positioned on page 6, it likely marks the beginning of a new major section or chapter within the document. The header is succinct and broad, signaling that the subsequent content will pertain to mathematical concepts, theories, or exercises. Its placement after detailed examples and exercises on complex numbers and their properties suggests it may introduce a broader or new mathematical topic or a continuation of the subject matter under a formal section heading. This header functions as an organizational anchor, helping readers orient themselves within the document's structure and facilitating navigation and retrieval of mathematical content. It connects to the broader discussion by framing the detailed mathematical explanations and exercises within a clearly defined thematic boundary, enhancing the document's logical flow and coherence.",
+    "tokens": 213,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 51,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:0ab208b413136e2207ac8e60e3ff7880",
+      "default:extract:3cebb7f4309c513d152bfab707e6ba3d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Section Title: MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975652,
+    "_id": "chunk-b1864a84ec23a7f75efb7f7b3a61d8cb"
+  },
+  "chunk-f5cf7912ce7f64cff3e7afd96015fb57": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 6}\n\nAnalysis: The footer content is minimal, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 6. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or printing cycle of the document. This footer serves as a temporal marker, providing context about the currency and version of the material, which is important for citation, version control, and referencing in academic or educational settings. Its placement on page 6, following detailed mathematical content on complex numbers, suggests it is a standard footer applied throughout the document to denote the reprint period. This supports the broader discussion by ensuring users are aware of the document's edition, which may affect the relevance or accuracy of the mathematical content presented.",
+    "tokens": 220,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 52,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:91a4b31f636c320e0ac4dfffb76b5198",
+      "default:extract:82ce189d2c3b7b3439608eee38c5fad7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 6,
+    "create_time": 1770974873,
+    "update_time": 1770975652,
+    "_id": "chunk-f5cf7912ce7f64cff3e7afd96015fb57"
+  },
+  "chunk-5a7ad4f300e2a638ee9537cfd5b01f1b": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\frac {\\left(3 + i \\sqrt {5}\\right) \\left(3 - i \\sqrt {5}\\right)}{\\left(\\sqrt {3} + \\sqrt {2} i\\right) - \\left(\\sqrt {3} - i \\sqrt {2}\\right)}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents a complex number expression involving multiplication and subtraction of complex numbers in both numerator and denominator. The numerator is the product of two complex conjugates, (3 + i√5) and (3 - i√5), which simplifies to the sum of squares of their real and imaginary parts, yielding a real number. Specifically, (3)^2 + (√5)^2 = 9 + 5 = 14. The denominator is the difference between two complex numbers, (√3 + √2 i) and (√3 - i√2), which simplifies by subtracting real and imaginary parts separately, resulting in 2i√2. The entire expression thus simplifies to a real number divided by a purely imaginary number, which can be further simplified by multiplying numerator and denominator by the complex conjugate of the denominator or by recognizing the denominator as a purely imaginary number. Variables involved are real numbers and imaginary unit i, where i^2 = -1. The operations used include complex conjugation, multiplication, subtraction, and simplification of complex fractions. This equation fits within the context of complex number arithmetic, particularly manipulation and simplification of complex expressions, as seen in the surrounding examples involving multiplicative inverses and expressing complex numbers in standard form a + ib. The physical or theoretical significance lies in understanding complex number operations, which are foundational in fields such as electrical engineering, quantum mechanics, and applied mathematics. The equation relates to the broader discussion of representing complex numbers in the Argand plane and performing algebraic operations on them. Practically, such simplifications are essential in solving problems involving complex impedance, signal processing, and other applications requiring complex arithmetic. This expression exemplifies the use of conjugates to simplify complex fractions and the importance of recognizing real and imaginary components in complex expressions.",
+    "tokens": 444,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 53,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:8ef2a1a688ac71870e94ff9db6a6905a",
+      "default:extract:b4557f4630368f9a2ef1459a00c73b06"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Simplification of a Complex Fraction Involving Conjugates (equation)",
+    "original_type": "equation",
+    "page_idx": 7,
+    "create_time": 1770974873,
+    "update_time": 1770975652,
+    "_id": "chunk-5a7ad4f300e2a638ee9537cfd5b01f1b"
+  },
+  "chunk-414e2e04dea8b02ef377b4e9be9e33fa": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh104/hybrid_auto/images/cba515a00735e3d0eebcd840e917441b74acb61765bca339653a8af239eee1e4.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 4.1' presents a two-dimensional Cartesian coordinate system labeled as the Argand plane, used for representing complex numbers geometrically. The horizontal axis is marked as the 'Real axis' and the vertical axis as the 'Imaginary axis.' Six distinct points labeled A, B, C, D, E, and F are plotted on the plane, each corresponding to specific complex numbers and their ordered pairs as described in the surrounding text. Point A is located at (2,4), representing the complex number 2 + 4i; point B at (-2,3) for -2 + 3i; point C at (0,1) for 0 + 1i; point D at (2,0) for 2 + 0i; point E at (-5,-2) for -5 - 2i; and point F at (1,-2) for 1 - 2i. The points are marked with small filled circles and labeled with uppercase letters adjacent to each point. The axes are drawn with arrows indicating positive directions, and grid lines or tick marks are present to aid in locating the points precisely. The background is white with black lines and text, maintaining a clean and clear visual style typical of mathematical diagrams. The image visually supports the explanation of how complex numbers correspond to points in the Argand plane, illustrating the concept of representing complex numbers as ordered pairs (x,y) where x is the real part and y is the imaginary part. This figure directly relates to the surrounding content on page 8, which discusses the geometric representation of complex numbers, their modulus, and the real and imaginary axes in the Argand plane.",
+    "tokens": 418,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 54,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:2be8010a119c3a4866838f64d53d76a3",
+      "default:extract:e2327a824fff74b63c3bb23c34769329"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+    "original_type": "image",
+    "page_idx": 7,
+    "create_time": 1770974873,
+    "update_time": 1770975652,
+    "_id": "chunk-414e2e04dea8b02ef377b4e9be9e33fa"
+  },
+  "chunk-90a96d04af9d89e7f0e2f80ef303a4cd": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [410, 103, 839, 118], 'page_idx': 7}\n\nAnalysis: This header, titled 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS', serves as a thematic and structural marker within the document, indicating a transition or introduction to a new section that integrates the study of complex numbers with quadratic equations. Positioned after detailed examples and exercises on complex number operations and their geometric representation in the Argand plane, this header signals a shift towards exploring the relationship between complex numbers and quadratic equations. It organizes the content by grouping related mathematical concepts, facilitating reader navigation and comprehension. The header's placement suggests it will support the broader discussion by linking algebraic and geometric perspectives, enhancing understanding of complex roots of quadratic equations. This connection is crucial for knowledge retrieval as it contextualizes prior examples and exercises within a larger mathematical framework, preparing the reader for subsequent content that likely elaborates on solving quadratic equations using complex numbers.",
+    "tokens": 219,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 55,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:be9cb29d543f6d1353ad0a8c879cb3d9",
+      "default:extract:8a528e33d1fe42ce65b2733dde5cf68a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations (header)",
+    "original_type": "header",
+    "page_idx": 7,
+    "create_time": 1770974873,
+    "update_time": 1770975718,
+    "_id": "chunk-90a96d04af9d89e7f0e2f80ef303a4cd"
+  },
+  "chunk-6eb1d2991d78b4611bf68c01ea7eab2f": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '83 ', 'bbox': [876, 103, 897, 116], 'page_idx': 7}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '83'. It is a minimal standalone component without additional textual or graphical information. The content structure is limited to a numeric label positioned typically at the bottom or top of a page, serving as a navigational aid within the document. Its relationship to surrounding content is purely functional, marking the transition between pages and helping readers locate specific sections or exercises referenced in the broader mathematical discussion on complex numbers, their inverses, and Argand plane representations. This page number supports knowledge retrieval by enabling precise referencing and citation within the educational material.",
+    "tokens": 162,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 56,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b8b76768952e83a51f5594a363388670",
+      "default:extract:6f2733ebd8d13c63a1cadb930adfb1e5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 83 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 7,
+    "create_time": 1770974873,
+    "update_time": 1770975718,
+    "_id": "chunk-6eb1d2991d78b4611bf68c01ea7eab2f"
+  },
+  "chunk-40ff5f6d30814ddf10122e19ca8f5bd4": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 7}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26' positioned at the bottom of page 7. Structurally, it is a single line of text, clearly demarcated from the main body content by its placement and bounding box coordinates. The key element is the reprint year range, which indicates the edition or version timeline of the document. This footer serves as a temporal metadata marker, providing users and knowledge systems with information about the currency and validity period of the material. In the broader context of the mathematical instructional content on complex numbers and Argand plane representation, this footer anchors the document in time, supporting version control and citation accuracy. It does not contain navigational or legal information, focusing solely on publication chronology, which is critical for academic referencing and content lifecycle management.",
+    "tokens": 216,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 57,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1327d1e914bc7c599497b385d7076c97",
+      "default:extract:d3e5fb1656e2c0c22c3109be76460d33"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 7,
+    "create_time": 1770974873,
+    "update_time": 1770975718,
+    "_id": "chunk-40ff5f6d30814ddf10122e19ca8f5bd4"
+  },
+  "chunk-49b1393880910f8b8ca1f26ef29e5698": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh104/hybrid_auto/images/ea95aee5c99d12bbcdc7dd1b836537b8525cb09bcdb2c29d26d00f44d0a8ecb6.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a graphical representation of the Argand plane, also known as the complex plane, used to visualize complex numbers. The layout features a two-dimensional Cartesian coordinate system with a horizontal axis labeled as the 'Real axis' and a vertical axis labeled as the 'Imaginary axis.' The origin is marked as point O (0,0). Several points are plotted on the plane, each corresponding to specific complex numbers. These points are labeled A, B, C, D, E, and F, with coordinates matching the complex numbers 2 + 4i, -2 + 3i, 0 + 1i, 2 + 0i, -5 - 2i, and 1 - 2i respectively. Each point is marked with a distinct dot and labeled clearly. The image uses a clean, simple color scheme with black axes and labels on a white background, ensuring clarity and focus on the plotted points. The points are connected visually to their corresponding complex numbers through labels and coordinate notation. The image visually supports the surrounding text's explanation of how complex numbers correspond to points in the plane, illustrating the concept of representing complex numbers as ordered pairs (x, y) where x is the real part and y is the imaginary part. The image also implicitly demonstrates the geometric interpretation of complex numbers, reinforcing the educational content about the Argand plane and polar representation of complex numbers. There are no additional graphical elements such as grids or color gradients, maintaining a straightforward and educational visual style.",
+    "tokens": 384,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 58,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:a0b3c5855eb89f92e708db9ad87c8841",
+      "default:extract:173aa378d3ee2b28799c836debb7dee2"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Argand Plane Representation of Complex Numbers (image)",
+    "original_type": "image",
+    "page_idx": 8,
+    "create_time": 1770974873,
+    "update_time": 1770975718,
+    "_id": "chunk-49b1393880910f8b8ca1f26ef29e5698"
+  },
+  "chunk-fec680186c19c5e6e49c71c8ded9fd2a": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh104/hybrid_auto/images/d01e9e2a8710409f3a1825af1d38492587058df2d384d18b1201bb2a5d024ca0.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 4.3' presents a geometric representation of complex numbers and their conjugates on the Argand plane. The composition features a Cartesian coordinate system with a horizontal real axis labeled 'Real axis' and a vertical imaginary axis labeled 'Imaginary axis'. The origin is marked as point O (0,0). Two points, P and Q, are plotted on the plane: P is located in the first quadrant at coordinates (x, y), representing the complex number z = x + iy, and Q is located symmetrically in the fourth quadrant at (x, -y), representing the conjugate complex number z̅ = x - iy. A dashed vertical line extends from P down to the real axis, and similarly from Q up to the real axis, emphasizing the reflection of Q across the real axis. The real axis acts as a mirror line, illustrating that Q is the mirror image of P with respect to this axis. The points P and Q are connected to the origin O by straight lines, indicating the vectors corresponding to the complex numbers. The image uses a clean, minimalistic style with black lines on a white background, clear labels in a serif font, and no additional colors or shading. The lighting is uniform, typical of a diagrammatic illustration. This visual directly supports the surrounding textual content explaining the geometric interpretation of complex numbers and their conjugates on the Argand plane, reinforcing the concept that the conjugate of a complex number is its reflection about the real axis.",
+    "tokens": 382,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 59,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:b4b9e8de59280d31244b2b05d590086e",
+      "default:extract:2ff9d0acc2567f3dee60d73eef6138c5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+    "original_type": "image",
+    "page_idx": 8,
+    "create_time": 1770974873,
+    "update_time": 1770975780,
+    "_id": "chunk-fec680186c19c5e6e49c71c8ded9fd2a"
+  },
+  "chunk-5b4b89dbb3bc826d77efb730bdb0ea36": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '84 ', 'bbox': [98, 103, 119, 115], 'page_idx': 8}\n\nAnalysis: This page number content, '84', is a simple pagination element located at the bottom or corner of the page, serving as a navigational reference within the document. It is structurally isolated from the main textual and mathematical content but is crucial for organizing and referencing the material. The page number connects the detailed mathematical exercises and theoretical explanations on complex numbers, Argand plane, and polar representation found on pages 7 through 9, facilitating easy location and citation of specific content. Its presence supports the broader discussion by enabling systematic progression through the chapter and efficient retrieval of knowledge related to complex number operations and geometric interpretations.",
+    "tokens": 166,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 60,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:ec32702ba0c074a6fcbf35c7bd7c1ea4",
+      "default:extract:2ddb15078cc9aaad0e7459b7cebbd934"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 84 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 8,
+    "create_time": 1770974873,
+    "update_time": 1770975780,
+    "_id": "chunk-5b4b89dbb3bc826d77efb730bdb0ea36"
+  },
+  "chunk-7947c2f28d7c3de70cd4ef4cc84ff9d1": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 284, 115], 'page_idx': 8}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level categorical label demarcating the subject area of the content that follows. Positioned on page 8, it likely introduces a new section or chapter focused on mathematical concepts, specifically complex numbers and their geometric representations as indicated by the surrounding exercises and explanations. The header is succinct and broad, providing a thematic anchor that organizes the subsequent detailed mathematical problems, examples, and theoretical discussions. It connects the preceding exercises on complex number operations and the Argand plane representation to a broader mathematical framework, facilitating knowledge retrieval by clearly signaling the domain of discourse. This header supports the structural hierarchy of the document by marking a transition or emphasis on mathematical content, aiding readers in navigating the material and contextualizing the detailed mathematical operations and geometric interpretations presented.",
+    "tokens": 201,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 61,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:100dc890630d1be397a922b4e067b538",
+      "default:extract:a4f9f50e547d46c0c6c44967500fa789"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS Section Header (header)",
+    "original_type": "header",
+    "page_idx": 8,
+    "create_time": 1770974873,
+    "update_time": 1770975780,
+    "_id": "chunk-7947c2f28d7c3de70cd4ef4cc84ff9d1"
+  },
+  "chunk-207e237f16704dabbec0dff572d4d559": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 8}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of page 8. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint date range, indicating the edition or printing cycle of the document. This footer serves as a temporal marker, providing context about the currency and version of the material. In relation to the surrounding content, which includes mathematical exercises and explanations on complex numbers and the Argand plane, the footer does not contribute to the academic content but supports bibliographic and version control purposes. It aids knowledge retrieval by signaling the document's edition, which is essential for citation, referencing, and ensuring users access the most recent or relevant version of the text.",
+    "tokens": 215,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 62,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:d13b3c62e4808c64b2e7f2360067a2e7",
+      "default:extract:b51382dbdfdfd7ac3b9dcbf5bc19721b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 8,
+    "create_time": 1770974873,
+    "update_time": 1770975780,
+    "_id": "chunk-207e237f16704dabbec0dff572d4d559"
+  },
+  "chunk-c23eca922df0580d4849eefce78dc870": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} = \\frac {6 + 9 i - 4 i + 6}{2 - i + 4 i + 2} = \\frac {1 2 + 5 i}{4 + 3 i} \\times \\frac {4 - 3 i}{4 - 3 i} \\\\ = \\frac {4 8 - 3 6 i + 2 0 i + 1 5}{1 6 + 9} = \\frac {6 3 - 1 6 i}{2 5} = \\frac {6 3}{2 5} - \\frac {1 6}{2 5} i \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents the simplification of a complex fraction by multiplying numerator and denominator by the conjugate of the denominator to rationalize it. The original complex fraction is given as (12 + 5i) / (4 + 3i). Multiplying numerator and denominator by the conjugate of the denominator (4 - 3i) eliminates the imaginary part in the denominator, resulting in a real denominator (16 + 9 = 25). The numerator expands using distributive property and combines like terms to 63 - 16i. Dividing both parts by 25 yields the simplified form 63/25 - (16/25)i. Variables x and y represent the real and imaginary parts of the complex number respectively, consistent with the Argand plane representation z = x + iy. The operations used include complex conjugation, multiplication, addition, and division of complex numbers. This process is fundamental in complex analysis and is used to express complex numbers in standard form a + bi. The equation illustrates the geometric interpretation of complex numbers on the Argand plane, where rationalizing the denominator corresponds to rotating and scaling vectors. It also relates to the concept of modulus and conjugate, as seen in the surrounding context, reinforcing the understanding of complex number arithmetic and their geometric representation. Practical applications include electrical engineering (impedance calculations), signal processing, and any domain requiring manipulation of complex numbers. This equation exemplifies the algebraic manipulation techniques necessary for working within the broader framework of complex number theory discussed in the chapter.",
+    "tokens": 477,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 63,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:e3812ec7ebd8fa6e43eccf8edefce164",
+      "default:extract:3e60a38fa8d7c36b5b308c0e80864dbc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Simplification of a Complex Fraction via Conjugate Multiplication (equation)",
+    "original_type": "equation",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975865,
+    "_id": "chunk-c23eca922df0580d4849eefce78dc870"
+  },
+  "chunk-cae3f010331f21518d1c2307a740c732": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nx + i y = \\frac {(a + i b) (a + i b)}{(a - i b) (a + i b)} = \\frac {a ^ {2} - b ^ {2} + 2 a b i}{a ^ {2} + b ^ {2}} = \\frac {a ^ {2} - b ^ {2}}{a ^ {2} + b ^ {2}} + \\frac {2 a b}{a ^ {2} + b ^ {2}} i\n$$\nFormat: latex\n\nMathematical Analysis: This equation represents a complex number expressed in terms of real variables a and b, where the complex number z = x + iy is given by the quotient of two complex products: numerator (a + ib)(a + ib) and denominator (a - ib)(a + ib). The simplification uses algebraic expansion and properties of complex conjugates. Variables a and b are real numbers, and i is the imaginary unit satisfying i^2 = -1. The numerator expands to a^2 - b^2 + 2abi, and the denominator simplifies to a^2 + b^2, a sum of squares ensuring a nonzero denominator. The resulting expression separates into real and imaginary parts: x = (a^2 - b^2)/(a^2 + b^2) and y = (2ab)/(a^2 + b^2). This form is significant in the context of the Argand plane, where complex numbers are represented as points (x,y). The equation demonstrates how the quotient of complex numbers can be expressed in standard form, facilitating geometric interpretation. Notably, this expression is used to prove that the modulus squared x^2 + y^2 equals 1, indicating that the point lies on the unit circle in the complex plane. This relates to the concept of complex conjugates and their geometric reflection about the real axis. The equation is foundational in complex analysis, signal processing, and other fields where normalization or unit modulus complex numbers are essential. It connects algebraic manipulation with geometric visualization, illustrating the interplay between complex arithmetic and planar geometry.",
+    "tokens": 452,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 64,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:dd57f27598a7a39e0433d550404a4a6e",
+      "default:extract:2c104e4847e1c13dffedd38e9bb9a2ea"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Normalized quotient of complex numbers in standard form (equation)",
+    "original_type": "equation",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975865,
+    "_id": "chunk-cae3f010331f21518d1c2307a740c732"
+  },
+  "chunk-c20ef16c0e67e93602ba17c1df33a1f2": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nx ^ {2} + y ^ {2} = (x + i y) (x - i y) = \\frac {\\left(a ^ {2} - b ^ {2}\\right) ^ {2}}{\\left(a ^ {2} + b ^ {2}\\right) ^ {2}} + \\frac {4 a ^ {2} b ^ {2}}{\\left(a ^ {2} + b ^ {2}\\right) ^ {2}} = \\frac {\\left(a ^ {2} + b ^ {2}\\right) ^ {2}}{\\left(a ^ {2} + b ^ {2}\\right) ^ {2}} = 1\n$$\nFormat: latex\n\nMathematical Analysis: This equation demonstrates the fundamental property of complex numbers related to their modulus in the Argand plane. The left-hand side, x^2 + y^2, represents the squared modulus of the complex number z = x + iy, which geometrically corresponds to the squared distance from the origin to the point (x, y) in the plane. The equation shows that this squared modulus can be expressed as the product (x + iy)(x - iy), which equals the product of a complex number and its conjugate, yielding a real non-negative value. Here, x + iy is given as the quotient (a + ib)/(a - ib), where a and b are real numbers. The equation expands and simplifies the product (x + iy)(x - iy) by substituting x and y in terms of a and b, resulting in the expression ((a^2 - b^2)^2 + 4a^2b^2) / (a^2 + b^2)^2. This numerator simplifies to (a^2 + b^2)^2, which cancels with the denominator, yielding 1. This proves that the modulus squared of the complex number (a + ib)/(a - ib) is 1, meaning the complex number lies on the unit circle in the Argand plane. The variables x and y represent the real and imaginary parts of the complex number z, while a and b are parameters defining the original complex numbers in the quotient. The operations used include complex conjugation, multiplication, division, squaring, and simplification of rational expressions. This equation is significant in complex analysis and geometry, illustrating how certain complex transformations preserve modulus, specifically that the quotient of a complex number and its conjugate has unit modulus. It relates to the broader discussion of representing complex numbers geometrically, understanding conjugates, and modulus properties. Practical applications include signal processing, control theory, and any domain where complex numbers represent rotations or phase shifts, as the unit modulus corresponds to pure rotations without scaling. This equation exemplifies the interplay between algebraic manipulation and geometric interpretation in complex number theory.",
+    "tokens": 591,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 65,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:7f64502bd39f235582b87bf837c82480",
+      "default:extract:3ec2ec071c6d68aaaa5ed09489e63ee1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Modulus of the quotient of a complex number and its conjugate (equation)",
+    "original_type": "equation",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975865,
+    "_id": "chunk-c20ef16c0e67e93602ba17c1df33a1f2"
+  },
+  "chunk-01207c819b2cb40c2838305fff0d2ecf": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['1. Evaluate: $\\\\left[i^{18} + \\\\left(\\\\frac{1}{i}\\\\right)^{25}\\\\right]^3$ . ', '2. For any two complex numbers $z_{1}$ and $z_{2}$ , prove that $\\\\operatorname{Re}(z_{1}z_{2}) = \\\\operatorname{Re}z_{1}\\\\operatorname{Re}z_{2} - \\\\operatorname{Im}z_{1}\\\\operatorname{Im}z_{2}$ . '], 'bbox': [108, 812, 634, 926], 'page_idx': 9}\n\nAnalysis: The content is a numbered list consisting of two mathematical problems related to complex numbers, specifically focusing on powers of the imaginary unit and properties of the real part of products of complex numbers. The list is structured sequentially with each item presenting a distinct problem statement. The first item involves evaluating an expression with powers of the imaginary unit i, while the second item requires proving a property involving the real parts and imaginary parts of two complex numbers. These problems are directly connected to the surrounding context, which discusses the Argand plane, complex conjugates, and algebraic manipulations of complex numbers. The list supports the broader discussion by providing exercises that reinforce understanding of complex number operations and their geometric interpretations. This content is significant for knowledge retrieval as it exemplifies practical applications of theoretical concepts introduced earlier, such as the representation of complex numbers and their conjugates, and the manipulation of their real and imaginary components.",
+    "tokens": 339,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 66,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:a16f4d78100266925e98566a6b1a5eeb",
+      "default:extract:c0520be7adfb23006f357620fa97de47"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Number Problems List (list)",
+    "original_type": "list",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975865,
+    "_id": "chunk-01207c819b2cb40c2838305fff0d2ecf"
+  },
+  "chunk-9101521b5b80b51f38c49fbe2d279896": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [410, 103, 839, 118], 'page_idx': 9}\n\nAnalysis: The header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS' serves as a sectional title that introduces a new thematic focus within the mathematical text. Structurally, it demarcates the transition from prior discussions on the geometric representation of complex numbers, their conjugates, and related examples, to a broader exploration involving quadratic equations. The header is prominently positioned on page 9, indicating the start of a new chapter or major subsection. It connects the foundational concepts of complex numbers, previously illustrated through Argand plane representations and algebraic manipulations, to their applications and implications in solving quadratic equations. This linkage is significant as it frames the subsequent content, guiding the reader to understand how complex number theory underpins quadratic equation solutions, especially when roots are non-real. The header thus functions as a navigational and conceptual anchor, facilitating knowledge retrieval by signaling a shift to integrated topics that combine algebraic and geometric perspectives within complex analysis and polynomial equations.",
+    "tokens": 242,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 67,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:6f4ef6909a1555bbaa4513ef359a689d",
+      "default:extract:236b19876eb377bbeeb2ea33404dd058"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations (header)",
+    "original_type": "header",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975917,
+    "_id": "chunk-9101521b5b80b51f38c49fbe2d279896"
+  },
+  "chunk-cd125492e4489d9c015dbcdba43c4fc8": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '85 ', 'bbox': [876, 103, 897, 116], 'page_idx': 9}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '85'. It is structurally minimal, consisting solely of the page number text and its bounding box coordinates on the page layout. There are no key informational elements or thematic content on this page_number itself. Its relationship to surrounding content is purely navigational, serving as a reference point within the document. In the broader context, this page number helps users locate and reference the detailed mathematical discussions and examples on complex numbers and their geometric representations found on adjacent pages. It supports knowledge retrieval by providing a precise locator within the document's structure.",
+    "tokens": 163,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 68,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1b69748360bc4a7842ac95f48ab57da8",
+      "default:extract:341c3a72d9ec01c6da0cf4348e09a97e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 85 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975917,
+    "_id": "chunk-cd125492e4489d9c015dbcdba43c4fc8"
+  },
+  "chunk-db90d84243f7cfbfe4151f415c30eecb": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 9}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date notation 'Reprint 2025-26'. It is positioned at the bottom of page 9, as indicated by the bounding box coordinates. This footer serves as a publication metadata element, providing temporal context about the edition or printing cycle of the document. It is structurally isolated from the main mathematical content on the page, which discusses complex numbers and their properties in the Argand plane. The footer's presence supports bibliographic referencing and version control, aiding users in identifying the currency and edition of the material, which is critical for academic citation and knowledge retrieval. It does not contain navigational or legal information, focusing solely on edition identification.",
+    "tokens": 190,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 69,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:43ab616988ed3847c61fe6a23213d8c3",
+      "default:extract:b8a11398dbf0495984dd44bea4b8db20"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 9,
+    "create_time": 1770974873,
+    "update_time": 1770975917,
+    "_id": "chunk-db90d84243f7cfbfe4151f415c30eecb"
+  },
+  "chunk-5f28145446b0dd0a764fb1b5e8cbfbb2": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['3. Reduce $\\\\left(\\\\frac{1}{1 - 4i} - \\\\frac{2}{1 + i}\\\\right)\\\\left(\\\\frac{3 - 4i}{5 + i}\\\\right)$ to the standard form. ', '4. If $x - iy = \\\\sqrt{\\\\frac{a - ib}{c - id}}$ prove that $\\\\left(x^{2} + y^{2}\\\\right)^{2} = \\\\frac{a^{2} + b^{2}}{c^{2} + d^{2}}$ . ', '5. If $z_{1} = 2 - i$ , $z_{2} = 1 + i$ , find $\\\\left|\\\\frac{z_{1} + z_{2} + 1}{z_{1} - z_{2} + 1}\\\\right|$ . '], 'bbox': [106, 144, 673, 312], 'page_idx': 10}\n\nAnalysis: The content is a structured list of three mathematical exercises focused on complex number operations, specifically involving algebraic manipulation, proof of identities, and modulus calculation. The list is organized sequentially with numbered items, each presenting a distinct problem statement involving complex numbers in various forms such as fractions, square roots, and modulus expressions. The key elements include expressions to be simplified or proven, variables representing complex numbers, and instructions to reduce or find magnitudes. These exercises relate directly to the preceding examples and solutions on complex conjugates and properties of complex numbers, serving as practice problems to reinforce understanding. The list supports the broader discussion by providing applied problems that consolidate theoretical concepts introduced earlier, facilitating knowledge retention and skill development in complex number manipulation. This content is essential for knowledge retrieval as it encapsulates typical problem types encountered in complex number chapters, highlighting common operations like simplification to standard form, proof of magnitude relations, and modulus calculation.",
+    "tokens": 422,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 70,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:331e1f96178fb92b55bc9129a5de4985",
+      "default:extract:0348c5cf4c4957552429a93ff0788940"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+    "original_type": "list",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770975917,
+    "_id": "chunk-5f28145446b0dd0a764fb1b5e8cbfbb2"
+  },
+  "chunk-d1bce86dd813199a92949f8c6b799033": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['6. If $a + ib = \\\\frac{(x + i)^2}{2x^2 + 1}$ , prove that $a^2 + b^2 = \\\\frac{(x^2 + 1)^2}{(2x^2 + 1)^2}$ . ', '7. Let $z_{1} = 2 - i, z_{2} = -2 + i$ . Find '], 'bbox': [96, 328, 666, 423], 'page_idx': 10}\n\nAnalysis: The content is a partial list of mathematical exercises focused on complex numbers, specifically involving proofs and computations related to complex expressions and their properties. The list is structured as numbered items, each presenting a problem statement involving complex variables and algebraic manipulations. Key elements include expressions with complex numbers in the form a + ib, operations such as squaring and division, and proofs of identities involving magnitudes (a^2 + b^2). The relationship between components is sequential, with each item building on the theme of complex number manipulation. Contextually, this list appears within a section of miscellaneous exercises following worked examples on conjugates and properties of complex numbers, supporting the broader discussion on complex number theory and algebraic proofs. This content aids knowledge retrieval by providing concrete problem statements that reinforce understanding of complex number properties and their algebraic proofs, linking theoretical concepts to practical exercises.",
+    "tokens": 314,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 71,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:af31a4bdd9f6b618e32eedb33a912151",
+      "default:extract:91643bbfa6603b30aaa0b9c6d00d189e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Miscellaneous Exercises on Complex Number Properties (list)",
+    "original_type": "list",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770975995,
+    "_id": "chunk-d1bce86dd813199a92949f8c6b799033"
+  },
+  "chunk-b7902837e9c34d183c370200746b2de3": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['8. Find the real numbers $x$ and $y$ if $(x - iy)(3 + 5i)$ is the conjugate of $-6 - 24i$ . ', '9. Find the modulus of $\\\\frac{1 + i}{1 - i} = \\\\frac{1 - i}{1 + i}$ . ', '10. If $(x + iy)^3 = u + iv$ , then show that $\\\\frac{u}{x} + \\\\frac{v}{y} = 4(x^2 - y^2)$ ', '11. If $\\\\alpha$ and $\\\\beta$ are different complex numbers with $|\\\\beta| = 1$ , then find $\\\\frac{|\\\\beta - \\\\alpha|}{1 - \\\\overline{\\\\alpha}\\\\beta}$ . ', '12. Find the number of non-zero integral solutions of the equation $\\\\left|1 - i\\\\right|^x = 2^x$ . ', '13. If $(a + ib)(c + id)(e + if)(g + ih) = A + iB$ , then show that $(a^2 + b^2)(c^2 + d^2)(e^2 + f^2)(g^2 + h^2) = A^2 + B^2$ ', '14. If $\\\\left(\\\\frac{1 + i}{1 - i}\\\\right)^m = 1$ , then find the least positive integral value of $m$ . '], 'bbox': [94, 500, 873, 847], 'page_idx': 10}\n\nAnalysis: The content is a structured list of mathematical exercises focused on complex numbers, specifically involving operations such as conjugation, modulus, powers, and properties of complex numbers. The list is organized sequentially with numbered items (8 to 14), each posing a distinct problem or proof related to complex number theory. Key elements include algebraic expressions with complex variables (x, y, a, b, etc.), operations like conjugate, modulus, and powers, and conditions involving magnitudes and arguments. The relationships between components are thematic, all revolving around complex number properties and their algebraic manipulations. This list follows previous examples and solutions on complex conjugates and precedes a summary and historical note, indicating its role as practice exercises reinforcing the chapter's concepts. It supports the broader discussion by providing applied problems to deepen understanding and facilitate mastery of complex number operations. Relevant details for knowledge retrieval include the focus on conjugates, modulus, powers, and integral solutions within complex number contexts, useful for learners and educators referencing complex number exercises.",
+    "tokens": 575,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 72,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:09e26faa95b8ace3b41bb103e3c9da56",
+      "default:extract:7cb4baf8310e0bc2c868712f1ffc9252"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Exercises on Complex Number Properties and Operations (list)",
+    "original_type": "list",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770975995,
+    "_id": "chunk-b7902837e9c34d183c370200746b2de3"
+  },
+  "chunk-b5b36ee1c6000cb5112c64156a295c8b": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '86 ', 'bbox': [98, 103, 119, 116], 'page_idx': 10}\n\nAnalysis: This page_number content represents the pagination marker '86' located at coordinates [98, 103, 119, 116] on page index 10. It serves as a navigational and structural element within the document, indicating the current page number to the reader. The page number is isolated from the main textual content and does not contain instructional or conceptual information itself. Its presence is crucial for referencing, citation, and maintaining the document's organizational integrity. In the broader context, this page number situates the surrounding mathematical examples and exercises within the document's pagination sequence, facilitating cross-referencing and continuity between pages 9 and 11, which contain complex number examples, exercises, and historical notes.",
+    "tokens": 184,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 73,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:1631562d38038073bd1dce22ae08677e",
+      "default:extract:70c90fdb3e3b1c5ba6de22ff3b43d853"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 86 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770975995,
+    "_id": "chunk-b5b36ee1c6000cb5112c64156a295c8b"
+  },
+  "chunk-319e2ebab7f7d09a6acf99b6f2ae7460": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 284, 116], 'page_idx': 10}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional title that demarcates the beginning of a new major topic or chapter within the document. Positioned on page 10, it follows a series of miscellaneous examples and exercises related to complex numbers and precedes further mathematical content, likely expanding on or transitioning to new mathematical concepts. The header is succinct and broad, indicating a thematic shift or consolidation of mathematical discussions. Its placement and formatting (large font, centered) emphasize its role as a primary organizational marker, aiding navigation and contextual understanding within the document's structure. This header supports knowledge retrieval by signaling a new segment focused on mathematics, helping users locate and differentiate content areas effectively.",
+    "tokens": 183,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 74,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:7592bb1ab71b9ce154f1e3b4af164add",
+      "default:extract:8d8c83f4177c11e7ca48ee0db1be191b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Section Title: MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770975995,
+    "_id": "chunk-319e2ebab7f7d09a6acf99b6f2ae7460"
+  },
+  "chunk-dc4b54337ae19312d53c78908e1529d4": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 10}\n\nAnalysis: The footer content is minimalistic, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 10. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint edition and its validity period, indicating the document's version or print cycle. This footer serves as a temporal marker, contextualizing the document's currency and edition within the broader mathematical content on complex numbers and historical notes. It supports knowledge retrieval by providing a reference point for the edition, which is critical for citation, version control, and ensuring users are consulting the most recent or relevant reprint of the material.",
+    "tokens": 192,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 75,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:56e49f86f3421e6c4e9dae03b9cda8e8",
+      "default:extract:a3a79714961f6e0f7d5412a1a1df3c5d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Edition Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 10,
+    "create_time": 1770974873,
+    "update_time": 1770976042,
+    "_id": "chunk-dc4b54337ae19312d53c78908e1529d4"
+  },
+  "chunk-e31c380f98bd0ffbb37eab9a1bb9a95d": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['$\\\\diamond$ A number of the form $a + ib$ , where $a$ and $b$ are real numbers, is called a complex number, $a$ is called the real part and $b$ is called the imaginary part of the complex number. ', 'Let $z_{1} = a + ib$ and $z_{2} = c + id$ . Then '], 'bbox': [123, 195, 869, 280], 'page_idx': 11}\n\nAnalysis: The list content is structured as a two-item textual list that introduces fundamental definitions related to complex numbers. The first item defines a complex number as an expression of the form a + ib, specifying the roles of 'a' as the real part and 'b' as the imaginary part. The second item introduces notation for two complex numbers, z_1 and z_2, expressed in terms of their real and imaginary components. This list serves as a foundational explanation that supports the surrounding mathematical discussion on complex numbers, their properties, and operations such as multiplicative inverses. It connects to the broader context by establishing basic terminology and notation necessary for understanding subsequent formulas and historical notes on complex numbers. The list is concise, focused on definitions, and positioned to facilitate comprehension of more advanced concepts presented on adjacent pages. For knowledge retrieval, the list clearly identifies the standard form of complex numbers and notation conventions, which are critical for interpreting related mathematical expressions and historical developments in the text.",
+    "tokens": 324,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 76,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:ea1c61171a4d2c3568c6e9b08cb6af11",
+      "default:extract:3111124741d5d7a9afd55a34069fd9a3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Basic Definitions and Notation of Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976042,
+    "_id": "chunk-e31c380f98bd0ffbb37eab9a1bb9a95d"
+  },
+  "chunk-ca30a643e983288b9a1045e49fc2c865": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['(i) $z_{1} + z_{2} = (a + c) + i(b + d)$ ', '(ii) $z_{1}z_{2} = (ac - bd) + i(ad + bc)$ '], 'bbox': [155, 283, 500, 324], 'page_idx': 11}\n\nAnalysis: The content is a structured list presenting two fundamental algebraic operations on complex numbers: addition and multiplication. Each list item is labeled with an index (i) and (ii), followed by the corresponding formula expressed in terms of the components of two complex numbers, z1 = a + ib and z2 = c + id. The first item details the addition of complex numbers by summing their real and imaginary parts separately, while the second item provides the multiplication formula involving products and sums of the real and imaginary components. This list is organized sequentially to build understanding of complex number operations, supporting the broader mathematical discussion on complex numbers, their inverses, and historical context. It connects directly to the surrounding content by elaborating on algebraic manipulations essential for comprehending complex arithmetic, which underpins the theoretical and historical notes on complex numbers and their properties. The list's precise mathematical notation and clear separation of operations facilitate knowledge retrieval for learners and researchers focusing on complex number theory and its applications.",
+    "tokens": 298,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 77,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:05789eeef2a25b52e0e757d7d2ad2ebd",
+      "default:extract:c30cd60104a1e9aad92fe1e7d9bfea00"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Basic Algebraic Operations on Complex Numbers (list)",
+    "original_type": "list",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976042,
+    "_id": "chunk-ca30a643e983288b9a1045e49fc2c865"
+  },
+  "chunk-6e728d28c7b178afffca1e6dc7734b79": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['For any integer $k$ , $i^{4k} = 1$ , $i^{4k + 1} = i$ , $i^{4k + 2} = -1$ , $i^{4k + 3} = -i$ ', '$\\\\diamond$ The conjugate of the complex number $z = a + ib$ , denoted by $\\\\overline{z}$ , is given by $\\\\overline{z} = a - ib$ . '], 'bbox': [123, 485, 869, 555], 'page_idx': 11}\n\nAnalysis: The content is a structured list comprising two key mathematical properties related to complex numbers. The first item details the cyclical powers of the imaginary unit 'i', expressed in terms of an integer parameter k, highlighting the periodicity of i's powers modulo 4. The second item defines the conjugate of a complex number z = a + ib, providing its notation and formula. These elements are foundational in complex number theory, connecting to the surrounding context that discusses multiplicative inverses, historical development, and algebraic properties of complex numbers. The list supports the broader discussion by formalizing essential algebraic identities and operations that underpin complex number manipulation and analysis. This content is crucial for knowledge retrieval as it encapsulates fundamental definitions and properties necessary for understanding complex arithmetic and its historical evolution.",
+    "tokens": 310,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 78,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:8e682e1d29c2c64154d4228a6a5e8454",
+      "default:extract:ac22e53246fd0f6a5c8f1b4accd10da9"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+    "original_type": "list",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976042,
+    "_id": "chunk-6e728d28c7b178afffca1e6dc7734b79"
+  },
+  "chunk-d7100001c176e223cf629f025489c20f": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\nx + y = 1 0, x y = 4 0.\n$$\nFormat: latex\n\nMathematical Analysis: The equation system consists of two algebraic equations: x + y = 10 and xy = 40. These represent the sum and product of two variables x and y, respectively. In the context of complex numbers and polynomial roots discussed in the surrounding content, x and y can be interpreted as roots of a quadratic polynomial. Specifically, if x and y are roots of the quadratic equation t^2 - (x + y)t + xy = 0, then the equation becomes t^2 - 10t + 40 = 0. The variables x and y are real or complex numbers satisfying these relations. The operations involved are addition and multiplication of real or complex numbers. This system is fundamental in understanding the relationship between roots and coefficients of quadratic polynomials, a key concept in algebra and complex number theory. The physical or theoretical significance lies in solving polynomial equations, which is central to the historical development of complex numbers as described in the context. The equation relates to the broader discussion by illustrating how roots of polynomials can be expressed and manipulated, connecting to the multiplicative inverse and complex conjugate concepts mentioned earlier. Practical applications include solving quadratic equations in engineering, physics, and applied mathematics, where understanding root behavior is essential.",
+    "tokens": 285,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 79,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:01f070a23dbb678ee428733d727029a4",
+      "default:extract:10029f9c9d9a995d8a5776f98cbc5135"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Sum and Product of Two Variables Equation System (equation)",
+    "original_type": "equation",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976094,
+    "_id": "chunk-d7100001c176e223cf629f025489c20f"
+  },
+  "chunk-6cd43f46025b547e9d010a47b05dcc11": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS ', 'bbox': [410, 103, 839, 118], 'page_idx': 11}\n\nAnalysis: The header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS' serves as a thematic and structural marker that introduces a new section focused on the interplay between complex numbers and quadratic equations. Positioned after detailed mathematical expressions and historical notes on complex numbers, it signals a transition from foundational concepts and historical context to their application in solving quadratic equations. The header is prominently placed on page 11, indicating the start of a focused discussion likely involving the use of complex numbers to address solutions of quadratic equations, especially those with negative discriminants. This header organizes the content by delineating a conceptual shift, linking prior theoretical and historical insights to practical mathematical problem-solving. It supports the broader discourse by framing the subsequent content as an exploration of how complex numbers extend the real number system to provide comprehensive solutions to polynomial equations, thus enhancing knowledge retrieval related to algebraic structures and their historical development.",
+    "tokens": 226,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 80,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:44386b4c12e1b60236c866259e2ba632",
+      "default:extract:738f35338d69fcbcfe692b81048fdd58"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Complex Numbers and Quadratic Equations (header)",
+    "original_type": "header",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976094,
+    "_id": "chunk-6cd43f46025b547e9d010a47b05dcc11"
+  },
+  "chunk-2061f3acace5e5791afa07d1eb151849": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '87 ', 'bbox': [876, 103, 897, 116], 'page_idx': 11}\n\nAnalysis: This page_number content represents the pagination marker '87' located at coordinates [876, 103, 897, 116] on page index 11. It serves as a navigational and structural element within the document, indicating the page number for reference. The content is minimal and does not contain substantive textual or mathematical information itself but is crucial for organizing the document and linking the surrounding mathematical discussions and historical notes. Positioned between pages discussing complex number properties and historical context, this page number anchors the reader's location within the broader discourse on complex numbers and their mathematical significance.",
+    "tokens": 158,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 81,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:08ff2aba73d5fd427d627acba1686752",
+      "default:extract:69eea9d37bf63bca04765ec46fe3388e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 87 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976094,
+    "_id": "chunk-2061f3acace5e5791afa07d1eb151849"
+  },
+  "chunk-6148aae065f33340bd38b90c39f51b99": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 11}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 11, as indicated by the bounding box coordinates and page index. The structure is simple, containing a single textual element without additional navigation, copyright, or contact information. This footer serves as a temporal metadata marker, indicating the edition or reprint cycle of the document. In the context of the surrounding mathematical and historical content on complex numbers, this footer provides bibliographic relevance, helping users identify the currency and version of the material. It supports knowledge retrieval by timestamping the document, which is critical for referencing, citation, and verifying the edition in academic or educational settings. The footer's presence at the end of the content aligns with standard document design practices, reinforcing the document's publication timeline without distracting from the main mathematical discourse.",
+    "tokens": 224,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 82,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:49ce8b093fef78faa0b571ad5a8bb3bc",
+      "default:extract:68d44f711c01112b477bb0e66dfa7aa7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 11,
+    "create_time": 1770974873,
+    "update_time": 1770976094,
+    "_id": "chunk-6148aae065f33340bd38b90c39f51b99"
+  },
+  "chunk-b23b4a89d382c48defa3662cb90b80f2": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh104/hybrid_auto/images/621881b0e250ef546bbc6ea10a27dc60877f968d2d3f20ec847549a8808b1ba4.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a detailed mathematical diagram illustrating the concept of the multiplicative inverse of a non-zero complex number z = a + ib in the complex plane. The layout centers around a Cartesian coordinate system with a horizontal real axis labeled 'Re' and a vertical imaginary axis labeled 'Im'. The complex number z is depicted as a point or vector originating from the origin (0,0) and terminating at coordinates (a, b), where 'a' and 'b' are non-zero real numbers. This vector is typically shown in a distinct color, such as blue or red, to highlight it against the grid. Adjacent to this vector, the image shows the multiplicative inverse of z, denoted as 1/z or z^{-1}, represented by the point with coordinates (a/(a^2 + b^2), -b/(a^2 + b^2)). This inverse vector is drawn from the origin to this calculated point, often in a contrasting color to differentiate it from z. The diagram may include labels for both vectors, with annotations indicating their coordinates and the formula for the inverse. The background grid aids in visualizing the positions and magnitudes of these points. The lighting is uniform and the style is clean and technical, typical of educational mathematical illustrations. The image visually supports the surrounding textual content on page 11, which discusses the multiplicative inverse of complex numbers, the historical development of complex number theory, and the significance of the imaginary unit i. The diagram concretely demonstrates the algebraic formula for the inverse by mapping it geometrically, reinforcing the theoretical explanation provided in the text. No additional elements such as people or extraneous objects are present, focusing solely on the mathematical visualization.",
+    "tokens": 419,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 83,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:143339a9a08d99e764cbe2a51f54ea5e",
+      "default:extract:b21bdc3eaddb3c1938ec4c9c341c8549"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+    "original_type": "image",
+    "page_idx": 12,
+    "create_time": 1770974873,
+    "update_time": 1770976146,
+    "_id": "chunk-b23b4a89d382c48defa3662cb90b80f2"
+  },
+  "chunk-67580a3f7c60795c2df652cfbe440a22": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '88 ', 'bbox': [98, 103, 119, 116], 'page_idx': 12}\n\nAnalysis: The content is a page number indicator, specifically '88', positioned at the bottom of the page as part of the document's pagination system. It is structured as a simple numeric label with bounding box coordinates indicating its placement on the page. This page number serves as a navigational and referential element within the document, linking the current page to the overall sequence. In the context of the surrounding content, which includes mathematical explanations and historical notes on complex numbers, the page number '88' helps users locate and reference this specific section within the broader text. It supports knowledge retrieval by providing a precise locator for the detailed mathematical and historical discussion found on this page, facilitating cross-referencing and citation.",
+    "tokens": 182,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 84,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:822408daf6c2615b13c355a6224f20a3",
+      "default:extract:366dfac350510c7129a012859da646eb"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 88 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 12,
+    "create_time": 1770974873,
+    "update_time": 1770976146,
+    "_id": "chunk-67580a3f7c60795c2df652cfbe440a22"
+  },
+  "chunk-8b1ac9b6c0531a00bf3409bd4b762731": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [158, 103, 282, 115], 'page_idx': 12}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional title that demarcates the beginning of a new thematic segment within the document, specifically on page 12. Structurally, it is a standalone header, likely formatted prominently to signal a shift or introduction to mathematical content. The header's placement immediately after detailed discussions on complex numbers and their historical context suggests it functions as a categorical anchor, organizing the content into a broader mathematical framework. This header connects the preceding detailed mathematical explanations and historical notes to subsequent mathematical topics or elaborations, facilitating navigation and thematic coherence. It is essential for knowledge retrieval as it marks the transition into core mathematical discourse, enabling users to contextualize and locate mathematical content efficiently within the document's structure.",
+    "tokens": 193,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 85,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:4e9c8cc245ee3ae653eeac2538fd3558",
+      "default:extract:8fc1ca7876f2a3c8ccf7f2db1d68c8db"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Mathematics Section Header (header)",
+    "original_type": "header",
+    "page_idx": 12,
+    "create_time": 1770974873,
+    "update_time": 1770976146,
+    "_id": "chunk-8b1ac9b6c0531a00bf3409bd4b762731"
+  },
+  "chunk-7ff44af5e138b8f585764857d88bcc4e": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [435, 966, 561, 980], 'page_idx': 12}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 12, indicating the edition or version timeline of the document. The structure is simple, containing a single line of text without additional elements such as page numbers, copyright notices, or publisher information. This footer serves as a temporal marker, providing users and readers with information about the currency and validity period of the document. In the broader context of the preceding pages discussing complex numbers and their historical development, this footer anchors the document in time, supporting knowledge retrieval by clarifying the edition for citation or reference purposes. It does not directly relate to the mathematical content but is essential for version control and bibliographic accuracy.",
+    "tokens": 200,
+    "full_doc_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa",
+    "chunk_order_index": 86,
+    "file_path": "kemh104.pdf",
+    "llm_cache_list": [
+      "default:extract:49a3fd119b2be59085d50b5145280af3",
+      "default:extract:424fcb686d75cbe1bc18d9e06bd117c0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 12,
+    "create_time": 1770974873,
+    "update_time": 1770976146,
+    "_id": "chunk-7ff44af5e138b8f585764857d88bcc4e"
   }
 }

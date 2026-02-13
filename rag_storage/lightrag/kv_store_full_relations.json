@@ -23151,5 +23151,5916 @@
     "count": 4718,
     "update_time": 1770972608,
     "_id": "doc-f3f5739f778abdc34d931477099df25e"
+  },
+  "doc-ff4a3125a07b19fc4da9de1a99374bfa": {
+    "relation_pairs": [
+      [
+        "Z",
+        "Z^{-1}"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "System of Linear Equations"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Powers of the Imaginary Unit i (equation)",
+        "i"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Chapter Header (header)"
+      ],
+      [
+        "Modulus",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Real Part"
+      ],
+      [
+        "Footer",
+        "Page 6"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematics Section Header (header)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Imaginary Unit"
+      ],
+      [
+        "Complex Number",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication",
+        "Distributive Properties of Complex Number Multiplication (list)"
+      ],
+      [
+        "Chapter Header (header)",
+        "Complex Numbers"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "d"
+      ],
+      [
+        "Complex Function Analysis",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Applications",
+        "Complex Number Theory"
+      ],
+      [
+        "Multiplicative Inverse",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Fundamental Property of i^2 = -1",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Powers of i"
+      ],
+      [
+        "Complex Numbers",
+        "Modulus of Complex Numbers"
+      ],
+      [
+        "Mathematical Content",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Quadratic Equations with Negative Discriminants",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Footer Content Analysis",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Complex Number Quotient",
+        "Unit Circle"
+      ],
+      [
+        "Associative Law",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Imaginary Unit i",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Additive Identity",
+        "Commutative Law"
+      ],
+      [
+        "Bibliographic Element",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Properties of Addition of Complex Numbers (list)",
+        "Zero Complex Number"
+      ],
+      [
+        "Complex Number Subtraction Equation",
+        "z_2"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Imaginary Unit i"
+      ],
+      [
+        "Cube of a Sum",
+        "Z2"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "z_2"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 11"
+      ],
+      [
+        "Complex Numbers",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point A"
+      ],
+      [
+        "Miscellaneous Exercises on Complex Number Properties (list)",
+        "z₂ = -2 + i"
+      ],
+      [
+        "Footer Content",
+        "Page Index 9"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Modulus"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Roots"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Point Q"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "$z_{1}$",
+        "Addition of Complex Numbers"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Powers of i"
+      ],
+      [
+        "Closure Law",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Complex Variables",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Multiplication"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "General Formula i^{4k + r}"
+      ],
+      [
+        "Page Number 87",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Distributive Law"
+      ],
+      [
+        "Complex Number",
+        "Equation x^2 = -3"
+      ],
+      [
+        "4.3 Algebra of Complex Numbers",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "$z_{1}$",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Document",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "Applications in Electrical Engineering",
+        "Cyclicity of Powers of i"
+      ],
+      [
+        "Argand Plane",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Page 4",
+        "Reprint 2025-26"
+      ],
+      [
+        "Complex Numbers",
+        "Equation 4x + i(3x - y) = 3 + i(-6)"
+      ],
+      [
+        "Applied Mathematics",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "z",
+        "z^{-1}"
+      ],
+      [
+        "Mathematical Problems List",
+        "Real Part of Complex Product"
+      ],
+      [
+        "Applications",
+        "Electrical Engineering"
+      ],
+      [
+        "Header",
+        "Textbook"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Cartesian Coordinate System"
+      ],
+      [
+        "Equation",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Page Index 9",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "11076CH05",
+        "Chapter 5 Identifier Header (header)"
+      ],
+      [
+        "Complex Number Problems List (list)",
+        "Real Part of Complex Product"
+      ],
+      [
+        "Page Number",
+        "Page Number 85 (page_number)"
+      ],
+      [
+        "Complex Number z2",
+        "Equation"
+      ],
+      [
+        "Header",
+        "Organizational Marker"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Expression (a + ib)(c + id)(e + if)(g + ih)"
+      ],
+      [
+        "D",
+        "Z_2"
+      ],
+      [
+        "Complex Terms",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+        "Imaginary Unit i"
+      ],
+      [
+        "Mathematical Exercises and Explanations",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Conjugation",
+        "\\overline{z}"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "v"
+      ],
+      [
+        "Footer Content Analysis",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "\\overline{z}"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Division"
+      ],
+      [
+        "Additive Inverse of z_2",
+        "d"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Imaginary Unit i"
+      ],
+      [
+        "Foundational Understanding",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "c"
+      ],
+      [
+        "Polar Representation",
+        "Theoretical Explanations"
+      ],
+      [
+        "Linearity of Complex Addition",
+        "Operations"
+      ],
+      [
+        "Multiplication of Two Complex Numbers (equation)",
+        "Z_1"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Imaginary Unit 'i'"
+      ],
+      [
+        "Complex Numbers",
+        "Variables a, b, c, d"
+      ],
+      [
+        "a",
+        "x + i y"
+      ],
+      [
+        "d",
+        "z_2"
+      ],
+      [
+        "Historical Notes",
+        "Page Number 86 (page_number)"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Exponentiation"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Equality of Complex Numbers with Real Variables (equation)"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Imaginary Part of Complex Number"
+      ],
+      [
+        "α",
+        "β"
+      ],
+      [
+        "Complex Number Operations",
+        "Equation 4x + i(3x - y) = 3 + i(-6)"
+      ],
+      [
+        "Imaginary Unit i",
+        "Signal Processing"
+      ],
+      [
+        "Product",
+        "x"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "f"
+      ],
+      [
+        "Complex Numbers",
+        "Historical Development"
+      ],
+      [
+        "Complex Numbers",
+        "Point E"
+      ],
+      [
+        "Page 2",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Equation i^{-4} = 1",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Analysis",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Complex Transformation",
+        "Modulus Preservation"
+      ],
+      [
+        "Complex Number Quotient",
+        "b"
+      ],
+      [
+        "Equation",
+        "Imaginary Unit i"
+      ],
+      [
+        "Coefficients",
+        "Complex Terms"
+      ],
+      [
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Geometric Interpretation",
+        "Rotation"
+      ],
+      [
+        "Complex Conjugation",
+        "Conjugate"
+      ],
+      [
+        "Algebraic Operations",
+        "Division of Complex Numbers"
+      ],
+      [
+        "Document",
+        "Footer Content"
+      ],
+      [
+        "Footer Content",
+        "Reprint 2025-26"
+      ],
+      [
+        "Argument",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Polynomial Equations",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Complex Exponentials",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Oscillations",
+        "Quantum Mechanics"
+      ],
+      [
+        "Algebraic Expansion",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Examples",
+        "Page Number 81 (page_number)"
+      ],
+      [
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+        "Imaginary Part b"
+      ],
+      [
+        "Page Number 81",
+        "Page Number 81 (page_number)"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Imaginary Unit",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Square of the Sum of Two Complex Numbers (equation)",
+        "z_1"
+      ],
+      [
+        "Complex Number Problems List (list)",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Ordered Pairs"
+      ],
+      [
+        "Argand Plane",
+        "Point A"
+      ],
+      [
+        "Footer",
+        "Mathematical Content"
+      ],
+      [
+        "Exponentiation",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Number Quotient",
+        "Geometric Interpretation"
+      ],
+      [
+        "Associative Law",
+        "Commutative Law"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Knowledge Retrieval"
+      ],
+      [
+        "Page Number",
+        "Pagination Element"
+      ],
+      [
+        "Footer Content",
+        "Mathematical and Historical Content"
+      ],
+      [
+        "Black Lines on White Background",
+        "Fig 4.3"
+      ],
+      [
+        "Resulting Expression",
+        "Scaling by 1/5"
+      ],
+      [
+        "Mathematical Equation",
+        "Property (ab)^2 = a^2 b^2"
+      ],
+      [
+        "i",
+        "z_2"
+      ],
+      [
+        "Enumerated List",
+        "List Content Analysis"
+      ],
+      [
+        "Page Index 11",
+        "Page Number 87"
+      ],
+      [
+        "Field of Complex Numbers",
+        "Operations"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "a"
+      ],
+      [
+        "Coordinates [876, 103, 897, 116]",
+        "Page Number 87"
+      ],
+      [
+        "Equation |1 - i|^x = 2^x",
+        "x"
+      ],
+      [
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)",
+        "Variables x and y"
+      ],
+      [
+        "c",
+        "z_2"
+      ],
+      [
+        "Complex Numbers",
+        "Point C"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "x"
+      ],
+      [
+        "Complex Function Analysis",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Imaginary Numbers",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "$z_{1}$",
+        "Basic Algebraic Operations on Complex Numbers (list)"
+      ],
+      [
+        "Applications in Electrical Engineering",
+        "Signal Processing"
+      ],
+      [
+        "Mathematical Exercises on Complex Numbers",
+        "Variables x, y, a, b, c, d, z1, z2"
+      ],
+      [
+        "Page Number",
+        "Theoretical Explanations"
+      ],
+      [
+        "Bibliographic Element",
+        "Reprint 2025-26"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Algebraic Expansion",
+        "Distributive Law"
+      ],
+      [
+        "Square of a Difference",
+        "Z1"
+      ],
+      [
+        "Complex Conjugate",
+        "Complex Numbers"
+      ],
+      [
+        "Mathematical Discussions",
+        "Page Number 79 (page_number)"
+      ],
+      [
+        "Imaginary Unit i",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Complex Arithmetic",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Multiplication"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Geometric Interpretation"
+      ],
+      [
+        "Commutative Law",
+        "Complex Number $z_1$"
+      ],
+      [
+        "Field",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 87"
+      ],
+      [
+        "Header",
+        "Knowledge Retrieval"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point E"
+      ],
+      [
+        "Complex Numbers",
+        "Point B"
+      ],
+      [
+        "Sum and Product of Two Variables Equation System (equation)",
+        "y"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Quantum Mechanics"
+      ],
+      [
+        "algebraic expansion",
+        "complex conjugates"
+      ],
+      [
+        "Mathematical Examples",
+        "Page Number 86 (page_number)"
+      ],
+      [
+        "Modulus Preservation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Basic Definitions and Notation of Complex Numbers (list)",
+        "Imaginary Part"
+      ],
+      [
+        "Equation",
+        "Standard Form Representation"
+      ],
+      [
+        "Complex Conjugates",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Number",
+        "Imaginary Part"
+      ],
+      [
+        "Additive Identity",
+        "Associative Law"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Instructional Content"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Polar Representation"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "(x + iy)(x - iy)",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Signal Processing",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Electrical Engineering"
+      ],
+      [
+        "Mathematical Analysis",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Mathematical Diagram",
+        "Page 11 Textual Content"
+      ],
+      [
+        "Electrical Engineering",
+        "Oscillations"
+      ],
+      [
+        "Electrical Engineering",
+        "Fields of Application"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point O"
+      ],
+      [
+        "Complex Numbers",
+        "Real Part of Complex Product"
+      ],
+      [
+        "Equation Variables",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication",
+        "Left Distributive Law"
+      ],
+      [
+        "Complex Numbers",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Field of Complex Numbers",
+        "Multiplicative Inverse Equation"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Ordered Pairs"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "y"
+      ],
+      [
+        "Mathematical Problems List",
+        "Powers of the Imaginary Unit"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Mathematical Expressions"
+      ],
+      [
+        "Complex Number Problems List (list)",
+        "Powers of the Imaginary Unit"
+      ],
+      [
+        "Complex Number Theory",
+        "Euler's Formula"
+      ],
+      [
+        "Complex Numbers",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Complex Number Z",
+        "Imaginary Unit i"
+      ],
+      [
+        "Modulus Squared",
+        "Multiplicative Inverse Equation"
+      ],
+      [
+        "Algebraic Identities",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Complex Numbers",
+        "Negative Discriminants"
+      ],
+      [
+        "Quantum Mechanics",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Electrical Engineering",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "4.2 Complex Numbers",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Powers of Complex Numbers"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "α"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point C"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Scalar Multiplication"
+      ],
+      [
+        "Imaginary Unit i",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "a",
+        "z_1"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Equation 4x + i(3x - y) = 3 + i(-6)"
+      ],
+      [
+        "Complex Numbers",
+        "Variables z1, z2"
+      ],
+      [
+        "Conjugate of -6 - 24i",
+        "Expression (x - iy)(3 + 5i)"
+      ],
+      [
+        "Commutative Law",
+        "Complex Number $z_2$"
+      ],
+      [
+        "Electrical Engineering",
+        "Waveforms"
+      ],
+      [
+        "Applications",
+        "Complex Number Multiplication"
+      ],
+      [
+        "Signal Processing",
+        "z^{-1}"
+      ],
+      [
+        "Fig 4.3",
+        "Serif Font"
+      ],
+      [
+        "Exercises",
+        "Mathematics"
+      ],
+      [
+        "Electrical Engineering",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Z2"
+      ],
+      [
+        "Additive Inverse",
+        "Complex Number $z_1$"
+      ],
+      [
+        "Geometric Representations",
+        "Mathematical Discussions"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Educational Structure"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "Enumerated List"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Exposition"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Quadratic Equations with Negative Discriminants"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Powers of the Imaginary Unit"
+      ],
+      [
+        "Algebraic Structures and Complex Analysis",
+        "Complex Number Algebra"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point B"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Identities Involving Complex Numbers"
+      ],
+      [
+        "Complex Conjugates",
+        "Numerator"
+      ],
+      [
+        "Division of Complex Numbers",
+        "Rationalization"
+      ],
+      [
+        "Historical Notes",
+        "Page Number 87"
+      ],
+      [
+        "Modulus Calculation",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Page 11"
+      ],
+      [
+        "Algebraic Consistency",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Complex Number Algebra",
+        "Complex Number Subtraction Equation"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "complex analysis"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Cartesian Coordinate System"
+      ],
+      [
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)",
+        "Vectors"
+      ],
+      [
+        "Argand Plane",
+        "Point E"
+      ],
+      [
+        "Algebraic Operations",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Variables x, y, a, b, c, d, z1, z2"
+      ],
+      [
+        "Chapter",
+        "Complex Numbers"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "b"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "Unit Circle"
+      ],
+      [
+        "88",
+        "Historical Notes on Complex Numbers"
+      ],
+      [
+        "Square of the Sum of Two Complex Numbers (equation)",
+        "z_2"
+      ],
+      [
+        "Product of Two Complex Numbers",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "signal processing",
+        "unit circle"
+      ],
+      [
+        "Complex Numbers",
+        "Quadratic Equations with Negative Discriminants"
+      ],
+      [
+        "Associative Law",
+        "Complex Number $z_3$"
+      ],
+      [
+        "Product",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "88",
+        "Mathematical Explanations"
+      ],
+      [
+        "Engineering",
+        "Quadratic Polynomial"
+      ],
+      [
+        "Equation 4x + i(3x - y) = 3 + i(-6)",
+        "System of Linear Equations"
+      ],
+      [
+        "Equation i^{-3} = i",
+        "Imaginary Unit i"
+      ],
+      [
+        "B",
+        "Z_1"
+      ],
+      [
+        "Imaginary Unit i",
+        "Mathematical Problems List"
+      ],
+      [
+        "Applications in Electrical Engineering",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Control Theory",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Equation",
+        "Imaginary Unit Squared i^2"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "i"
+      ],
+      [
+        "Powers of the Imaginary Unit i (equation)",
+        "Roots of Negative Numbers"
+      ],
+      [
+        "Educational Material",
+        "Footer"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Geometric Interpretation",
+        "Vectors"
+      ],
+      [
+        "Algebraic Structure of Complex Numbers",
+        "Division of Complex Numbers"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Exercise 5"
+      ],
+      [
+        "Denominator Magnitude Squared",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Fields of Application",
+        "Signal Processing"
+      ],
+      [
+        "Complex Conjugation",
+        "I"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Content on Complex Numbers and Quadratic Equations"
+      ],
+      [
+        "Complex Number",
+        "Real Part"
+      ],
+      [
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)",
+        "Field of Complex Numbers"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Complex Numbers"
+      ],
+      [
+        "4.1 Introduction",
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'"
+      ],
+      [
+        "Educational Material",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Historical Notes",
+        "Mathematical Examples"
+      ],
+      [
+        "Mathematical Discussion",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Argand Plane",
+        "Point C"
+      ],
+      [
+        "Argand Plane",
+        "Inverse of Z"
+      ],
+      [
+        "Multiplicative Inverse Equation",
+        "Operations"
+      ],
+      [
+        "Imaginary Unit",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Applied Mathematics",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Algebraic Operations",
+        "Modulus Calculation"
+      ],
+      [
+        "Exercises",
+        "Historical Notes"
+      ],
+      [
+        "Educational Material on Complex Numbers and Quadratic Equations",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Expression (x + iy)^3",
+        "v"
+      ],
+      [
+        "Imaginary Unit i",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Advanced Algebraic Structures and Operations",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "88",
+        "Page Number 88 (page_number)"
+      ],
+      [
+        "Modulus Calculation",
+        "|z|^2"
+      ],
+      [
+        "Algebraic Structure",
+        "Field of Complex Numbers"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical Content"
+      ],
+      [
+        "Complex Conjugate",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Mathematical Content",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "D",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "B",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Header"
+      ],
+      [
+        "Page Number",
+        "Page Number 79 (page_number)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 81"
+      ],
+      [
+        "Complex Numbers",
+        "Powers of i"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Proof of Identity"
+      ],
+      [
+        "Imaginary Unit Squared i^2",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Associative Law",
+        "Complex Number $z_1$"
+      ],
+      [
+        "Complex Conjugation",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "System of linear equations from equating real and imaginary parts (equation)",
+        "x"
+      ],
+      [
+        "Geometric Interpretation",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "Equation i^{-4} = 1"
+      ],
+      [
+        "Complex Numbers",
+        "Powers of the Imaginary Unit"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Knowledge Retrieval"
+      ],
+      [
+        "Mathematical Equation",
+        "Square Root of 3"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "b"
+      ],
+      [
+        "Algebraic Identities",
+        "Distributive Properties of Complex Number Multiplication (list)"
+      ],
+      [
+        "Bibliographic Relevance",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Dashed Vertical Line",
+        "Point P"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Complex Number Algebra",
+        "Practical Application"
+      ],
+      [
+        "Complex Number Theory",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "85",
+        "Page Number 85 (page_number)"
+      ],
+      [
+        "Complex Number Theory",
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical and Historical Content"
+      ],
+      [
+        "Argand Plane",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point A"
+      ],
+      [
+        "Miscellaneous Exercises on Complex Number Properties (list)",
+        "a + ib"
+      ],
+      [
+        "Mathematical Exercises",
+        "Polar Representation"
+      ],
+      [
+        "Page Number 4",
+        "Quadratic Equations"
+      ],
+      [
+        "Complex Number",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Chapter Header (header)",
+        "Header Content"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical and Historical Content"
+      ],
+      [
+        "Argand Plane",
+        "Mathematical Exercises and Explanations"
+      ],
+      [
+        "4.3 Algebra of Complex Numbers",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+        "a + ib"
+      ],
+      [
+        "Page 0",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Algebraic Consistency",
+        "Mathematical Equation"
+      ],
+      [
+        "Complex Number Theory",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Integral Solutions"
+      ],
+      [
+        "Complex Numbers",
+        "Multiplication"
+      ],
+      [
+        "Footer",
+        "Mathematical Instructional Content on Complex Numbers and Argand Plane Representation"
+      ],
+      [
+        "Equation 4x + i(3x - y) = 3 + i(-6)",
+        "Imaginary Part of Complex Number"
+      ],
+      [
+        "Page Number 4 (page_number)",
+        "Quadratic Equations"
+      ],
+      [
+        "Simplification of Radicals",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Applied Mathematics",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Mathematical Explanations",
+        "Page Number 4"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Powers"
+      ],
+      [
+        "Square of a Complex Number",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Educational Material",
+        "Page Number 83"
+      ],
+      [
+        "Page Number",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "Quantum Mechanics",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Header Content",
+        "Page 10"
+      ],
+      [
+        "Non-Real Roots",
+        "Quadratic Equations"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Document Reprint Edition Footer (footer)"
+      ],
+      [
+        "Signal Processing",
+        "Waveforms"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Mathematical Exercises on Complex Numbers"
+      ],
+      [
+        "Control Theory",
+        "z^{-1}"
+      ],
+      [
+        "Mathematical Exercises",
+        "Page Number"
+      ],
+      [
+        "Edition",
+        "Reprint 2025-26"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Vector 1/Z"
+      ],
+      [
+        "Page Number 78 (page_number)",
+        "Powers of i"
+      ],
+      [
+        "System of linear equations from equating real and imaginary parts (equation)",
+        "y"
+      ],
+      [
+        "Euler's Formula",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Physical and Theoretical Significance",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Imaginary Unit 'i'"
+      ],
+      [
+        "Footer Content",
+        "Page 5"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Commutative Property of Complex Number Multiplication (equation)"
+      ],
+      [
+        "4.3 Algebra of Complex Numbers",
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'"
+      ],
+      [
+        "Point Q",
+        "Real Axis"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Complex Roots"
+      ],
+      [
+        "Algebraic Manipulations",
+        "Complex Numbers"
+      ],
+      [
+        "Quadratic Equations",
+        "Sections 4.1 Introduction, 4.2 Complex Numbers, 4.3 Algebra of Complex Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication",
+        "Right Distributive Law"
+      ],
+      [
+        "Equation i^{-3} = i",
+        "Reciprocal"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Z"
+      ],
+      [
+        "Complex Number Expression",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Negative Discriminants",
+        "Quadratic Equations"
+      ],
+      [
+        "Complex Numbers",
+        "Exercises"
+      ],
+      [
+        "11076CH05",
+        "Chapter 5"
+      ],
+      [
+        "Mathematical Exercises",
+        "z₂ = -2 + i"
+      ],
+      [
+        "y",
+        "z"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Imaginary Part"
+      ],
+      [
+        "Distributive and Associative Properties",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Associative Law",
+        "Multiplicative Identity"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Real Part of Complex Number"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Real Axis (Re)"
+      ],
+      [
+        "4.3 Algebra of Complex Numbers",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Argand Plane",
+        "Complex Numbers"
+      ],
+      [
+        "Algebraic Operations",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Document",
+        "Page Number 86 (page_number)"
+      ],
+      [
+        "Simplification of a sum of complex numbers (equation)",
+        "Standard Form Representation"
+      ],
+      [
+        "Footer",
+        "Reprint Year Range"
+      ],
+      [
+        "Positive Directions",
+        "Real Axis"
+      ],
+      [
+        "Mathematical Discussions",
+        "Page Number 85 (page_number)"
+      ],
+      [
+        "z^{-1}",
+        "|z|^2"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Complex Numbers"
+      ],
+      [
+        "Argand Plane",
+        "Geometric Representation"
+      ],
+      [
+        "Examples and Exercises",
+        "Knowledge Retrieval"
+      ],
+      [
+        "Mathematical Content on Complex Numbers",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Commutative Law",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Header Content",
+        "Sections 4.1 Introduction, 4.2 Complex Numbers, 4.3 Algebra of Complex Numbers"
+      ],
+      [
+        "Argand Plane",
+        "Imaginary Axis"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "e"
+      ],
+      [
+        "Algebraic Properties",
+        "Commutative Property of Complex Number Multiplication (equation)"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Header Content Analysis"
+      ],
+      [
+        "Addition",
+        "Multiplication"
+      ],
+      [
+        "Algebraic Identities",
+        "Distributive Properties of Complex Number Multiplication"
+      ],
+      [
+        "Footer Content",
+        "Page Index"
+      ],
+      [
+        "Argand Plane",
+        "Complex Number Operations"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Dashed Vertical Line"
+      ],
+      [
+        "Geometric Interpretation",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Footer Content Analysis",
+        "Publication Reprint Edition Footer (footer)"
+      ],
+      [
+        "80",
+        "Complex Numbers"
+      ],
+      [
+        "Equation",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Operations",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Footer Content Analysis",
+        "Mathematical Exposition"
+      ],
+      [
+        "Square Roots of Negative Real Numbers",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Basic Definitions and Notation of Complex Numbers (list)",
+        "Complex Number"
+      ],
+      [
+        "Simplification of a Complex Number Expression into Standard Form (equation)",
+        "Square Roots"
+      ],
+      [
+        "Operations",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Identities"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "x"
+      ],
+      [
+        "Division of Complex Numbers",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Conjugate",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Numerator",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Temporal Metadata Marker"
+      ],
+      [
+        "Fig 4.3",
+        "Uniform Lighting"
+      ],
+      [
+        "Header Content",
+        "Mathematics"
+      ],
+      [
+        "List of Problems",
+        "Miscellaneous Exercises on Complex Number Properties (list)"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Operations on Complex Numbers"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Real Numbers \\( a, b, c, d \\)"
+      ],
+      [
+        "Division of Complex Numbers",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Equation",
+        "Square Roots"
+      ],
+      [
+        "Edition or Version Timeline",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Multiplication",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Complex Number",
+        "z1"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point E"
+      ],
+      [
+        "Complex Number Modulus",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Page Number",
+        "Page Number 82 (page_number)"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Cube of a Difference"
+      ],
+      [
+        "Commutative Law",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 80 (page_number)"
+      ],
+      [
+        "Real Part",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Complex Number",
+        "Foundational Understanding"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Mathematical Exercises"
+      ],
+      [
+        "Complex Number Operations",
+        "Equality of Complex Numbers with Real Variables (equation)"
+      ],
+      [
+        "Real and Imaginary Parts",
+        "System of Simultaneous Equations"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "h"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Division"
+      ],
+      [
+        "Mathematical Exposition",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 84 (page_number)"
+      ],
+      [
+        "Commutative Law of Multiplication",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Complex Numbers and Quadratic Equations"
+      ],
+      [
+        "Basic Algebraic Operations on Complex Numbers (list)",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "Roots of Unity"
+      ],
+      [
+        "78",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "Footer Content",
+        "Page 3"
+      ],
+      [
+        "Mathematical Diagram",
+        "Multiplicative Inverse of Z"
+      ],
+      [
+        "Additive Identity",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "\\overline{z}",
+        "z"
+      ],
+      [
+        "Additive Identity",
+        "Closure Law"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "h"
+      ],
+      [
+        "Integral Solutions",
+        "Mathematical Exercises"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Equation i^5 and i^6"
+      ],
+      [
+        "Electrical Engineering",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Complex Number Arithmetic",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Document Design Practices",
+        "Footer Content"
+      ],
+      [
+        "Complex Conjugation",
+        "Complex Number Quotient"
+      ],
+      [
+        "Footer Content",
+        "Page 6"
+      ],
+      [
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)",
+        "z_1"
+      ],
+      [
+        "(a^2 - b^2)^2",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Educational Material",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Complex Number Quotient",
+        "a"
+      ],
+      [
+        "Complex Numbers",
+        "Polynomial Roots"
+      ],
+      [
+        "Division of Complex Numbers",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Argand Plane",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "d"
+      ],
+      [
+        "4.2 Complex Numbers",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 4 (page_number)"
+      ],
+      [
+        "(a^2 + b^2)^2",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Enumerated List",
+        "Left Distributive Law"
+      ],
+      [
+        "Complex Plane",
+        "Multiplicative Inverse of Z"
+      ],
+      [
+        "Complex Number Conjugate",
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)"
+      ],
+      [
+        "Complex Numbers",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Vector Z"
+      ],
+      [
+        "(a^2 + b^2)^2",
+        "4a^2b^2"
+      ],
+      [
+        "Mathematical Equation",
+        "Square Roots of Negative Real Numbers"
+      ],
+      [
+        "Complex Conjugate",
+        "Complex Number Division"
+      ],
+      [
+        "Page Number 84 (page_number)",
+        "Polar Representation"
+      ],
+      [
+        "Mathematical Discussions",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Complex Numbers",
+        "Sections 4.1 Introduction, 4.2 Complex Numbers, 4.3 Algebra of Complex Numbers"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point C"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Imaginary Axis (Im)"
+      ],
+      [
+        "Algebraic Operations",
+        "Page Number 4 (page_number)"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Multiplication"
+      ],
+      [
+        "Origin",
+        "Real Axis"
+      ],
+      [
+        "Mathematics",
+        "Mathematics Section Header (header)"
+      ],
+      [
+        "Complex Numbers",
+        "Point F"
+      ],
+      [
+        "Document Reprint Edition Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Real Axis"
+      ],
+      [
+        "Complex Numbers",
+        "Point D"
+      ],
+      [
+        "Complex Number Conjugation",
+        "Complex Number Operations"
+      ],
+      [
+        "Complex Number Expression",
+        "Denominator"
+      ],
+      [
+        "Modulus of z_2",
+        "Multiplicative Inverse of z_2"
+      ],
+      [
+        "Page Number",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Complex Number Arithmetic",
+        "Imaginary Unit i"
+      ],
+      [
+        "Complex Number Algebra",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Field Structure",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Exponentiation",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Algebraic Perspective",
+        "Header"
+      ],
+      [
+        "Page 5",
+        "Publication Reprint Edition Footer (footer)"
+      ],
+      [
+        "Imaginary Unit i",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Page 11",
+        "Reprint 2025-26"
+      ],
+      [
+        "77",
+        "Complex Number Operations"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical Instructional Content on Complex Numbers and Argand Plane Representation"
+      ],
+      [
+        "Mathematical Equation",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Complex Arithmetic",
+        "Signal Processing"
+      ],
+      [
+        "Mathematical Exposition",
+        "Publication Reprint Edition Footer (footer)"
+      ],
+      [
+        "Electrical Engineering",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Additive Inverse",
+        "Commutative Law"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "b"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematics"
+      ],
+      [
+        "Complex Conjugation",
+        "Multiplicative Inverse Equation"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "z^{-1}"
+      ],
+      [
+        "Complex Numbers",
+        "Operations on Complex Numbers"
+      ],
+      [
+        "4.2 Complex Numbers",
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'"
+      ],
+      [
+        "Argand Plane",
+        "Grid Lines"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Expression (x - iy)(3 + 5i)"
+      ],
+      [
+        "Argand Plane",
+        "Exercises"
+      ],
+      [
+        "Page Number 78 (page_number)",
+        "Square Roots of Negative Real Numbers"
+      ],
+      [
+        "Complex Number $z = a + ib$",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Imaginary Axis",
+        "Origin"
+      ],
+      [
+        "Simplification of a Complex Fraction to Standard Form (equation)",
+        "Variable i"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Exercise 3"
+      ],
+      [
+        "Imaginary Unit Powers",
+        "Integer k"
+      ],
+      [
+        "Page Number 86 (page_number)",
+        "Pages 9 and 11"
+      ],
+      [
+        "Sum",
+        "x"
+      ],
+      [
+        "Difference of Squares Factorization",
+        "Z1"
+      ],
+      [
+        "85",
+        "document content"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Dashed Vertical Line",
+        "Point Q"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Conjugate Complex Number z̅"
+      ],
+      [
+        "4.2 Complex Numbers",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "c"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Textbook"
+      ],
+      [
+        "85",
+        "Mathematical Discussions"
+      ],
+      [
+        "Argument",
+        "Geometric Interpretation"
+      ],
+      [
+        "Multiplication of Complex Numbers",
+        "Resulting Expression"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Non-Real Roots"
+      ],
+      [
+        "Footer Content Analysis",
+        "Mathematical Content on Complex Numbers and Historical Notes"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Algebraic Structure of Complex Numbers",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Footer Content",
+        "Page 4"
+      ],
+      [
+        "Multiplication",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Organizational Marker"
+      ],
+      [
+        "Fig 4.3",
+        "Imaginary Axis"
+      ],
+      [
+        "Complex Conjugation",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Electrical Engineering",
+        "z^{-1}"
+      ],
+      [
+        "Conjugate of -6 - 24i",
+        "Exercises on Complex Number Properties and Operations (list)"
+      ],
+      [
+        "Closure Law",
+        "Commutative Law"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Multiplication"
+      ],
+      [
+        "Algebraic Properties",
+        "Commutative Law"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point F"
+      ],
+      [
+        "Properties of Multiplication of Complex Numbers (list)",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Publication Reprint Edition Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Point D"
+      ],
+      [
+        "Powers of the Imaginary Unit i (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Document",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Reprint Year Range"
+      ],
+      [
+        "Algebraic Perspective",
+        "Complex Roots"
+      ],
+      [
+        "Chapter 5",
+        "Quadratic Equations"
+      ],
+      [
+        "Polynomial Equations",
+        "Practical Application"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Fig 4.1"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Footer Content"
+      ],
+      [
+        "Mathematical Content on Complex Numbers",
+        "Page 6"
+      ],
+      [
+        "Equation x^2 = -3",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Real Axis"
+      ],
+      [
+        "4a^2b^2",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Header Content Analysis"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Content"
+      ],
+      [
+        "Conjugates",
+        "Page Number 81 (page_number)"
+      ],
+      [
+        "Miscellaneous Exercises on Complex Number Properties (list)",
+        "x"
+      ],
+      [
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+        "x^2 + 1 = 0"
+      ],
+      [
+        "C",
+        "Z_2"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Complex Numbers"
+      ],
+      [
+        "i",
+        "z"
+      ],
+      [
+        "Sum",
+        "y"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Imaginary Unit i",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Examples",
+        "Page Number 81"
+      ],
+      [
+        "Page Number",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "Complex Analysis",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Conjugates"
+      ],
+      [
+        "Complex Analysis",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Distributive Law",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "z_2"
+      ],
+      [
+        "Exponentiation",
+        "Mathematical Equation"
+      ],
+      [
+        "Sum and Product of Two Variables Equation System (equation)",
+        "x"
+      ],
+      [
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)",
+        "z_2"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Imaginary Axis"
+      ],
+      [
+        "Electrical Engineering",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Page Number 84 (page_number)"
+      ],
+      [
+        "Argand Plane",
+        "Complex Numbers and Quadratic Equations"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Algebraic Properties"
+      ],
+      [
+        "Mathematical Exposition",
+        "Powers of i"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "c"
+      ],
+      [
+        "Commutative Property",
+        "Quaternions"
+      ],
+      [
+        "Complex Numbers",
+        "Conjugate of Complex Numbers"
+      ],
+      [
+        "Mathematical Operations",
+        "System of Simultaneous Equations"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Field Structure"
+      ],
+      [
+        "Complex Number Conjugate",
+        "Imaginary Unit i"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page Index"
+      ],
+      [
+        "Multiplicative Inverse Equation",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 85 (page_number)"
+      ],
+      [
+        "Complex Number Expression",
+        "Numerator"
+      ],
+      [
+        "Further Topics",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Argument",
+        "Rotation"
+      ],
+      [
+        "Applications",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "List Content Analysis",
+        "Preceding Examples and Definitions"
+      ],
+      [
+        "Footer Content",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "80",
+        "Page Number 80 (page_number)"
+      ],
+      [
+        "Applications",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Mathematical Equation",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Complex Analysis",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "(x + iy)(x - iy)",
+        "Complex Conjugation Operation"
+      ],
+      [
+        "Quadratic Equations with Negative Discriminants",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Algebraic Properties",
+        "Product of Two Complex Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 4"
+      ],
+      [
+        "Algebraic Applications",
+        "Complex Numbers and Quadratic Equations Section Header (header)"
+      ],
+      [
+        "Algebraic Expansion",
+        "Commutative Law of Multiplication"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Header"
+      ],
+      [
+        "Chapter",
+        "Chapter Header (header)"
+      ],
+      [
+        "Argand Plane",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Equation 4x + i(3x - y) = 3 + i(-6)",
+        "Real Part of Complex Number"
+      ],
+      [
+        "Imaginary Axis (Im)",
+        "Vector Z"
+      ],
+      [
+        "84",
+        "Polar Representation"
+      ],
+      [
+        "Algebraic Operations",
+        "Page Number 4"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Field of Complex Numbers"
+      ],
+      [
+        "Publication Reprint Date Footer (footer)",
+        "Reprint Date Notation"
+      ],
+      [
+        "Complex Number Addition",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Cube of a Sum"
+      ],
+      [
+        "Square of a Difference",
+        "Z2"
+      ],
+      [
+        "Complex Analysis",
+        "Complex Number Theory"
+      ],
+      [
+        "Complex Numbers",
+        "z_1"
+      ],
+      [
+        "Complex Number z2",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Equation i^{-4} = 1",
+        "Imaginary Unit i"
+      ],
+      [
+        "Printing Cycle",
+        "Reprint 2025-26"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Fig 4.1"
+      ],
+      [
+        "Additive Inverse",
+        "Associative Law"
+      ],
+      [
+        "Additive Inverse of z_2",
+        "c"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Scaling by 1/5"
+      ],
+      [
+        "Applications in Electrical Engineering",
+        "Phasor Analysis"
+      ],
+      [
+        "Canonical Form a + bi",
+        "Imaginary Numbers"
+      ],
+      [
+        "Complex Exponentials",
+        "Powers of i"
+      ],
+      [
+        "Electrical Engineering",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Footer",
+        "Page 7"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Mathematical Diagram"
+      ],
+      [
+        "Chapter Progression",
+        "Multiplication"
+      ],
+      [
+        "Mathematics Textbook Page",
+        "Quadratic Equations"
+      ],
+      [
+        "Document",
+        "Page Number 86"
+      ],
+      [
+        "Argand Plane",
+        "Mathematics"
+      ],
+      [
+        "Exercise 5",
+        "Modulus Calculation"
+      ],
+      [
+        "Practical Application",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Mathematical Equation",
+        "Square of a Complex Number"
+      ],
+      [
+        "Complex Number Arithmetic",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Standard Form"
+      ],
+      [
+        "Complex Variables",
+        "System of Simultaneous Equations"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Complex Number z"
+      ],
+      [
+        "84",
+        "Argand Plane"
+      ],
+      [
+        "Powers of the Imaginary Unit i (equation)",
+        "Waveforms"
+      ],
+      [
+        "Mathematical Explanations",
+        "Page Number 4 (page_number)"
+      ],
+      [
+        "Enumerated List",
+        "Right Distributive Law"
+      ],
+      [
+        "Complex Numbers",
+        "Historical Context"
+      ],
+      [
+        "Complex Number Problems List (list)",
+        "Mathematical Problems List"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "z"
+      ],
+      [
+        "Footer Content Analysis",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Equation",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Phasor Analysis",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Imaginary Unit i",
+        "Mathematical Equation"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "signal processing"
+      ],
+      [
+        "Applications",
+        "Signal Processing"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Imaginary Unit Property"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Version Control Element"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "a"
+      ],
+      [
+        "Complex Number Division",
+        "Control Theory"
+      ],
+      [
+        "Page Index 11",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Roots"
+      ],
+      [
+        "Oscillations",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Quadratic Equations"
+      ],
+      [
+        "Footer",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Geometric Interpretation",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Imaginary Unit i",
+        "Integer Exponents"
+      ],
+      [
+        "Coordinates [876, 103, 897, 116]",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Exercise 4",
+        "Mathematical Exercises on Complex Numbers"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Positive Directions"
+      ],
+      [
+        "Complex Numbers",
+        "Theoretical Explanations"
+      ],
+      [
+        "Footer",
+        "Page 1"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication",
+        "Problem Solving"
+      ],
+      [
+        "Basic Definitions and Notation of Complex Numbers (list)",
+        "z2"
+      ],
+      [
+        "Complex Number",
+        "z2"
+      ],
+      [
+        "Mathematical Analysis",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Addition of Complex Numbers",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Page Number"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Point O"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "x + i y"
+      ],
+      [
+        "Algebraic Structure",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Mathematical Expressions"
+      ],
+      [
+        "Algebraic Structure",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Multiplication",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "Complex Numbers",
+        "Geometric Representations"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Z1"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Footer"
+      ],
+      [
+        "Multiplicative Inverse",
+        "z^{-1}"
+      ],
+      [
+        "Algebraic Simplification",
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)"
+      ],
+      [
+        "Mathematical Content on Complex Numbers and Historical Notes",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Complex Numbers",
+        "Real Numbers"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Footer Content"
+      ],
+      [
+        "Mathematical Exercises",
+        "z₁ = 2 - i"
+      ],
+      [
+        "Distributive Law",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Historical Notes",
+        "Page Number Content"
+      ],
+      [
+        "Complex Conjugate of z_2",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Square Root of 3",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Applications in Electrical Engineering, Quantum Mechanics, and Applied Mathematics",
+        "Complex Number Algebra"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Exercises"
+      ],
+      [
+        "Conjugate",
+        "Mathematical Exercises"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "i"
+      ],
+      [
+        "Modulus",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Imaginary Axis",
+        "Positive Directions"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Page 11"
+      ],
+      [
+        "Geometric Interpretation",
+        "Scaling"
+      ],
+      [
+        "Complex Number",
+        "Quantum Mechanics"
+      ],
+      [
+        "Page 1",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Closure Law",
+        "Complex Number $z_1$"
+      ],
+      [
+        "Method of Equating Real and Imaginary Parts",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "m"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Distributive Properties of Complex Number Multiplication (list)"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "z"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 4"
+      ],
+      [
+        "Chapter Header (header)",
+        "Sections 4.1 Introduction, 4.2 Complex Numbers, 4.3 Algebra of Complex Numbers"
+      ],
+      [
+        "Algebraic Structures and Complex Analysis",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Complex Number z1",
+        "Equation"
+      ],
+      [
+        "Quadratic Polynomial",
+        "x"
+      ],
+      [
+        "Polynomial Equations",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "Cube of a Difference",
+        "Z1"
+      ],
+      [
+        "Page 9",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Historical Notes on Complex Numbers"
+      ],
+      [
+        "Examples",
+        "Page Number 4 (page_number)"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Real Variables x and y"
+      ],
+      [
+        "Footer Content",
+        "Page 2"
+      ],
+      [
+        "Imaginary Unit i",
+        "Powers of the Imaginary Unit"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "x^2 + y^2"
+      ],
+      [
+        "Quantum Mechanics",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Complex Number Equality",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "β"
+      ],
+      [
+        "Division",
+        "Multiplication"
+      ],
+      [
+        "Complex Number Operations",
+        "Variables x, y, a, b, c, d, z1, z2"
+      ],
+      [
+        "Mathematical Exposition",
+        "Square Roots of Negative Real Numbers"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Z_1"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Content"
+      ],
+      [
+        "Complex Number Z",
+        "Complex Plane"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Origin"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Real Axis"
+      ],
+      [
+        "Complex Numbers",
+        "z_2"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Complex Number Multiplication"
+      ],
+      [
+        "Square of a purely imaginary complex number (equation)",
+        "Variables √3 and i"
+      ],
+      [
+        "Signal Processing",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Serif Font"
+      ],
+      [
+        "General Formula i^{4k + r}",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Multiplication of Two Complex Numbers (equation)",
+        "Real Part"
+      ],
+      [
+        "MATHEMATICS",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Page 5"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "unit circle"
+      ],
+      [
+        "\\overline{z}",
+        "z^{-1}"
+      ],
+      [
+        "Modulus Preservation",
+        "Practical Applications"
+      ],
+      [
+        "Historical Notes",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "modulus squared"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Historical Notes on Complex Numbers"
+      ],
+      [
+        "Complex Exponentials",
+        "Complex Number Theory"
+      ],
+      [
+        "Header",
+        "Navigational Marker"
+      ],
+      [
+        "Addition of Complex Numbers",
+        "Basic Algebraic Operations on Complex Numbers (list)"
+      ],
+      [
+        "Argand Plane",
+        "Point B"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Problems List"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "Practical Applications"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "i"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Practical Applications"
+      ],
+      [
+        "Mathematical Examples",
+        "Page Number Content"
+      ],
+      [
+        "Algebraic Perspective",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Mathematical Expressions",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Complex Number Theory",
+        "Complex Roots"
+      ],
+      [
+        "Document",
+        "Pages 9 and 11"
+      ],
+      [
+        "Signal Processing",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Quadratic Polynomial",
+        "y"
+      ],
+      [
+        "Argand Plane",
+        "Cartesian Coordinate System"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Quaternions"
+      ],
+      [
+        "79",
+        "Mathematical Discussions"
+      ],
+      [
+        "Page Number 4",
+        "Page Number 4 (page_number)"
+      ],
+      [
+        "Commutative Property",
+        "Commutative Property of Complex Number Multiplication (equation)"
+      ],
+      [
+        "Complex Number Algebra",
+        "Computational Methods in Complex Arithmetic"
+      ],
+      [
+        "Complex Conjugation Operation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "C",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Black Lines on White Background"
+      ],
+      [
+        "Additive Inverse of z_2",
+        "Complex Number Subtraction Equation"
+      ],
+      [
+        "Complex Number Division",
+        "Signal Processing"
+      ],
+      [
+        "Complex Number Algebra",
+        "Signal Processing"
+      ],
+      [
+        "Mathematical Exercises",
+        "Modulus"
+      ],
+      [
+        "Complex Number Problems List (list)",
+        "Imaginary Unit i"
+      ],
+      [
+        "79",
+        "Page Number 79 (page_number)"
+      ],
+      [
+        "Exercises",
+        "Page Number Content"
+      ],
+      [
+        "Multiplicative Identity",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Field",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Complex Number $z_3$",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Footer",
+        "Reprint Date Range"
+      ],
+      [
+        "Geometric Representation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "g"
+      ],
+      [
+        "Algebra",
+        "Polynomial Roots"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "z_1"
+      ],
+      [
+        "Imaginary Unit i",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Reciprocal"
+      ],
+      [
+        "Algebraic Structure of Complex Numbers",
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Imaginary Unit i",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Canonical Form a + bi",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "b",
+        "|z|^2"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Equation"
+      ],
+      [
+        "Bibliographic Relevance",
+        "Footer Content"
+      ],
+      [
+        "Linear Algebraic Manipulation",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Mathematical Operations",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Conjugates",
+        "Division of Complex Numbers"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Distributive Properties of Complex Number Multiplication"
+      ],
+      [
+        "Geometric Interpretation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Complex Plane"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Variables x, y"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "g"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Discussions"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Electrical Engineering",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Theoretical Explanations"
+      ],
+      [
+        "Complex Numbers",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Electrical Engineering",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Associative Law",
+        "Complex Number $z_2$"
+      ],
+      [
+        "Mathematics Textbook Page",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Signal Processing",
+        "Unit Circle"
+      ],
+      [
+        "(a^2 + b^2)^2",
+        "(a^2 - b^2)^2"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Roots of Unity"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Footer"
+      ],
+      [
+        "Denominator Magnitude Squared",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Page Number",
+        "Page Number 83"
+      ],
+      [
+        "Edition or Version Timeline",
+        "Reprint 2025-26"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Practical Tool"
+      ],
+      [
+        "Complex Numbers",
+        "Variables x, y"
+      ],
+      [
+        "Header Content",
+        "Page 0"
+      ],
+      [
+        "Division",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 79 (page_number)"
+      ],
+      [
+        "Complex Number Operations",
+        "Geometric Interpretation"
+      ],
+      [
+        "Complex Number Subtraction Equation",
+        "Field"
+      ],
+      [
+        "Algebraic Expansion",
+        "Binomial Expansion"
+      ],
+      [
+        "Examples and Exercises",
+        "Header"
+      ],
+      [
+        "Associative Law",
+        "Complex Number Multiplication"
+      ],
+      [
+        "Distributive and Associative Properties",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "e"
+      ],
+      [
+        "Control Theory",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Additive Identity",
+        "Zero Complex Number"
+      ],
+      [
+        "Equation |1 - i|^x = 2^x",
+        "Exercises on Complex Number Properties and Operations (list)"
+      ],
+      [
+        "Gauss",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Complex Conjugate of z_2",
+        "Multiplicative Inverse of z_2"
+      ],
+      [
+        "Argand Plane",
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Powers of i"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "a"
+      ],
+      [
+        "Complex Arithmetic",
+        "Electrical Engineering"
+      ],
+      [
+        "Complex Numbers",
+        "MATHEMATICS"
+      ],
+      [
+        "Algebraic Operations",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Point O",
+        "Point P"
+      ],
+      [
+        "Argand Plane",
+        "Mathematical Exercises"
+      ],
+      [
+        "Complex Numbers",
+        "Conjugates"
+      ],
+      [
+        "Argand Plane",
+        "Unit Circle"
+      ],
+      [
+        "Page Number 84 (page_number)",
+        "Theoretical Explanations"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "|z|^2"
+      ],
+      [
+        "Complex Numbers",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Polynomial Roots",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "Complex Number Operations",
+        "Mathematical Exercises on Complex Numbers"
+      ],
+      [
+        "Complex Number Theory",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Scalar Multiplication",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Vector 1/Z"
+      ],
+      [
+        "Fundamental Identity of i",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Division"
+      ],
+      [
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1",
+        "i"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "a"
+      ],
+      [
+        "Complex Number",
+        "Imaginary Unit"
+      ],
+      [
+        "Point P",
+        "Point Q"
+      ],
+      [
+        "Complex Number Subtraction Equation",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Further Topics"
+      ],
+      [
+        "Denominator",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Reprint Date Footer (footer)",
+        "Reprint Date Range"
+      ],
+      [
+        "Closure Law",
+        "Complex Numbers"
+      ],
+      [
+        "Educational Material",
+        "Mathematical Discussion"
+      ],
+      [
+        "b",
+        "x + i y"
+      ],
+      [
+        "Mathematical Content",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Examples",
+        "Page Number 4"
+      ],
+      [
+        "Complex Plane",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Modulus of z_2"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Commutative Property"
+      ],
+      [
+        "Control Theory",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Computational Methods in Complex Arithmetic",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Quadratic Polynomial",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Variable i"
+      ],
+      [
+        "Mathematical Content",
+        "Reprint Date Range"
+      ],
+      [
+        "Argand Plane",
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)"
+      ],
+      [
+        "Edition",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Imaginary Unit i"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'"
+      ],
+      [
+        "Complex Number Theory",
+        "Mathematical Content"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Modulus",
+        "Page Number 81 (page_number)"
+      ],
+      [
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)",
+        "Signal Processing"
+      ],
+      [
+        "Real Axis (Re)",
+        "Vector Z"
+      ],
+      [
+        "Gauss",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Complex Roots",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Numbered Examples and Solutions",
+        "Variables x and y"
+      ],
+      [
+        "Polynomial Roots",
+        "Quadratic Polynomial"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Field"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "List Content Analysis"
+      ],
+      [
+        "Imaginary Unit i",
+        "Mathematical Expressions"
+      ],
+      [
+        "Commutative Property",
+        "Multiplication"
+      ],
+      [
+        "Complex Number Quotient",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Complex Number Operations",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Imaginary Part",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Rationalization"
+      ],
+      [
+        "Mathematical Expressions",
+        "Numbered Examples and Solutions"
+      ],
+      [
+        "Mathematical Content",
+        "Mathematics"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Geometric Representation"
+      ],
+      [
+        "Complex Numbers",
+        "Imaginary Unit i"
+      ],
+      [
+        "Complex Number $z = a + ib$",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Publication Reprint Date Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Additive Inverse",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Multiplicative Identity"
+      ],
+      [
+        "Complex Conjugates",
+        "Complex Number Problems List (list)"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "d"
+      ],
+      [
+        "Additive Inverse",
+        "Closure Law"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "Preceding Examples and Definitions"
+      ],
+      [
+        "Integer Exponents",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Mathematical Exercises",
+        "Miscellaneous Exercises on Complex Number Properties (list)"
+      ],
+      [
+        "4.2 Complex Numbers",
+        "a + ib"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "algebraic expansion"
+      ],
+      [
+        "Coefficients",
+        "Equation Variables"
+      ],
+      [
+        "Mathematical Exercises",
+        "Page Number 84 (page_number)"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "complex conjugates"
+      ],
+      [
+        "Complex Number Addition",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "(a^2 - b^2)^2",
+        "4a^2b^2"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Vectors"
+      ],
+      [
+        "3x - y = -6",
+        "x"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Division"
+      ],
+      [
+        "Additive Inverse of z_2",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "z_2"
+      ],
+      [
+        "Complex Number",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Complex Number Modulus",
+        "Complex Number Operations"
+      ],
+      [
+        "Equation i^{-3} = i",
+        "Rationalization"
+      ],
+      [
+        "4.1 Introduction",
+        "x^2 + 1 = 0"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Quantum Mechanics"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Complex Number Algebra",
+        "Real Number Operations"
+      ],
+      [
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'",
+        "Quadratic Equations"
+      ],
+      [
+        "Miscellaneous Exercises on Complex Number Properties (list)",
+        "Proof of Identity"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Exercises and Explanations"
+      ],
+      [
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+        "Integer k"
+      ],
+      [
+        "MATHEMATICS",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Document Reprint Edition Footer (footer)",
+        "Mathematical Content"
+      ],
+      [
+        "Complex Numbers",
+        "Document Reprint Edition Footer (footer)"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Difference of Squares Factorization"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Simplification of Radicals"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "geometric reflection"
+      ],
+      [
+        "Complex Conjugates",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Geometric Interpretation"
+      ],
+      [
+        "Header Content",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Complex Numbers",
+        "Quadratic Equations"
+      ],
+      [
+        "Normalized quotient of complex numbers in standard form (equation)",
+        "b"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Scaling"
+      ],
+      [
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+        "Numbered Examples and Solutions"
+      ],
+      [
+        "Background Grid",
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)"
+      ],
+      [
+        "Algebraic Properties",
+        "Closure Law"
+      ],
+      [
+        "Chapter",
+        "Quadratic Equations"
+      ],
+      [
+        "Document",
+        "Page Index 6"
+      ],
+      [
+        "Mathematical Exercises",
+        "Powers of Complex Numbers"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "b"
+      ],
+      [
+        "Argand plane",
+        "x + i y"
+      ],
+      [
+        "Control Theory",
+        "Unit Circle"
+      ],
+      [
+        "82",
+        "Document"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Uniform Lighting"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "Right Distributive Law"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point B"
+      ],
+      [
+        "Geometric Interpretation",
+        "Modulus"
+      ],
+      [
+        "Imaginary Unit i",
+        "Operations"
+      ],
+      [
+        "Algebraic Identities",
+        "Complex Number Multiplication"
+      ],
+      [
+        "a",
+        "|z|^2"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Real Number System"
+      ],
+      [
+        "Imaginary Unit i",
+        "Mathematical Diagram"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "Equation",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Cartesian Coordinate System"
+      ],
+      [
+        "3x - y = -6",
+        "y"
+      ],
+      [
+        "Expression (1 + i)/(1 - i)",
+        "m"
+      ],
+      [
+        "Real Number Operations",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Exercises",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Cube of a Sum",
+        "Z1"
+      ],
+      [
+        "Imaginary Unit",
+        "Variable i"
+      ],
+      [
+        "Electrical Engineering",
+        "i"
+      ],
+      [
+        "Point Q",
+        "Vectors"
+      ],
+      [
+        "Edition or Version Timeline",
+        "Educational Material"
+      ],
+      [
+        "Footer Content",
+        "Publication Reprint Edition Footer (footer)"
+      ],
+      [
+        "Footer Content",
+        "Page 12"
+      ],
+      [
+        "Complex Arithmetic",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Equation 4x + i(3x - y) = 3 + i(-6)",
+        "Real Variables x and y"
+      ],
+      [
+        "Argand Plane",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Equality of Complex Numbers with Real Variables (equation)",
+        "Equation 4x + i(3x - y) = 3 + i(-6)"
+      ],
+      [
+        "Real Numbers",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Imaginary Axis (Im)"
+      ],
+      [
+        "Algebraic Manipulations",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Advanced Algebraic Structures and Operations",
+        "Basic Arithmetic Operations on Complex Numbers"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Quadratic Equations"
+      ],
+      [
+        "Algebraic Operations",
+        "Complex Conjugation"
+      ],
+      [
+        "Citation, Version Control, and Knowledge Retrieval",
+        "Footer Content"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Mathematical Equation"
+      ],
+      [
+        "Fields of Application",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Exercise 3",
+        "Mathematical Exercises on Complex Numbers"
+      ],
+      [
+        "85",
+        "Page Number"
+      ],
+      [
+        "Modulus Squared",
+        "Z"
+      ],
+      [
+        "Complex Number Z",
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)"
+      ],
+      [
+        "Complex Plane",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Complex Number Division",
+        "Modulus"
+      ],
+      [
+        "Difference of Squares Factorization",
+        "Z2"
+      ],
+      [
+        "Associative Law",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Algebraic Simplification",
+        "Exercise 3"
+      ],
+      [
+        "b",
+        "z_1"
+      ],
+      [
+        "Associative Law",
+        "Closure Law"
+      ],
+      [
+        "Algebraic Properties",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Applied Mathematics",
+        "Quadratic Polynomial"
+      ],
+      [
+        "Complex Fraction",
+        "Multiplication"
+      ],
+      [
+        "Complex Numbers",
+        "Examples"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Modulus",
+        "Z"
+      ],
+      [
+        "x",
+        "z"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Arithmetic",
+        "Quantum Mechanics"
+      ],
+      [
+        "Imaginary Axis (Im)",
+        "Vector 1/Z"
+      ],
+      [
+        "Powers of i",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Complex Number $z_2$",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "b"
+      ],
+      [
+        "Argand Plane",
+        "Argand Plane Representation of Complex Numbers (image)"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Electrical Engineering"
+      ],
+      [
+        "Page 10",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Proof of Identity",
+        "a + ib"
+      ],
+      [
+        "Applications",
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Variables a, b, c, d"
+      ],
+      [
+        "Complex Arithmetic",
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1"
+      ],
+      [
+        "Mathematical Operations",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Historical Notes on Complex Numbers",
+        "Page Number 88 (page_number)"
+      ],
+      [
+        "84",
+        "Complex Numbers"
+      ],
+      [
+        "4x = 3",
+        "Complex Number Equality"
+      ],
+      [
+        "Argand Plane",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Conjugates",
+        "Page Number 81"
+      ],
+      [
+        "Page 9",
+        "Reprint 2025-26"
+      ],
+      [
+        "Geometric Interpretation",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Oscillations",
+        "Signal Processing"
+      ],
+      [
+        "Linearity of Complex Addition",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Complex Number",
+        "Electrical Engineering"
+      ],
+      [
+        "Modulus",
+        "|z|^2"
+      ],
+      [
+        "Electrical Engineering",
+        "Multiplicative Inverse Equation"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Complex Number Operations"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Non-Real Roots"
+      ],
+      [
+        "Page 12",
+        "Reprint 2025-26"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Explanations"
+      ],
+      [
+        "Conjugate of Complex Numbers",
+        "Page Number 80 (page_number)"
+      ],
+      [
+        "Division",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Chapter Progression",
+        "Division"
+      ],
+      [
+        "Coefficients",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Reprint 2025-26",
+        "Version Control Element"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Z_2"
+      ],
+      [
+        "Mathematics",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Complex Numbers",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "Complex Terms",
+        "Imaginary Part"
+      ],
+      [
+        "Complex Numbers",
+        "Section Title: MATHEMATICS (header)"
+      ],
+      [
+        "Page Index 6",
+        "Page Number"
+      ],
+      [
+        "Applications",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Physics",
+        "Quadratic Polynomial"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Quantum Mechanics"
+      ],
+      [
+        "Page Number Content",
+        "Pagination Marker"
+      ],
+      [
+        "Argand plane",
+        "Normalized quotient of complex numbers in standard form (equation)"
+      ],
+      [
+        "Exercise 5",
+        "Variables z1, z2"
+      ],
+      [
+        "Complex Arithmetic",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Equation \\( \\frac{z_1}{z_2} = z_1 \\frac{1}{z_2} \\)",
+        "Multiplicative Inverse of z_2"
+      ],
+      [
+        "Complex Number z",
+        "Real Part a"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Historical Development"
+      ],
+      [
+        "Complex Conjugation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Associative Law",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Additive Identity",
+        "Additive Inverse"
+      ],
+      [
+        "Powers of the Imaginary Unit i (equation)",
+        "Quantum Mechanics"
+      ],
+      [
+        "Complex Number Division",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Complex Number Theory",
+        "Imaginary Unit i"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "f"
+      ],
+      [
+        "Complex Number Quotient",
+        "Modulus"
+      ],
+      [
+        "Complex Number Properties",
+        "Complex Numbers and Quadratic Equations Section Header (header)"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Rationalization"
+      ],
+      [
+        "Geometric Interpretation",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Page 6",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Point O",
+        "Point Q"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Fundamental Identity of i"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Powers of i"
+      ],
+      [
+        "Imaginary Unit Powers",
+        "Imaginary Unit i"
+      ],
+      [
+        "Complex Arithmetic",
+        "Mathematical Equation"
+      ],
+      [
+        "Complex Number Multiplication",
+        "Imaginary Unit"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "complex conjugates",
+        "geometric reflection"
+      ],
+      [
+        "System of Simultaneous Equations",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Conjugate",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Modulus",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Closure Law",
+        "Product of Two Complex Numbers"
+      ],
+      [
+        "Binomial Expansion",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Footer",
+        "Reprint 2025-26"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Imaginary Unit"
+      ],
+      [
+        "Argand Plane",
+        "Variables x and y"
+      ],
+      [
+        "Conjugates",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Complex Plane",
+        "Mathematical Equation"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Imaginary Axis"
+      ],
+      [
+        "Page Number 83 (page_number)",
+        "Pagination Element"
+      ],
+      [
+        "Complex Number z",
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)"
+      ],
+      [
+        "Complex Fraction",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Educational Material on Complex Numbers and Quadratic Equations",
+        "Footer Content"
+      ],
+      [
+        "Product",
+        "y"
+      ],
+      [
+        "Argand Plane",
+        "Point F"
+      ],
+      [
+        "Algebraic Expansion",
+        "Complex Arithmetic"
+      ],
+      [
+        "Division of Complex Numbers",
+        "z^{-1}"
+      ],
+      [
+        "Argand Plane",
+        "Point D"
+      ],
+      [
+        "MATHEMATICS Section Header (header)",
+        "Mathematics"
+      ],
+      [
+        "Citation, Version Control, and Knowledge Retrieval",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Control Theory",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Applied Mathematics",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "MATHEMATICS Section Header (header)",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "u"
+      ],
+      [
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+        "Variables x and y"
+      ],
+      [
+        "Exercise 4",
+        "Proof of Identity"
+      ],
+      [
+        "Complex Number Algebra",
+        "Distributive Properties of Complex Number Multiplication (list)"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 78 (page_number)"
+      ],
+      [
+        "77",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)",
+        "Quadratic Equations"
+      ],
+      [
+        "Mathematical Equation",
+        "Variables √3 and i"
+      ],
+      [
+        "Footer Content",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "Powers of i"
+      ],
+      [
+        "3x - y = -6",
+        "Complex Number Equality"
+      ],
+      [
+        "Signal Processing",
+        "i"
+      ],
+      [
+        "Complex Numbers",
+        "Exercises on Complex Number Properties and Operations (list)"
+      ],
+      [
+        "$z_{2}$",
+        "Addition of Complex Numbers"
+      ],
+      [
+        "Conjugate",
+        "Exercises on Complex Number Properties and Operations (list)"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Exercise 4"
+      ],
+      [
+        "$z_{2}$",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Complex Number Theory",
+        "Cyclicity of Powers of i"
+      ],
+      [
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1",
+        "Multiplication"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematical Exercises and Explanations"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Powers"
+      ],
+      [
+        "Complex Number Addition",
+        "Complex Number Operations"
+      ],
+      [
+        "Argand Plane",
+        "Complex Number Problems List (list)"
+      ],
+      [
+        "Inverses",
+        "Page Number 83"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Equation i^{-3} = i",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Complex Number Quotient"
+      ],
+      [
+        "complex analysis",
+        "unit circle"
+      ],
+      [
+        "Chapter Progression",
+        "Page Number"
+      ],
+      [
+        "Complex Number Addition",
+        "Equation"
+      ],
+      [
+        "Equation 4x + i(3x - y) = 3 + i(-6)",
+        "Imaginary Unit i"
+      ],
+      [
+        "Canonical Form a + bi",
+        "Real Numbers"
+      ],
+      [
+        "Applications",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Geometric Representations",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Mathematical Explanations",
+        "Quadratic Equations"
+      ],
+      [
+        "Exercises",
+        "Page Number 86 (page_number)"
+      ],
+      [
+        "Complex Terms",
+        "Real Part"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Multiplicative Inverse of Z"
+      ],
+      [
+        "Complex Number Division",
+        "Electrical Engineering"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Variables z1, z2"
+      ],
+      [
+        "Addition",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Sum",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "Quantum Mechanics",
+        "i"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Fig 4.3"
+      ],
+      [
+        "Complex Number Theory",
+        "Simplification of a sum of complex numbers (equation)"
+      ],
+      [
+        "Exercise 4",
+        "Variables x, y"
+      ],
+      [
+        "Complex Plane",
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)"
+      ],
+      [
+        "Mathematical Content on Complex Numbers and Quadratic Equations",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "modulus squared",
+        "unit circle"
+      ],
+      [
+        "Argand Plane",
+        "Page 9"
+      ],
+      [
+        "Complex Numbers",
+        "Footer Content"
+      ],
+      [
+        "Argand Plane",
+        "Simplification of a Complex Fraction Involving Conjugates (equation)"
+      ],
+      [
+        "List of Problems",
+        "Mathematical Exercises"
+      ],
+      [
+        "Argand Plane Representations",
+        "Page Number 83"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 87 (page_number)"
+      ],
+      [
+        "Reprint 2025-26",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Complex Number",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Exercises on Complex Number Properties and Operations (list)",
+        "Expression (x + iy)^3"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Quadratic Equations"
+      ],
+      [
+        "Complex Numbers",
+        "Header 'COMPLEX NUMBERS AND QUADRATIC EQUATIONS'"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations Section Header (header)",
+        "Header Content Analysis"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Complex Numbers"
+      ],
+      [
+        "Applications",
+        "Quantum Mechanics"
+      ],
+      [
+        "82",
+        "Page Number 82 (page_number)"
+      ],
+      [
+        "MATHEMATICS",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Argument",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 12"
+      ],
+      [
+        "Chapter Header (header)",
+        "Page 0"
+      ],
+      [
+        "Fig 4.3",
+        "Real Axis"
+      ],
+      [
+        "Printing Cycle",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Z^{-1}"
+      ],
+      [
+        "4x = 3",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Document",
+        "Page Number"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Content on Complex Numbers"
+      ],
+      [
+        "Complex Analysis",
+        "Cyclicity of Powers of i"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Page Index 6",
+        "Page Number 82 (page_number)"
+      ],
+      [
+        "Complex Numbers",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Chapter Progression",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "4.1 Introduction",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Cyclicity of Powers of i",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Applied Mathematics",
+        "Complex Number"
+      ],
+      [
+        "Complex Numbers",
+        "Geometric Representation"
+      ],
+      [
+        "Fundamental Property of i^2 = -1",
+        "Imaginary Unit Squared i^2"
+      ],
+      [
+        "Footer Content",
+        "Page 10"
+      ],
+      [
+        "Complex Number Algebra",
+        "Distributive Properties of Complex Number Multiplication"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Complex Number Operations"
+      ],
+      [
+        "Complex Plane",
+        "Geometric Interpretation"
+      ],
+      [
+        "Exercise 5",
+        "Mathematical Exercises on Complex Numbers"
+      ],
+      [
+        "Footer",
+        "Temporal Metadata Marker"
+      ],
+      [
+        "Algebraic Identities",
+        "MATHEMATICS"
+      ],
+      [
+        "Chapter 5",
+        "Educational Structure"
+      ],
+      [
+        "Background Grid",
+        "Mathematical Diagram"
+      ],
+      [
+        "Multiplicative Identity",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Page Number 86 (page_number)",
+        "Page Number Content"
+      ],
+      [
+        "Complex Number z",
+        "Imaginary Unit i"
+      ],
+      [
+        "Complex Number Operations",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Chapter Header (header)",
+        "Quadratic Equations"
+      ],
+      [
+        "Page Index",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Variables"
+      ],
+      [
+        "Arithmetic of Complex Numbers",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Reprint 2025-26",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Identities Involving Complex Numbers",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "$z_{2}$",
+        "Basic Algebraic Operations on Complex Numbers (list)"
+      ],
+      [
+        "Geometric Representation",
+        "Header"
+      ],
+      [
+        "Applications in Electrical Engineering, Quantum Mechanics, and Applied Mathematics",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Cube of a Difference",
+        "Z2"
+      ],
+      [
+        "Practical Tool",
+        "Standard Form"
+      ],
+      [
+        "Mathematical Content on Complex Numbers",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "(x + iy)(x - iy)",
+        "x^2 + y^2"
+      ],
+      [
+        "Complex Number Exercises on Algebraic Manipulation and Modulus (list)",
+        "Modulus Calculation"
+      ],
+      [
+        "Argand Plane",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Applications",
+        "Commutative Property of Complex Number Multiplication (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "Multiplicative Inverse"
+      ],
+      [
+        "Examples",
+        "Quadratic Equations"
+      ],
+      [
+        "Imaginary Unit i",
+        "Roots of Negative Numbers"
+      ],
+      [
+        "Algebraic Operations",
+        "Equation"
+      ],
+      [
+        "Modulus",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Basic Definitions and Notation of Complex Numbers (list)",
+        "Real Part"
+      ],
+      [
+        "Commutative Property",
+        "Matrices"
+      ],
+      [
+        "x",
+        "y"
+      ],
+      [
+        "Practical Applications",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Algebraic Structure",
+        "Imaginary Unit i"
+      ],
+      [
+        "Modulus of Complex Numbers",
+        "Page Number 80 (page_number)"
+      ],
+      [
+        "Geometric Interpretation",
+        "Multiplicative Inverse Equation"
+      ],
+      [
+        "84",
+        "Page Number 84 (page_number)"
+      ],
+      [
+        "Footer Content",
+        "Reprint Date Notation"
+      ],
+      [
+        "Distributive Law",
+        "Square of the Sum of Two Complex Numbers (equation)"
+      ],
+      [
+        "Complex Plane",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Algebraic Identities for Complex Numbers (list)",
+        "Square of a Difference"
+      ],
+      [
+        "Footer Content",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Number Z",
+        "Mathematical Diagram"
+      ],
+      [
+        "Complex Number $z_1$",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Page 10",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Footer Content",
+        "Footer Content Analysis"
+      ],
+      [
+        "Chapter 5 Identifier Header (header)",
+        "Navigational Marker"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Electrical Engineering"
+      ],
+      [
+        "Footer Content Analysis",
+        "Page 8"
+      ],
+      [
+        "Footer",
+        "Page 0"
+      ],
+      [
+        "Complex Analysis",
+        "z^{-1}"
+      ],
+      [
+        "Closure Law",
+        "Complex Number $z_2$"
+      ],
+      [
+        "Applications",
+        "Complex Numbers"
+      ],
+      [
+        "Page Number 86",
+        "Pages 9 and 11"
+      ],
+      [
+        "4.1 Introduction",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Complex Numbers",
+        "Real Number System"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "Left Distributive Law"
+      ],
+      [
+        "A + iB",
+        "Expression (a + ib)(c + id)(e + if)(g + ih)"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Signal Processing"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "79",
+        "Page Number"
+      ],
+      [
+        "A",
+        "Z_1"
+      ],
+      [
+        "Complex Numbers",
+        "Polar Representation"
+      ],
+      [
+        "Complex Number z",
+        "Imaginary Part b"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Point P"
+      ],
+      [
+        "Complex Number",
+        "Mathematical Equation"
+      ],
+      [
+        "Inverses",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Mathematical Explanations",
+        "Page Number 88 (page_number)"
+      ],
+      [
+        "Real and Imaginary Parts",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Chapter 5",
+        "Complex Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Imaginary Unit"
+      ],
+      [
+        "Argand Plane Representation of Complex Number and Its Conjugate (image)",
+        "Real Axis"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Imaginary Axis"
+      ],
+      [
+        "Commutative Law",
+        "Complex Numbers"
+      ],
+      [
+        "Negative Powers of the Imaginary Unit i (equation)",
+        "Operations"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 81 (page_number)"
+      ],
+      [
+        "Imaginary Unit",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Proof of Identity",
+        "x"
+      ],
+      [
+        "I",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Complex Numbers",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Page Number 4",
+        "Textbook"
+      ],
+      [
+        "Equation |1 - i|^x = 2^x",
+        "Integral Solutions"
+      ],
+      [
+        "Page 8",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Number Theory",
+        "Complex Numbers and Quadratic Equations Section Header (header)"
+      ],
+      [
+        "Distributive Properties of Complex Number Multiplication (list)",
+        "Problem Solving"
+      ],
+      [
+        "3x - y = -6",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Real Axis (Re)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 7"
+      ],
+      [
+        "Complex Number Algebra",
+        "Complex Number Equality"
+      ],
+      [
+        "Argand Plane Representations",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Imaginary Unit i",
+        "MATHEMATICS"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point F"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Rotation"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers (image)",
+        "Point D"
+      ],
+      [
+        "Page Number 4 (page_number)",
+        "Textbook"
+      ],
+      [
+        "Point P",
+        "Vectors"
+      ],
+      [
+        "Complex Fraction",
+        "Simplification of a Complex Fraction via Conjugate Multiplication (equation)"
+      ],
+      [
+        "Real Axis (Re)",
+        "Vector 1/Z"
+      ],
+      [
+        "Complex Conjugate",
+        "Z"
+      ],
+      [
+        "Equation",
+        "Mathematical Operations"
+      ],
+      [
+        "Equation i^3 = i^2 i = (-1) i = -i, i^4 = (i^2)^2 = (-1)^2 = 1",
+        "Exponentiation"
+      ],
+      [
+        "Operations",
+        "Variables"
+      ],
+      [
+        "Document Reprint Edition Footer (footer)",
+        "Page 3"
+      ],
+      [
+        "Additive Inverse of z_2",
+        "i"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Division",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "A",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Multiplicative Inverse Equation",
+        "Signal Processing"
+      ],
+      [
+        "4x = 3",
+        "x"
+      ],
+      [
+        "Complex Number z1",
+        "Division of two complex numbers example (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Geometric Representations"
+      ],
+      [
+        "Division of two complex numbers example (equation)",
+        "Resulting Expression"
+      ],
+      [
+        "Chapter 5",
+        "Chapter 5 Identifier Header (header)"
+      ],
+      [
+        "i",
+        "x + i y"
+      ],
+      [
+        "Mathematical Equation",
+        "Multiplication of Complex Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "4x = 3",
+        "Linear Algebraic Manipulation"
+      ],
+      [
+        "Page Number 86",
+        "Page Number 86 (page_number)"
+      ],
+      [
+        "Historical Context",
+        "Mathematics Section Header (header)"
+      ],
+      [
+        "Multiplication of Two Complex Numbers (equation)",
+        "Z_2"
+      ],
+      [
+        "Additive Inverse",
+        "Zero Complex Number"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical Instructional Content"
+      ],
+      [
+        "Complex Number Properties",
+        "Complex Numbers and Quadratic Equations"
+      ],
+      [
+        "Expression (x + iy)^3",
+        "u"
+      ],
+      [
+        "Miscellaneous Exercises on Complex Number Properties (list)",
+        "z₁ = 2 - i"
+      ],
+      [
+        "Argand Plane",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+        "Imaginary Unit Powers"
+      ],
+      [
+        "Complex Number Algebra",
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)"
+      ],
+      [
+        "Quantum Mechanics",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Expression (a + ib)(c + id)(e + if)(g + ih)",
+        "a"
+      ],
+      [
+        "Complex Analysis",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Geometric Representations",
+        "Mathematics"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Examples and Exercises"
+      ],
+      [
+        "Page Number",
+        "Page Number 84 (page_number)"
+      ],
+      [
+        "Method of Equating Real and Imaginary Parts",
+        "System of Simultaneous Equations"
+      ],
+      [
+        "Electrical Engineering",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Quantum Mechanics",
+        "Waveforms"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Algebraic Applications",
+        "Complex Number Theory"
+      ],
+      [
+        "Property (ab)^2 = a^2 b^2",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Document",
+        "Page Number 82 (page_number)"
+      ],
+      [
+        "Fundamental Properties of the Imaginary Unit and Complex Conjugation (list)",
+        "Real Part a"
+      ],
+      [
+        "Complex Number Subtraction Equation",
+        "z_1"
+      ],
+      [
+        "Exercises",
+        "Mathematical Examples"
+      ],
+      [
+        "Multiplicative Inverse Equation",
+        "Quantum Mechanics"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "z_1"
+      ],
+      [
+        "Algebra of Complex Numbers",
+        "Mathematics Textbook Page"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Identities"
+      ],
+      [
+        "Header",
+        "Header Content Analysis"
+      ],
+      [
+        "Equation i^5 and i^6",
+        "Multiplication"
+      ],
+      [
+        "Complex Number",
+        "Polynomial Equations"
+      ],
+      [
+        "Multiplication of Complex Numbers",
+        "Square of a purely imaginary complex number (equation)"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Page 11 Textual Content"
+      ],
+      [
+        "Page Number 83",
+        "Page Number 83 (page_number)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations (header)",
+        "Negative Discriminants"
+      ],
+      [
+        "Document Reprint Edition Footer (footer)",
+        "Footer Content"
+      ],
+      [
+        "Algebraic Operations",
+        "Arithmetic of Complex Numbers"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Mathematics Textbook Page on Complex Numbers and Quadratic Equations (image)"
+      ],
+      [
+        "Imaginary Part",
+        "Multiplication of Two Complex Numbers (equation)"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Header Content"
+      ],
+      [
+        "Footer Content",
+        "Knowledge Retrieval"
+      ],
+      [
+        "Exercise 4",
+        "Variables a, b, c, d"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations",
+        "Complex Numbers and Quadratic Equations Section Header (header)"
+      ],
+      [
+        "Page Number 86 (page_number)",
+        "Pagination Marker"
+      ],
+      [
+        "Modulus",
+        "Page Number 81"
+      ],
+      [
+        "Mathematical Discussions",
+        "Page Number 87"
+      ],
+      [
+        "Complex Numbers",
+        "Equality of Complex Numbers with Real Variables (equation)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Equation"
+      ],
+      [
+        "Algebraic Structure of Complex Numbers",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Electrical Engineering",
+        "Imaginary Unit i"
+      ],
+      [
+        "Argand Plane",
+        "Mathematical Content"
+      ],
+      [
+        "MATHEMATICS",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Complex Numbers",
+        "Page Number 83"
+      ],
+      [
+        "Document Design Practices",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Complex Transformation",
+        "Modulus of the quotient of a complex number and its conjugate (equation)"
+      ],
+      [
+        "Distributive Law",
+        "Multiplication"
+      ],
+      [
+        "Complex Number Arithmetic",
+        "Negative Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Complex Number Operations",
+        "Page Number 77 (page_number)"
+      ],
+      [
+        "Complex Numbers and Quadratic Equations Section Header (header)",
+        "Page 5"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Square Roots of Negative Numbers"
+      ],
+      [
+        "Argand Plane",
+        "Complex Number Expression"
+      ],
+      [
+        "Powers of i",
+        "Powers of the Imaginary Unit i (equation)"
+      ],
+      [
+        "Subtraction of Complex Numbers as Addition of Additive Inverse (equation)",
+        "a"
+      ],
+      [
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)",
+        "Vector Z"
+      ],
+      [
+        "Basic Definitions and Notation of Complex Numbers (list)",
+        "z1"
+      ],
+      [
+        "Applications",
+        "Simplification of a Complex Number Expression into Standard Form (equation)"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Geometric Representation of Multiplicative Inverse of a Complex Number (image)"
+      ],
+      [
+        "Complex Fraction",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Algebra",
+        "Sum and Product of Two Variables Equation System (equation)"
+      ],
+      [
+        "Argand Plane Representation of Complex Numbers Fig 4.1 (image)",
+        "Grid Lines"
+      ],
+      [
+        "4.1 Introduction",
+        "Complex Numbers and Quadratic Equations (header)"
+      ],
+      [
+        "Complex Numbers",
+        "Miscellaneous Exercises on Complex Number Properties (list)"
+      ],
+      [
+        "Complex Number Algebra",
+        "Quadratic Equations with Negative Discriminants"
+      ],
+      [
+        "Applications in Electrical Engineering",
+        "Complex Exponentials"
+      ],
+      [
+        "Complex Number Conjugate",
+        "Complex Number z"
+      ],
+      [
+        "Complex Number Theory",
+        "Powers of i"
+      ],
+      [
+        "Argand Plane",
+        "Polar Representation"
+      ],
+      [
+        "Complex Numbers",
+        "Point A"
+      ],
+      [
+        "Division of Two Complex Numbers (equation)",
+        "Multiplicative Inverse of z_2"
+      ],
+      [
+        "Complex Number Conjugation",
+        "Simplification of a Complex Fraction to Standard Form (equation)"
+      ],
+      [
+        "Field of Complex Numbers",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Basic Arithmetic Operations on Complex Numbers",
+        "Division of Two Complex Numbers (equation)"
+      ],
+      [
+        "Argand Plane",
+        "Fig 4.3"
+      ],
+      [
+        "Control Theory",
+        "Fields of Application"
+      ],
+      [
+        "Identities Involving Complex Numbers",
+        "Imaginary Unit i"
+      ],
+      [
+        "3x - y = -6",
+        "Linear Algebraic Manipulation"
+      ],
+      [
+        "Argand Plane",
+        "Point O"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "z_1"
+      ],
+      [
+        "Applications",
+        "Physical and Theoretical Significance"
+      ],
+      [
+        "Mathematical Operations",
+        "System of linear equations from equating real and imaginary parts (equation)"
+      ],
+      [
+        "Modulus of the quotient of a complex number and its conjugate (equation)",
+        "y"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "Operations"
+      ],
+      [
+        "Multiplicative Inverse of a Complex Number (equation)",
+        "i"
+      ],
+      [
+        "Geometric Representations",
+        "Page Number 85 (page_number)"
+      ],
+      [
+        "Modulus Squared",
+        "Multiplicative Inverse of a Complex Number (equation)"
+      ],
+      [
+        "Commutative Property of Complex Number Multiplication (equation)",
+        "Matrices"
+      ],
+      [
+        "Complex Numbers",
+        "Square Roots of Negative Real Numbers"
+      ],
+      [
+        "Closure Law",
+        "Properties of Addition of Complex Numbers (list)"
+      ],
+      [
+        "Multiplicative Inverse",
+        "Properties of Multiplication of Complex Numbers (list)"
+      ],
+      [
+        "Applications",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Algebraic Operations",
+        "Quadratic Equations"
+      ],
+      [
+        "i",
+        "z_1"
+      ]
+    ],
+    "count": 1476,
+    "update_time": 1770976344,
+    "_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa"
   }
 }
