@@ -4,14 +4,6 @@ README.md
 README_zh.md
 requirements.txt
 setup.py
-examples/batch_processing_example.py
-examples/enhanced_markdown_example.py
-examples/image_format_test.py
-examples/insert_content_list_example.py
-examples/modalprocessors_example.py
-examples/office_document_test.py
-examples/raganything_example.py
-examples/text_format_test.py
 raganything/__init__.py
 raganything/base.py
 raganything/batch.py
@@ -30,3 +22,4 @@ raganything.egg-info/SOURCES.txt
 raganything.egg-info/dependency_links.txt
 raganything.egg-info/requires.txt
 raganything.egg-info/top_level.txt
+raganything/.ipynb_checkpoints/parser-checkpoint.py
