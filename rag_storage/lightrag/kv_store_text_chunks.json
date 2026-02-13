@@ -11800,5 +11800,1449 @@
     "create_time": 1770974873,
     "update_time": 1770976146,
     "_id": "chunk-7ff44af5e138b8f585764857d88bcc4e"
+  },
+  "chunk-e37e6c98389b058dfba5955d4d38c71a": {
+    "tokens": 800,
+    "content": "LINEAR INEQUALITIES \n\nMathematics is the art of saying many things in many different ways. - MAXWELL \n\n5.1 Introduction \n\nIn earlier classes, we have studied equations in one variable and two variables and also solved some statement problems by translating them in the form of equations. Now a natural question arises: 'Is it always possible to translate a statement problem in the form of an equation? For example, the height of all the students in your class is less than $160~\\mathrm{cm}$ . Your classroom can occupy almost 60 tables or chairs or both. Here we get certain statements involving a sign $<$ (less than), $>$ (greater than), $≤$ (less than or equal) and $\\geq$ (greater than or equal) which are known as inequalities. \n\nIn this Chapter, we will study linear inequalities in one and two variables. The study of inequalities is very useful in solving problems in the field of science, mathematics, statistics, economics, psychology, etc. \n\n5.2 Inequalities \n\nLet us consider the following situations: \n\n(i) Ravi goes to market with ₹200 to buy rice, which is available in packets of 1kg. The price of one packet of rice is ₹30. If $x$ denotes the number of packets of rice, which he buys, then the total amount spent by him is ₹30x. Since, he has to buy rice in packets only, he may not be able to spend the entire amount of ₹200. (Why?) Hence \n\nClearly the statement (i) is not an equation as it does not involve the sign of equality. \n\n(ii) Reshma has $\\overline{\\mathbf{\\tau}}$ 120 and wants to buy some registers and pens. The cost of one register is $\\overline{\\mathbf{\\tau}}$ 40 and that of a pen is $\\overline{\\mathbf{\\tau}}$ 20. In this case, if $x$ denotes the number of registers and $y$ , the number of pens which Reshma buys, then the total amount spent by her is $\\overline{\\mathbf{\\tau}} (40x + 20y)$ and we have \n\nSince in this case the total amount spent may be upto $\\overline{\\mathbf{\\tau}}$ 120. Note that the statement (2) consists of two statements \n\nStatement (3) is not an equation, i.e., it is an inequality while statement (4) is an equation. \n\nDefinition 1 Two real numbers or two algebraic expressions related by the symbol $\\langle \\langle \\rangle \\rangle$ , $\\langle \\langle \\rangle \\rangle$ , $\\langle \\langle \\rangle \\rangle$ or $\\langle \\langle \\rangle \\rangle$ form an inequality. \n\nStatements such as (1), (2) and (3) above are inequalities. \n\n$3 < 5$ ; $7 > 5$ are the examples of numerical inequalities while \n\n$x < 5; y > 2; x \\geq 3, y \\leq 4$ are some examples of literal inequalities. \n\n$3 < 5 < 7$ (read as 5 is greater than 3 and less than 7), $3 \\leq x < 5$ (read as $x$ is greater than or equal to 3 and less than 5) and $2 < y \\leq 4$ are the examples of double inequalities. \n\nSome more examples of inequalities are: \n\nInequalities (5), (6), (9), (10) and (14) are strict inequalities while inequalities (7), (8), (11), (12), and (13) are slack inequalities. Inequalities from (5) to (8) are linear inequalities in one",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:fd89701dbb8fe0b1d69b9a3181b0f499",
+      "default:extract:7e8f2e0a093e75ce74055f8b0f01e74d"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977277,
+    "_id": "chunk-e37e6c98389b058dfba5955d4d38c71a"
+  },
+  "chunk-5c3e28595469f5e20c3ee2f44fe47592": {
+    "tokens": 800,
+    "content": "is greater than or equal to 3 and less than 5) and $2 < y \\leq 4$ are the examples of double inequalities. \n\nSome more examples of inequalities are: \n\nInequalities (5), (6), (9), (10) and (14) are strict inequalities while inequalities (7), (8), (11), (12), and (13) are slack inequalities. Inequalities from (5) to (8) are linear inequalities in one variable $x$ when $a \\neq 0$ , while inequalities from (9) to (12) are linear inequalities in two variables $x$ and $y$ when $a \\neq 0$ , $b \\neq 0$ . \n\nInequalities (13) and (14) are not linear (in fact, these are quadratic inequalities in one variable $x$ when $a \\neq 0$ ). \n\nIn this Chapter, we shall confine ourselves to the study of linear inequalities in one and two variables only. \n\n5.3 Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation \n\nLet us consider the inequality (1) of Section 6.2, viz, $30x < 200$ \n\nNote that here $x$ denotes the number of packets of rice. \n\nObviously, $x$ cannot be a negative integer or a fraction. Left hand side (L.H.S.) of this inequality is $30x$ and right hand side (RHS) is 200. Therefore, we have \n\nFor $x = 0$ , L.H.S. $= 30$ $(0) = 0 < 200$ (R.H.S.), which is true. \n\nFor $x = 1$ , L.H.S. $= 30$ (1) $= 30 < 200$ (R.H.S.), which is true. \n\nFor $x = 2$ , L.H.S. $= 30$ (2) $= 60 < 200$ , which is true. \n\nFor $x = 3$ , L.H.S. $= 30$ (3) $= 90 < 200$ , which is true. \n\nFor $x = 4$ , L.H.S. $= 30$ (4) $= 120 < 200$ , which is true. \n\nFor $x = 5$ , L.H.S. $= 30$ (5) $= 150 < 200$ , which is true. \n\nFor $x = 6$ , L.H.S. $= 30$ (6) $= 180 < 200$ , which is true. \n\nFor $x = 7$ , L.H.S. $= 30$ (7) $= 210 < 200$ , which is false. \n\nIn the above situation, we find that the values of $x$ , which makes the above inequality a true statement, are $0,1,2,3,4,5,6$ . These values of $x$ , which make above inequality a true statement, are called solutions of inequality and the set $\\{0,1,2,3,4,5,6\\}$ is called its solution set. \n\nThus, any solution of an inequality in one variable is a value of the variable which makes it a true statement. \n\nWe have found the solutions of the above inequality by trial and error method which is not very efficient. Obviously, this method is time consuming and sometimes not feasible. We must have some better or systematic techniques for solving inequalities. Before that we should go through some more properties of numerical inequalities and follow them as rules while solving the inequalities. \n\nYou will recall that while solving linear equations, we followed the following rules: \n\nRule 1 Equal numbers may",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:dea6a2436eddbc78ae9e163d438c30ce",
+      "default:extract:6e09da0a30f1f90c41daf54589527ab0"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977277,
+    "_id": "chunk-5c3e28595469f5e20c3ee2f44fe47592"
+  },
+  "chunk-c6a688b0130b64f8c2479aa60114d774": {
+    "tokens": 800,
+    "content": "of the variable which makes it a true statement. \n\nWe have found the solutions of the above inequality by trial and error method which is not very efficient. Obviously, this method is time consuming and sometimes not feasible. We must have some better or systematic techniques for solving inequalities. Before that we should go through some more properties of numerical inequalities and follow them as rules while solving the inequalities. \n\nYou will recall that while solving linear equations, we followed the following rules: \n\nRule 1 Equal numbers may be added to (or subtracted from) both sides of an equation. \n\nRule 2 Both sides of an equation may be multiplied (or divided) by the same non-zero number. \n\nIn the case of solving inequalities, we again follow the same rules except with a difference that in Rule 2, the sign of inequality is reversed (i.e., $\\langle \\langle$ becomes $\\langle \\rangle$ , $\\leq$ becomes $\\geq$ and so on) whenever we multiply (or divide) both sides of an inequality by a negative number. It is evident from the facts that \n\nThus, we state the following rules for solving an inequality: \n\nRule 1 Equal numbers may be added to (or subtracted from) both sides of an inequality without affecting the sign of inequality. \n\nRule 2 Both sides of an inequality can be multiplied (or divided) by the same positive number. But when both sides are multiplied or divided by a negative number, then the sign of inequality is reversed. \n\nNow, let us consider some examples. \n\nExample 1 Solve $30x < 200$ when \n\n(i) $x$ is a natural number, \n\n(ii) $x$ is an integer. \n\nSolution We are given $30x < 200$ \n\nor $\\frac{30x}{30} < \\frac{200}{30}$ (Rule 2), i.e., $x < 20 / 3$ . \n\n(i) When $x$ is a natural number, in this case the following values of $x$ make the statement true. \n\nThe solution set of the inequality is $\\{1,2,3,4,5,6\\}$ . \n\n(ii) When $x$ is an integer, the solutions of the given inequality are \n\nThe solution set of the inequality is $\\{......, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6\\}$ \n\nExample 2 Solve $5x - 3 < 3x + 1$ when \n\n(i) $x$ is an integer, \n\n(ii) $x$ is a real number. \n\nSolution We have, $5x - 3 < 3x + 1$ \n\nor $5x - 3 + 3 <   3x + 1 + 3$ (Rule 1) \n\nor $5x <   3x + 4$ \n\nor $5x - 3x <   3x + 4 - 3x$ (Rule 1) \n\nor $2x <   4$ \n\nor $x <   2$ （Rule2)\n\n(i) When $x$ is an integer, the solutions of the given inequality are \n\n(ii) When $x$ is a real number, the solutions of the inequality are given by $x < 2$ , i.e., all real numbers $x$ which are less than 2. Therefore, the solution set of the inequality is $x \\in (-\\infty, 2)$ . \n\nWe have considered solutions of inequalities in the set of natural numbers, set of integers and in the set of real numbers. Henceforth, unless stated otherwise, we shall solve the inequalities in this Chapter in the set of real numbers. \n\nExample 3 Solve $4",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:ce0850a314f4f89a50a01cb83732bace",
+      "default:extract:6d1abfe4fb94e74729d1569915d3730b"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977277,
+    "_id": "chunk-c6a688b0130b64f8c2479aa60114d774"
+  },
+  "chunk-e7f547328002aeded11099632796d9b9": {
+    "tokens": 800,
+    "content": "by $x < 2$ , i.e., all real numbers $x$ which are less than 2. Therefore, the solution set of the inequality is $x \\in (-\\infty, 2)$ . \n\nWe have considered solutions of inequalities in the set of natural numbers, set of integers and in the set of real numbers. Henceforth, unless stated otherwise, we shall solve the inequalities in this Chapter in the set of real numbers. \n\nExample 3 Solve $4x + 3 < 6x + 7$ . \n\nSolution We have, $4x + 3 < 6x + 7$ \n\nor $4x - 6x <   6x + 4 - 6x$ \n\nor $-2x < 4$ or $x > -2$ \n\ni.e., all the real numbers which are greater than $-2$ , are the solutions of the given inequality. Hence, the solution set is $(-2, \\infty)$ . \n\nExample 4 Solve $\\frac{5 - 2x}{3} \\leq \\frac{x}{6} - 5$ . \n\nSolution We have \n\nor $2(5 - 2x)\\leq x - 30.$ \n\nor $10 - 4x\\leq x - 30$ \n\nor \n\nThus, all real numbers $x$ which are greater than or equal to 8 are the solutions of the given inequality, i.e., $x \\in [8, \\infty)$ . \n\nExample 5 Solve $7x + 3 < 5x + 9$ . Show the graph of the solutions on number line. \n\nSolution We have $7x + 3 < 5x + 9$ or \n\nThe graphical representation of the solutions are given in Fig 5.1. \n\nExample 6 Solve $\\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1$ . Show the graph of the solutions on number line. \n\nSolution We have \n\nor $\\frac{3x - 4}{2} \\geq \\frac{x - 3}{4}$ \n\nor $2(3x - 4)\\geq (x - 3)$ \n\nor $6x - 8\\geq x - 3$ \n\nor $5x\\geq 5$ or $x\\geq 1$ \n\nThe graphical representation of solutions is given in Fig 5.2. \n\nExample 7 The marks obtained by a student of Class XI in first and second terminal examination are 62 and 48, respectively. Find the minimum marks he should get in the annual examination to have an average of at least 60 marks. \n\nSolution Let $x$ be the marks obtained by student in the annual examination. Then \n\nor $110 + x\\geq 180$ \n\nor $x\\geq 70$ \n\nThus, the student must obtain a minimum of 70 marks to get an average of at least 60 marks. \n\nExample 8 Find all pairs of consecutive odd natural numbers, both of which are larger than 10, such that their sum is less than 40. \n\nSolution Let $x$ be the smaller of the two consecutive odd natural numbers, so that the other one is $x + 2$ . Then, we should have \n\n$x > 10$ （20 1\n\nand $x + (x + 2) <   40$ (2) \n\nSolving (2), we get \n\ni.e., $x <   19$ (3) \n\nFrom (1) and (3), we get \n\nSince $x$ is an odd number, $x$ can take the values 11, 13, 15, and",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:fd9a1531434b8d76f841878340099e36",
+      "default:extract:4a6617ffcf120c7a912c0b79b07d2402"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977277,
+    "_id": "chunk-e7f547328002aeded11099632796d9b9"
+  },
+  "chunk-61f9e0f73e4b64de2be422e0f4ecbac2": {
+    "tokens": 800,
+    "content": "+ 2$ . Then, we should have \n\n$x > 10$ （20 1\n\nand $x + (x + 2) <   40$ (2) \n\nSolving (2), we get \n\ni.e., $x <   19$ (3) \n\nFrom (1) and (3), we get \n\nSince $x$ is an odd number, $x$ can take the values 11, 13, 15, and 17. So, the required possible pairs will be \n\n(11, 13), (13, 15), (15, 17), (17, 19) \n\nEXERCISE 5.1 \n\n1. Solve $24x < 100$ , when \n\n(i) $x$ is a natural number. \n\n(ii) $x$ is an integer. \n\n2. Solve $-12x > 30$ , when \n\n(ii) $x$ is an integer. \n\n(i) $x$ is a natural number. \n\n(ii) $x$ is a real number. \n\n3. Solve $5x - 3 < 7$ , when \n\n(i) $x$ is an integer. \n\n4. Solve $3x + 8 > 2$ , when \n\n(ii) $x$ is a real number. \n\n(i) $x$ is an integer. \n\nSolve the inequalities in Exercises 5 to 16 for real $x$ . \n\n5. $4x + 3 < 5x + 7$ \n\n6. $3x - 7 > 5x - 1$ \n\n7. $3(x - 1)\\leq 2(x - 3)$ \n\n8. $3(2 - x)\\geq 2(1 - x)$ \n\n9. $x + \\frac{x}{2} +\\frac{x}{3} <  11$ \n\n10. $\\frac{x}{3} > \\frac{x}{2} + 1$ \n\n11. $\\frac{3(x - 2)}{5} \\leq \\frac{5(2 - x)}{3}$ \n\n12. $\\frac{1}{2}\\left(\\frac{3x}{5} + 4\\right) \\geq \\frac{1}{3} (x - 6)$ \n\n13. $2(2x + 3) - 10 <   6(x - 2)$ \n\n14. $37 - (3x + 5) \\geq 9x - 8 (x - 3)$ \n\n15. $\\frac{x}{4} < \\frac{(5x - 2)}{3} - \\frac{(7x - 3)}{5}$ \n\n(2x-1)≥(3x-2)-(2-x) 3 4 5 \n\nSolve the inequalities in Exercises 17 to 20 and show the graph of the solution in each case on number line \n\n17. $3x - 2 < 2x + 1$ \n\n18. $5x - 3\\geq 3x - 5$ \n\n19. $3(1 - x) <   2(x + 4)$ \n\n20. $\\frac{x}{2} \\geq \\frac{(5x - 2)}{3} - \\frac{(7x - 3)}{5}$ \n\n[Hint: If $x$ is the length of the shortest board, then $x$ , $(x + 3)$ and $2x$ are the lengths of the second and third piece, respectively. Thus, $x + (x + 3) + 2x \\leq 91$ and $2x \\geq (x + 3) +",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:1ac26c14260e1852bbd71d132e50ba40",
+      "default:extract:a9211efdf2b5a28de50b960f22fcf4f8"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977313,
+    "_id": "chunk-61f9e0f73e4b64de2be422e0f4ecbac2"
+  },
+  "chunk-6af19f61a90e975173b358c62f1c8b7a": {
+    "tokens": 800,
+    "content": "- 2)}{3} - \\frac{(7x - 3)}{5}$ \n\n[Hint: If $x$ is the length of the shortest board, then $x$ , $(x + 3)$ and $2x$ are the lengths of the second and third piece, respectively. Thus, $x + (x + 3) + 2x \\leq 91$ and $2x \\geq (x + 3) + 5$ ]. \n\nMiscellaneous Examples \n\nExample 9 Solve $-8 \\leq 5x - 3 < 7$ . \n\nSolution In this case, we have two inequalities, $-8 \\leq 5x - 3$ and $5x - 3 < 7$ , which we will solve simultaneously. We have $-8 \\leq 5x - 3 < 7$ \n\nor $-5\\leq 5x <   10$ or $-1\\leq x <   2$ \n\nExample 10 Solve $-5 \\leq \\frac{5 - 3x}{2} \\leq 8$ . \n\nSolution We have $-5 \\leq \\frac{5 - 3x}{2} \\leq 8$ \n\nor $-10\\leq 5 - 3x\\leq 16$ or $-15\\leq -3x\\leq 11$ \n\nor $5\\geq x\\geq -\\frac{11}{3}$ \n\nwhich can be written as $\\frac{-11}{3} \\leq x \\leq 5$ \n\nExample 11 Solve the system of inequalities: \n\nand represent the solutions on the number line. \n\nSolution From inequality (1), we have \n\nor $x <   6$ (3) \n\nAlso, from inequality (2), we have \n\nor $-5x\\leq -10$ i.e., $x\\geq 2$ (4) \n\nIf we draw the graph of inequalities (3) and (4) on the number line, we see that the values of $x$ , which are common to both, are shown by bold line in Fig 5.3. \n\nThus, solution of the system are real numbers $x$ lying between 2 and 6 including 2, i.e., $2 \\leq x < 6$ \n\nExample 12 In an experiment, a solution of hydrochloric acid is to be kept between $30^{\\circ}$ and $35^{\\circ}$ Celsius. What is the range of temperature in degree Fahrenheit if conversion formula is given by $C = \\frac{5}{9}$ (F - 32), where C and F represent temperature in degree Celsius and degree Fahrenheit, respectively. \n\nSolution It is given that $30 < C < 35$ . \n\nPutting $C = \\frac{5}{9}$ (F - 32), we get \n\nor $\\frac{9}{5} \\times (30) < (F - 32) < \\frac{9}{5} \\times (35)$ \n\nor $54 <   (\\mathrm{F} - 32) <   63$ \n\nor $86 <   \\mathrm{F} <   95$ \n\nThus, the required range of temperature is between $86^{\\circ}\\mathrm{F}$ and $95^{\\circ}\\mathrm{F}$ . \n\nExample 13 A manufacturer has 600 litres of a $12\\%$ solution of acid. How many litres of a $30\\%$ acid solution must be added to it so that acid content in the resulting mixture will be more than $15\\%$ but less than $18\\%$ ? \n\nSolution Let $",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:26b57d8acabb6e33c3362f693fa6caa0",
+      "default:extract:92b2bf83212e3e58ef7774cc16d6123b"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977313,
+    "_id": "chunk-6af19f61a90e975173b358c62f1c8b7a"
+  },
+  "chunk-6389b05725befd7b20509690196799ed": {
+    "tokens": 702,
+    "content": "Thus, the required range of temperature is between $86^{\\circ}\\mathrm{F}$ and $95^{\\circ}\\mathrm{F}$ . \n\nExample 13 A manufacturer has 600 litres of a $12\\%$ solution of acid. How many litres of a $30\\%$ acid solution must be added to it so that acid content in the resulting mixture will be more than $15\\%$ but less than $18\\%$ ? \n\nSolution Let $x$ litres of $30\\%$ acid solution is required to be added. Then \n\nTotal mixture $= (x + 600)$ litres \n\nTherefore $30\\% x + 12\\%$ of $600 > 15\\%$ of $(x + 600)$ \n\nand $30\\% x + 12\\%$ of $600 < 18\\%$ of $(x + 600)$ \n\nor $\\frac{30x}{100} + \\frac{12}{100} (600) > \\frac{15}{100} (x + 600)$ \n\nand $\\frac{30x}{100} + \\frac{12}{100} (600) < \\frac{18}{100} (x + 600)$ \n\nor $30x + 7200 > 15x + 9000$ \n\nand $30x + 7200 < 18x + 10800$ \n\nor $15x > 1800$ and $12x < 3600$ \n\nor $x > 120$ and $x <   300,$ \n\ni.e. $120 <   x <   300$ \n\nThus, the number of litres of the $30\\%$ solution of acid will have to be more than 120 litres but less than 300 litres. \n\nMiscellaneous Exercise on Chapter 5 \n\nSolve the inequalities in Exercises 1 to 6. \n\n1. $2 \\leq 3x - 4 \\leq 5$ \n\n2. $6\\leq -3(2x - 4) <   12$ \n\n3. $-3 \\leq 4 - \\frac{7x}{2} \\leq 18$ \n\n4. $-15 < \\frac{3(x - 2)}{5} \\leq 0$ \n\n5. $-12 < 4 - \\frac{3x}{-5} \\leq 2$ \n\n6. $7 \\leq \\frac{(3x + 11)}{2} \\leq 11$ . \n\nSolve the inequalities in Exercises 7 to 10 and represent the solution graphically on number line. \n\n12. A solution of $8\\%$ boric acid is to be diluted by adding a $2\\%$ boric acid solution to it. The resulting mixture is to be more than $4\\%$ but less than $6\\%$ boric acid. If we have 640 litres of the $8\\%$ solution, how many litres of the $2\\%$ solution will have to be added? \n\nwhere MA is mental age and CA is chronological age. If $80 \\leq \\mathrm{IQ} \\leq 140$ for a group of 12 years old children, find the range of their mental age. \n\nSummary",
+    "chunk_order_index": 6,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:1f2231e9dd0a309674ac4b9ac216ea1c",
+      "default:extract:a0eb59044ac7b4ec7c0287f3afb3c434"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977313,
+    "_id": "chunk-6389b05725befd7b20509690196799ed"
+  },
+  "chunk-290612199861c31d1036b185b4e69b75": {
+    "tokens": 2,
+    "content": "Summary",
+    "chunk_order_index": 7,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:77e87226b743d20726812ae434aafbaa",
+      "default:extract:f775fd100b8590af5e9f1258f8e4b990"
+    ],
+    "create_time": 1770977188,
+    "update_time": 1770977313,
+    "_id": "chunk-290612199861c31d1036b185b4e69b75"
+  },
+  "chunk-1dfda2991ac5398abb73524d7a246c47": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n3 0 x <   2 0 0 \\quad \\dots \\tag {1}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 30x < 200 represents a linear inequality in one variable, where x denotes the number of 1kg rice packets Ravi can buy with ₹200. Here, 30 is the cost per packet, and the product 30x gives the total expenditure. The inequality states that the total cost must be strictly less than ₹200, reflecting the constraint that Ravi cannot exceed his budget. The variable x is a non-negative integer in practical terms, as partial packets cannot be purchased. The inequality uses the less than symbol '<', indicating a strict upper bound on expenditure. This inequality is foundational in understanding linear inequalities, illustrating how real-world constraints translate into mathematical expressions. It relates to the broader discussion on linear inequalities by exemplifying how inequalities differ from equations and how they model limitations in resource allocation problems. The inequality is a practical tool in optimization and budgeting scenarios, demonstrating the application of linear inequalities in economics and daily decision-making.",
+    "tokens": 229,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 8,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:11a01a25f07dbc0601aef53f291af08e",
+      "default:extract:a8fa840a01e6f8432bd424f25395e8b4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Budget constraint inequality for purchasing rice packets (equation)",
+    "original_type": "equation",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977743,
+    "_id": "chunk-1dfda2991ac5398abb73524d7a246c47"
+  },
+  "chunk-8ad9d510106e04f4b51868027e2b286d": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n4 0 x + 2 0 y \\leq 1 2 0 \\quad \\dots \\tag {2}\n$$\nFormat: latex\n\nMathematical Analysis: The equation 40x + 20y ≤ 120 represents a linear inequality in two variables x and y. Here, x and y denote the quantities of two different items (registers and pens) that Reshma intends to purchase, with costs 40 and 20 units of currency respectively. The inequality states that the total expenditure on these items must not exceed 120 units. Mathematically, this is a linear inequality because it involves a linear combination of variables constrained by a less than or equal to (≤) relation. The variables x and y are non-negative integers in the practical context, representing countable items. The inequality uses addition and scalar multiplication operations. This inequality models a budget constraint in an economic or consumer choice context, illustrating how limited resources restrict possible combinations of goods. It is foundational in linear programming and optimization problems, where feasible regions are defined by such inequalities. The equation relates to the broader discussion of linear inequalities by exemplifying how real-world constraints translate into mathematical inequalities, distinguishing them from equations by the inequality sign. It also demonstrates the practical application of inequalities in problem-solving across various fields such as economics, business, and resource management.",
+    "tokens": 282,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 9,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:ce1f96e1816288368281203d95b71d57",
+      "default:extract:8d856e568409676554fafcb960c34bce"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Budget Constraint Linear Inequality (equation)",
+    "original_type": "equation",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977743,
+    "_id": "chunk-8ad9d510106e04f4b51868027e2b286d"
+  },
+  "chunk-701062ef9b772c81fd6ab2fbf076497e": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': '国', 'bbox': [512, 52, 666, 156], 'page_idx': 0}\n\nAnalysis: The header content consists of a single Chinese character '国' positioned prominently on the page, likely serving as a thematic or symbolic element rather than a direct topical header related to the mathematical content. The surrounding context is a detailed mathematical exposition on linear inequalities, including definitions, examples, and applications. The header '国' does not structurally organize or introduce the mathematical content but may represent a cultural or institutional marker, such as a watermark, logo, or section identifier unrelated to the chapter's subject matter. Its presence does not influence the logical flow or conceptual framework of the linear inequalities discussion but may aid in document identification or branding. For knowledge retrieval, this header is not semantically connected to the mathematical discourse and should be treated as a non-thematic graphical or symbolic header.",
+    "tokens": 197,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 10,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:a622327199eb34eae30d9bbd5caf9526",
+      "default:extract:1cb687cefa8319f25e77d13bc9d79791"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Symbolic or Cultural Header '国' (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977743,
+    "_id": "chunk-701062ef9b772c81fd6ab2fbf076497e"
+  },
+  "chunk-56c161e8aea4b71594672dcdf4ebf8c7": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': '11076CH06 ', 'bbox': [559, 157, 617, 166], 'page_idx': 0}\n\nAnalysis: The header content '11076CH06 ' appears to be a coded or formatted identifier, likely representing a chapter or section number within the document. Its structure is concise and alphanumeric, suggesting it serves as a metadata label rather than a descriptive title. Positioned on page 0 with specific bounding box coordinates, it likely functions as an internal reference or indexing marker for the chapter on linear inequalities. This header does not provide thematic or topical information directly but supports document organization and navigation. It connects to the broader discussion by marking the beginning of the chapter, facilitating retrieval and contextual placement within the educational material on linear inequalities.",
+    "tokens": 167,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 11,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:65677357c6e69093a2ae0138782db583",
+      "default:extract:fba8aa03fb5d7550c9cd63b646dbc887"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter Identifier Header (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977743,
+    "_id": "chunk-56c161e8aea4b71594672dcdf4ebf8c7"
+  },
+  "chunk-09243ef1b5c712a333bb355ef20b27a9": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'Chapter ', 'bbox': [702, 138, 816, 163], 'page_idx': 0}\n\nAnalysis: The header content 'Chapter ' appears to be a partial or incomplete chapter title, likely intended to introduce a new chapter within the textbook or document. Its structure is minimal, consisting solely of the word 'Chapter' without a chapter number or specific title, which suggests it may be a placeholder or a formatting artifact. Positioned at the beginning of the page, it serves as a high-level organizational marker that separates major sections of the text. In the surrounding context, the content focuses on linear inequalities, with detailed subsections and examples following this header. This header's role is to demarcate the start of a new chapter, providing a structural anchor for the subsequent detailed discussion on inequalities. For knowledge retrieval, this header indicates a transition point in the document's hierarchy, signaling the reader to a new thematic focus, even though it lacks explicit descriptive detail.",
+    "tokens": 211,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 12,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:e0ee10687dd2584afa073f45bdf2a671",
+      "default:extract:94a022c6543119b5fb53ac5f56b6acba"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter Header (header)",
+    "original_type": "header",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977785,
+    "_id": "chunk-09243ef1b5c712a333bb355ef20b27a9"
+  },
+  "chunk-b9a929007de3e65a656e055349411d70": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '5 ', 'bbox': [841, 127, 873, 160], 'page_idx': 0}\n\nAnalysis: This page_number content represents the page number '5' located at the bottom or top margin of the page, serving as a navigational and organizational element within the textbook. It is a standalone numeric indicator without embedded textual or conceptual information. The page number is crucial for referencing and locating specific content within the chapter on linear inequalities. It supports the broader discussion by enabling readers to track their progress and cross-reference examples, definitions, and explanations related to inequalities in one and two variables. Although minimal in content, it is essential for structuring the document and facilitating knowledge retrieval.",
+    "tokens": 157,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 13,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:e2bdeefdd8cc892117d4c03cf0fc449c",
+      "default:extract:146b7f2e3db32e996af9e43bf88c3888"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 5 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977785,
+    "_id": "chunk-b9a929007de3e65a656e055349411d70"
+  },
+  "chunk-46f8483b7675a761bf7fb61a51b03ea4": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 0}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of the page. Structurally, it is a single-line element located within the bounding box coordinates [433, 966, 561, 980] on page index 0, indicating its placement at the lower margin of the first page. This footer serves as a publication or edition date marker, signifying the reprint year range for the document. It is contextually significant as it provides temporal metadata about the document's version, which is essential for citation, version control, and referencing in academic or educational settings. Although it does not contain navigational or contact information typical of footers, it supports the broader discussion by anchoring the content in a specific publication timeframe, aiding users in identifying the currency and relevance of the mathematical material on linear inequalities presented in the surrounding content.",
+    "tokens": 229,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 14,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:72e014ebf2ff2f7a4d836bb15ec0824f",
+      "default:extract:ebca2b3266320061de2d93ae73f80211"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 0,
+    "create_time": 1770977692,
+    "update_time": 1770977785,
+    "_id": "chunk-46f8483b7675a761bf7fb61a51b03ea4"
+  },
+  "chunk-b07b3096afbff775453953df067d2846": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l l l} & 4 0 x + 2 0 y <   1 2 0 & \\dots (3) \\\\ \\text {a n d} & 4 0 x + 2 0 y = 1 2 0 & \\dots (4) \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given system consists of two expressions involving linear combinations of variables x and y with coefficients 40 and 20 respectively, representing quantities of registers and pens. The first expression is a strict linear inequality 40x + 20y < 120, indicating that the total cost of x registers and y pens is strictly less than 120 units of currency (denoted by τ). The second expression is a linear equation 40x + 20y = 120, representing the exact expenditure limit. Variables x and y are non-negative integers representing the number of registers and pens purchased. The operations involved are linear combinations and inequality/equality relations. This system models budget constraints in a purchasing scenario, illustrating how inequalities generalize equations to represent feasible spending limits rather than exact amounts. The inequality defines a feasible region of solutions where total cost is under budget, while the equation defines the boundary of this region. This relates to the broader study of linear inequalities and their solution sets, which are fundamental in optimization, economics, and resource allocation problems. The physical significance lies in modeling real-world constraints where exact equality is rare, and inequalities better capture permissible ranges. The system exemplifies the transition from equations to inequalities in problem-solving, highlighting the importance of inequalities in representing realistic conditions and decision-making frameworks.",
+    "tokens": 351,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 15,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:2fdf51d47f25924d5c17f5187d921291",
+      "default:extract:7c0aad6bea71125815f6c1921be85fe5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Budget Constraint Inequality and Equation for Purchases (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977785,
+    "_id": "chunk-b07b3096afbff775453953df067d2846"
+  },
+  "chunk-dc50a4ff35088534ebaec50f0379a533": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b <   0 \\tag {5}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b < 0 \\) represents a linear inequality in one variable \\( x \\), where \\( a \\) and \\( b \\) are real constants with \\( a \\neq 0 \\). Mathematically, it describes the set of all values of \\( x \\) for which the linear expression \\( a x + b \\) is strictly less than zero. The variable \\( x \\) typically denotes an unknown quantity or a variable parameter, while \\( a \\) and \\( b \\) are coefficients derived from the problem context. The inequality uses the less-than operator, indicating a strict inequality. This form is fundamental in the study of linear inequalities, which generalize linear equations by allowing inequality relations instead of equalities. The inequality partitions the real number line into two regions separated by the boundary line \\( a x + b = 0 \\). The solution set is an interval on the real line, either \\( x < -\\frac{b}{a} \\) if \\( a > 0 \\) or \\( x > -\\frac{b}{a} \\) if \\( a < 0 \\), reflecting the reversal of inequality direction when multiplying or dividing by a negative number. This inequality is foundational in optimization, economics, and various applied sciences where constraints are expressed as inequalities. It relates directly to the broader discussion of linear inequalities in one variable, illustrating how real-world constraints (such as budget limits or physical bounds) can be modeled mathematically. The equation exemplifies the transition from equations to inequalities, highlighting the importance of inequality signs and their properties in solution methods and graphical representations. Practical applications include resource allocation, budgeting problems, and feasibility conditions in linear programming. The inequality also connects to the properties and rules for manipulating inequalities, such as the reversal of inequality signs upon multiplication or division by negative numbers, which are critical for solving and interpreting such inequalities correctly.",
+    "tokens": 416,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 16,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:09e48e6b0e2f51035a06031cac43b3f0",
+      "default:extract:685151b84e2adfe04310cef23e56fbb3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977854,
+    "_id": "chunk-dc50a4ff35088534ebaec50f0379a533"
+  },
+  "chunk-6136de2cd1cf49238ae7b648dcafce35": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b > 0 \\tag {6}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b > 0 \\) represents a linear inequality in one variable \\( x \\), where \\( a \\) and \\( b \\) are real constants with \\( a \\neq 0 \\). Mathematically, it describes the set of all values of \\( x \\) for which the linear expression \\( a x + b \\) is strictly positive. Here, \\( x \\) typically denotes a real number variable, often representing quantities such as the number of items, measurements, or other countable or continuous variables in applied contexts. The inequality uses the 'greater than' relational operator, indicating a strict inequality. The operations involved include scalar multiplication (\\( a x \\)) and addition (\\( + b \\)). This inequality is fundamental in the study of linear inequalities, which are pivotal in optimization, economics, and various sciences for defining feasible regions and constraints. Within the surrounding context, this inequality exemplifies linear inequalities in one variable, extending the discussion from equations to inequalities, highlighting the difference in solution sets and the importance of inequality signs. It also relates to the rules of manipulating inequalities, such as reversing the inequality sign when multiplying or dividing by a negative number. Practically, such inequalities model constraints like budget limits, resource capacities, or thresholds in real-world problems. This equation fits into the broader framework of understanding how inequalities generalize equations and provide a richer language for expressing conditions and limitations in mathematical modeling.",
+    "tokens": 321,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 17,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:f0d9125ff394b7fdb5578c85d4bcba63",
+      "default:extract:3f140494a9a4c6ab18bd01bfc38af370"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977854,
+    "_id": "chunk-6136de2cd1cf49238ae7b648dcafce35"
+  },
+  "chunk-b306a598ad28d784e99f87a77d042c9c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b \\leq 0 \\tag {7}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b \\leq 0 \\) represents a linear inequality in one variable \\( x \\), where \\( a \\) and \\( b \\) are real constants with \\( a \\neq 0 \\). Mathematically, it describes the set of all values of \\( x \\) for which the linear expression \\( a x + b \\) is less than or equal to zero. The variable \\( x \\) typically denotes a quantity constrained by the inequality, such as the number of items or a measurable parameter. The inequality uses the less than or equal to (\\( \\leq \\)) relational operator, indicating that the solution set includes values where the expression equals zero as well as those where it is negative. This inequality is fundamental in the study of linear inequalities, serving as a canonical form for expressing constraints in one-dimensional problems. It is closely related to linear equations \\( a x + b = 0 \\), which define boundary points of the solution set. The inequality is solved by isolating \\( x \\), yielding \\( x \\leq -\\frac{b}{a} \\) if \\( a > 0 \\), or \\( x \\geq -\\frac{b}{a} \\) if \\( a < 0 \\), noting the reversal of the inequality sign when multiplying or dividing by a negative number. This property is crucial in algebraic manipulation and solution of inequalities. In the broader context of the chapter on linear inequalities, this inequality exemplifies the transition from equations to inequalities, highlighting the importance of inequality signs in modeling real-world constraints such as budget limits or physical bounds. Practical applications include optimization problems, resource allocation, and decision-making scenarios in economics, engineering, and sciences where quantities must satisfy certain upper or lower bounds. The inequality also forms the basis for graphical representation on the number line, facilitating visualization of solution sets. Overall, \\( a x + b \\leq 0 \\) encapsulates the fundamental concept of linear constraints in one variable, bridging algebraic theory and practical problem-solving.",
+    "tokens": 448,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 18,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:7031b263c8a9c0a30070181064988d57",
+      "default:extract:fcaf14d67613e9e0b47e84a679a1aa02"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977854,
+    "_id": "chunk-b306a598ad28d784e99f87a77d042c9c"
+  },
+  "chunk-29b716e05fd162b253e0b57cfa319730": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b \\geq 0 \\tag {8}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b \\geq 0 \\) represents a linear inequality in one variable \\( x \\), where \\( a \\) and \\( b \\) are real constants with \\( a \\neq 0 \\). Mathematically, it describes the set of all values of \\( x \\) for which the linear expression \\( a x + b \\) is greater than or equal to zero. The variable \\( x \\) typically denotes an unknown quantity or a variable parameter, while \\( a \\) and \\( b \\) are coefficients derived from the problem context. The inequality uses the greater than or equal to (\\( \\geq \\)) relational operator, indicating a boundary condition including equality. This form is fundamental in the study of linear inequalities, which generalize linear equations by allowing inequality relations. The inequality can be solved algebraically by isolating \\( x \\), yielding \\( x \\geq -\\frac{b}{a} \\) if \\( a > 0 \\), or \\( x \\leq -\\frac{b}{a} \\) if \\( a < 0 \\), noting the reversal of inequality direction when multiplying or dividing by a negative number. This inequality is central in optimization, economics, and various applied sciences where constraints are modeled as linear inequalities. It relates directly to the broader discussion of linear inequalities in one variable, illustrating how inequalities extend equations to model real-world constraints such as budget limits or physical bounds. The inequality also connects to graphical representations on the number line, where the solution set corresponds to a ray or interval. Its theoretical significance lies in forming the basis for systems of inequalities and linear programming problems, which are pivotal in decision-making and resource allocation.",
+    "tokens": 379,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 19,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b8bb8a178134ff8e62371d9964ef70a8",
+      "default:extract:55401f8bc3c8162ea46580b2f760eb9d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977854,
+    "_id": "chunk-29b716e05fd162b253e0b57cfa319730"
+  },
+  "chunk-a50a5816e734b1a4b744cc4b3f999f51": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b y <   c \\tag {9}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b y < c \\) represents a linear inequality in two variables \\( x \\) and \\( y \\), where \\( a \\), \\( b \\), and \\( c \\) are real constants with \\( a \\neq 0 \\) and/or \\( b \\neq 0 \\). Mathematically, it defines the set of all points \\( (x, y) \\) in the Cartesian plane for which the linear expression \\( a x + b y \\) is strictly less than the constant \\( c \\). The variables \\( x \\) and \\( y \\) typically denote quantities or parameters under consideration, such as the number of items purchased or other measurable quantities, as illustrated in the surrounding context. The inequality uses the less-than operator \\(<\\), indicating a strict inequality. This inequality partitions the plane into two half-planes separated by the line \\( a x + b y = c \\), with the solution set being the half-plane where the inequality holds true. The equation is fundamental in the study of linear inequalities, which are essential in optimization, economics, and various applied sciences. It relates to other inequalities discussed in the context, such as linear inequalities in one variable and double inequalities, by extending the concept to two variables. Practically, such inequalities model constraints in resource allocation, budgeting, and feasibility regions in linear programming. Within the broader framework of the chapter on linear inequalities, this inequality exemplifies the transition from one-variable inequalities to two-variable cases, highlighting the geometric interpretation and solution sets of linear inequalities.",
+    "tokens": 346,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 20,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:6c36fc8a47c8f13ddc95518855ae1ac5",
+      "default:extract:d4596fb24a1252a68d46a7597ce1a761"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in Two Variables (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977945,
+    "_id": "chunk-a50a5816e734b1a4b744cc4b3f999f51"
+  },
+  "chunk-c8c489a63891ae53a085b98fcfac194c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b y > c \\tag {10}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b y > c \\) represents a linear inequality in two variables \\( x \\) and \\( y \\), where \\( a \\), \\( b \\), and \\( c \\) are real constants with \\( a \\neq 0 \\) or \\( b \\neq 0 \\). Mathematically, it defines the set of all points \\( (x, y) \\) in the Cartesian plane for which the linear expression \\( a x + b y \\) exceeds the constant \\( c \\). The variables \\( x \\) and \\( y \\) typically denote quantities subject to constraints, such as the number of items purchased or resources allocated, as illustrated in the surrounding context involving purchases of registers and pens. The inequality uses the strict greater-than operator \\( > \\), indicating a half-plane excluding the boundary line \\( a x + b y = c \\). This linear inequality is fundamental in optimization, economics, and operations research, where feasible regions are defined by such constraints. It relates to other linear inequalities discussed in the text, forming systems that can be solved algebraically or graphically to determine solution sets. The physical significance lies in modeling real-world limitations, such as budget constraints or capacity limits. Within the broader framework of the chapter on linear inequalities, this inequality exemplifies the transition from single-variable inequalities to multi-variable cases, highlighting the importance of understanding solution sets and graphical representations in two dimensions. The inequality also sets the stage for exploring properties and solution techniques for linear inequalities, including the impact of multiplying or dividing by negative numbers on inequality direction.",
+    "tokens": 349,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 21,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b3b7a341032eaec5f42112eab4b4dd35",
+      "default:extract:bd454c70e4a3e94e8c094b0c17dcef29"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in Two Variables (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977945,
+    "_id": "chunk-c8c489a63891ae53a085b98fcfac194c"
+  },
+  "chunk-ecae7b6faad6387ac7ca28171db2c738": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b y \\leq c \\tag {11}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b y \\leq c \\) represents a linear inequality in two variables \\( x \\) and \\( y \\), where \\( a \\), \\( b \\), and \\( c \\) are real constants with \\( a \\neq 0 \\) or \\( b \\neq 0 \\). Mathematically, it defines a half-plane in the Cartesian coordinate system, consisting of all points \\( (x, y) \\) whose linear combination \\( a x + b y \\) does not exceed the constant \\( c \\). The variables \\( x \\) and \\( y \\) typically denote quantities subject to constraints, such as the number of items purchased or resources allocated, as illustrated in the surrounding context involving budget limitations. The inequality uses the less than or equal to (\\( \\leq \\)) relational operator, indicating that the feasible solutions include the boundary line \\( a x + b y = c \\) and all points on one side of this line. This form is fundamental in linear programming, optimization, and economic modeling, where constraints are expressed as linear inequalities. The equation relates to other inequalities discussed in the text, extending the concept from one-variable linear inequalities to two-variable cases, enabling graphical representation and solution sets in two-dimensional space. Practically, it models real-world limitations such as budget constraints, resource capacities, or physical boundaries, facilitating decision-making processes. Within the broader framework of the chapter on linear inequalities, this inequality exemplifies the transition from simple inequalities to more complex systems involving multiple variables, highlighting the importance of algebraic manipulation and graphical interpretation in solving such problems.",
+    "tokens": 359,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 22,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:4d51a4d2ec1df0732a0a4b72ecd47679",
+      "default:extract:d03350aa150176ec50c5e25ed4d09263"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in Two Variables (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977945,
+    "_id": "chunk-ecae7b6faad6387ac7ca28171db2c738"
+  },
+  "chunk-287df448dce6720de6ae485676eaf4fd": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x + b y \\geq c \\tag {12}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x + b y \\geq c \\) represents a linear inequality in two variables \\( x \\) and \\( y \\), where \\( a \\), \\( b \\), and \\( c \\) are real constants with \\( a \\neq 0 \\) or \\( b \\neq 0 \\). Mathematically, it defines a half-plane in the Cartesian coordinate system, consisting of all points \\( (x, y) \\) whose linear combination \\( a x + b y \\) is greater than or equal to \\( c \\). The variables \\( x \\) and \\( y \\) typically represent quantities or parameters subject to constraints, such as the number of items purchased or resources allocated, as illustrated in the surrounding context involving purchases within a budget. The inequality uses the greater than or equal to (\\( \\geq \\)) relational operator, indicating that the linear expression on the left-hand side is at least \\( c \\). This form is fundamental in linear programming, optimization, and feasibility analysis, where such inequalities define constraints on variables. The equation relates to other linear inequalities discussed in the context, extending the study from one-variable inequalities to two-variable cases, and is essential for understanding solution sets represented graphically as regions bounded by lines. Practically, it models real-world problems involving limitations or requirements, such as budget constraints or capacity limits, and forms the basis for solving systems of inequalities to find feasible solutions. Within the broader framework of the chapter on linear inequalities, this inequality exemplifies the transition from simple inequalities to more complex, multi-variable constraints, highlighting the importance of algebraic manipulation and graphical interpretation in problem-solving.",
+    "tokens": 366,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 23,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:e2ceafb6527f1074d54b91aabda0ed22",
+      "default:extract:80db6056542edf732112db2687b469cd"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality in Two Variables (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770977945,
+    "_id": "chunk-287df448dce6720de6ae485676eaf4fd"
+  },
+  "chunk-8920a6dcc136f54ae275121d893d713f": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x ^ {2} + b x + c \\leq 0 \\tag {13}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x^{2} + b x + c \\leq 0 \\) represents a quadratic inequality in one variable \\( x \\), where \\( a, b, \\) and \\( c \\) are real coefficients with \\( a \\neq 0 \\). Mathematically, it describes the set of values of \\( x \\) for which the quadratic polynomial \\( a x^{2} + b x + c \\) is less than or equal to zero. The inequality involves polynomial expressions and the relational operator \\( \\leq \\) (less than or equal to). In the context of the surrounding material, which focuses on linear inequalities, this equation is introduced as a contrast to linear inequalities, highlighting that it is a nonlinear (quadratic) inequality. The variable \\( x \\) typically represents a real number, and the inequality defines intervals on the real line where the quadratic expression is non-positive. The quadratic function \\( f(x) = a x^{2} + b x + c \\) is a parabola opening upwards if \\( a > 0 \\) and downwards if \\( a < 0 \\). The solution set to this inequality depends on the discriminant \\( \\Delta = b^{2} - 4ac \\): if \\( \\Delta > 0 \\), the parabola intersects the x-axis at two points, and the solution set is the interval between the roots if \\( a > 0 \\) or outside the roots if \\( a < 0 \\); if \\( \\Delta = 0 \\), the parabola touches the x-axis at one point, and the solution set includes that point and either side depending on \\( a \\); if \\( \\Delta < 0 \\), the parabola does not intersect the x-axis, and the inequality holds for all real \\( x \\) or none depending on the sign of \\( a \\). This inequality is fundamental in algebra and calculus, with applications in optimization, physics (e.g., projectile motion constraints), economics (profit and cost analysis), and engineering. It relates to the broader discussion by illustrating that not all inequalities are linear and that quadratic inequalities require different solution techniques, such as analyzing the sign of the quadratic expression via its roots and vertex. This equation serves as a stepping stone to understanding more complex inequalities beyond the linear case, emphasizing the importance of discriminant analysis and interval testing in solving inequalities.",
+    "tokens": 526,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 24,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:c5b80fe01b750247ec65d9b9ef73cd26",
+      "default:extract:9c4e21b53208001270f533c33c305a7a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Quadratic Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770978007,
+    "_id": "chunk-8920a6dcc136f54ae275121d893d713f"
+  },
+  "chunk-968408bf4627d01a02835e2a9d27bf79": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\na x ^ {2} + b x + c > 0 \\tag {14}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\( a x^{2} + b x + c > 0 \\) represents a quadratic inequality in one variable \\( x \\), where \\( a, b, \\) and \\( c \\) are real coefficients with \\( a \\neq 0 \\). Mathematically, it describes the set of values of \\( x \\) for which the quadratic polynomial \\( a x^{2} + b x + c \\) takes strictly positive values. The variable \\( x \\) typically denotes a real number, and the inequality involves polynomial expressions and the strict inequality operator \">\". This inequality is a nonlinear inequality, contrasting with the linear inequalities discussed earlier in the chapter. The quadratic form introduces curvature, and its solution set depends on the discriminant \\( \\Delta = b^{2} - 4ac \\). If \\( \\Delta < 0 \\), the quadratic does not intersect the \\( x \\)-axis, and the sign of \\( a \\) determines whether the inequality holds for all real \\( x \\) or none. If \\( \\Delta \\geq 0 \\), the roots partition the real line into intervals where the quadratic is positive or negative, and the solution set is the union of intervals where the inequality holds. This inequality is fundamental in algebra and calculus, with applications in optimization, physics (e.g., potential energy functions), and economics (e.g., profit functions). Within the broader context of the chapter on inequalities, this equation exemplifies the transition from linear to nonlinear inequalities, highlighting the increased complexity in solution methods and graphical interpretation. It also connects to the study of polynomial functions and their sign analysis, which is essential for understanding more advanced inequality problems.",
+    "tokens": 378,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 25,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:971bb706430f324a44a58482ab7742e9",
+      "default:extract:165f7dc90b7a4c8e94b51a1c8baf95a7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Quadratic Inequality in One Variable (equation)",
+    "original_type": "equation",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770978007,
+    "_id": "chunk-968408bf4627d01a02835e2a9d27bf79"
+  },
+  "chunk-34133348e31ebc2ed1d1d27ea252a617": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '90 ', 'bbox': [98, 108, 119, 119], 'page_idx': 1}\n\nAnalysis: This page_number content represents a simple numeric page indicator '90' positioned within a bounding box on the page, serving as a navigational element rather than substantive content. The page number is typically located at the bottom or top margin of a page and is used to identify the page within a larger document. In the context of the surrounding content, which discusses linear inequalities and their algebraic solutions, this page number helps readers locate and reference specific sections or examples within the textbook or educational material. It supports the broader discussion by enabling easy cross-referencing and structured navigation through the chapter on linear inequalities.",
+    "tokens": 162,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 26,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:a8f5e8160c92da397f9cae8fbeed8aa6",
+      "default:extract:d3565f5fc793d9ddce410354f76c5905"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 90 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770978007,
+    "_id": "chunk-34133348e31ebc2ed1d1d27ea252a617"
+  },
+  "chunk-2c656864a5b8f75e35bf2a852fabf6e8": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 106, 294, 119], 'page_idx': 1}\n\nAnalysis: The header 'MATHEMATICS' serves as a broad categorical label that situates the subsequent content within the academic discipline of mathematics. Structurally, it functions as a high-level thematic marker preceding detailed discussions on specific mathematical topics, such as linear inequalities. This header is positioned on page 1, following introductory and definitional content on inequalities, thereby reinforcing the subject domain. It establishes the context for the detailed exploration of mathematical concepts and problem-solving techniques that follow. The header's role is to orient the reader to the overarching field, supporting the organization and retrieval of knowledge related to mathematical principles and their applications.",
+    "tokens": 168,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 27,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:9e989e1daa0947df718199e73a73ca56",
+      "default:extract:2e018b6b6ec7f9c2cda542c909465fe7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770978007,
+    "_id": "chunk-2c656864a5b8f75e35bf2a852fabf6e8"
+  },
+  "chunk-28e94356a9717f3f5c57d12e55fdc54a": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 1}\n\nAnalysis: The footer content is minimalistic, containing only the text 'Reprint 2025-26' positioned at the bottom of page 1. Structurally, it is a single-line element placed in a dedicated footer area, separated from the main instructional content on linear inequalities. The key information conveyed is the reprint date range, indicating the edition or version timeline of the educational material. This footer serves as a bibliographic or publication metadata marker, providing temporal context for the document's currency and edition. It supports the broader educational content by informing readers about the document's validity period, which is critical for referencing, citation, and ensuring the use of up-to-date instructional material. The footer's presence aids knowledge retrieval by timestamping the content, which is essential for academic and pedagogical accuracy.",
+    "tokens": 207,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 28,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b5a8e7d9e116af0a577f0f241e8d7e95",
+      "default:extract:e702dd5a26b479e6eb31701b6f459281"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 1,
+    "create_time": 1770977692,
+    "update_time": 1770978040,
+    "_id": "chunk-28e94356a9717f3f5c57d12e55fdc54a"
+  },
+  "chunk-257e3759ad30219fcab77541fd1426ea": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\begin{array}{l} 3 > 2 \\text {w h i l e} - 3 <   - 2, \\\\ - 8 <   - 7 \\text {w h i l e} (- 8) (- 2) > (- 7) (- 2), \\text {i . e .}, 1 6 > 1 4. \\\\ \\end{array}\n$$\nFormat: latex\n\nMathematical Analysis: The given set of inequalities illustrates fundamental properties of inequalities under multiplication by negative numbers. The first inequality, 3 > 2, is a basic numerical inequality establishing that 3 is greater than 2. The second inequality, -3 < -2, shows the reversed order when comparing negative numbers. The third inequality, -8 < -7, is another example of ordering on the negative number line. The key operation demonstrated is multiplication of both sides of an inequality by a negative number (-2), which reverses the inequality sign: multiplying -8 < -7 by -2 yields 16 > 14. This exemplifies the rule that multiplying or dividing both sides of an inequality by a negative number reverses the inequality direction. Variables here are specific numeric values illustrating the principle rather than symbolic variables. The mathematical operations include inequality relations and multiplication. The context is the study of linear inequalities and their solution rules, particularly the sign reversal rule when multiplying by negative numbers. This principle is foundational in algebra and critical for correctly solving inequalities. It relates to the broader framework of solving linear inequalities in one variable, ensuring valid transformations while preserving solution sets. Practical applications include solving inequalities in economics, physics, and optimization problems where constraints involve inequalities. This example concretely demonstrates the theoretical significance of sign reversal in inequality manipulation, reinforcing the rules stated earlier in the text.",
+    "tokens": 381,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 29,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:ca3a5902e5f0b45b3c1696550075c3dd",
+      "default:extract:e071e2b82bf8e8416bbef458dfbb0df4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 2,
+    "create_time": 1770977692,
+    "update_time": 1770978040,
+    "_id": "chunk-257e3759ad30219fcab77541fd1426ea"
+  },
+  "chunk-464c07cad7b702e608b3d14a8a79a9fb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'LINEAR INEQUALITIES ', 'bbox': [636, 106, 831, 119], 'page_idx': 2}\n\nAnalysis: The header 'LINEAR INEQUALITIES' serves as a thematic and structural marker within the document, indicating the beginning of a focused discussion on linear inequalities. Positioned after foundational definitions and examples of inequalities, it signals a transition to a more specialized treatment of linear inequalities, including their algebraic solutions and graphical representations. This header organizes the content by delineating the scope to linear inequalities, which supports the broader mathematical discourse on inequalities by narrowing the focus to a specific class. It aids knowledge retrieval by clearly identifying the section dedicated to linear inequalities, facilitating navigation and contextual understanding of subsequent rules, examples, and solution methods related to this topic.",
+    "tokens": 174,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 30,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:a6868388536627251ebe29db10e15ba5",
+      "default:extract:324cd33497fed7ea4e7c9b5f735af5f3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequalities (header)",
+    "original_type": "header",
+    "page_idx": 2,
+    "create_time": 1770977692,
+    "update_time": 1770978040,
+    "_id": "chunk-464c07cad7b702e608b3d14a8a79a9fb"
+  },
+  "chunk-a7a1e291a5b6801a1e24921884d4f20b": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '91 ', 'bbox': [876, 106, 895, 119], 'page_idx': 2}\n\nAnalysis: This page_number content represents the pagination marker '91' located at the bottom or corner of the page, serving as a navigational and referential element within the document. The content is minimal, consisting solely of the page number text '91' with associated bounding box coordinates and page index metadata. It is structurally isolated from the main textual content but functionally critical for document organization, allowing readers and systems to identify the page's position within the larger work. In the context of the surrounding content, which discusses algebraic solutions of linear inequalities and their graphical representation, the page number '91' helps anchor the detailed mathematical exposition to a specific location, facilitating cross-referencing, citation, and retrieval. This page number supports the broader discussion by enabling precise navigation through the instructional material on inequalities, ensuring that users can locate examples, rules, and explanations efficiently. For knowledge retrieval, the page number acts as a key metadata attribute linking the mathematical content to its physical or digital placement in the document.",
+    "tokens": 242,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 31,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:27e7891a55e9ede2dc86f3a5e503ce7c",
+      "default:extract:5cacdca4bb89549281176f75c829f731"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 91 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 2,
+    "create_time": 1770977692,
+    "update_time": 1770978040,
+    "_id": "chunk-a7a1e291a5b6801a1e24921884d4f20b"
+  },
+  "chunk-83d72b00cfdfb110a62038f58bfaa1a6": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 2}\n\nAnalysis: The footer content is minimal, consisting solely of a reprint date 'Reprint 2025-26'. It is positioned at the bottom of page 2, as indicated by the bounding box coordinates and page index. This footer serves as a publication metadata element, providing information about the edition or reprint year of the document. It is structurally isolated from the main mathematical content, which focuses on inequalities and their solutions. The footer's presence supports document version control and helps readers identify the currency of the material, which is critical for academic referencing and knowledge retrieval. It does not contain navigational or legal information but acts as a temporal marker within the document's lifecycle.",
+    "tokens": 182,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 32,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:524b278fb485388d99b4e678eb5e4974",
+      "default:extract:4f02080c1bc19c85f96491fa9c9c7dbc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 2,
+    "create_time": 1770977692,
+    "update_time": 1770978096,
+    "_id": "chunk-83d72b00cfdfb110a62038f58bfaa1a6"
+  },
+  "chunk-35f2ced0e19f622d54f0740e5eafd3e3": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n1, 2, 3, 4, 5, 6.\n$$\nFormat: latex\n\nMathematical Analysis: The equation presented, $1, 2, 3, 4, 5, 6$, represents the discrete solution set of the linear inequality $30x < 200$ under the constraint that $x$ is a natural number (positive integers including zero in this context). Here, $x$ denotes the number of packets of rice, a variable constrained to non-negative integers due to the physical context. The inequality $30x < 200$ models a real-world limitation, such as a budget or quantity restriction, where each packet costs or weighs 30 units, and the total must be less than 200 units. The mathematical operations involved include multiplication and inequality comparison. The solution set is derived by testing integer values of $x$ and identifying those that satisfy the inequality, resulting in the set $\\\\{1, 2, 3, 4, 5, 6\\\\}$. This set is a finite subset of the natural numbers and represents all feasible quantities of packets that meet the constraint. The equation is significant as it exemplifies the process of solving linear inequalities in one variable, illustrating the concept of solution sets and their interpretation in applied contexts. It also connects to broader algebraic principles such as the properties of inequalities, the effect of domain restrictions (natural numbers vs. integers or real numbers), and the graphical representation of solutions on a number line. Practically, this approach is used in optimization, resource allocation, and decision-making problems where constraints must be satisfied. Within the broader framework, this example introduces systematic methods for solving inequalities beyond trial and error, emphasizing algebraic manipulation rules and the importance of domain considerations in solution sets.",
+    "tokens": 373,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 33,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:095787573d1fa97e19cb4489bc644583",
+      "default:extract:8e297953bd4ff187f354dda6c024f2d0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978096,
+    "_id": "chunk-35f2ced0e19f622d54f0740e5eafd3e3"
+  },
+  "chunk-4a308b1877d35d87a9dc0c401f98d340": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\ldots , - 3, - 2, - 1, 0, 1, 2, 3, 4, 5, 6\n$$\nFormat: latex\n\nMathematical Analysis: The equation represents the solution set of the linear inequality 30x < 200 when x is an integer. Mathematically, it lists all integer values of x that satisfy the inequality, specifically the integers from -3 up to 6 inclusive. Here, x denotes the number of packets of rice, a discrete variable constrained to integer values. The inequality 30x < 200 involves a linear function 30x on the left-hand side and a constant 200 on the right-hand side. The solution set is derived by isolating x and considering the integer domain, resulting in x < 20/3, which numerically is approximately 6.66. Hence, all integers less than or equal to 6 satisfy the inequality. The inclusion of negative integers down to -3 indicates that the inequality holds for these values as well, reflecting the broader integer domain context. This solution set is fundamental in algebraic methods for solving linear inequalities, illustrating the concept of solution sets in discrete domains. It connects to the broader discussion on systematic techniques for solving inequalities, emphasizing the importance of domain considerations (natural numbers, integers, real numbers) in determining solution sets. Practically, this equation models constraints in resource allocation problems, such as limiting the number of rice packets based on a total weight or cost threshold. The equation exemplifies the application of inequality properties and solution set characterization within algebraic problem-solving frameworks.",
+    "tokens": 340,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 34,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:75f3e8cd4a50b1f755f223cb9bb44ebc",
+      "default:extract:4a9e6d396f8ab82135990da85f418d97"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Solution Set of the Inequality 30x < 200 for Integer x (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978096,
+    "_id": "chunk-4a308b1877d35d87a9dc0c401f98d340"
+  },
+  "chunk-7b7a4e033d1032198e9888d0f96b4fee": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\ldots , - 4, - 3, - 2, - 1, 0, 1\n$$\nFormat: latex\n\nMathematical Analysis: The given expression represents a finite subset of integers, specifically the consecutive integers from -4 to 1 inclusive. Mathematically, this is a discrete set of integer values, often used to denote possible solutions or values of a variable within a certain range. In the context of the surrounding material, which discusses solving linear inequalities in one variable, this set likely represents part of a solution set to an inequality involving integer values of the variable x. The variables here are integers, and the set notation lists these integers explicitly. The mathematical operation involved is enumeration of integers within a closed interval on the integer number line. The application domain is algebra, specifically the solution of linear inequalities with integer constraints. The theoretical significance lies in illustrating the concept of solution sets for inequalities when the variable is restricted to integers, as opposed to real numbers. This relates to the broader discussion on solving inequalities systematically and understanding solution sets in different number domains (natural numbers, integers, real numbers). Practically, such sets are useful in problems where the variable represents countable quantities, such as the number of packets of rice in the example. This discrete solution set contrasts with continuous solution intervals in real numbers, highlighting the importance of domain specification in inequality solutions.",
+    "tokens": 290,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 35,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:cd0c6bfbf7aad32a62773023c8d0b6be",
+      "default:extract:1d491de948630231aed41bc2f76f5103"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Integer Solution Subset for Linear Inequality (equation)",
+    "original_type": "equation",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978096,
+    "_id": "chunk-7b7a4e033d1032198e9888d0f96b4fee"
+  },
+  "chunk-0d1e0a467959097e26d22eff5bcbd181": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '92 ', 'bbox': [98, 108, 119, 119], 'page_idx': 3}\n\nAnalysis: This page_number content represents the page number '92' located at the bottom of page 4 in the textbook section on algebraic solutions of linear inequalities. The content is minimal, consisting solely of the page number text '92' with its bounding box coordinates and page index metadata. It serves as a navigational and referential element within the document, enabling readers to locate and reference the page within the broader chapter. The page number supports the organization and structure of the textbook, linking the detailed examples and explanations of solving inequalities on page 4 to the overall chapter progression. It is essential for knowledge retrieval as it anchors the content contextually within the textbook's pagination system, facilitating cross-referencing and citation.",
+    "tokens": 185,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 36,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:f0e349325010aac9fd96e79d08cd3bbd",
+      "default:extract:49e31e61f2e265150eb8c20741520dc3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 92 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978140,
+    "_id": "chunk-0d1e0a467959097e26d22eff5bcbd181"
+  },
+  "chunk-e64a7518207af72f5feee032b5693bbb": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 106, 294, 119], 'page_idx': 3}\n\nAnalysis: The header 'MATHEMATICS' serves as a broad categorical title that introduces the subject matter of the content on the page. Positioned on page 3, it functions as a sectional or chapter-level header that frames the subsequent detailed discussion on algebraic solutions of linear inequalities. The header is succinct and general, indicating a transition or continuation within the educational material focused on mathematical concepts. It connects to the surrounding content by signaling the domain under which the specific examples, rules, and problem-solving techniques for inequalities are presented. This header aids in knowledge retrieval by clearly marking the thematic area, allowing users to contextualize the detailed algebraic content that follows within the broader discipline of mathematics.",
+    "tokens": 180,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 37,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:5f1d515ed6bc81c4ae380698a8e4ddf1",
+      "default:extract:1a5671226f08955eb2720b064e36967e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978140,
+    "_id": "chunk-e64a7518207af72f5feee032b5693bbb"
+  },
+  "chunk-d3dd761e6a9c817c4686e7cf508cc5be": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 3}\n\nAnalysis: The footer content is a brief copyright or reprint notice indicating the edition or publication year as 2025-26. It is succinctly placed at the bottom of page 3, likely serving as a legal or publication reference. The footer is structurally minimal, containing only the text 'Reprint 2025-26' without additional elements such as page numbers, publisher information, or disclaimers. This footer anchors the document's temporal context, confirming the edition or reprint cycle relevant to the mathematical content on solving linear inequalities. It supports the broader educational material by providing a publication timestamp, which is essential for citation, version control, and ensuring users reference the correct edition in academic or instructional settings.",
+    "tokens": 189,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 38,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:342d1aa85383c54d0e22464e5279bff7",
+      "default:extract:ab317768d203f36630de467d79a71b37"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Notice Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 3,
+    "create_time": 1770977692,
+    "update_time": 1770978140,
+    "_id": "chunk-d3dd761e6a9c817c4686e7cf508cc5be"
+  },
+  "chunk-bd35b0be853bfdee09dc0bcb0f39b98c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\frac {5 - 2 x}{3} \\leq \\frac {x}{6} - 5\n$$\nFormat: latex\n\nMathematical Analysis: The given inequality \\( \\frac{5 - 2x}{3} \\leq \\frac{x}{6} - 5 \\) represents a linear inequality involving the variable \\( x \\). Mathematically, it compares two rational expressions, each linear in \\( x \\), with denominators 3 and 6 respectively. The inequality symbol \\( \\leq \\) indicates that the left-hand side expression is less than or equal to the right-hand side expression. Variables: \\( x \\) is a real number variable representing an unknown quantity to be solved for. The operations involved include subtraction, multiplication by constants, division by constants, and the inequality comparison. The equation is manipulated by clearing denominators and rearranging terms to isolate \\( x \\) on one side, following algebraic rules and inequality properties (notably Rule 2 about multiplying/dividing by positive numbers without reversing inequality). This inequality arises in the context of solving linear inequalities, a fundamental topic in algebra, which is essential for understanding solution sets over different number domains (natural numbers, integers, real numbers). The physical or theoretical significance lies in determining the range of values \\( x \\) can take to satisfy the given condition, which can model constraints in applied problems. The inequality relates to other concepts such as linear equations, solution sets, and interval notation, as seen in the surrounding examples. Practically, such inequalities are used in optimization, decision-making, and modeling scenarios where constraints must be satisfied. Within the broader framework, this equation exemplifies the systematic approach to solving inequalities by applying algebraic rules, demonstrating the transition from fractional inequalities to simpler linear inequalities, and interpreting solution sets in real numbers.",
+    "tokens": 382,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 39,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:8fc78127d81307f103c36eec2f02b3a6",
+      "default:extract:b506a7b7b4e2060eff5789cad43a583b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Rational Inequality (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978140,
+    "_id": "chunk-bd35b0be853bfdee09dc0bcb0f39b98c"
+  },
+  "chunk-2aed5a024a46e4431f5405b7aa9f7b3a": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n2 x <   6 \\text {o r} x <   3\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 2x < 6 or equivalently x < 3 represents a linear inequality in one variable, x. Mathematically, it states that twice the value of x is less than 6, which upon division by the positive constant 2 (applying the rule that division by a positive number preserves inequality direction) simplifies to x < 3. Here, x is a real number variable, and the inequality defines the set of all real numbers less than 3. The operations involved include multiplication, division, and inequality comparison. This inequality is foundational in algebra and is used to determine solution sets within different number domains such as natural numbers, integers, and real numbers. In the context of the surrounding content, this inequality exemplifies the application of rules for solving inequalities, specifically Rule 2 regarding multiplication or division by positive numbers. The physical or theoretical significance lies in its role as a basic constraint or condition that can model thresholds or limits in various applied problems. It relates to other inequalities discussed in the text by illustrating the process of isolating the variable and determining solution sets. Practically, such inequalities are used in optimization, decision-making, and modeling scenarios where variables must satisfy certain bounds. Within the broader framework, this equation serves as a simple yet instructive example demonstrating the fundamental techniques for solving linear inequalities and understanding their solution sets in different numerical domains.",
+    "tokens": 314,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 40,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:95e2ef078baf155da1b1a567b708b3fa",
+      "default:extract:8cd2d7643a01cea1dc91b1af6a050cd5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality Simplification: 2x < 6 (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978219,
+    "_id": "chunk-2aed5a024a46e4431f5405b7aa9f7b3a"
+  },
+  "chunk-cd2bf04d68578056ed11c2ed680e86cc": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh105/hybrid_auto/images/f6ca2ecda8f3799f60866487eb9fc45a04d062d2c44645753467e784884c05d0.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 5.1' presents a horizontal number line graphically representing the solution set of the inequality 7x + 3 < 5x + 9, as discussed in the surrounding text. The number line is a straight horizontal black line with evenly spaced tick marks labeled with integers from -5 to 5. The critical point on the number line is at x = 3, which is marked with an open circle indicating that 3 is not included in the solution set. To the right of this point, the number line is highlighted with a thick blue arrow extending towards positive infinity, visually indicating that the solution set includes all real numbers greater than 3. The left side of the number line, from -5 up to but not including 3, is unhighlighted, showing these values are not part of the solution. The background is white, and the graph uses simple, clear black and blue colors for contrast and clarity. The image is a clean, minimalistic mathematical diagram designed to visually communicate the solution set of the inequality in a straightforward manner, complementing the algebraic solution provided in the text. The use of an open circle and arrow is consistent with standard mathematical notation for inequalities on number lines.",
+    "tokens": 325,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 41,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:9e3dc0ed0d4a85c03bddf9e9810628a2",
+      "default:extract:505f0761be49ca5542732e20088a24d5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+    "original_type": "image",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978219,
+    "_id": "chunk-cd2bf04d68578056ed11c2ed680e86cc"
+  },
+  "chunk-d871afd3fad96daf0af962a217d7c5a8": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\frac {3 x - 4}{2} \\geq \\frac {x + 1}{4} - 1\n$$\nFormat: latex\n\nMathematical Analysis: The given inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\) represents a linear inequality involving the variable \\( x \\). Mathematically, it compares two rational expressions, each linear in \\( x \\), with the inequality sign \\( \\geq \\) indicating that the left-hand side expression is greater than or equal to the right-hand side expression. The variable \\( x \\) is a real number, as per the context of solving inequalities in the set of real numbers. The operations involved include linear combination, division by constants, and inequality comparison. The inequality can be solved by clearing denominators (multiplying both sides by the least common multiple of denominators, here 4), applying addition and subtraction of terms on both sides (following the rules of inequalities), and isolating \\( x \\) to find the solution set. This inequality is part of a broader discussion on solving linear inequalities, demonstrating the application of rules such as adding/subtracting equal quantities and multiplying/dividing by positive numbers without reversing the inequality sign. The physical or theoretical significance lies in understanding constraints and ranges of variables in algebraic contexts. It relates to other inequalities in the text by illustrating the systematic approach to solving inequalities involving fractions and linear terms. Practically, such inequalities are foundational in optimization, decision-making, and modeling scenarios where conditions must be satisfied. Within the broader framework, this equation exemplifies the methodical approach to solving inequalities, reinforcing the conceptual understanding of inequality manipulation and solution set determination in real numbers.",
+    "tokens": 367,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 42,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:6d05a7c417d3c0e1cdcb51e4504f59b1",
+      "default:extract:c23db19dc27eca377988f3e04b23ee44"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality with Rational Expressions (equation)",
+    "original_type": "equation",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978219,
+    "_id": "chunk-d871afd3fad96daf0af962a217d7c5a8"
+  },
+  "chunk-e9f3d7bb329934e0ba55da686f833ff2": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'LINEAR INEQUALITIES ', 'bbox': [636, 105, 831, 119], 'page_idx': 4}\n\nAnalysis: The header 'LINEAR INEQUALITIES' serves as a thematic and structural marker within the mathematical content, indicating a transition to focused discussion on inequalities involving linear expressions. Positioned after multiple examples and rules about solving inequalities, it organizes the content by introducing a specific category of inequalities, linear ones, which are fundamental in algebra. This header contextualizes the subsequent examples and solutions, guiding the reader to understand that the following material will address linear inequality problems, their solution methods, and graphical representations. It supports knowledge retrieval by clearly delineating the topic scope, facilitating navigation and comprehension within the broader chapter on inequalities.",
+    "tokens": 168,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 43,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:76c0bd585c0a19773863eb66e5988534",
+      "default:extract:8f7427973d492a53cbf26cefe527e6c4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequalities (header)",
+    "original_type": "header",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978219,
+    "_id": "chunk-e9f3d7bb329934e0ba55da686f833ff2"
+  },
+  "chunk-1f3577a596050b0a99f9ecccb56e0b68": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '93 ', 'bbox': [876, 106, 895, 119], 'page_idx': 4}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '93'. It is structured as a small text snippet, typically located at the bottom or top margin of a page, with bounding box coordinates specifying its position on the page. The page number serves as a navigational and referential tool within the document, allowing readers to locate and reference specific content efficiently. In the broader context of the surrounding mathematical content on inequalities and examples, this page number helps maintain the document's organization and supports cross-referencing and indexing of the instructional material. Although minimal in textual content, the page number is crucial for document structure and user orientation.",
+    "tokens": 171,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 44,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:f73862d9bc9ab7d9d4d6a152ff37084a",
+      "default:extract:45c41a95f4918c9e273569681d5d42c9"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 93 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978269,
+    "_id": "chunk-1f3577a596050b0a99f9ecccb56e0b68"
+  },
+  "chunk-d13c4fea338778b7ce18370eeb630f0c": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 4}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date indication 'Reprint 2025-26'. It is positioned at the bottom of page 4, as indicated by the bounding box coordinates and page index. This footer serves as a publication metadata element, providing users with information about the edition or reprint cycle of the document. It is structurally isolated from the main instructional content on inequalities and examples, acting as a temporal reference point for the document's version. This information is crucial for knowledge retrieval systems to identify the currency and edition of the material, ensuring users reference the correct version in academic or instructional contexts. The footer supports the broader discussion by implicitly confirming the document's update cycle, which may affect the validity or applicability of the mathematical rules and examples presented in the surrounding content.",
+    "tokens": 209,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 45,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:bdc75e040ce61028996f7d740e59f0bc",
+      "default:extract:9846f6a37c88cefbaa8e02aa9c577de3"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 4,
+    "create_time": 1770977692,
+    "update_time": 1770978269,
+    "_id": "chunk-d13c4fea338778b7ce18370eeb630f0c"
+  },
+  "chunk-a4544fb476d55f92f75daf10e66df09f": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh105/hybrid_auto/images/796278f696793e48cce16a7e102869dd99c2d85963a5b1cfa33723ac3a2f3d5b.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 5.2' presents a horizontal number line graphically representing the solution set of the inequality x ≥ 1. The number line is marked with integers from -2 to 5, each integer clearly labeled and evenly spaced. The number 1 is emphasized with a solid black dot, indicating that it is included in the solution set. To the right of this point, a thick solid line extends indefinitely, symbolizing all real numbers greater than or equal to 1. The left side of the number line, from -2 up to but not including 1, is unmarked, indicating these values are not part of the solution. The graph uses a simple, clean style with black lines and dots on a white background, ensuring clarity and focus on the solution representation. This visual directly corresponds to the inequality solution derived in the surrounding text on page 4, where the inequality 5x ≥ 5 simplifies to x ≥ 1, and the graph visually confirms the solution set on the number line. The image serves as a pedagogical tool to help students understand how to represent inequality solutions graphically.",
+    "tokens": 306,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 46,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:bbd33788e8e6b98c8127e9f0860ce998",
+      "default:extract:554ac22863b48a6d4cb40703a81b1f8a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Number line graph of solution x ≥ 1 (image)",
+    "original_type": "image",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978269,
+    "_id": "chunk-a4544fb476d55f92f75daf10e66df09f"
+  },
+  "chunk-3d930c743c8f65b73bd2b2ffc45690e3": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\frac {6 2 + 4 8 + x}{3} \\geq 6 0\n$$\nFormat: latex\n\nMathematical Analysis: This inequality represents a condition on the variable x, which is the unknown quantity to be determined. The left-hand side is the average of three numbers: 62, 48, and x, expressed as (62 + 48 + x)/3. The right-hand side is the constant 60. The inequality states that this average must be at least 60, i.e., greater than or equal to 60. The variable x represents the marks obtained by a student in the annual examination, while 62 and 48 are the marks obtained in the first and second terminal examinations respectively. The mathematical operation used is the arithmetic mean (average) and an inequality comparison (greater than or equal to). The inequality is linear in x and can be solved by multiplying both sides by 3 and isolating x, yielding x >= 70. This equation arises in the context of determining the minimum marks required in the annual exam to achieve a target average score. It has practical significance in educational assessment and performance evaluation. The equation relates to the broader framework of solving linear inequalities and applying them to real-world problems involving averages and thresholds. It also connects to the concept of weighted sums and constraints in optimization problems.",
+    "tokens": 286,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 47,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:337334bc21a4cc89d025cddb81f7686d",
+      "default:extract:797beff21f009fb13b42bc8f8dfd30e6"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Minimum Marks Required for Target Average (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978269,
+    "_id": "chunk-3d930c743c8f65b73bd2b2ffc45690e3"
+  },
+  "chunk-b22eede2b16b52242f2a730207744205": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n2 x + 2 <   4 0\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 2x + 2 < 40 is a linear inequality in one variable x. It represents all real values of x for which the linear expression 2x + 2 is strictly less than 40. Here, x is a real variable, typically representing an unknown quantity to be solved for. The operations involved include multiplication (2 times x), addition (+2), and a strict inequality (<). The inequality can be solved by isolating x: subtract 2 from both sides to get 2x < 38, then divide both sides by 2 (positive number, so inequality direction remains) to obtain x < 19. This solution set includes all real numbers less than 19. In the context of the surrounding content, which involves solving linear inequalities and representing solution sets on the number line, this inequality exemplifies a basic linear inequality problem. It is foundational in algebra and is used to teach solving inequalities, understanding solution sets, and graphical representation. The inequality relates to other examples in the text that involve similar linear inequalities with one variable, demonstrating the process of isolating variables and interpreting solution intervals. Practically, such inequalities model constraints in optimization, resource allocation, and decision-making problems where a variable must remain below a certain threshold. Within the broader framework, this equation reinforces the fundamental skills of manipulating inequalities and understanding their solution sets, which are critical in algebra and its applications.",
+    "tokens": 315,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 48,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b6dec9f7a94f0d93ac5c3f25f2a8668d",
+      "default:extract:ac1d347a3c0a011b74fa1cc351da1275"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality 2x + 2 < 40 (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978324,
+    "_id": "chunk-b22eede2b16b52242f2a730207744205"
+  },
+  "chunk-bf36b5e6afd0d732e36e0397501591af": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n1 0 <   x <   1 9\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 10 < x < 19 represents a strict double inequality defining the range of values that the variable x can take. Mathematically, it means that x is a real number strictly greater than 10 and strictly less than 19. In the context of the surrounding content, x denotes the smaller of two consecutive odd natural numbers both greater than 10. The inequality arises from the problem constraints that the sum of these two numbers is less than 40, leading to the upper bound x < 19, while the problem also requires x > 10. The operations involved include inequality relations and the concept of consecutive odd numbers expressed as x and x + 2. This inequality is fundamental in number theory and algebra for defining solution sets within bounded intervals. It relates to other inequalities in the text by illustrating how to solve compound inequalities and apply them to discrete number sets. Practically, it helps identify all valid values of x that satisfy the problem's conditions, enabling enumeration of possible pairs of consecutive odd numbers. This equation exemplifies the use of inequalities to constrain variables in problem-solving and connects to broader discussions on solving linear inequalities and interpreting solution sets on the real number line.",
+    "tokens": 271,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 49,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:103f403423ca32442e15b4293ba2ff8f",
+      "default:extract:37a679f741d4dd6ac994f41e35cf9076"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Range of the smaller consecutive odd natural number (equation)",
+    "original_type": "equation",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978324,
+    "_id": "chunk-bf36b5e6afd0d732e36e0397501591af"
+  },
+  "chunk-48a910639912f17b67ee2b08b4834b28": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '94 ', 'bbox': [98, 108, 119, 119], 'page_idx': 5}\n\nAnalysis: This page_number content represents the page number '94' located at the bottom or corner of the page, indicated by its bounding box coordinates. It serves as a navigational and organizational element within the document, allowing readers to reference and locate specific content efficiently. The page number is isolated from the main textual or mathematical content but is crucial for maintaining the structure and flow of the material. In the broader context, it connects the examples and exercises on inequalities and their solutions from previous pages to subsequent content, facilitating continuity and ease of access in the educational text.",
+    "tokens": 154,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 50,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:d64d18011d46b17bbc7d509f344ac784",
+      "default:extract:d0d28203f36f7a5087ee73be6fa09c62"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 94 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978324,
+    "_id": "chunk-48a910639912f17b67ee2b08b4834b28"
+  },
+  "chunk-67792b4fbcc6fe664d1622d8adfd025f": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 106, 294, 119], 'page_idx': 5}\n\nAnalysis: The header 'MATHEMATICS' serves as a high-level sectional title that demarcates the beginning of a new major topic or chapter within the document. Positioned on page 5, it follows a series of solved inequality examples and precedes a set of exercises, indicating a transition from explanatory content to practice problems. The header is succinct and broad, signaling a thematic shift to mathematical content, likely encompassing various subtopics such as inequalities and problem-solving techniques. Its placement and formatting (bounding box coordinates) suggest prominence and clear visual separation from surrounding text, aiding navigation and cognitive organization. This header anchors the subsequent exercises and examples, providing contextual framing for the reader and supporting knowledge retrieval by clearly identifying the subject matter focus at this point in the document.",
+    "tokens": 195,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 51,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:0087607b4f726c04a55d5f1bcf6f643d",
+      "default:extract:e197f23f24560600b2e62be30f2bd68d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS Section Header (header)",
+    "original_type": "header",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978324,
+    "_id": "chunk-67792b4fbcc6fe664d1622d8adfd025f"
+  },
+  "chunk-e3862839a9009e71193174b2c5d7926f": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 5}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date notation 'Reprint 2025-26'. It is positioned at the bottom of page 6, as indicated by the bounding box coordinates and page index. This footer serves as a publication metadata element, providing temporal context about the edition or printing cycle of the document. It is structurally isolated from the main instructional content, which includes mathematical examples and exercises on inequalities. The footer's presence supports knowledge retrieval by timestamping the document version, which is critical for referencing, version control, and ensuring users are aware of the currency of the educational material. It does not contain navigational or legal information, focusing purely on edition identification.",
+    "tokens": 188,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 52,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:9a99a791e78ff4f35b9f5ad5d08bca0e",
+      "default:extract:514be8fa198d995ba62b7f82bbb00bd5"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 5,
+    "create_time": 1770977692,
+    "update_time": 1770978360,
+    "_id": "chunk-e3862839a9009e71193174b2c5d7926f"
+  },
+  "chunk-ff916a6b2ed82be7a585df2374d474c7": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['21. Ravi obtained 70 and 75 marks in first two unit test. Find the minimum marks he should get in the third test to have an average of at least 60 marks. ', \"22. To receive Grade 'A' in a course, one must obtain an average of 90 marks or more in five examinations (each of 100 marks). If Sunita's marks in first four examinations are 87, 92, 94 and 95, find minimum marks that Sunita must obtain in fifth examination to get grade 'A' in the course. \", '23. Find all pairs of consecutive odd positive integers both of which are smaller than 10 such that their sum is more than 11. ', '24. Find all pairs of consecutive even positive integers, both of which are larger than 5 such that their sum is less than 23. '], 'bbox': [96, 706, 897, 897], 'page_idx': 6}\n\nAnalysis: The content is a numbered list of four mathematical problems focused on inequalities and averages involving integers, specifically marks obtained in tests and properties of consecutive integers. The list is organized sequentially with each item presenting a distinct problem statement requiring algebraic reasoning to find minimum values or sets of integers satisfying given conditions. Key elements include references to averages, minimum marks, consecutive odd and even integers, and inequality constraints. The problems relate to the preceding examples and exercises on solving inequalities and applying them to real-world contexts like exam scores. This list supports the broader instructional goal of practicing inequality problem-solving and number properties, reinforcing concepts introduced earlier. It is significant for knowledge retrieval as it exemplifies applied inequality problems and integer constraints, useful for learners and educators focusing on algebraic inequalities and number theory in educational settings.",
+    "tokens": 384,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 53,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:6b06aaf6822ea3c7c104ed98393f544b",
+      "default:extract:2700bc1406989f4672bce0e4c2c6edf4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inequality and Consecutive Integer Problem Set (list)",
+    "original_type": "list",
+    "page_idx": 6,
+    "create_time": 1770977692,
+    "update_time": 1770978360,
+    "_id": "chunk-ff916a6b2ed82be7a585df2374d474c7"
+  },
+  "chunk-e49f6d4ba8b2ce0385f24a803a9953a4": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'LINEAR INEQUALITIES ', 'bbox': [638, 106, 831, 119], 'page_idx': 6}\n\nAnalysis: The header 'LINEAR INEQUALITIES' serves as a thematic and structural marker within the mathematical content, indicating the beginning of a focused discussion on linear inequalities. Positioned after examples and exercises involving inequalities and their solutions, this header organizes the content by introducing a new section dedicated to the properties, methods, and applications of linear inequalities. It signals a transition from problem-solving examples to a more formal treatment or extended exploration of the topic. This header supports knowledge retrieval by clearly delineating the scope of the subsequent content, facilitating navigation and contextual understanding within the broader discourse on algebraic inequalities. The header's placement on page 6, following worked examples and exercises on inequalities, underscores its role in structuring the educational material and guiding the learner through progressive complexity in the subject matter.",
+    "tokens": 202,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 54,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:157cdccfaeb89efdeeaf9df67d69cf2d",
+      "default:extract:0dbe8a851641a3c68ca36b2f3492e5fb"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequalities Section Header (header)",
+    "original_type": "header",
+    "page_idx": 6,
+    "create_time": 1770977692,
+    "update_time": 1770978360,
+    "_id": "chunk-e49f6d4ba8b2ce0385f24a803a9953a4"
+  },
+  "chunk-26d2b41aefe0c988692c99ef4aa5cb6a": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '95 ', 'bbox': [876, 106, 897, 119], 'page_idx': 6}\n\nAnalysis: This page_number content represents a simple pagination element indicating the page number '95'. It is structured as a single numeric text element with bounding box coordinates specifying its position on the page. There are no additional textual or graphical components associated with this page number itself. The page number serves as a navigational and referential marker within the document, linking the content on this page to the overall sequence of pages. In the broader context, it supports the organization and retrieval of information by providing a clear reference point for locating specific content, exercises, or examples discussed in the surrounding pages. This page number is essential for indexing, citation, and cross-referencing within the document but does not contain substantive content or thematic elements on its own.",
+    "tokens": 188,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 55,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b8665340cd47f2af0232ed8003ed8e98",
+      "default:extract:429cc5b08f98d6f912e29a6a03ae925b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 95 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 6,
+    "create_time": 1770977692,
+    "update_time": 1770978360,
+    "_id": "chunk-26d2b41aefe0c988692c99ef4aa5cb6a"
+  },
+  "chunk-cf34611c92ba4db87186176962239722": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 6}\n\nAnalysis: The footer content consists of a brief reprint notice indicating the edition or print cycle 'Reprint 2025-26'. It is succinctly placed at the bottom of page 6, likely serving as a publication metadata element. The structure is minimal, containing only the reprint year range without additional publisher or copyright information. This footer functions as a temporal marker for the document's version, supporting bibliographic referencing and version control. In the broader context of the textbook pages, which include mathematical examples and exercises, this footer anchors the content in a specific publication timeframe, aiding users in identifying the edition for citation or educational use.",
+    "tokens": 173,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 56,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:9557a445481f960ce48e77cc453f6afc",
+      "default:extract:1187c2f5db8100bfe1431a72d5ae357c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Notice Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 6,
+    "create_time": 1770977692,
+    "update_time": 1770978432,
+    "_id": "chunk-cf34611c92ba4db87186176962239722"
+  },
+  "chunk-a6a940b50fac65aa743442052093ee23": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['25. The longest side of a triangle is 3 times the shortest side and the third side is $2\\\\mathrm{cm}$ shorter than the longest side. If the perimeter of the triangle is at least $61\\\\mathrm{cm}$ , find the minimum length of the shortest side. ', '26. A man wants to cut three lengths from a single piece of board of length $91\\\\mathrm{cm}$ . The second length is to be $3\\\\mathrm{cm}$ longer than the shortest and the third length is to be twice as long as the shortest. What are the possible lengths of the shortest board if the third piece is to be at least $5\\\\mathrm{cm}$ longer than the second? '], 'bbox': [96, 138, 903, 273], 'page_idx': 7}\n\nAnalysis: The content is a numbered list of two word problems involving inequalities related to geometric and measurement contexts. Each item presents a scenario requiring the formulation and solving of inequalities to find minimum or possible lengths of sides or pieces. The list is structured sequentially with clear problem statements, each involving relationships between lengths and constraints expressed as inequalities. These problems connect to the broader exercise set focused on solving inequalities, supporting the application of algebraic methods to real-world contexts. The list items serve as practical examples reinforcing the theoretical concepts introduced earlier, facilitating knowledge retrieval on inequality problem-solving in geometry and measurement.",
+    "tokens": 312,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 57,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:06684618d586bbba83724f8bf658329b",
+      "default:extract:0e7af9cf24ec5d46a8af4a756ec4b1a2"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inequality Word Problems on Lengths and Measurements (list)",
+    "original_type": "list",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978432,
+    "_id": "chunk-a6a940b50fac65aa743442052093ee23"
+  },
+  "chunk-2bc41393e4a18b2829c91b7e7c58188e": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n3 x - 7 <   5 + x \\tag {1}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 3x - 7 < 5 + x is a linear inequality in one variable x. It expresses a relationship where the linear expression on the left side, 3x - 7, is strictly less than the linear expression on the right side, 5 + x. The variable x represents a real number, as indicated by the surrounding exercises focusing on solving inequalities for real x. The inequality involves basic arithmetic operations: multiplication of x by constants (3 and 1), addition and subtraction of constants (-7 and 5), and a strict inequality comparison (<). Solving this inequality involves isolating x by algebraic manipulation, which is fundamental in understanding solution sets of inequalities. This equation is part of a broader set of exercises aimed at developing skills in solving linear inequalities, which are foundational in algebra and have applications in optimization, economics, and various scientific modeling contexts. The inequality also relates to other linear inequalities in the text, illustrating methods to find solution intervals and graph them on the number line. Practically, such inequalities can model constraints or conditions in real-world problems, such as resource limitations or threshold conditions. Within the broader framework, this inequality exemplifies the process of translating verbal or contextual constraints into mathematical form and solving them to find permissible values of variables.",
+    "tokens": 294,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 58,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:2d1a0740939a1e557c39c83b1b7b5821",
+      "default:extract:b74fcd4010f0dd0609dc2ac5eafff1c9"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality 3x - 7 < 5 + x (equation)",
+    "original_type": "equation",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978432,
+    "_id": "chunk-2bc41393e4a18b2829c91b7e7c58188e"
+  },
+  "chunk-c118a5502cf719151e9b334f4f927371": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n1 1 - 5 x \\leq 1 \\tag {2}\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\(11 - 5x \\leq 1\\) represents a linear inequality in one variable \\(x\\). Mathematically, it expresses a constraint on \\(x\\) such that when multiplied by \\(-5\\) and added to 11, the result does not exceed 1. Here, \\(x\\) is a real number variable, consistent with the context of solving inequalities for real or integer values. The operations involved include scalar multiplication, addition, and inequality comparison. This inequality can be rearranged to isolate \\(x\\) as \\(-5x \\leq -10\\) or equivalently \\(x \\geq 2\\) after dividing both sides by \\(-5\\) and reversing the inequality sign due to division by a negative number. Within the broader context of the exercises, this inequality exemplifies solving linear inequalities and determining solution sets, which may be restricted to integers, natural numbers, or real numbers. It is foundational in algebra for understanding constraints and solution intervals, and it relates to other inequalities in the text by demonstrating the manipulation and solution of linear inequalities. Practically, such inequalities model real-world constraints, such as resource limits or boundary conditions in optimization problems. This equation fits into the broader framework of algebraic problem-solving and inequality analysis presented in the surrounding exercises.",
+    "tokens": 305,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 59,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:4f611a7102f8250059a22649213d3a3d",
+      "default:extract:2cae4c9c1ae9451e16713f760195c455"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality Constraint (equation)",
+    "original_type": "equation",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978432,
+    "_id": "chunk-c118a5502cf719151e9b334f4f927371"
+  },
+  "chunk-5c469594ab7371c58f453f634a5e2013": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n3 x - 7 <   5 + x\n$$\nFormat: latex\n\nMathematical Analysis: The inequality 3x - 7 < 5 + x is a linear inequality in one variable x. It expresses a relationship where the linear expression on the left side, 3x - 7, is strictly less than the linear expression on the right side, 5 + x. The variable x represents a real number, and the goal is to find all values of x that satisfy this inequality. The operations involved include multiplication of x by constants (3 and 1), addition and subtraction of constants (-7 and 5), and the inequality comparison '<'. This inequality is part of a set of exercises focused on solving linear inequalities, which are fundamental in algebra and are used to determine ranges of values that satisfy certain conditions. The solution involves isolating x by algebraic manipulation, which is a key skill in solving inequalities. This inequality relates to other linear inequalities in the context, illustrating methods to find solution sets for inequalities involving linear expressions. Practically, such inequalities can model constraints in optimization problems, economics, and physics where certain quantities must remain below or above thresholds. Within the broader framework, this inequality exemplifies the process of solving and interpreting linear inequalities, reinforcing understanding of inequality properties and solution sets on the real number line.",
+    "tokens": 281,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 60,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:c3bcb431fd101e6dea79342fb9ba2347",
+      "default:extract:d1b7f03fad3aa7d437dc36f2d7076d04"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality 3x - 7 < 5 + x (equation)",
+    "original_type": "equation",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978486,
+    "_id": "chunk-5c469594ab7371c58f453f634a5e2013"
+  },
+  "chunk-4164383177b90dd49c1eed0532117fc4": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n1 1 - 5 x \\leq 1\n$$\nFormat: latex\n\nMathematical Analysis: The inequality \\(11 - 5x \\leq 1\\) represents a linear inequality in one variable \\(x\\). Mathematically, it expresses a constraint on \\(x\\) such that when multiplied by \\(-5\\) and added to 11, the result does not exceed 1. Here, \\(x\\) is a real number variable, consistent with the context of solving linear inequalities on real numbers. The operations involved include scalar multiplication, addition, and the inequality relation \\(\\leq\\) (less than or equal to). This inequality can be rearranged by subtracting 11 from both sides to yield \\(-5x \\leq -10\\), and then dividing both sides by \\(-5\\) (noting the inequality direction reverses due to division by a negative number), resulting in \\(x \\geq 2\\). This solution set describes all real numbers \\(x\\) greater than or equal to 2. Within the broader context of the exercises, this inequality exemplifies the process of solving linear inequalities, a fundamental skill in algebra. It also relates to the system of inequalities discussed in the surrounding content, where solutions are often represented on the number line. The physical or theoretical significance lies in modeling constraints or conditions in applied problems, such as resource limits or boundary conditions. Practically, such inequalities are used in optimization, economics, and engineering to define feasible regions. This equation fits into the broader framework of understanding and manipulating inequalities to find solution sets and interpret them graphically or numerically.",
+    "tokens": 347,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 61,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:acab2c3189381c8a9f698aca328d590a",
+      "default:extract:f9adc27b7d6c2a8eabc9749eb813ac53"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+    "original_type": "equation",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978486,
+    "_id": "chunk-4164383177b90dd49c1eed0532117fc4"
+  },
+  "chunk-e349b4fe5bf5ec6ac34230e9fbe29cf2": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '96 ', 'bbox': [98, 108, 119, 119], 'page_idx': 7}\n\nAnalysis: This page_number content represents the page identifier '96' located at the bottom or corner of the page, typically used for navigation and referencing within the document. The content is minimal, consisting solely of the page number text '96' with bounding box coordinates indicating its position on the page. It serves as a structural element rather than substantive content, providing a reference point that connects the exercises and examples on this page to the overall sequence of the textbook or document. This page number supports the broader discussion by enabling users to locate and cite specific content, such as the inequalities exercises and examples on solving inequalities, which are part of a continuous mathematical topic spanning multiple pages.",
+    "tokens": 175,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 62,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:232054c69303fcd9c6ca5e5087988d30",
+      "default:extract:20db39795e55606d2064ed4b7f3566c0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 96 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978486,
+    "_id": "chunk-e349b4fe5bf5ec6ac34230e9fbe29cf2"
+  },
+  "chunk-f6a8314d31da9c21be9d7e2f0a9a69f2": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 106, 294, 119], 'page_idx': 7}\n\nAnalysis: The header 'MATHEMATICS' serves as a primary sectional title that demarcates the beginning of a new major topic or chapter within the document. Positioned on page 7, it follows a series of exercises and examples related to solving inequalities, indicating a transition from problem sets to potentially new mathematical concepts or a broader discussion within the subject. The header is succinct and prominently placed, likely using a larger font size and distinct bounding box coordinates to visually separate it from preceding content. This header functions as an organizational anchor, guiding readers through the document's structure and signaling a thematic shift. It supports knowledge retrieval by clearly identifying the subject area, enabling users to locate mathematical content efficiently within the broader educational material.",
+    "tokens": 186,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 63,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:935b0f78454daf064eb57a04fb753139",
+      "default:extract:c713b6e157eac216f3f1fbdef69add29"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "MATHEMATICS Section Header (header)",
+    "original_type": "header",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978486,
+    "_id": "chunk-f6a8314d31da9c21be9d7e2f0a9a69f2"
+  },
+  "chunk-e55aa0f6dc6fc62931346fbb99ece518": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 7}\n\nAnalysis: The footer content is minimalistic, consisting solely of a reprint date notation 'Reprint 2025-26'. It is positioned at the bottom of page 7, as indicated by the bounding box coordinates and page index. The structure is simple, containing a single textual element without additional navigation links, copyright information, or contact details. This footer serves as a publication metadata marker, indicating the edition or reprint year of the document. In the context of the surrounding mathematical exercises and examples on inequalities, this footer provides temporal context for the document's version, supporting knowledge retrieval by clarifying the currency and edition of the educational material. It helps users and systems identify the document's publication cycle, which is significant for referencing, version control, and ensuring the use of up-to-date content in academic or instructional settings.",
+    "tokens": 211,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 64,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:dce44453099d9dd000d3000ef81ab483",
+      "default:extract:b934dee3f52dd13fc3814729f2a2bb08"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 7,
+    "create_time": 1770977692,
+    "update_time": 1770978538,
+    "_id": "chunk-e55aa0f6dc6fc62931346fbb99ece518"
+  },
+  "chunk-ef0e70bb8d1e46a4aeabc9b91ac8d95c": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh105/hybrid_auto/images/265b9c5b43fd4932100ceafdadc4ebef4d265e61180eb069bab845c199928b91.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image titled 'Fig 5.3' presents a horizontal number line graphically representing the solution set of a system of inequalities involving the variable x. The number line is marked with integers from 0 to 8, with each integer clearly labeled and evenly spaced. The segment between 2 and 6 is highlighted with a bold line, indicating the range of values satisfying the inequalities 2 ≤ x < 6. The point at 2 is marked with a solid dot, signifying that 2 is included in the solution set, while the point at 6 is marked with an open circle, indicating that 6 is excluded. The number line is drawn in black on a white background, with no additional colors or decorative elements, emphasizing clarity and precision. The visual style is simple and clean, typical of mathematical textbook illustrations. This figure directly relates to the surrounding text on page 7, which discusses solving inequalities and representing their solutions graphically. The image serves as a visual aid to the explanation of the solution set for the inequalities x ≥ 2 and x < 6, reinforcing the concept of interval notation and graphical representation of solutions on a number line.",
+    "tokens": 308,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 65,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:6e39d4a109a2c834ce82d735b9e1c438",
+      "default:extract:352923874eb678fb6c51e8f0b77505e0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Number line graph showing solution set 2 ≤ x < 6 (image)",
+    "original_type": "image",
+    "page_idx": 8,
+    "create_time": 1770977692,
+    "update_time": 1770978538,
+    "_id": "chunk-ef0e70bb8d1e46a4aeabc9b91ac8d95c"
+  },
+  "chunk-587c6a47ce05a4be61f72c070f4fa639": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n3 0 <   \\frac {5}{9} (F - 3 2) <   3 5,\n$$\nFormat: latex\n\nMathematical Analysis: The given inequality 30 < (5/9)(F - 32) < 35 represents a compound inequality involving a linear transformation between two temperature scales: Fahrenheit (F) and Celsius (C). Here, the variable F denotes temperature in degrees Fahrenheit, and the expression (5/9)(F - 32) converts Fahrenheit to Celsius according to the standard conversion formula C = (5/9)(F - 32). The inequality bounds the Celsius temperature between 30 and 35 degrees, indicating a temperature range constraint. Mathematically, this involves scalar multiplication and subtraction within the linear function converting F to C. The inequality is solved by isolating F, multiplying all parts by 9/5, and adding 32, yielding the Fahrenheit range corresponding to the Celsius bounds. This equation is situated in the context of temperature conversion and range determination, illustrating how to translate constraints from one unit system to another. It exemplifies the use of compound inequalities to express and solve real-world constraints, particularly in physical sciences and engineering where temperature control is critical. The equation relates to other inequalities in the text by demonstrating the method of solving compound inequalities and applying linear transformations. Practically, it is used to determine acceptable temperature ranges in Fahrenheit when Celsius limits are specified, such as in chemical experiments or environmental controls. This equation thus bridges theoretical inequality solving with practical unit conversion and constraint satisfaction within the broader framework of applied mathematics and problem-solving.",
+    "tokens": 336,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 66,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:35907a471a908402904a9443ea3b7faf",
+      "default:extract:d3c466070cd1280dd468f368cfd5038e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Temperature Conversion Inequality (equation)",
+    "original_type": "equation",
+    "page_idx": 8,
+    "create_time": 1770977692,
+    "update_time": 1770978538,
+    "_id": "chunk-587c6a47ce05a4be61f72c070f4fa639"
+  },
+  "chunk-aebf53319bd95dc132a131aedb2fa637": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'LINEAR INEQUALITIES ', 'bbox': [636, 105, 831, 119], 'page_idx': 8}\n\nAnalysis: The header 'LINEAR INEQUALITIES' serves as a thematic and structural marker within the document, indicating the beginning of a focused section on linear inequalities. Positioned on page 8, it follows a series of miscellaneous examples and solutions involving inequalities and their applications, such as solving compound inequalities, systems of inequalities, and real-world problems involving concentration and temperature ranges. This header organizes the content by signaling a transition from example-driven explanations to a more systematic treatment or exercises related to linear inequalities. It connects the preceding illustrative problems to the upcoming exercises and theoretical discussions, thereby supporting the broader pedagogical flow of the chapter. The header's placement and formatting (bounding box coordinates) emphasize its role as a major sectional title, facilitating knowledge retrieval by clearly demarcating the topic focus for readers and indexing systems.",
+    "tokens": 207,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 67,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:67f8b18b9701a60e28c366095ba568ec",
+      "default:extract:d88646421e2b81ae51c7f3289d754cb8"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequalities Section Header (header)",
+    "original_type": "header",
+    "page_idx": 8,
+    "create_time": 1770977692,
+    "update_time": 1770978538,
+    "_id": "chunk-aebf53319bd95dc132a131aedb2fa637"
+  },
+  "chunk-fc7542850d92bbe121cbf3c0a8b3a7a4": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '97 ', 'bbox': [876, 106, 897, 119], 'page_idx': 8}\n\nAnalysis: This page_number content represents a page identifier, specifically the page number '97', located at coordinates [876, 106, 897, 119] on page index 8. It serves as a navigational and organizational element within the document, marking the transition or continuation of content across pages. The page number is crucial for referencing, indexing, and locating specific information within the broader text. In the surrounding context, the content includes mathematical examples and exercises related to inequalities and solution sets, with the page number indicating the current position in the sequence of instructional material. This facilitates structured learning and easy retrieval of examples and exercises in the chapter.",
+    "tokens": 172,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 68,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:2395132f5bb5af07160262f86b4b0b7e",
+      "default:extract:f38fa6b71ab733014387a357b826ca93"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 97 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 8,
+    "create_time": 1770977692,
+    "update_time": 1770978579,
+    "_id": "chunk-fc7542850d92bbe121cbf3c0a8b3a7a4"
+  },
+  "chunk-418722450b5d8e8d0122dd3f9590225f": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 8}\n\nAnalysis: The footer content is succinctly structured as a single line of text indicating 'Reprint 2025-26', positioned at the bottom of page 8. This element serves as a publication or edition marker, specifying the reprint years for the document. It is organized independently from the main instructional and example content, providing metadata about the document's version rather than instructional material. The footer's key information is the reprint date range, which is critical for version control, citation, and referencing. Its relationship to the surrounding content is indirect; while the main content on pages 7 to 9 involves mathematical examples and exercises on inequalities, the footer anchors the document in time, supporting the broader context by clarifying the edition of the educational material. This temporal metadata aids knowledge retrieval by allowing users to identify the currency and edition of the content, ensuring they reference or use the correct version in academic or instructional settings.",
+    "tokens": 230,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 69,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:1d89c3418755cb01e42e20a82a0a7157",
+      "default:extract:ab1d56a8869b68d0b19a129b8d50555a"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Document Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 8,
+    "create_time": 1770977692,
+    "update_time": 1770978579,
+    "_id": "chunk-418722450b5d8e8d0122dd3f9590225f"
+  },
+  "chunk-20105e108553f57ce06d3a57c421df28": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['7. $5x + 1 > - 24,5x - 1 <   24$ ', '8. $2(x - 1) < x + 5, 3(x + 2) > 2 - x$ ', '9. $3x - 7 > 2(x - 6), 6 - x > 11 - 2x$ ', '10. $5(2x - 7) - 3(2x + 3) \\\\leq 0, 2x + 19 \\\\leq 6x + 47.$ ', '11. A solution is to be kept between $68^{\\\\circ}\\\\mathrm{F}$ and $77^{\\\\circ}\\\\mathrm{F}$ . What is the range in temperature in degree Celsius (C) if the Celsius/Fahrenheit (F) conversion formula is given by '], 'bbox': [100, 602, 899, 738], 'page_idx': 9}\n\nAnalysis: The content is a numbered list of mathematical inequality problems and applied examples related to solving compound inequalities and interpreting their solutions in real-world contexts. The list items include algebraic inequalities involving linear expressions and systems of inequalities, as well as practical problems involving temperature conversions between Celsius and Fahrenheit and concentration mixtures. The structure is sequential, with each item presenting a distinct problem or scenario, some with multiple inequalities to solve simultaneously. This list follows earlier examples and explanations on solving inequalities and supports practice and reinforcement of these concepts. It connects to the broader discussion by providing exercises that apply theoretical knowledge to both abstract algebraic problems and practical applications, facilitating comprehension and skill development. The list is integral for knowledge retrieval as it exemplifies problem types, solution methods, and contextual applications relevant to inequalities in mathematics.",
+    "tokens": 391,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 70,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:9a4c99e432a2e1c22bb45bdb55cf5676",
+      "default:extract:ee938cd5198586b8ee0dcb16085029e4"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Inequality Problems and Applied Exercises List (list)",
+    "original_type": "list",
+    "page_idx": 9,
+    "create_time": 1770977692,
+    "update_time": 1770978579,
+    "_id": "chunk-20105e108553f57ce06d3a57c421df28"
+  },
+  "chunk-3761b136f493b9f7ace26225e589525c": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\mathrm {F} = \\frac {9}{5} \\mathrm {C} + 3 2?\n$$\nFormat: latex\n\nMathematical Analysis: The equation \\( \\mathrm{F} = \\frac{9}{5} \\mathrm{C} + 32 \\) represents the linear conversion formula between temperature scales Celsius (\\(C\\)) and Fahrenheit (\\(F\\)). Mathematically, it is an affine transformation mapping a temperature value in degrees Celsius to its equivalent in degrees Fahrenheit. Here, \\(C\\) is the independent variable denoting temperature in Celsius, and \\(F\\) is the dependent variable denoting temperature in Fahrenheit. The operation involves multiplication by the factor \\(\\frac{9}{5}\\) (or 1.8), followed by an addition of 32, which accounts for the offset between the two scales. This formula is derived from the linear relationship between the freezing and boiling points of water in the two scales: 0°C corresponds to 32°F, and 100°C corresponds to 212°F. The equation is fundamental in thermodynamics and everyday temperature conversions, enabling translation of temperature measurements between metric and imperial systems. In the surrounding context, it is used to determine the Fahrenheit temperature range corresponding to a given Celsius range (30°C to 35°C), illustrating practical application in experimental conditions requiring temperature control. This equation relates to inequalities and interval solutions discussed earlier, as it facilitates converting constraints expressed in Celsius to equivalent constraints in Fahrenheit, thus integrating algebraic manipulation with real-world measurement systems. Its theoretical significance lies in exemplifying linear functions and their use in unit conversions, while practically it is essential in scientific, engineering, and meteorological contexts where temperature data interchange is necessary.",
+    "tokens": 361,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 71,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:c52d282db623dcacedf6f1206190279f",
+      "default:extract:243c16121faa16602cb863b4ec5ad745"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+    "original_type": "equation",
+    "page_idx": 9,
+    "create_time": 1770977692,
+    "update_time": 1770978579,
+    "_id": "chunk-3761b136f493b9f7ace26225e589525c"
+  },
+  "chunk-7638ae09bd715d6f1978ed8b2b0a236f": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '98 ', 'bbox': [98, 108, 119, 119], 'page_idx': 9}\n\nAnalysis: This page_number content represents the physical page number '98' located at coordinates [98, 108, 119, 119] on page index 9. It serves as a navigational and referential element within the document, marking the transition between pages. The page number is isolated from the main textual content and does not contain instructional or explanatory material itself. Its presence is crucial for organizing the document, enabling readers to locate specific sections, exercises, or examples referenced in the surrounding content. In the broader context, this page number supports the structure of the chapter on inequalities and related exercises, facilitating easy cross-referencing and continuity in the learning material.",
+    "tokens": 175,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 72,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b439796441cdd5726501a65d5b7102e4",
+      "default:extract:17f5cd2d1b903d2a1deff9c9ca2e1d48"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page Number 98 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 9,
+    "create_time": 1770977692,
+    "update_time": 1770978621,
+    "_id": "chunk-7638ae09bd715d6f1978ed8b2b0a236f"
+  },
+  "chunk-8adfc67b259c9df6bd2c33371dda0dd1": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'MATHEMATICS ', 'bbox': [168, 106, 294, 119], 'page_idx': 9}\n\nAnalysis: The header 'MATHEMATICS' serves as a sectional title demarcating the beginning of a new thematic segment within the document. Positioned on page 9, it follows a series of worked examples and exercises related to inequalities and solution mixtures, indicating a transition to broader or different mathematical topics. The header is succinct and prominently placed, likely using a larger font size and distinct bounding box coordinates to visually separate it from preceding content. This structural element organizes the content, signaling to readers a shift in focus and aiding navigation. It supports the broader discussion by grouping related mathematical concepts under a clear, identifiable label, facilitating knowledge retrieval and thematic coherence within the document.",
+    "tokens": 176,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 73,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:8930c66fd76a2371e785b3f531f03c3f",
+      "default:extract:a9f69239dd07ed797bd4c0d70e1ffb36"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Section Header: MATHEMATICS (header)",
+    "original_type": "header",
+    "page_idx": 9,
+    "create_time": 1770977692,
+    "update_time": 1770978621,
+    "_id": "chunk-8adfc67b259c9df6bd2c33371dda0dd1"
+  },
+  "chunk-79f3c0e41e82e9e99e4e3b7bb4fe4632": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 9}\n\nAnalysis: The footer content is minimal, consisting solely of the text 'Reprint 2025-26' positioned at the bottom of page 9. Structurally, it is a single-line footer without additional elements such as page numbers, copyright notices, or publisher information. The key information conveyed is the reprint edition year range, indicating the document's version or publication cycle. This footer serves as a bibliographic and version control marker, linking the current content to its publication timeline. In the broader context of the mathematical instructional material on inequalities and exercises, this footer provides metadata useful for citation, version tracking, and archival retrieval, ensuring users can identify the edition of the educational content they are referencing or using.",
+    "tokens": 189,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 74,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b67dc2da8306ac1a15d9d2adc61b77f6",
+      "default:extract:96ee611e266ebff5b3863cd0d812dc56"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Reprint Edition Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 9,
+    "create_time": 1770977692,
+    "update_time": 1770978621,
+    "_id": "chunk-79f3c0e41e82e9e99e4e3b7bb4fe4632"
+  },
+  "chunk-34e19565585c6aa5fd75c7dae2b456ed": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['13. How many litres of water will have to be added to 1125 litres of the $45\\\\%$ solution of acid so that the resulting mixture will contain more than $25\\\\%$ but less than $30\\\\%$ acid content? ', '14. IQ of a person is given by the formula '], 'bbox': [98, 141, 895, 236], 'page_idx': 10}\n\nAnalysis: The content is a continuation of a numbered list of exercises related to inequalities and mixture problems involving percentages, specifically acid solutions and IQ calculations. The list is structured sequentially, with each item presenting a distinct problem statement requiring mathematical reasoning to solve inequalities or apply formulas. Key elements include quantitative data (litres, percentages), algebraic expressions, and real-world contexts (acid mixtures, IQ formula). The components are related as progressive exercises building on the theme of solving inequalities and applying them to practical scenarios. This list supports the broader discussion by providing practice problems that reinforce concepts introduced earlier, facilitating knowledge application and retrieval in mathematical problem-solving contexts.",
+    "tokens": 241,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 75,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:b103ba1dd809d521708ca59d90e3956f",
+      "default:extract:7378f343387d4545e64162b6b004af2b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Exercises on Inequalities and Mixture Problems (list)",
+    "original_type": "list",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978621,
+    "_id": "chunk-34e19565585c6aa5fd75c7dae2b456ed"
+  },
+  "chunk-1d2dfe64056a63fdbebd596e32626a14": {
+    "content": "Mathematical Equation Analysis:\nEquation: $$\n\\mathrm {I Q} = \\quad \\frac {\\mathrm {M A}}{\\mathrm {C A}} \\times 1 0 0,\n$$\nFormat: latex\n\nMathematical Analysis: The equation \\( \\mathrm{IQ} = \\frac{\\mathrm{MA}}{\\mathrm{CA}} \\times 100 \\) defines the Intelligence Quotient (IQ) as a ratio of mental age (MA) to chronological age (CA), scaled by 100 to convert it into a percentage-like measure. Here, \\( \\mathrm{MA} \\) represents the assessed cognitive development level of an individual, while \\( \\mathrm{CA} \\) is the actual age in years. The mathematical operation involves division and multiplication, producing a dimensionless index that quantifies intellectual performance relative to age norms. This formula is foundational in psychometrics and developmental psychology, providing a standardized metric to compare cognitive abilities across different age groups. It relates to the broader context of assessing mental development and is used to interpret IQ score ranges, such as \\( 80 \\leq \\mathrm{IQ} \\leq 140 \\), to determine corresponding mental age intervals for a fixed chronological age (e.g., 12 years). The equation's theoretical significance lies in its normalization of mental age by chronological age, enabling meaningful comparisons and diagnostic evaluations. Practically, it guides educational and clinical decisions by identifying cognitive delays or advancements. This formula connects to other inequalities and problem-solving exercises in the surrounding content, emphasizing the application of algebraic manipulation and inequality solving in real-world contexts.",
+    "tokens": 327,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 76,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:2ae2e988ab6c2e74e67407bd54fc38ce",
+      "default:extract:847553037bdc3001f735073330e7db36"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Intelligence Quotient (IQ) Formula (equation)",
+    "original_type": "equation",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978673,
+    "_id": "chunk-1d2dfe64056a63fdbebd596e32626a14"
+  },
+  "chunk-50e4d121155784b84d2aa1c6d5d8de79": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['$\\\\diamond$ Two real numbers or two algebraic expressions related by the symbols $<, >, \\\\leq$ or $\\\\geq$ form an inequality. ', '$\\\\diamond$ Equal numbers may be added to (or subtracted from) both sides of an inequality. ', '$\\\\diamond$ Both sides of an inequality can be multiplied (or divided) by the same positive number. But when both sides are multiplied (or divided) by a negative number, then the inequality is reversed. ', '$\\\\diamond$ The values of $x$ , which make an inequality a true statement, are called solutions of the inequality. ', 'To represent $x < a$ (or $x > a$ ) on a number line, put a circle on the number $a$ and dark line to the left (or right) of the number $a$ . ', 'To represent $x \\\\leq a$ (or $x \\\\geq a$ ) on a number line, put a dark circle on the number $a$ and dark the line to the left (or right) of the number $x$ . '], 'bbox': [123, 404, 873, 635], 'page_idx': 10}\n\nAnalysis: The content is a structured list of key principles and rules related to inequalities in algebra. It is organized as a series of bullet points, each conveying a distinct concept: the definition of inequalities, permissible operations on inequalities (addition, subtraction, multiplication, division), the effect of multiplying or dividing by negative numbers on inequality direction, the definition of solutions to inequalities, and graphical representation conventions on number lines for strict and non-strict inequalities. The list items are concise, using mathematical notation and terminology appropriate for learners. This list serves as a foundational summary or reference within a broader educational context focused on solving inequalities, as evidenced by preceding exercises and examples on the same topic. It supports knowledge retrieval by clearly delineating fundamental rules and visualization methods essential for understanding and solving inequalities, thus reinforcing the chapter's instructional goals.",
+    "tokens": 440,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 77,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:36aa3e5566af2c501ac8f6f0d23737d8",
+      "default:extract:a29be7cc825292b84addeb26fe9275d1"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Fundamental Rules and Representations of Inequalities (list)",
+    "original_type": "list",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978673,
+    "_id": "chunk-50e4d121155784b84d2aa1c6d5d8de79"
+  },
+  "chunk-e239d25e5b01eb3f8e6d78a1a0381fa2": {
+    "content": "\nImage Content Analysis:\nImage Path: /workspace/Maths_XI/output/kemh105/hybrid_auto/images/b5fe2e9e632884d8005697d26e808f4a416f19add7a4d8806aea719bb13f1650.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a mathematical graph depicting a number line used to represent the solution set of a compound inequality involving the variable x. The number line is horizontal, marked with evenly spaced tick marks and labeled with numerical values at key points: 0, 120, 300, and 400. The segment between 120 and 300 is highlighted or emphasized, indicating the solution range where x is greater than 120 but less than 300. This corresponds directly to the inequality 120 < x < 300 derived in the surrounding text. The number line uses a simple, clean visual style with black lines and numbers on a white background, ensuring clarity and focus on the solution interval. There are no additional graphical elements such as arrows or shading beyond the highlighted segment. The image visually supports the textual explanation on page 9 about the volume of a 30% acid solution needing to be between 120 and 300 liters, reinforcing the concept of solution sets for inequalities and their graphical representation on a number line.",
+    "tokens": 278,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 78,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:fe17e0e0de949778d81199f479458b1c",
+      "default:extract:b71287bc174929b8d040482f6e0e809f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+    "original_type": "image",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978673,
+    "_id": "chunk-e239d25e5b01eb3f8e6d78a1a0381fa2"
+  },
+  "chunk-5d7fc2e8d2c5320f8ba158617eed64ed": {
+    "content": "Header Content Analysis:\nContent: {'type': 'header', 'text': 'LINEAR INEQUALITIES ', 'bbox': [638, 106, 829, 119], 'page_idx': 10}\n\nAnalysis: The header 'LINEAR INEQUALITIES' serves as a thematic and structural marker that introduces a new section focused on the study and solution of linear inequalities. Positioned after worked examples and miscellaneous exercises on inequalities, it signals a transition to a more formal or comprehensive treatment of the topic. The header is concise, capitalized, and prominently placed, indicating its role as a major section title. It organizes the content by grouping related mathematical problems and concepts under the umbrella of linear inequalities, facilitating navigation and contextual understanding. This header supports the broader discussion by clearly delineating the scope of the material, enabling readers to anticipate the nature of subsequent content, which likely includes definitions, properties, and problem-solving techniques related to linear inequalities. For knowledge retrieval, the header acts as a key indexing term that connects various exercises, examples, and theoretical explanations within the chapter, enhancing thematic coherence and aiding in targeted information access.",
+    "tokens": 227,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 79,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:fce436ec46ff7255d0ebd5ee98da6988",
+      "default:extract:83f712933d3ac2f5e8eb32398843944d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Linear Inequalities Section Header (header)",
+    "original_type": "header",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978673,
+    "_id": "chunk-5d7fc2e8d2c5320f8ba158617eed64ed"
+  },
+  "chunk-1fffdbad018e37dcd8e8f670bddd9efa": {
+    "content": "Page_Number Content Analysis:\nContent: {'type': 'page_number', 'text': '99 ', 'bbox': [876, 106, 897, 119], 'page_idx': 10}\n\nAnalysis: This page, numbered 99, serves as a transitional or placeholder page within the document. The content structure is minimal, containing only the page number without any additional text, figures, or exercises. It is positioned after a detailed mathematical discussion involving inequalities and acid solution concentration problems, as well as exercises related to solving inequalities and graphical representation on number lines. The absence of substantive content on this page suggests it functions primarily as a pagination marker, maintaining the document's organizational integrity and aiding navigation. Its significance lies in supporting the broader discussion by delineating sections or chapters, ensuring clarity and ease of reference for readers and knowledge retrieval systems.",
+    "tokens": 169,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 80,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:21a14354225e693fa1da59687bd364c0",
+      "default:extract:84771dd77cbc8ea99f939f1f040cbfaf"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Page 99 (page_number)",
+    "original_type": "page_number",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978692,
+    "_id": "chunk-1fffdbad018e37dcd8e8f670bddd9efa"
+  },
+  "chunk-d9a14f12e4484dbb2a51b5c2efc2d45a": {
+    "content": "Footer Content Analysis:\nContent: {'type': 'footer', 'text': 'Reprint 2025-26 ', 'bbox': [433, 966, 561, 980], 'page_idx': 10}\n\nAnalysis: The footer content is succinctly structured as a single line indicating 'Reprint 2025-26', positioned at the bottom of page 10. This element serves as a publication metadata marker, specifying the reprint edition year range for the document. It is isolated from the main mathematical content and exercises on preceding pages, functioning as a bibliographic or version control reference. The footer's placement and minimal text emphasize its role in providing publication context without distracting from the educational material. This information is critical for knowledge retrieval systems to identify the edition and currency of the document, supporting citation accuracy and version tracking in academic or instructional settings.",
+    "tokens": 173,
+    "full_doc_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c",
+    "chunk_order_index": 81,
+    "file_path": "kemh105.pdf",
+    "llm_cache_list": [
+      "default:extract:d6cff894d86fa06c92bc1cb171146a17",
+      "default:extract:3555a6aabe489bf7750af36fecf79549"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Publication Reprint Date Footer (footer)",
+    "original_type": "footer",
+    "page_idx": 10,
+    "create_time": 1770977692,
+    "update_time": 1770978692,
+    "_id": "chunk-d9a14f12e4484dbb2a51b5c2efc2d45a"
   }
 }

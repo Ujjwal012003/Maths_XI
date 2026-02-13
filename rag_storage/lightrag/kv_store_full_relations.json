@@ -29062,5 +29062,5340 @@
     "count": 1476,
     "update_time": 1770976344,
     "_id": "doc-ff4a3125a07b19fc4da9de1a99374bfa"
+  },
+  "doc-8cc4a2f48244d0d18d2a63c0645e457c": {
+    "relation_pairs": [
+      [
+        "30x < 200",
+        "Mathematical Operations"
+      ],
+      [
+        "Addition and Subtraction",
+        "Fundamental Rules and Representations of Inequalities (list)"
+      ],
+      [
+        "Applied Problems",
+        "Linear Inequality"
+      ],
+      [
+        "Publication Reprint Date Footer (footer)",
+        "Solutions"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Set of Exercises"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Knowledge Retrieval Systems"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Physics"
+      ],
+      [
+        "Chapter Header (header)",
+        "Textbook"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Natural Numbers"
+      ],
+      [
+        "Operations Involved",
+        "Strict Double Inequality"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "Variable x"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Mathematical Inequality Problems"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Solution Interval"
+      ],
+      [
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Academic Referencing",
+        "Publication Metadata"
+      ],
+      [
+        "3 > 2",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Real Number Line",
+        "Solution Set"
+      ],
+      [
+        "Inequality Problems and Applied Exercises List (list)",
+        "Temperature Range"
+      ],
+      [
+        "Horizontal Number Line",
+        "Tick Marks"
+      ],
+      [
+        "Bibliographic Metadata",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Miscellaneous Examples and Solutions"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Number Line Highlighting",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Quadratic Function \\( f(x) = a x^{2} + b x + c \\)",
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)"
+      ],
+      [
+        "Algebraic Solutions of Linear Inequalities",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "b"
+      ],
+      [
+        "Footer Content",
+        "Page Index 0"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "x"
+      ],
+      [
+        "Double Inequalities",
+        "Linear Inequalities"
+      ],
+      [
+        "Economic Modeling",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Chapter on Inequalities",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Number Line Interpretation",
+        "Solution Sets"
+      ],
+      [
+        "Number line graph showing solution set 2 ≤ x < 6 (image)",
+        "Solution Set"
+      ],
+      [
+        "Header",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Page Number 5",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Linear Transformation",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "Page 8"
+      ],
+      [
+        "Page Index 0",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Five Examinations",
+        "Sunita"
+      ],
+      [
+        "Registers",
+        "Reshma"
+      ],
+      [
+        "Inequalities",
+        "Mathematical Exercises"
+      ],
+      [
+        "Linear Inequality",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Variables as Numeric Values"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Real Constants"
+      ],
+      [
+        "Line a x + b y = c",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Consecutive Odd Natural Numbers",
+        "x"
+      ],
+      [
+        "Fig 5.3",
+        "Mathematical Textbook Illustration Style"
+      ],
+      [
+        "Linear Programming",
+        "Optimization"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Multiplication"
+      ],
+      [
+        "Header 'MATHEMATICS'",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Solution Set"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Linear Programming"
+      ],
+      [
+        "Application Context",
+        "Optimization"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "algebraic manipulation"
+      ],
+      [
+        "Longest Side",
+        "Third Side"
+      ],
+      [
+        "Inequality 10 < x < 19",
+        "Inequality Relations"
+      ],
+      [
+        "Linear Inequality \\( a x + b y > c \\)",
+        "Operations Research"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Optimization"
+      ],
+      [
+        "Footer Content",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Chapter Identifier Header (header)",
+        "Linear Inequalities"
+      ],
+      [
+        "Knowledge Retrieval Systems",
+        "Publication Metadata Marker"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Resource Allocation"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "y"
+      ],
+      [
+        "91",
+        "Linear Inequalities"
+      ],
+      [
+        "62",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Addition and Scalar Multiplication",
+        "Equation 40x + 20y ≤ 120"
+      ],
+      [
+        "Footer",
+        "Inequalities and Exercises"
+      ],
+      [
+        "Compound Inequalities",
+        "Inequality Problems and Applied Exercises List (list)"
+      ],
+      [
+        "Mathematical Equation",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Mathematical Instructional Material",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Number Line Tick Marks",
+        "Numerical Values"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Graphical Elements",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Inequalities",
+        "Page Number 93 (page_number)"
+      ],
+      [
+        "Inequalities",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Packets of Rice"
+      ],
+      [
+        "Feasible Regions",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Enumeration",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "constraints"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Unit Test 2"
+      ],
+      [
+        "Page 6",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Division",
+        "Linear Inequality Simplification: 2x < 6 (equation)"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Feasible Region"
+      ],
+      [
+        "Number Line",
+        "Number line graph of solution x ≥ 1 (image)"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Experimental Conditions"
+      ],
+      [
+        "Equation 1 0 < x < 1 9",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Inequalities"
+      ],
+      [
+        "11 - 5x \\u2264 1",
+        "Linear Inequalities"
+      ],
+      [
+        "Consecutive Odd Positive Integers",
+        "Mathematical Problems on Inequalities and Averages"
+      ],
+      [
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+        "Open Circle at x = 3"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "linear inequalities"
+      ],
+      [
+        "Integer Values",
+        "Solution Interval"
+      ],
+      [
+        "Inequality Comparison",
+        "Mathematical Operations"
+      ],
+      [
+        "Broader Framework",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "Textbook"
+      ],
+      [
+        "Addition",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Real Numbers",
+        "Solution Set"
+      ],
+      [
+        "Linear Combinations",
+        "Variables x and y"
+      ],
+      [
+        "Constraints",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Fig 5.1",
+        "Horizontal Number Line"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Feasibility Analysis",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Multiplying or Dividing by Negative Numbers"
+      ],
+      [
+        "Broader Framework of Solving Linear Inequalities",
+        "Constraints in Inequalities"
+      ],
+      [
+        "Broader Framework",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Number Domains"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "x"
+      ],
+      [
+        "Footer",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Equation 40x + 20y ≤ 120",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "a x + b y \\u2265 c",
+        "y"
+      ],
+      [
+        "Examples of Inequalities",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Discrete Set",
+        "Integers from -4 to 1"
+      ],
+      [
+        "a x + b > 0",
+        "greater than relational operator"
+      ],
+      [
+        "Broader Discussions",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Solution Sets"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "a"
+      ],
+      [
+        "Fahrenheit",
+        "Imperial System"
+      ],
+      [
+        "Header",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Fig 5.3",
+        "Integer Points"
+      ],
+      [
+        "Freezing Point of Water",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 8"
+      ],
+      [
+        "Budget Constraint",
+        "Linear Inequality"
+      ],
+      [
+        "Real Constants",
+        "b"
+      ],
+      [
+        "Fig 5.3",
+        "Variable x"
+      ],
+      [
+        "Number line graph showing solution set 2 ≤ x < 6 (image)",
+        "Page 7 Text"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Ravi"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Number Line Representation"
+      ],
+      [
+        "constraints",
+        "linear inequality"
+      ],
+      [
+        "Inequality Solving Method",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Solution Sets",
+        "Variable x"
+      ],
+      [
+        "Publication Reprint Notice Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Mathematical Content",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Constants \\( a \\), \\( b \\), and \\( c \\)",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Clearing Denominators",
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)"
+      ],
+      [
+        "Inequalities and Interval Solutions",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Applications",
+        "Linear Inequalities"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Thermodynamics"
+      ],
+      [
+        "Examples",
+        "Page Number 93"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Miscellaneous Exercises"
+      ],
+      [
+        "30x < 200",
+        "Resource Allocation Problem"
+      ],
+      [
+        "constraints",
+        "thresholds"
+      ],
+      [
+        "MATHEMATICS Section Header (header)",
+        "Mathematics"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Optimization Problems"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "a",
+        "real constants"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "inequality sign \\u2264"
+      ],
+      [
+        "a x + b y < c",
+        "x"
+      ],
+      [
+        "Inequalities",
+        "Page Number 94 (page_number)"
+      ],
+      [
+        "Algebraic Solutions of Linear Inequalities",
+        "Mathematics"
+      ],
+      [
+        "30",
+        "Budget constraint inequality for purchasing rice packets (equation)"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "a x + b y \\u2264 c",
+        "x"
+      ],
+      [
+        "Equation",
+        "Intelligence Quotient (IQ)"
+      ],
+      [
+        "Exercises on Inequalities and Mixture Problems (list)",
+        "Litres of Water"
+      ],
+      [
+        "Inequality",
+        "Linear Inequality"
+      ],
+      [
+        "Examples of Inequalities",
+        "Header"
+      ],
+      [
+        "Less Than or Equal To Operator",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Operations Involved",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Linear Inequality",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "MATHEMATICS",
+        "Page 5"
+      ],
+      [
+        "Consecutive Odd Numbers",
+        "Variable x"
+      ],
+      [
+        "Footer Content",
+        "Publication Metadata"
+      ],
+      [
+        "Exercises and Examples",
+        "Page Number"
+      ],
+      [
+        "Application Context",
+        "Physical or Theoretical Significance"
+      ],
+      [
+        "Academic Referencing",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Page Number 94 (page_number)"
+      ],
+      [
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)",
+        "Solution Set"
+      ],
+      [
+        "constraints",
+        "resource capacities"
+      ],
+      [
+        "Page Number 5 (page_number)",
+        "Textbook"
+      ],
+      [
+        "Bibliographic Marker",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Addition and Subtraction",
+        "Inequality"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Natural Numbers"
+      ],
+      [
+        "Graphical Representation",
+        "Linear Inequalities"
+      ],
+      [
+        "Linear Inequalities",
+        "System of Inequalities"
+      ],
+      [
+        "Bibliographic Metadata",
+        "Educational Material on Linear Inequalities"
+      ],
+      [
+        "Natural Numbers",
+        "Solution Set"
+      ],
+      [
+        "Black and White Visual Style",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Integer Values",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Page 4",
+        "Page Number 92 (page_number)"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Scientific Modeling"
+      ],
+      [
+        "2x + 2 < 40",
+        "x"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Mathematical Problems on Inequalities and Averages"
+      ],
+      [
+        "Linear Programming",
+        "a x + b y < c"
+      ],
+      [
+        "Copyright Notice",
+        "Footer Content Analysis"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Page Number"
+      ],
+      [
+        "Header",
+        "Miscellaneous Exercises"
+      ],
+      [
+        "Closed Interval",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Inequality Properties",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Cartesian Plane",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Equation 40x + 20y ≤ 120"
+      ],
+      [
+        "Linear Inequalities",
+        "国"
+      ],
+      [
+        "Constraints",
+        "Optimization Problems"
+      ],
+      [
+        "Budget Constraint",
+        "Linear Equation"
+      ],
+      [
+        "Equation",
+        "Integers from -4 to 1"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Feasible Regions"
+      ],
+      [
+        "Budget Constraint",
+        "Resource Allocation"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Black Lines and Numbers",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Inequality x ≥ 1",
+        "Page 4 Text"
+      ],
+      [
+        "Applied Problems",
+        "Economics"
+      ],
+      [
+        "30% Acid Solution Volume",
+        "Page 9"
+      ],
+      [
+        "Fig 5.1",
+        "Number Line"
+      ],
+      [
+        "Enumeration of Possible Pairs",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Linear Inequality Solution",
+        "Minimum Marks Requirement"
+      ],
+      [
+        "Algebraic Expressions",
+        "Fundamental Rules and Representations of Inequalities (list)"
+      ],
+      [
+        "Linear Equation",
+        "Linear Inequality"
+      ],
+      [
+        "Range of the smaller consecutive odd natural number (equation)",
+        "Strict Double Inequality"
+      ],
+      [
+        "Linear Inequality",
+        "Operations"
+      ],
+      [
+        "Real Constants",
+        "a"
+      ],
+      [
+        "Page 3",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "₹200 Budget"
+      ],
+      [
+        "Constraints",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Inequalities",
+        "MATHEMATICS"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality Problems and Applied Exercises List (list)",
+        "Temperature Conversion Problem"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "Page 9 Explanation"
+      ],
+      [
+        "Mathematics",
+        "Page 3"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "addition"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "x"
+      ],
+      [
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Number Line",
+        "White Background"
+      ],
+      [
+        "Developmental Psychology",
+        "Intelligence Quotient (IQ)"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Variable \\(x\\)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Examples"
+      ],
+      [
+        "Boundary of Feasible Region",
+        "Linear Equation"
+      ],
+      [
+        "Number Line Representation",
+        "Solution Set x \\u2265 2"
+      ],
+      [
+        "Mathematical Content",
+        "Page Number 93 (page_number)"
+      ],
+      [
+        "Applied Examples",
+        "Mathematical Inequality Problems"
+      ],
+      [
+        "Feasibility Regions",
+        "Linear Programming"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Mathematical Operations",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Exercises",
+        "MATHEMATICS"
+      ],
+      [
+        "Examples",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality Sign Reversal Rule",
+        "Multiplication by Negative Number"
+      ],
+      [
+        "91",
+        "Graphical Representation"
+      ],
+      [
+        "Consecutive Even Positive Integers",
+        "Inequality and Consecutive Integer Problem Set (list)"
+      ],
+      [
+        "94",
+        "Page Number 94 (page_number)"
+      ],
+      [
+        "Header Content Analysis",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Resource Allocation"
+      ],
+      [
+        "Addition",
+        "Linear Inequality 2x + 2 < 40 (equation)"
+      ],
+      [
+        "Linear Inequalities (header)",
+        "Rules"
+      ],
+      [
+        "Real Numbers",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Physical or Theoretical Significance"
+      ],
+      [
+        "Algebraic Principles",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Footer Content Analysis",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Units of Currency τ"
+      ],
+      [
+        "Publication Metadata Marker",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "3 > 2",
+        "Variables as Numeric Values"
+      ],
+      [
+        "Double Inequalities",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "linear equations"
+      ],
+      [
+        "3 > 2",
+        "Mathematical Operations"
+      ],
+      [
+        "1kg Rice Packets",
+        "Budget constraint inequality for purchasing rice packets (equation)"
+      ],
+      [
+        "Exercises on Inequalities",
+        "Instructional Content"
+      ],
+      [
+        "Discriminant Condition \\( \\Delta \\geq 0 \\)",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "White Background"
+      ],
+      [
+        "11076CH06",
+        "Chapter Identifier Header (header)"
+      ],
+      [
+        "Compound Inequalities",
+        "Temperature Conversion Problem"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Solution Techniques"
+      ],
+      [
+        "Applications in Physics",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Unmarked Left Side"
+      ],
+      [
+        "Applications in Physics",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Explanations"
+      ],
+      [
+        "Linear Inequalities",
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)"
+      ],
+      [
+        "Economic or Consumer Choice Context",
+        "Real-World Constraints"
+      ],
+      [
+        "Non-Negative Integer",
+        "x"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "Numerical Values"
+      ],
+      [
+        "97",
+        "Page Number 97 (page_number)"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "Solution Set x \\u2265 2"
+      ],
+      [
+        "Inequalities",
+        "Inequality Word Problems on Lengths and Measurements (list)"
+      ],
+      [
+        "-8 < -7",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Minimum Marks Required for Target Average (equation)",
+        "Optimization Problems"
+      ],
+      [
+        "Mathematical Content",
+        "Solutions"
+      ],
+      [
+        "Relational Operator \\u2265",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Color Scheme",
+        "Mathematical Diagram"
+      ],
+      [
+        "Inequalities",
+        "Solution Mixtures"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "algebraic manipulation"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Mathematics"
+      ],
+      [
+        "Linear Inequalities",
+        "Real-World Problems"
+      ],
+      [
+        "Budgeting",
+        "Linear Programming"
+      ],
+      [
+        "Mathematical Exposition",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Edition 2025-26",
+        "Mathematical Content on Solving Linear Inequalities"
+      ],
+      [
+        "Linear Inequalities",
+        "Systems of Inequalities"
+      ],
+      [
+        "Mathematical Graph",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Reprint 2025-26",
+        "Temporal Metadata"
+      ],
+      [
+        "Mathematical Textbook Illustration Style",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "x"
+      ],
+      [
+        "Cartesian Plane",
+        "a x + b y < c"
+      ],
+      [
+        "Decision-Making Frameworks",
+        "Linear Inequality"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Sign Reversal Rule Example"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Variables x and y"
+      ],
+      [
+        "IQ Calculation Problem",
+        "IQ Formula"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Fahrenheit"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Shortest Side"
+      ],
+      [
+        "Chapter Header (header)",
+        "Page 0"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Unit Test 1"
+      ],
+      [
+        "Integer Points",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Rules"
+      ],
+      [
+        "Geometric Measurement",
+        "Triangle"
+      ],
+      [
+        "Broader Framework of Solving Linear Inequalities",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Integers from -4 to 1",
+        "Solution Sets"
+      ],
+      [
+        "91",
+        "Algebraic Solutions"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Footer Content",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Color Scheme",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Capacity Limits",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Division by Negative Number",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Linear Programming",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Arithmetic Mean Calculation",
+        "Inequality"
+      ],
+      [
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+        "Open Circle"
+      ],
+      [
+        "Broader Framework",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Mathematical Examples",
+        "Page Number 97 (page_number)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Natural Numbers",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)",
+        "Other Inequalities"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Rearrangement of Inequality"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "x"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Algebraic Manipulation"
+      ],
+      [
+        "Inequalities and Exercises",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Publication Reprint Date Footer (footer)",
+        "Temporal Metadata"
+      ],
+      [
+        "Compound Inequality",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "30% Acid Solution Volume",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Solution Set"
+      ],
+      [
+        "1kg Rice Packets",
+        "Ravi"
+      ],
+      [
+        "Feasible Region",
+        "Linear Inequality"
+      ],
+      [
+        "Boiling Point of Water",
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)"
+      ],
+      [
+        "Inequality Solving",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "Optimization"
+      ],
+      [
+        "Application Context",
+        "Decision-Making"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Algebra"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Number Domains"
+      ],
+      [
+        "Budgeting Problems",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Range of the smaller consecutive odd natural number (equation)",
+        "x"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Instructional Material"
+      ],
+      [
+        "Compound Inequality",
+        "Solution Set"
+      ],
+      [
+        "2x + 2 < 40",
+        "Addition"
+      ],
+      [
+        "Real-World Constraints",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Linear Inequality"
+      ],
+      [
+        "30% Acid Solution Volume",
+        "Page 9 Explanation"
+      ],
+      [
+        "Fundamental Properties of Inequalities",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Inequality Comparison",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Number Line",
+        "Solution Set"
+      ],
+      [
+        "Graphical Representation on Number Lines",
+        "Page Number 99"
+      ],
+      [
+        "Celsius",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Pages 7 to 9"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Edition",
+        "Reprint 2025-26"
+      ],
+      [
+        "Linear Inequalities",
+        "Page Number 5"
+      ],
+      [
+        "Fig 5.2",
+        "Horizontal Number Line"
+      ],
+      [
+        "Algebraic Problem-Solving",
+        "Inequality Analysis"
+      ],
+      [
+        "Discriminant Conditions",
+        "Solution Set"
+      ],
+      [
+        "Graphical Representation",
+        "Page Number 91 (page_number)"
+      ],
+      [
+        "Graphical Interpretation",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "a x + b > 0",
+        "linear inequality"
+      ],
+      [
+        "Board Length",
+        "Second Length"
+      ],
+      [
+        "Environmental Controls",
+        "Temperature Range Constraint"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Solution of Inequality"
+      ],
+      [
+        "Edition",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "solution set"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Solution Sets"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Registers"
+      ],
+      [
+        "Equation 1 0 < x < 1 9",
+        "Strict Double Inequality"
+      ],
+      [
+        "Arithmetic Operations",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Inequalities",
+        "Page Number 97 (page_number)"
+      ],
+      [
+        "Applied Examples",
+        "Temperature Range"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "Solution Set"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Resource Allocation"
+      ],
+      [
+        "Page Number 92",
+        "Page Number 92 (page_number)"
+      ],
+      [
+        "Algebraic Expressions",
+        "Inequality"
+      ],
+      [
+        "Mathematical Operations",
+        "Scalar Multiplication"
+      ],
+      [
+        "Inequality 7x + 3 < 5x + 9",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Thresholds and Limits"
+      ],
+      [
+        "Acid Solution Problem",
+        "Exercises on Inequalities and Mixture Problems (list)"
+      ],
+      [
+        "Page Number 90",
+        "Textbook"
+      ],
+      [
+        "Chapter Identifier Header (header)",
+        "Header Content"
+      ],
+      [
+        "Examples",
+        "Rules"
+      ],
+      [
+        "Horizontal Number Line",
+        "Number line graph of solution x ≥ 1 (image)"
+      ],
+      [
+        "Page Number",
+        "Page Number 96 (page_number)"
+      ],
+      [
+        "Exercises",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Inequality",
+        "x"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Equation 40x + 20y ≤ 120"
+      ],
+      [
+        "Exercises",
+        "Page Number 97 (page_number)"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)",
+        "Solution Set"
+      ],
+      [
+        "Constraints in Inequalities",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Applied Problems"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Third Length"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Real-World Constraints"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "x"
+      ],
+      [
+        "Edition Year Range",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Definitions",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "Blue Arrow towards Positive Infinity",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Metric System"
+      ],
+      [
+        "Linear Transformation",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Rules for Solving Inequalities"
+      ],
+      [
+        "Half-Plane",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Optimization"
+      ],
+      [
+        "Bounding Box",
+        "Page Number 90"
+      ],
+      [
+        "Linear Inequalities",
+        "Multiplication by Negative Number"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Set of Exercises"
+      ],
+      [
+        "Footer Content",
+        "Footer Content Analysis"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "a"
+      ],
+      [
+        "Applied Examples",
+        "Inequality Problems and Applied Exercises List (list)"
+      ],
+      [
+        "Academic or Educational Settings",
+        "Temporal Metadata"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Physics"
+      ],
+      [
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)",
+        "Total Weight or Cost Threshold"
+      ],
+      [
+        "60",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Compound Inequality",
+        "Variable x"
+      ],
+      [
+        "Constants \\( a \\), \\( b \\), and \\( c \\)",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Linear Inequality",
+        "x"
+      ],
+      [
+        "Footer Content",
+        "Page 1"
+      ],
+      [
+        "Mathematical Examples",
+        "Solution Sets"
+      ],
+      [
+        "95",
+        "Page Number 95 (page_number)"
+      ],
+      [
+        "Algebraic Solutions",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality 10 < x < 19",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Integer Number Line",
+        "Integers from -4 to 1"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Linear Inequalities"
+      ],
+      [
+        "Perimeter",
+        "Third Side"
+      ],
+      [
+        "Fig 5.3",
+        "Number Line"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Number Line"
+      ],
+      [
+        "Linear Inequality",
+        "a"
+      ],
+      [
+        "Inequalities",
+        "Triangle"
+      ],
+      [
+        "Applications",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "a",
+        "a x + b y < c"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Mathematical Inequalities"
+      ],
+      [
+        "Graphical Representations",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Inequality Sign Reversal Rule",
+        "Linear Inequalities"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "x"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "x"
+      ],
+      [
+        "Footer Content",
+        "Instructional Content"
+      ],
+      [
+        "Inequality Direction Reversal",
+        "Mathematical Operations"
+      ],
+      [
+        "Exercises",
+        "Inequalities"
+      ],
+      [
+        "Linear Inequality",
+        "Rational Expressions"
+      ],
+      [
+        "Feasible Regions",
+        "Optimization Problems"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Strict Greater-Than Operator \\( > \\)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Applications",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Dark Line",
+        "Fundamental Rules and Representations of Inequalities (list)"
+      ],
+      [
+        "a x + b y \\u2265 c",
+        "x"
+      ],
+      [
+        "Inequality Direction Reversal",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Header Content Analysis",
+        "Linear Inequalities"
+      ],
+      [
+        "Page Index 9",
+        "Page Number 98"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Registers"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Solution Rules for Inequalities"
+      ],
+      [
+        "Acid Solution Problem",
+        "Litres of Water"
+      ],
+      [
+        "Algebraic Manipulation",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Physical or Theoretical Significance"
+      ],
+      [
+        "Equation 1 0 < x < 1 9",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Experimental Conditions",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Inequality",
+        "Number Line Representation"
+      ],
+      [
+        "a",
+        "a x + b \\u2264 0"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Variable x"
+      ],
+      [
+        "Linear Inequalities",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "Linear Inequality \\( a x + b y > c \\)",
+        "Solution Techniques"
+      ],
+      [
+        "Applications in Economics, Physics, and Optimization",
+        "Linear Inequalities"
+      ],
+      [
+        "Annual Examination",
+        "x"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Inequality Properties"
+      ],
+      [
+        "Chapter on Inequalities",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "2x + 2 < 40",
+        "Linear Inequality 2x + 2 < 40 (equation)"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "linear equations"
+      ],
+      [
+        "Horizontal Number Line",
+        "Thick Solid Line"
+      ],
+      [
+        "Range of the smaller consecutive odd natural number (equation)",
+        "Sum Less Than 40 Constraint"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Pens"
+      ],
+      [
+        "Fig 5.2",
+        "Number Line"
+      ],
+      [
+        "Linear Inequality \\( a x + b y > c \\)",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Integer Domain",
+        "x"
+      ],
+      [
+        "Linear Programming",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Feasibility Analysis",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "-3 < -2",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Half-Plane",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Real Numbers"
+      ],
+      [
+        "Linear Inequalities",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "a x + b y < c"
+      ],
+      [
+        "Horizontal Number Line",
+        "Open Circle"
+      ],
+      [
+        "Algebraic Manipulation Rules",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "30x < 200",
+        "Solution Set"
+      ],
+      [
+        "Resource Allocation Problem",
+        "Total Weight or Cost Threshold"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "graphical representation"
+      ],
+      [
+        "a x + b > 0",
+        "scalar multiplication"
+      ],
+      [
+        "Inequalities",
+        "Page Number 93"
+      ],
+      [
+        "a x + b > 0",
+        "b"
+      ],
+      [
+        "Publication Metadata",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Modeling Scenarios"
+      ],
+      [
+        "Publication Reprint Date Footer (footer)",
+        "Reprint 2025-26"
+      ],
+      [
+        "Problem Constraints",
+        "Variable x"
+      ],
+      [
+        "30x < 200",
+        "Optimization"
+      ],
+      [
+        "Exercises",
+        "Solution Sets"
+      ],
+      [
+        "Explanations",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Footer Content Analysis",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Longest Side",
+        "Shortest Side"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "Number Line Representation"
+      ],
+      [
+        "Fig 5.3",
+        "Solution Set"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Header Content"
+      ],
+      [
+        "Inequality Solving Method",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Consecutive Odd Positive Integers",
+        "Inequality and Consecutive Integer Problem Set (list)"
+      ],
+      [
+        "MATHEMATICS",
+        "Section Header: MATHEMATICS (header)"
+      ],
+      [
+        "Reprint 2025-26",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Bibliographic Marker",
+        "Footer"
+      ],
+      [
+        "Applications in Optimization",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "constraints",
+        "sciences"
+      ],
+      [
+        "Applications in Optimization",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Linear Programming",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Chapter",
+        "Textbook"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Roots of the Quadratic"
+      ],
+      [
+        "11 - 5x \\u2264 1",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Variables \\( x \\) and \\( y \\)"
+      ],
+      [
+        "Linear Inequalities",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Page 1"
+      ],
+      [
+        "Fig 5.2",
+        "Visual Analysis"
+      ],
+      [
+        "Affine Transformation",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Page Number",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Header Content Analysis",
+        "MATHEMATICS"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Perimeter"
+      ],
+      [
+        "Algebraic Methods",
+        "Solution Set"
+      ],
+      [
+        "Page 0",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Enumeration",
+        "Integers from -4 to 1"
+      ],
+      [
+        "Fig 5.2",
+        "Inequality x ≥ 1"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Solution Sets"
+      ],
+      [
+        "Feasibility Analysis",
+        "Linear Programming"
+      ],
+      [
+        "Shortest Side",
+        "Third Length"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Mathematical Operations",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Examples",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical Rules"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Chemical Experiments",
+        "Temperature Range Constraint"
+      ],
+      [
+        "Decision-Making",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Integer Domain",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Pens"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "greater than relational operator"
+      ],
+      [
+        "Application Context",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Mathematical Examples",
+        "Page Number"
+      ],
+      [
+        "Reprint 2025-26",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "a",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Linear Inequalities",
+        "Miscellaneous Examples and Solutions"
+      ],
+      [
+        "Page Number",
+        "Page Number 97 (page_number)"
+      ],
+      [
+        "Countable Quantities",
+        "Packets of Rice"
+      ],
+      [
+        "Linear Combination",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Multiplying or Dividing by Negative Numbers",
+        "Solution Techniques"
+      ],
+      [
+        "Inequalities",
+        "Mixture Problems"
+      ],
+      [
+        "Fig 5.2",
+        "Pedagogical Tool"
+      ],
+      [
+        "2x + 2 < 40",
+        "Optimization"
+      ],
+      [
+        "Exercises on Inequalities",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Constraints",
+        "Weighted Sums"
+      ],
+      [
+        "Economics",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Threshold Conditions"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Imperial System"
+      ],
+      [
+        "Mathematical Examples and Exercises on Inequalities",
+        "Pages 7 to 9"
+      ],
+      [
+        "a",
+        "a x + b > 0"
+      ],
+      [
+        "Ravi",
+        "Unit Test 1"
+      ],
+      [
+        "b",
+        "real constants"
+      ],
+      [
+        "Budget Constraint",
+        "Units of Currency τ"
+      ],
+      [
+        "Mathematical Content on Solving Linear Inequalities",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Fig 5.1",
+        "Inequality 7x + 3 < 5x + 9"
+      ],
+      [
+        "Educational Assessment",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Scalar Multiplication"
+      ],
+      [
+        "25% Acid Content",
+        "Acid Solution Problem"
+      ],
+      [
+        "Knowledge Retrieval Systems",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Optimization Problems"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Solution Sets"
+      ],
+      [
+        "Examples",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Chapter",
+        "Linear Inequalities"
+      ],
+      [
+        "Concentration",
+        "Real-World Problems"
+      ],
+      [
+        "Fig 5.3",
+        "Page 7 Text"
+      ],
+      [
+        "Graphical Interpretation",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Inequalities",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality Sign \\( \\geq \\)",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Algebraic Solutions",
+        "Graphical Representation"
+      ],
+      [
+        "Budget Constraint",
+        "Budget Constraint Inequality and Equation for Purchases (equation)"
+      ],
+      [
+        "Mathematical Diagram",
+        "Standard Mathematical Notation"
+      ],
+      [
+        "Number Theory and Algebra",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Acid Solution Problem",
+        "IQ Calculation Problem"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Less Than Symbol"
+      ],
+      [
+        "Linear Inequalities",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Threshold Conditions"
+      ],
+      [
+        "Applications in Economics, Physics, and Optimization",
+        "Constraints in Inequalities"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "solution set"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Optimization"
+      ],
+      [
+        "48",
+        "Arithmetic Mean"
+      ],
+      [
+        "MATHEMATICS (header)",
+        "Page 3"
+      ],
+      [
+        "MATHEMATICS",
+        "Page 9"
+      ],
+      [
+        "-3 < -2",
+        "3 > 2"
+      ],
+      [
+        "Header Content Analysis",
+        "Mathematics"
+      ],
+      [
+        "Algebraic Manipulation",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Mathematical Operations"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "System of Inequalities"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Variable X"
+      ],
+      [
+        "Linear Inequalities",
+        "Mathematical Exposition"
+      ],
+      [
+        "Chronological Age (CA)",
+        "Intelligence Quotient (IQ)"
+      ],
+      [
+        "a x + b y < c",
+        "c"
+      ],
+      [
+        "Page 1",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Consecutive Odd Natural Numbers",
+        "Sum Less Than 40 Constraint"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Linear Inequality Simplification: 2x < 6 (equation)"
+      ],
+      [
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)",
+        "x"
+      ],
+      [
+        "a x + b y \\u2264 c",
+        "c"
+      ],
+      [
+        "Educational Material on Linear Inequalities",
+        "Footer Content"
+      ],
+      [
+        "Domain Considerations",
+        "Integer Values"
+      ],
+      [
+        "Applied Problems",
+        "Optimization"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Page 6"
+      ],
+      [
+        "Discrete Variable",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "11 - 5x \\u2264 1",
+        "Solution Set x \\u2265 2"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Boundary of Feasible Region",
+        "Budget Constraint Inequality and Equation for Purchases (equation)"
+      ],
+      [
+        "Exercises",
+        "Page Number"
+      ],
+      [
+        "Footer Content",
+        "Page 2"
+      ],
+      [
+        "Applied Problems",
+        "Engineering"
+      ],
+      [
+        "Algebra",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Inequalities",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "30x < 200",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Inequality Examples",
+        "MATHEMATICS"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Integers from -4 to 1",
+        "Linear Inequalities in One Variable"
+      ],
+      [
+        "Header Content",
+        "Page 0"
+      ],
+      [
+        "Graphical Representation",
+        "Linear Inequality"
+      ],
+      [
+        "Page Number 98",
+        "Page Number 98 (page_number)"
+      ],
+      [
+        "Footer",
+        "Page 0"
+      ],
+      [
+        "25% Acid Content",
+        "30% Acid Content"
+      ],
+      [
+        "Real Numbers",
+        "x"
+      ],
+      [
+        "Instructional Content",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Real-World Problems",
+        "Temperature Ranges"
+      ],
+      [
+        "Instructional Content",
+        "Mathematical Examples"
+      ],
+      [
+        "Graphical Elements",
+        "Number Line"
+      ],
+      [
+        "Consecutive Odd Numbers",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Optimization Problems"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Real-World Problems"
+      ],
+      [
+        "Closed Interval",
+        "Integers from -4 to 1"
+      ],
+      [
+        "Optimization",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Feasible Regions",
+        "Optimization"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Real-World Constraints"
+      ],
+      [
+        "Equation",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "25% Acid Content",
+        "Exercises on Inequalities and Mixture Problems (list)"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Multiplication and Division"
+      ],
+      [
+        "62",
+        "Arithmetic Mean"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "economics"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Relational Operator"
+      ],
+      [
+        "Inequality Properties",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Compound Inequalities",
+        "Linear Inequalities"
+      ],
+      [
+        "Integers from -4 to 1",
+        "Variable x"
+      ],
+      [
+        "Number Domains",
+        "Solution Sets"
+      ],
+      [
+        "Boundary Line",
+        "Half-Plane"
+      ],
+      [
+        "MATHEMATICS",
+        "Page 7"
+      ],
+      [
+        "Examples and Exercises",
+        "Inequalities"
+      ],
+      [
+        "1125 Litres",
+        "Acid Solution Problem"
+      ],
+      [
+        "Quadratic Function \\( f(x) = a x^{2} + b x + c \\)",
+        "Real Coefficients \\( a, b, c \\)"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Content"
+      ],
+      [
+        "Economic Modeling",
+        "Optimization"
+      ],
+      [
+        "Inequality Sign",
+        "Linear Inequality"
+      ],
+      [
+        "Less Than or Equal To Operator",
+        "Relational Operator"
+      ],
+      [
+        "Exercises on Inequalities and Mixture Problems (list)",
+        "Inequalities"
+      ],
+      [
+        "Exercises and Examples",
+        "Page Number 96 (page_number)"
+      ],
+      [
+        "Chapter on Inequalities",
+        "Page Number 98"
+      ],
+      [
+        "Discriminant \\( \\Delta = b^{2} - 4ac \\)",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Variables x and y"
+      ],
+      [
+        "Discriminant \\( \\Delta = b^{2} - 4ac \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Boundary Condition",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Equations",
+        "Linear Inequality"
+      ],
+      [
+        "11 - 5x \\u2264 1",
+        "Mathematical Operations"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "practical applications"
+      ],
+      [
+        "Bounding Box [433, 966, 561, 980]",
+        "Footer"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Related Concepts"
+      ],
+      [
+        "Inequalities",
+        "Page 99 (page_number)"
+      ],
+      [
+        "Page 10",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Half-Planes",
+        "Line a x + b y = c"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Rational Expressions"
+      ],
+      [
+        "Algebraic Methods",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Board Cutting Problem",
+        "Inequality Word Problems on Lengths and Measurements (list)"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Roots of the Quadratic Polynomial"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Third Test"
+      ],
+      [
+        "Algebra",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality Symbol \\u2264",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Half-Plane",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Chapter",
+        "Header Content Analysis"
+      ],
+      [
+        "Feasible Regions",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Discriminant Condition \\( \\Delta \\geq 0 \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "graphical representation",
+        "solution set"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Solution Interval"
+      ],
+      [
+        "Page 2",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Highlighted Segment",
+        "Number Line"
+      ],
+      [
+        "Footer",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Linear Inequality",
+        "Resource Allocation"
+      ],
+      [
+        "Horizontal Number Line",
+        "Thick Blue Arrow"
+      ],
+      [
+        "Algebraic Solutions",
+        "Chapter on Linear Inequalities"
+      ],
+      [
+        "91",
+        "Page Number 91 (page_number)"
+      ],
+      [
+        "Inequality",
+        "Solution of Inequality"
+      ],
+      [
+        "Compound Inequality",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Mathematical Material on Linear Inequalities",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Discrete Variable",
+        "Integer Values"
+      ],
+      [
+        "-3 < -2",
+        "Mathematical Operations"
+      ],
+      [
+        "Natural Numbers",
+        "x"
+      ],
+      [
+        "a",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Algebraic Solutions",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Page 4 Text"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Budget Constraint Linear Inequality (equation)"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Systems of Inequalities"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "feasible regions"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Number Domains"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Optimization, Decision-Making, and Modeling"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Triangle"
+      ],
+      [
+        "Inequalities",
+        "Page Number 99"
+      ],
+      [
+        "1125 Litres",
+        "Exercises on Inequalities and Mixture Problems (list)"
+      ],
+      [
+        "Developmental Psychology",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Compound Inequality",
+        "Number Line"
+      ],
+      [
+        "Chapter Identifier Header (header)",
+        "Page 0"
+      ],
+      [
+        "Celsius",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)",
+        "Solution Techniques"
+      ],
+      [
+        "96",
+        "Page Number"
+      ],
+      [
+        "Edition Year Range",
+        "Footer"
+      ],
+      [
+        "MATHEMATICS Section Header (header)",
+        "Page 5"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Thick Solid Line"
+      ],
+      [
+        "Exercises on Inequalities and Mixture Problems (list)",
+        "IQ Calculation Problem"
+      ],
+      [
+        "Exercises",
+        "Page Number 99"
+      ],
+      [
+        "Addition",
+        "Mathematical Operations"
+      ],
+      [
+        "Inequality Problems and Applied Exercises List (list)",
+        "Systems of Inequalities"
+      ],
+      [
+        "Temperature Conversion Equation",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Algebra",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Graphical Interpretation",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "One-Variable Linear Inequalities"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Decision-Making Frameworks"
+      ],
+      [
+        "Inequality \\( \\frac{3x - 4}{2} \\geq \\frac{x + 1}{4} - 1 \\)",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Decision-Making",
+        "Linear Inequality 2x + 2 < 40 (equation)"
+      ],
+      [
+        "Graphical Representation on Number Lines",
+        "Page 99 (page_number)"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Variables"
+      ],
+      [
+        "Intelligence Quotient (IQ)",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "One-Variable Linear Inequalities"
+      ],
+      [
+        "Page Number 90",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "Less-Than Operator",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Header 'MATHEMATICS'",
+        "Inequalities"
+      ],
+      [
+        "Page 9",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Inequalities",
+        "Solution Set"
+      ],
+      [
+        "60",
+        "Inequality"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Textbook"
+      ],
+      [
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+        "Standard Mathematical Notation"
+      ],
+      [
+        "Definitions",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Fig 5.1",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Page Number",
+        "Page Number 94 (page_number)"
+      ],
+      [
+        "Footer Content",
+        "Inequalities"
+      ],
+      [
+        "Algebraic Solutions of Linear Inequalities",
+        "Page Number 92 (page_number)"
+      ],
+      [
+        "Linear Inequalities",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Educational Material",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Third Side"
+      ],
+      [
+        "Algebra",
+        "Linear Inequality 2x + 2 < 40 (equation)"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Linear Inequalities"
+      ],
+      [
+        "Inequality Analysis",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Algebraic Solutions",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Ravi"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "real constants"
+      ],
+      [
+        "Natural Numbers",
+        "Number Domains"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Variable Isolation"
+      ],
+      [
+        "Footer",
+        "Mathematical Material on Linear Inequalities"
+      ],
+      [
+        "Chapter",
+        "Subsections and Examples"
+      ],
+      [
+        "Algebraic Rules",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "rules of manipulating inequalities"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Optimization"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Solution Set"
+      ],
+      [
+        "Algebraic Problem-Solving",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Page 6",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "30x < 200",
+        "Decision-Making"
+      ],
+      [
+        "Inequality Properties",
+        "Linear Inequality"
+      ],
+      [
+        "11076CH06",
+        "Header Content"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Optimization"
+      ],
+      [
+        "Range of the smaller consecutive odd natural number (equation)",
+        "Variable x"
+      ],
+      [
+        "Inequality Examples",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Edition 2025-26",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Mathematical Inequality Problems",
+        "Temperature Conversion Problem"
+      ],
+      [
+        "Page Number 95 (page_number)",
+        "Pagination Element"
+      ],
+      [
+        "linear equations",
+        "linear inequalities"
+      ],
+      [
+        "Applications",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "MATHEMATICS Section Header (header)",
+        "Page 7"
+      ],
+      [
+        "11 - 5x \\u2264 1",
+        "x"
+      ],
+      [
+        "Header Content Analysis",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Multiplication"
+      ],
+      [
+        "Educational Material",
+        "Footer Content"
+      ],
+      [
+        "Linear Inequality",
+        "Optimization"
+      ],
+      [
+        "Feasibility Conditions",
+        "Linear Inequality"
+      ],
+      [
+        "Budget Constraints",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Theoretical Significance of Sign Reversal"
+      ],
+      [
+        "Inequalities",
+        "Section Header: MATHEMATICS (header)"
+      ],
+      [
+        "Linear Inequalities System",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Linear Inequalities",
+        "Page Number 91 (page_number)"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Solution Set"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "linear inequality"
+      ],
+      [
+        "Document",
+        "Document Reprint Date Footer (footer)"
+      ],
+      [
+        "Inequality",
+        "Real Numbers"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "Optimization"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Linear Inequalities"
+      ],
+      [
+        "Examples and Exercises",
+        "Page Number 94 (page_number)"
+      ],
+      [
+        "Page Number",
+        "Pagination Element"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Inequality"
+      ],
+      [
+        "Algebra",
+        "Linear Inequality Simplification: 2x < 6 (equation)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Linear Programming"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Strict Inequality"
+      ],
+      [
+        "Footer Content",
+        "Mathematical Exercises"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "thresholds"
+      ],
+      [
+        "Packets of Rice",
+        "x"
+      ],
+      [
+        "Celsius",
+        "Metric System"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Solution Sets"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Optimization Problems"
+      ],
+      [
+        "Linear Inequalities",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Footer Content",
+        "Textbook Pages"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Linear Inequalities"
+      ],
+      [
+        "Environmental Controls",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Board Length",
+        "Shortest Side"
+      ],
+      [
+        "Applied Mathematics",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Fahrenheit",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)",
+        "Variable \\( x \\)"
+      ],
+      [
+        "Temperature Conversion Inequality (equation)",
+        "Temperature Range Constraint"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Solution Set"
+      ],
+      [
+        "Linear Inequalities",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Thresholds and Limits"
+      ],
+      [
+        "Footer Content",
+        "Page 7"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Page 8"
+      ],
+      [
+        "Number Line",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Board Cutting Problem",
+        "Inequalities"
+      ],
+      [
+        "Educational Material on Linear Inequalities",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Reprint 2025-26",
+        "Temporal Context"
+      ],
+      [
+        "Less-Than Operator",
+        "a x + b y < c"
+      ],
+      [
+        "Boundary Line",
+        "Solution Set"
+      ],
+      [
+        "Foundational Definitions",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Black and White Visual Style",
+        "Fig 5.3"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Number Line"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "resource capacities"
+      ],
+      [
+        "Linear Inequality",
+        "₹200 Budget"
+      ],
+      [
+        "Inequality 10 < x < 19",
+        "x"
+      ],
+      [
+        "Number Line Interpretation",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Diagnostic Evaluations",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Rules for Solving Inequalities"
+      ],
+      [
+        "Applications in Economics",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Page Number"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Operations Research"
+      ],
+      [
+        "Applications in Economics",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Rule 2"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "optimization"
+      ],
+      [
+        "Arithmetic Mean",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Discriminant Conditions",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Linear Programming",
+        "Resource Allocation"
+      ],
+      [
+        "Symbolic or Cultural Header '国' (header)",
+        "国"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Systems of Inequalities"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Constraints"
+      ],
+      [
+        "linear inequality",
+        "optimization"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "Resource Allocation"
+      ],
+      [
+        "constraints",
+        "economics"
+      ],
+      [
+        "Reprint Date Footer (footer)",
+        "Temporal Context"
+      ],
+      [
+        "Page Number 90 (page_number)",
+        "Textbook"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "c"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Variable x"
+      ],
+      [
+        "MATHEMATICS",
+        "Solution Mixtures"
+      ],
+      [
+        "Affine Transformation",
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)"
+      ],
+      [
+        "Header Content Analysis",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Rules of Inequalities",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Equation 40x + 20y ≤ 120",
+        "Variables x and y"
+      ],
+      [
+        "Inequalities",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Algebraic Solutions of Linear Inequalities",
+        "Textbook Section"
+      ],
+      [
+        "Applied Problems",
+        "Linear Inequalities"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Systems of Inequalities"
+      ],
+      [
+        "Horizontal Number Line",
+        "Solid Black Dot"
+      ],
+      [
+        "Range of the smaller consecutive odd natural number (equation)",
+        "Solution Sets"
+      ],
+      [
+        "Publication Metadata Marker",
+        "Reprint 2025-26"
+      ],
+      [
+        "Applied Problems",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Foundational Definitions",
+        "Header"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "practical applications"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Economics"
+      ],
+      [
+        "Examples",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Non-Negative Integer"
+      ],
+      [
+        "Page Number",
+        "Page Number 90"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Operations"
+      ],
+      [
+        "Page Number",
+        "Page Number 95 (page_number)"
+      ],
+      [
+        "11076CH06",
+        "Linear Inequalities"
+      ],
+      [
+        "Decision-Making",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Algebra",
+        "Linear Inequalities in One Variable"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Linear Inequalities in One Variable"
+      ],
+      [
+        "Board Cutting Problem",
+        "Geometric Measurement"
+      ],
+      [
+        "Boundary Line",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Publication Reprint Notice Footer (footer)",
+        "Textbook Pages"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Economics"
+      ],
+      [
+        "Linear Inequality",
+        "Physical or Theoretical Significance"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Visual Analysis"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Concentration",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "30% Acid Content",
+        "Exercises on Inequalities and Mixture Problems (list)"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Real Numbers"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Physical Significance"
+      ],
+      [
+        "62 + 48 + x",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Mathematical Problems on Inequalities and Averages",
+        "Ravi"
+      ],
+      [
+        "Page 4",
+        "Page Number 92"
+      ],
+      [
+        "Linear Inequalities",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "Inequality Properties",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Minimum Marks Required for Target Average (equation)",
+        "Minimum Marks Requirement"
+      ],
+      [
+        "Page Number 97 (page_number)",
+        "Solution Sets"
+      ],
+      [
+        "Packets of Rice",
+        "Solution Sets"
+      ],
+      [
+        "Number Line Tick Marks",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "a x + b y \\u2265 c",
+        "c"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Solution Set"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "a x + b y < c"
+      ],
+      [
+        "Graphical Representations",
+        "Header"
+      ],
+      [
+        "Footer Content",
+        "Page 10"
+      ],
+      [
+        "Educational Assessment",
+        "Inequality"
+      ],
+      [
+        "Multiplication and Division",
+        "Negative Number"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Budgeting"
+      ],
+      [
+        "48",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "scalar multiplication"
+      ],
+      [
+        "Header Content Analysis",
+        "国"
+      ],
+      [
+        "Economics",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Optimization"
+      ],
+      [
+        "Mathematical Problems on Inequalities and Averages",
+        "Sunita"
+      ],
+      [
+        "Polynomial Sign Analysis",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Variable x"
+      ],
+      [
+        "Polynomial Sign Analysis",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Temperature Conversion Equation",
+        "Thermodynamics"
+      ],
+      [
+        "Feasibility Conditions",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Header Content Analysis",
+        "MATHEMATICS (header)"
+      ],
+      [
+        "Board Length",
+        "Third Length"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "chapter on linear inequalities"
+      ],
+      [
+        "45% Acid Solution",
+        "Acid Solution Problem"
+      ],
+      [
+        "Bounding Box [433, 966, 561, 980]",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "budget limits"
+      ],
+      [
+        "Physical Sciences and Engineering",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Optimization",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Footer Content"
+      ],
+      [
+        "Cartesian Plane",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Linear Inequality Solution",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Inequalities",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Other Inequalities"
+      ],
+      [
+        "Five Examinations",
+        "Inequality and Consecutive Integer Problem Set (list)"
+      ],
+      [
+        "Exercises on Inequalities and Mixture Problems (list)",
+        "IQ Formula"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Arithmetic Operations"
+      ],
+      [
+        "Broader Framework of Solving Linear Inequalities",
+        "Solution Rules for Inequalities"
+      ],
+      [
+        "Half-Planes",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Pedagogical Tool"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Multiplication"
+      ],
+      [
+        "Footer Content",
+        "Reprint 2025-26"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Freezing Point of Water"
+      ],
+      [
+        "Linear Inequality",
+        "Solution Sets"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Worked Examples"
+      ],
+      [
+        "Ravi",
+        "Third Test"
+      ],
+      [
+        "30% Acid Solution Volume",
+        "Solution Set"
+      ],
+      [
+        "a x + b y < c",
+        "b"
+      ],
+      [
+        "Consecutive Odd Natural Numbers",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "a x + b y \\u2264 c",
+        "b"
+      ],
+      [
+        "Parabola",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Domain Considerations",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Real Number Line"
+      ],
+      [
+        "Problem Constraints",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Budgeting",
+        "Linear Inequalities"
+      ],
+      [
+        "Continuous Solution Intervals",
+        "Real Numbers"
+      ],
+      [
+        "Chapter",
+        "Header"
+      ],
+      [
+        "Sign Reversal Rule",
+        "Sign Reversal Rule Example"
+      ],
+      [
+        "Page Number 92 (page_number)",
+        "Textbook Section"
+      ],
+      [
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)",
+        "Page 9"
+      ],
+      [
+        "Roots of the Quadratic Polynomial",
+        "Solution Set"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Mathematical Inequalities"
+      ],
+      [
+        "Page 7",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Page 6",
+        "Reprint 2025-26"
+      ],
+      [
+        "Number Domains",
+        "Real Numbers"
+      ],
+      [
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+        "Thick Blue Arrow"
+      ],
+      [
+        "MATHEMATICS",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Inequality",
+        "Multiplication and Division"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Boundary Line \\( a x + b y = c \\)",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Chapter Header (header)",
+        "Linear Inequalities"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Rearrangement of Inequality"
+      ],
+      [
+        "62 + 48 + x",
+        "Arithmetic Mean Calculation"
+      ],
+      [
+        "Number Line",
+        "Solution Sets"
+      ],
+      [
+        "Inequalities",
+        "Page 1"
+      ],
+      [
+        "Broader Framework",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Inequality \\( a x + b y > c \\)",
+        "Strict Greater-Than Operator \\( > \\)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Examples"
+      ],
+      [
+        "Chemical Experiments",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Examples",
+        "Footer Content"
+      ],
+      [
+        "45% Acid Solution",
+        "Exercises on Inequalities and Mixture Problems (list)"
+      ],
+      [
+        "Discriminant \\( \\Delta = b^{2} - 4ac \\)",
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Inequality Constraint (equation)"
+      ],
+      [
+        "Physical Sciences and Engineering",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Number line graph showing solution set 2 ≤ x < 6 (image)",
+        "Variable x"
+      ],
+      [
+        "Minimum Marks Required for Target Average (equation)",
+        "x"
+      ],
+      [
+        "Algebra",
+        "Linear Inequality 3x - 7 < 5 + x (equation)"
+      ],
+      [
+        "Definitions",
+        "Linear Inequalities"
+      ],
+      [
+        "Boundary Line",
+        "Real Number Line"
+      ],
+      [
+        "Inequality",
+        "Optimization Problems"
+      ],
+      [
+        "Footer Content",
+        "Reprint Date Footer (footer)"
+      ],
+      [
+        "Footer Content",
+        "Page 6"
+      ],
+      [
+        "Applied Problems",
+        "Linear Inequality Simplification: 2x < 6 (equation)"
+      ],
+      [
+        "a x + b > 0",
+        "x"
+      ],
+      [
+        "Bounding Box",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Footer Content"
+      ],
+      [
+        "Background Color",
+        "Mathematical Diagram"
+      ],
+      [
+        "Circle on Number",
+        "Fundamental Rules and Representations of Inequalities (list)"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Registers"
+      ],
+      [
+        "Header",
+        "Worked Examples"
+      ],
+      [
+        "Discrete Set",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Chapter",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Registers",
+        "Variables x and y"
+      ],
+      [
+        "Intelligence Quotient (IQ) Formula (equation)",
+        "Mental Age (MA)"
+      ],
+      [
+        "Blue Arrow towards Positive Infinity",
+        "Number Line Highlighting"
+      ],
+      [
+        "30x < 200",
+        "x"
+      ],
+      [
+        "Integer Values",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Intelligence Quotient (IQ)",
+        "Mental Age (MA)"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Mathematical Examples and Exercises on Inequalities"
+      ],
+      [
+        "Linear Inequality Constraint (equation)",
+        "Solution Set"
+      ],
+      [
+        "Diagnostic Evaluations",
+        "IQ Score Ranges"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Examples and Exercises"
+      ],
+      [
+        "Inequality",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Number Line",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Linear Inequality 2x + 2 < 40 (equation)",
+        "x"
+      ],
+      [
+        "Header",
+        "Linear Inequalities"
+      ],
+      [
+        "Linear Inequalities",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "Footer Content",
+        "Pages 7 to 9"
+      ],
+      [
+        "Quadratic Function \\( f(x) = a x^{2} + b x + c \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Algebra",
+        "Linear Inequalities (header)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Reshma"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Inequality"
+      ],
+      [
+        "Line a x + b y = c",
+        "a x + b y < c"
+      ],
+      [
+        "Inequality and Consecutive Integer Problem Set (list)",
+        "Sunita"
+      ],
+      [
+        "Sign Reversal Rule",
+        "Theoretical Significance of Sign Reversal"
+      ],
+      [
+        "Fundamental Rules and Representations of Inequalities (list)",
+        "Negative Number"
+      ],
+      [
+        "Highlighted Segment",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Educational Decisions",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Geometric Measurement",
+        "Inequality Word Problems on Lengths and Measurements (list)"
+      ],
+      [
+        "Variables",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "Mathematical Equation",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Inequality x ≥ 1",
+        "Number line graph of solution x ≥ 1 (image)"
+      ],
+      [
+        "Background Color",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Algebraic Solutions of Linear Inequalities",
+        "Page 4"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Optimization Problems"
+      ],
+      [
+        "Dark Line",
+        "Number Line Representation"
+      ],
+      [
+        "Inequality Relations",
+        "Range of the smaller consecutive odd natural number (equation)"
+      ],
+      [
+        "Linear Inequality",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Multiplication by Negative Number"
+      ],
+      [
+        "Page Number",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "45% Acid Solution",
+        "Litres of Water"
+      ],
+      [
+        "Algebraic Solutions",
+        "Page Number 91 (page_number)"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Mathematical Operations"
+      ],
+      [
+        "Linear Inequality \\( a x + b y > c \\)",
+        "Variables \\( x \\) and \\( y \\)"
+      ],
+      [
+        "Footer Content",
+        "Reprint Edition Footer (footer)"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Linear Inequality"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Inequality",
+        "Mathematical Analysis"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "-8 < -7",
+        "Multiplication by Negative Number"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Division"
+      ],
+      [
+        "Compound Inequality",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Examples",
+        "Page Number 93 (page_number)"
+      ],
+      [
+        "Number line graph showing solution set 2 ≤ x < 6 (image)",
+        "Solid Dot at 2"
+      ],
+      [
+        "Less Than Symbol",
+        "Linear Inequality"
+      ],
+      [
+        "Mathematical Content",
+        "Page Number 93"
+      ],
+      [
+        "Number Line",
+        "Number line graph showing solution interval 120 to 300 for acid solution volume (image)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Real Number Line"
+      ],
+      [
+        "Chapter",
+        "Chapter Header (header)"
+      ],
+      [
+        "Algebraic Manipulation",
+        "Equation"
+      ],
+      [
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)",
+        "x"
+      ],
+      [
+        "30x < 200",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Pens",
+        "Reshma"
+      ],
+      [
+        "Minimum Marks Required for Target Average (equation)",
+        "Weighted Sums"
+      ],
+      [
+        "Compound Inequalities",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Polynomial Functions",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "a x + b \\u2264 0"
+      ],
+      [
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)",
+        "System of Inequalities"
+      ],
+      [
+        "Polynomial Functions",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Equation 40x + 20y ≤ 120",
+        "Mathematical Inequalities"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Systems of Inequalities"
+      ],
+      [
+        "Board Length",
+        "Inequality Word Problems on Lengths and Measurements (list)"
+      ],
+      [
+        "Footer Content",
+        "Page 4"
+      ],
+      [
+        "Algebraic Inequalities",
+        "Inequality Problems and Applied Exercises List (list)"
+      ],
+      [
+        "Celsius",
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)"
+      ],
+      [
+        "Chapter Header (header)",
+        "Header Content Analysis"
+      ],
+      [
+        "Discriminant \\( \\Delta = b^{2} - 4ac \\)",
+        "Roots of the Quadratic Polynomial"
+      ],
+      [
+        "Page Index 9",
+        "Page Number 98 (page_number)"
+      ],
+      [
+        "Reprint Edition Footer (footer)",
+        "Version Control Marker"
+      ],
+      [
+        "Linear Inequalities System",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Clearing Denominators",
+        "Linear Inequality with Rational Expressions (equation)"
+      ],
+      [
+        "Annual Examination",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "IQ Score Ranges",
+        "Inequality Solving"
+      ],
+      [
+        "Number Line",
+        "Page 9 Explanation"
+      ],
+      [
+        "Engineering",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "Header Content Analysis",
+        "Section Header: MATHEMATICS (header)"
+      ],
+      [
+        "Equation",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Application Context",
+        "Modeling Scenarios"
+      ],
+      [
+        "Page 3",
+        "Reprint 2025-26"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Longest Side"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Pens"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Relational Operator \\u2265"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Solution Set"
+      ],
+      [
+        "Chronological Age (CA)",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Exercises and Examples",
+        "MATHEMATICS"
+      ],
+      [
+        "Educational Material",
+        "Mathematical Content"
+      ],
+      [
+        "Inequalities",
+        "Page Number 96 (page_number)"
+      ],
+      [
+        "Linear Equations",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Real Numbers",
+        "Solution Interval"
+      ],
+      [
+        "Economics",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Scientific Modeling"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Linear Combinations"
+      ],
+      [
+        "Budgeting Problems",
+        "Linear Inequality"
+      ],
+      [
+        "Applications",
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Page Number 90 (page_number)"
+      ],
+      [
+        "Mathematical Exercises",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "IQ Formula",
+        "Inequalities"
+      ],
+      [
+        "Exercises",
+        "Page 99 (page_number)"
+      ],
+      [
+        "Clinical Decisions",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Linear Inequality",
+        "Relational Operator \\u2265"
+      ],
+      [
+        "Document",
+        "Footer Content"
+      ],
+      [
+        "Sign Reversal Rule",
+        "Solution Rules for Inequalities"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Linear Inequality"
+      ],
+      [
+        "a x + b > 0",
+        "addition"
+      ],
+      [
+        "Page Number",
+        "Textbook"
+      ],
+      [
+        "Domain Considerations",
+        "Solution Set Characterization"
+      ],
+      [
+        "Publication Metadata",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Number line graph showing solution set 2 ≤ x < 6 (image)",
+        "Open Circle at 6"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)",
+        "Roots of the Quadratic"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Inequality 2x + 2 < 40 (equation)"
+      ],
+      [
+        "Inequality Symbol \\u2264",
+        "Linear Inequality"
+      ],
+      [
+        "Algebra",
+        "Linear Inequality"
+      ],
+      [
+        "Horizontal Number Line",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "b"
+      ],
+      [
+        "Algebraic Rules",
+        "Rule 2"
+      ],
+      [
+        "11076CH06",
+        "linear inequalities"
+      ],
+      [
+        "Feasibility Regions",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "a x + b y < c",
+        "y"
+      ],
+      [
+        "Linear Inequalities",
+        "Resource Allocation"
+      ],
+      [
+        "Number line graph of solution x ≥ 1 (image)",
+        "Solid Black Dot"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "chapter on linear inequalities"
+      ],
+      [
+        "Economic Modeling",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Open Circle at 6",
+        "Solution Set"
+      ],
+      [
+        "a x + b y \\u2264 c",
+        "y"
+      ],
+      [
+        "Economics",
+        "Linear Inequality"
+      ],
+      [
+        "Pens",
+        "Variables x and y"
+      ],
+      [
+        "Number Line",
+        "Number Line Tick Marks"
+      ],
+      [
+        "Linear Inequalities",
+        "Page 6"
+      ],
+      [
+        "Longest Side",
+        "Perimeter"
+      ],
+      [
+        "Inequality",
+        "Linear Inequality Solution"
+      ],
+      [
+        "Inequality",
+        "Linear Inequality Simplification: 2x < 6 (equation)"
+      ],
+      [
+        "Fig 5.3",
+        "Number line graph showing solution set 2 ≤ x < 6 (image)"
+      ],
+      [
+        "Linear Inequality Simplification: 2x < 6 (equation)",
+        "Optimization, Decision-Making, and Modeling"
+      ],
+      [
+        "Real Numbers",
+        "Solution Sets"
+      ],
+      [
+        "Footer",
+        "Page 9"
+      ],
+      [
+        "3",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Fig 5.2",
+        "Number line graph of solution x ≥ 1 (image)"
+      ],
+      [
+        "Budget Constraints",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Chapter Header (header)",
+        "Subsections and Examples"
+      ],
+      [
+        "Enumeration of Possible Pairs",
+        "Solution Sets"
+      ],
+      [
+        "Consecutive Even Positive Integers",
+        "Mathematical Problems on Inequalities and Averages"
+      ],
+      [
+        "Integers from -4 to 1",
+        "Number Domains"
+      ],
+      [
+        "Linear Inequality",
+        "Systems of Inequalities"
+      ],
+      [
+        "Circle on Number",
+        "Number Line Representation"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Number Line"
+      ],
+      [
+        "Second Length",
+        "Shortest Side"
+      ],
+      [
+        "Quadratic Inequality \\( a x^{2} + b x + c \\leq 0 \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Solution Set",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Inequality Direction Reversal",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "Ravi",
+        "₹200 Budget"
+      ],
+      [
+        "30x < 200",
+        "Algebraic Principles"
+      ],
+      [
+        "Integer Values",
+        "Solution Set Characterization"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Integers from -4 to 1"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Mathematical Operations"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "x"
+      ],
+      [
+        "Temperature Conversion Equation",
+        "Temperature Range Constraint"
+      ],
+      [
+        "Inequality Word Problems on Lengths and Measurements (list)",
+        "Second Length"
+      ],
+      [
+        "Header Content Analysis",
+        "Symbolic or Cultural Header '国' (header)"
+      ],
+      [
+        "Copyright Notice",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "sciences"
+      ],
+      [
+        "Linear Programming",
+        "Optimization Problems"
+      ],
+      [
+        "Division by Negative Number",
+        "Rearrangement of Inequality"
+      ],
+      [
+        "Budgeting",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Solution Set",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Solution Sets"
+      ],
+      [
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)",
+        "Tick Marks"
+      ],
+      [
+        "Blue Arrow towards Positive Infinity",
+        "Number Line"
+      ],
+      [
+        "Arithmetic Mean",
+        "Inequality"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Natural Numbers",
+        "Solution Interval"
+      ],
+      [
+        "Page Number 93",
+        "Page Number 93 (page_number)"
+      ],
+      [
+        "Resource Allocation",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Graphical Representation",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Applied Mathematics",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Fahrenheit",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Black Lines and Numbers",
+        "Number Line"
+      ],
+      [
+        "1125 Litres",
+        "45% Acid Solution"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "a x + b > 0"
+      ],
+      [
+        "Inequality Problems and Applied Exercises List (list)",
+        "Mathematical Inequality Problems"
+      ],
+      [
+        "Chapter on Linear Inequalities",
+        "Definitions"
+      ],
+      [
+        "Decision-Making",
+        "Resource Allocation"
+      ],
+      [
+        "Economics",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Interval Notation",
+        "Solution Sets"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Linear Equation"
+      ],
+      [
+        "Educational Decisions",
+        "IQ Score Ranges"
+      ],
+      [
+        "Budget Constraint Inequality and Equation for Purchases (equation)",
+        "Resource Allocation"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "linear inequalities"
+      ],
+      [
+        "Inequality Direction Reversal",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "b"
+      ],
+      [
+        "Resource Allocation Problem",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "Knowledge Retrieval Systems",
+        "Reprint 2025-26"
+      ],
+      [
+        "Feasibility Analysis",
+        "Linear Inequalities"
+      ],
+      [
+        "Countable Quantities",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "30",
+        "Linear Inequality"
+      ],
+      [
+        "Algebraic Rules",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Quadratic Inequality in One Variable (equation)",
+        "Real Coefficients \\( a, b, c \\)"
+      ],
+      [
+        "Inequalities",
+        "Mathematical Content"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Rule 2"
+      ],
+      [
+        "Broader Discussions",
+        "Operations Involved"
+      ],
+      [
+        "Page Bottom Placement",
+        "Publication Reprint Notice Footer (footer)"
+      ],
+      [
+        "Budget Constraint Inequality",
+        "Reshma"
+      ],
+      [
+        "Linear Inequality",
+        "Solution Set"
+      ],
+      [
+        "Footer Content",
+        "Page 8"
+      ],
+      [
+        "System of Inequalities",
+        "a x + b y \\u2265 c"
+      ],
+      [
+        "Budget Constraint",
+        "Economics"
+      ],
+      [
+        "Inequality Sign",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Compound Inequalities",
+        "Mathematical Inequality Problems"
+      ],
+      [
+        "Linear Inequality",
+        "b"
+      ],
+      [
+        "Application Context",
+        "Solving Linear Inequalities"
+      ],
+      [
+        "Boundary Condition",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "budget limits",
+        "constraints"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "96",
+        "Page Number 96 (page_number)"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "a x + b > 0",
+        "rules of manipulating inequalities"
+      ],
+      [
+        "3x - 7 < 5 + x",
+        "Mathematical Operations"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Number Domains"
+      ],
+      [
+        "Footer",
+        "Version Control Marker"
+      ],
+      [
+        "Exercises on Inequalities and Mixture Problems (list)",
+        "Mixture Problems"
+      ],
+      [
+        "Acid Solution Concentration Problems",
+        "Page 99 (page_number)"
+      ],
+      [
+        "Solid Dot at 2",
+        "Solution Set"
+      ],
+      [
+        "Applications in Economics, Physics, and Optimization",
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)"
+      ],
+      [
+        "Inequalities",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "3",
+        "Arithmetic Mean Calculation"
+      ],
+      [
+        "Chapter",
+        "Page 0"
+      ],
+      [
+        "Inequalities",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Examples and Exercises",
+        "Linear Inequalities Section Header (header)"
+      ],
+      [
+        "Natural Numbers",
+        "Solution Sets"
+      ],
+      [
+        "Continuous Solution Intervals",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Parabola",
+        "Quadratic Function \\( f(x) = a x^{2} + b x + c \\)"
+      ],
+      [
+        "Chapter on Inequalities",
+        "Page Index 9"
+      ],
+      [
+        "Inequality x ≥ 1",
+        "Number Line"
+      ],
+      [
+        "Algebraic Solutions",
+        "Header"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Linear Programming"
+      ],
+      [
+        "Linear Inequality in One Variable (equation)",
+        "Relational Operator \\u2265"
+      ],
+      [
+        "Linear Inequality in Two Variables (equation)",
+        "Solution Techniques"
+      ],
+      [
+        "Mathematical Diagram",
+        "Number line graph of inequality solution set for 7x + 3 < 5x + 9 (image)"
+      ],
+      [
+        "Examples and Exercises",
+        "Linear Inequalities"
+      ],
+      [
+        "Ravi",
+        "Unit Test 2"
+      ],
+      [
+        "Mathematical Examples",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Celsius to Fahrenheit Temperature Conversion Formula (equation)",
+        "Inequalities and Interval Solutions"
+      ],
+      [
+        "Boundary Line",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Systems of Inequalities",
+        "a x + b y \\u2264 c"
+      ],
+      [
+        "a x + b y \\u2265 c",
+        "b"
+      ],
+      [
+        "a x + b \\u2264 0",
+        "inequality sign \\u2264"
+      ],
+      [
+        "Inequality Relations",
+        "Number Theory and Algebra"
+      ],
+      [
+        "Linear Inequalities",
+        "Page Number 5 (page_number)"
+      ],
+      [
+        "Linear Inequality",
+        "Variable X"
+      ],
+      [
+        "Linear Inequality 3x - 7 < 5 + x (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Boundary Line \\( a x + b y = c \\)",
+        "Linear Inequality \\( a x + b y > c \\)"
+      ],
+      [
+        "Discriminant Condition \\( \\Delta < 0 \\)",
+        "Quadratic Inequality \\( a x^{2} + b x + c > 0 \\)"
+      ],
+      [
+        "Linear Inequalities",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Intelligence Quotient (IQ) Formula (equation)",
+        "Psychometrics"
+      ],
+      [
+        "IQ Score Ranges",
+        "Intelligence Quotient (IQ) Formula (equation)"
+      ],
+      [
+        "Page 99 (page_number)",
+        "Page Number 99"
+      ],
+      [
+        "Page 9",
+        "Section Header: MATHEMATICS (header)"
+      ],
+      [
+        "Discriminant Condition \\( \\Delta < 0 \\)",
+        "Quadratic Inequality in One Variable (equation)"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Programming"
+      ],
+      [
+        "Exercises and Examples",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Academic or Educational Settings",
+        "Publication Reprint Date Footer (footer)"
+      ],
+      [
+        "Educational Material",
+        "Mathematical Exercises"
+      ],
+      [
+        "Illustration of Inequality Sign Reversal under Multiplication by Negative Numbers (equation)",
+        "Inequality Sign Reversal Rule"
+      ],
+      [
+        "Intelligence Quotient (IQ)",
+        "Psychometrics"
+      ],
+      [
+        "feasible regions",
+        "linear inequality"
+      ],
+      [
+        "Second Length",
+        "Third Length"
+      ],
+      [
+        "30% Acid Content",
+        "Acid Solution Problem"
+      ],
+      [
+        "Less Than or Equal To Operator",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "2x + 2 < 40",
+        "Variable Isolation"
+      ],
+      [
+        "Budget Constraint Linear Inequality (equation)",
+        "Economic or Consumer Choice Context"
+      ],
+      [
+        "Inequalities",
+        "MATHEMATICS Section Header (header)"
+      ],
+      [
+        "Capacity Limits",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Economics",
+        "Linear Inequality in One Variable (equation)"
+      ],
+      [
+        "Linear Inequality with Rational Expressions (equation)",
+        "Rules of Inequalities"
+      ],
+      [
+        "Examples and Exercises",
+        "Page Number"
+      ],
+      [
+        "Linear Inequality",
+        "Linear Inequality in Two Variables (equation)"
+      ],
+      [
+        "Integer Domain",
+        "Solution Set"
+      ],
+      [
+        "2x + 2 < 40",
+        "Linear Inequality"
+      ],
+      [
+        "Linear Inequality",
+        "Physical Significance"
+      ],
+      [
+        "Addition and Scalar Multiplication",
+        "Budget Constraint Linear Inequality (equation)"
+      ],
+      [
+        "Acid Solution Concentration Problems",
+        "Page Number 99"
+      ],
+      [
+        "30x < 200",
+        "Resource Allocation"
+      ],
+      [
+        "Clinical Decisions",
+        "IQ Score Ranges"
+      ],
+      [
+        "Number Line",
+        "Open Circle at x = 3"
+      ],
+      [
+        "2x + 2 < 40",
+        "Multiplication"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Real-World Constraints"
+      ],
+      [
+        "Linear Inequalities Section Header (header)",
+        "Temperature Ranges"
+      ],
+      [
+        "Applied Problems",
+        "Linear Inequality: 11 - 5x ≤ 1 (equation)"
+      ],
+      [
+        "Mathematical Inequality Problems",
+        "Systems of Inequalities"
+      ],
+      [
+        "Perimeter",
+        "Shortest Side"
+      ],
+      [
+        "Bibliographic Metadata",
+        "Reprint 2025-26"
+      ],
+      [
+        "Linear Rational Inequality (equation)",
+        "Mathematical Analysis"
+      ],
+      [
+        "30x < 200",
+        "Algebraic Manipulation Rules"
+      ],
+      [
+        "Bounding Box Coordinates",
+        "Chapter Identifier Header (header)"
+      ],
+      [
+        "Solution Set Characterization",
+        "Solution Set of the Inequality 30x < 200 for Integer x (equation)"
+      ],
+      [
+        "2x < 6 or x < 3",
+        "Rule 2"
+      ],
+      [
+        "Footer Content Analysis",
+        "Page Bottom Placement"
+      ],
+      [
+        "Chapter on Inequalities",
+        "Page Number 98 (page_number)"
+      ],
+      [
+        "Header 'MATHEMATICS'",
+        "Page 1"
+      ],
+      [
+        "Exercises and Examples",
+        "Inequalities"
+      ],
+      [
+        "Document Reprint Date Footer (footer)",
+        "Page 4"
+      ],
+      [
+        "Footer Content Analysis",
+        "Publication Metadata Marker"
+      ],
+      [
+        "Integer Solution Subset for Linear Inequality (equation)",
+        "Mathematical Equation Analysis"
+      ],
+      [
+        "Arithmetic Mean Calculation",
+        "Minimum Marks Required for Target Average (equation)"
+      ],
+      [
+        "Interval Notation",
+        "Linear Rational Inequality (equation)"
+      ],
+      [
+        "Budget constraint inequality for purchasing rice packets (equation)",
+        "Linear Inequality"
+      ],
+      [
+        "2x + 2 < 40",
+        "Strict Inequality"
+      ],
+      [
+        "Equation \\(11 - 5x \\leq 1\\)",
+        "Variable \\(x\\)"
+      ],
+      [
+        "Real-World Constraints",
+        "Temperature Conversion Inequality (equation)"
+      ],
+      [
+        "Inequalities",
+        "Mathematical Examples"
+      ],
+      [
+        "Integer Number Line",
+        "Integer Solution Subset for Linear Inequality (equation)"
+      ],
+      [
+        "Section Header: MATHEMATICS (header)",
+        "Solution Mixtures"
+      ],
+      [
+        "Boiling Point of Water",
+        "Temperature Conversion Equation"
+      ],
+      [
+        "Copyright Notice",
+        "Edition 2025-26"
+      ],
+      [
+        "Linear Inequality",
+        "Related Concepts"
+      ],
+      [
+        "1kg Rice Packets",
+        "Linear Inequality"
+      ],
+      [
+        "Horizontal Number Line",
+        "Unmarked Left Side"
+      ],
+      [
+        "Packets of Rice",
+        "Solution Set of the Inequality $30x < 200$ for Natural Numbers (equation)"
+      ],
+      [
+        "Cartesian Coordinate System",
+        "Linear Inequality in Two Variables (equation)"
+      ]
+    ],
+    "count": 1332,
+    "update_time": 1770978920,
+    "_id": "doc-8cc4a2f48244d0d18d2a63c0645e457c"
   }
 }
