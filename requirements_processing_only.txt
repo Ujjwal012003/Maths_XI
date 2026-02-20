@@ -17,7 +17,7 @@ networkx>=3.0
 # --- PDF Processing & MinerU (magic-pdf) ---
 pypdf>=3.0.0
 pdfminer.six>=20221105
-magic-pdf[full]>=0.6.2    # MinerU core for high-quality PDF parsing
+mineru[core]              # MinerU 2.0 for high-quality PDF parsing (replaces old magic-pdf)
 opencv-python>=4.8.0      
 pillow>=10.0.0            
 

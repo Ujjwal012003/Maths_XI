@@ -1,0 +1,107 @@
+[
+  {
+    "section_number": "8.1",
+    "title": "Introduction to Sequences and Series",
+    "subtopics": [
+      "Definition of Sequences",
+      "Definition of Series",
+      "Importance and Applications"
+    ]
+  },
+  {
+    "section_number": "8.2",
+    "title": "Sequences",
+    "subtopics": [
+      "General Term of a Sequence",
+      "Types of Sequences",
+      "Finite and Infinite Sequences"
+    ]
+  },
+  {
+    "section_number": "8.3",
+    "title": "Arithmetic Progression (AP)",
+    "subtopics": [
+      "Definition of AP",
+      "Nth Term Formula",
+      "Sum of First n Terms",
+      "Common Difference",
+      "Examples and Applications"
+    ]
+  },
+  {
+    "section_number": "8.4",
+    "title": "Geometric Progression (GP)",
+    "subtopics": [
+      "Definition of GP",
+      "Nth Term Formula",
+      "Sum of First n Terms",
+      "Product of n Terms",
+      "Examples and Applications"
+    ]
+  },
+  {
+    "section_number": "8.5",
+    "title": "Infinite Geometric Series",
+    "subtopics": [
+      "Convergence Criteria",
+      "Sum to Infinity Formula",
+      "Applications and Examples"
+    ]
+  },
+  {
+    "section_number": "8.6",
+    "title": "Formulas Summary",
+    "subtopics": [
+      "Summary of AP Formulas",
+      "Summary of GP Formulas",
+      "Summary of Infinite Series Formulas"
+    ]
+  },
+  {
+    "section_number": "8.7",
+    "title": "Graphical Interpretation",
+    "subtopics": [
+      "Arithmetic Progression on Number Line",
+      "Geometric Progression Curve",
+      "Visualization of Series Sums"
+    ]
+  },
+  {
+    "section_number": "8.8",
+    "title": "Problem Types and Applications",
+    "subtopics": [
+      "Finding nth Term in AP and GP",
+      "Sum of n Terms in AP and GP",
+      "Finding Common Difference and Ratio",
+      "Word Problems Involving Installments and Growth",
+      "Proof-Based Problems"
+    ]
+  },
+  {
+    "section_number": "8.9",
+    "title": "Convergence and Infinite Series Problems",
+    "subtopics": [
+      "Infinite Series with |r| < 1",
+      "Behavior of Series with r > 1 or r < -1",
+      "Applications of Infinite Series"
+    ]
+  },
+  {
+    "section_number": "8.10",
+    "title": "Advanced Problems and Proofs",
+    "subtopics": [
+      "AM-GM Inequality",
+      "Relations between Terms",
+      "Proof of Theorems Related to Sequences"
+    ]
+  },
+  {
+    "section_number": "8.11",
+    "title": "Miscellaneous Exercises",
+    "subtopics": [
+      "Mixed Sequence Problems",
+      "Generalizations",
+      "Higher Order Proofs"
+    ]
+  }
+]

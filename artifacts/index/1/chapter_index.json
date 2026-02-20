@@ -1,107 +1,125 @@
 [
   {
     "section_number": "1.1",
-    "title": "Introduction to Relations",
+    "title": "Introduction to Sets",
     "subtopics": [
-      "Definition of Relation",
-      "Cartesian Product of Sets",
-      "Representation of Relation"
+      "Definition of a Set",
+      "Significance and Applications in Mathematics"
     ]
   },
   {
     "section_number": "1.2",
-    "title": "Types of Relations",
+    "title": "Representation of Sets",
     "subtopics": [
-      "Empty Relation",
-      "Universal Relation",
-      "Reflexive Relation",
-      "Symmetric Relation",
-      "Transitive Relation",
-      "Equivalence Relation"
+      "Roster or Tabular Form",
+      "Set-builder Form",
+      "Examples of Representations"
     ]
   },
   {
     "section_number": "1.3",
-    "title": "Functions: Basic Concepts",
+    "title": "The Empty Set",
     "subtopics": [
-      "Definition of a Function",
-      "Domain, Co-domain and Range",
-      "Representation of Functions"
+      "Definition and Notation",
+      "Properties of Empty Set",
+      "Role in Set Theory"
     ]
   },
   {
     "section_number": "1.4",
-    "title": "Types of Functions",
+    "title": "Finite and Infinite Sets",
     "subtopics": [
-      "One to One Function (Injective)",
-      "Onto Function (Surjective)",
-      "One to One Correspondence (Bijective)",
-      "Constant Function",
-      "Identity Function",
-      "Polynomial and Rational Functions"
+      "Definition of Finite Sets",
+      "Definition of Infinite Sets",
+      "Examples and Classification"
     ]
   },
   {
     "section_number": "1.5",
-    "title": "Composition of Functions",
+    "title": "Equal Sets",
     "subtopics": [
-      "Definition and Notation",
-      "Domain and Range of Composite Functions",
-      "Examples and Properties"
+      "Conditions for Equality of Sets",
+      "Examples",
+      "Proof Techniques"
     ]
   },
   {
     "section_number": "1.6",
-    "title": "Inverse of a Function",
+    "title": "Subsets",
     "subtopics": [
-      "Definition of Invertible Function",
-      "Conditions for Invertibility",
-      "Finding the Inverse Function"
+      "Definition of Subsets",
+      "Proper and Improper Subsets",
+      "Empty Set as a Subset",
+      "Power Set Introduction"
     ]
   },
   {
     "section_number": "1.7",
-    "title": "Binary Operations",
+    "title": "Power Set",
     "subtopics": [
-      "Definition of Binary Operation",
-      "Examples on Real Numbers",
-      "Properties of Binary Operations"
+      "Definition and Examples",
+      "Number of Subsets of a Set",
+      "Relation to Cardinality"
     ]
   },
   {
     "section_number": "1.8",
-    "title": "Algebra of Functions",
+    "title": "Universal Set",
     "subtopics": [
-      "Addition, Subtraction of Functions",
-      "Multiplication of Functions",
-      "Division of Functions (where defined)"
+      "Definition and Usage",
+      "Relationship with Other Sets",
+      "Complement of a Set"
     ]
   },
   {
     "section_number": "1.9",
-    "title": "Relation between Sets and Relations",
+    "title": "Venn Diagrams",
     "subtopics": [
-      "Relation as Subset of Cartesian Product",
-      "Domain and Range of a Relation",
-      "Inverse Relation"
+      "Graphical Representation of Sets",
+      "Union and Intersection Visualization",
+      "Complement and Difference Representation"
     ]
   },
   {
     "section_number": "1.10",
-    "title": "Advanced Properties of Relations",
+    "title": "Operations on Sets",
     "subtopics": [
-      "Partial Order Relation",
-      "Total Order Relation",
-      "Equivalence Classes"
+      "Union of Sets",
+      "Intersection of Sets",
+      "Difference of Sets",
+      "Complement of a Set",
+      "Properties of Set Operations",
+      "De Morgan's Laws with Proofs"
     ]
   },
   {
     "section_number": "1.11",
-    "title": "Application of Relations and Functions",
+    "title": "Properties of Set Operations",
     "subtopics": [
-      "Real Life Examples",
-      "Use in Computer Science",
-      "Graphical Interpretation"
+      "Commutative Laws",
+      "Associative Laws",
+      "Distributive Laws",
+      "Identity Laws",
+      "Complement Laws"
+    ]
+  },
+  {
+    "section_number": "1.12",
+    "title": "Cardinality of Sets",
+    "subtopics": [
+      "Definition of Cardinality",
+      "Cardinality of Finite Sets",
+      "Formula for Cardinality of Union",
+      "Cardinality of Difference of Sets"
+    ]
+  },
+  {
+    "section_number": "1.13",
+    "title": "Applications of Set Theory",
+    "subtopics": [
+      "Problem Types Using Sets",
+      "Venn Diagram Applications",
+      "Basic Proofs with Sets"
     ]
   }
 ]

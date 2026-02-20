@@ -1,116 +1,106 @@
 [
   {
     "section_number": "2.1",
-    "title": "Introduction to Inverse Trigonometric Functions",
+    "title": "Introduction to Relations",
     "subtopics": [
-      "Definition of Inverse Trigonometric Functions",
-      "Why Restrict Domain of Trigonometric Functions",
-      "Notation and Basic Examples"
+      "Definition of Relations",
+      "Ordered Pairs and Their Notation",
+      "Representation of Relations (Set of Ordered Pairs, Arrow Diagrams, Cartesian Product)"
     ]
   },
   {
     "section_number": "2.2",
-    "title": "Principal Value Branches and Domain-Range Restrictions",
+    "title": "Types of Relations",
     "subtopics": [
-      "Principal Value Branch Definition",
-      "Domain and Range of Each Inverse Trigonometric Function",
-      "Monotonicity and One-to-One Property",
-      "Summary Table of Domain and Range"
+      "Reflexive Relations",
+      "Symmetric Relations",
+      "Transitive Relations",
+      "Equivalence Relations (Brief Introduction)"
     ]
   },
   {
     "section_number": "2.3",
-    "title": "Properties and Identities of Inverse Trigonometric Functions",
+    "title": "Cartesian Product of Sets",
     "subtopics": [
-      "Complementary Angle Identities",
-      "Symmetry and Periodicity Properties",
-      "Key Identities such as sin^-1 x + cos^-1 x = \u03c0/2",
-      "Inter-relation Formulas Among Inverse Functions"
+      "Definition and Representation",
+      "Properties of Cartesian Products",
+      "Relationship Between Elements of Cartesian Products"
     ]
   },
   {
     "section_number": "2.4",
-    "title": "Addition and Subtraction Formulas",
+    "title": "Introduction to Functions",
     "subtopics": [
-      "Arctangent Addition Formula",
-      "Proof of Addition Formula for Arctangent",
-      "Usage Conditions and Examples",
-      "Other Addition and Subtraction Identities"
+      "Definition of a Function as a Special Relation",
+      "Function Notation and Examples",
+      "Uniqueness of Function Output Theorem"
     ]
   },
   {
     "section_number": "2.5",
-    "title": "Graphs and Geometric Interpretation",
+    "title": "Domain, Codomain and Range",
     "subtopics": [
-      "Graph of sin^-1 x",
-      "Graph of cos^-1 x",
-      "Graph of tan^-1 x",
-      "Reflection Principle About y = x",
-      "Geometric Interpretation Using Right Triangles",
-      "Key Points and Asymptotes"
+      "Definition of Domain and Codomain",
+      "Definition and Calculation of Range",
+      "Examples to Determine Domain, Codomain and Range"
     ]
   },
   {
     "section_number": "2.6",
-    "title": "Derivatives of Inverse Trigonometric Functions",
+    "title": "Types of Functions",
     "subtopics": [
-      "Derivative of sin^-1 x and Domain Consideration",
-      "Derivative of cos^-1 x",
-      "Derivative of tan^-1 x",
-      "Derivatives of sec^-1 x, csc^-1 x and cot^-1 x",
-      "Proofs Using Implicit Differentiation",
-      "Applications to Differentiability"
+      "One-One (Injective) Functions",
+      "Onto (Surjective) Functions",
+      "Bijective Functions",
+      "Real-valued Functions and Special Types (Rational, Modulus, Signum, Greatest Integer)"
     ]
   },
   {
     "section_number": "2.7",
-    "title": "Methods of Solving Inverse Trigonometric Equations",
+    "title": "Operations on Functions",
     "subtopics": [
-      "Basic Solving Techniques",
-      "Using Domain and Range Restrictions",
-      "Applying Identities to Simplify Equations",
-      "Examples Involving Multiple Inverse Trig Functions"
+      "Addition, Subtraction, Multiplication, and Division of Functions",
+      "Composition of Functions",
+      "Theorem: Composition of Functions is a Function"
     ]
   },
   {
     "section_number": "2.8",
-    "title": "Application-Oriented Problem Types",
+    "title": "Inverse Functions",
     "subtopics": [
-      "Basic Direct Evaluation Problems",
-      "Simplification Using Identities",
-      "Problems Involving Differentiation",
-      "Geometric Problems Using Inverse Trig Ratios",
-      "Inequalities Involving Inverse Trigonometric Functions"
+      "Definition and Existence Conditions",
+      "Theorem: Inverse Function Exists iff Function is Bijective",
+      "Method to Find Inverse Functions",
+      "Examples and Verification"
     ]
   },
   {
     "section_number": "2.9",
-    "title": "Higher-Level Identities and Their Proofs",
+    "title": "Graphs of Functions",
     "subtopics": [
-      "Sum and Difference Identities",
-      "Multiple Angle Formulas",
-      "Combining Inverse Trig Functions",
-      "Proof Sketches and Examples"
+      "Plotting Functions on Cartesian Plane",
+      "Graphical Interpretation of Domain and Range",
+      "Horizontal Line Test for One-One Functions",
+      "Examples of Graphing Different Types of Functions"
     ]
   },
   {
     "section_number": "2.10",
-    "title": "Inverse Trigonometric Functions in Integration and Advanced Calculus",
+    "title": "Binary Operations",
     "subtopics": [
-      "Using Derivatives for Integration",
-      "Integral Formulas Involving Inverse Trig Functions",
-      "Examples of Integration Where Inverse Trig Functions Arise",
-      "Linking Inverse Trig Functions with Definite and Indefinite Integrals"
+      "Definition of Binary Operations",
+      "Examples and Verification on a Set",
+      "Binary Operations as Functions from A \u00d7 A to A"
     ]
   },
   {
     "section_number": "2.11",
-    "title": "Summary and Problem Classification",
+    "title": "Applications and Examples",
     "subtopics": [
-      "Types of Problems to Expect",
-      "Classification Based on Difficulty and Concept Required",
-      "Tips on Approaching Problems",
-      "Summary of Key Formulas and Identities"
+      "Determining if a Relation is a Function",
+      "Domain and Range Problem Solving",
+      "Composition and Inverse Function Problems",
+      "Graphical Interpretation Exercises"
     ]
   }
 ]

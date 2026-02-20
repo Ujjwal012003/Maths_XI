@@ -6,7 +6,7 @@ research_agent:
     Conduct comprehensive research for Chapter {chapter_number}: {chapter_name} to ensure 100% NCERT coverage.
     
     MANDATORY EXECUTION:
-    1. **WEB SEARCH (SerperDev)**: Search for "NCERT Class 12 Maths Chapter {chapter_number} syllabus", "theorems", and "formulas".
+    1. **WEB SEARCH (SerperDev)**: Search for "NCERT Class 11 Maths Chapter {chapter_number} syllabus", "theorems", and "formulas".
     2. **RAG SEARCH**: Extract specific proofs, working rules, and solved examples from the knowledge base.
     3. Identify ALL key:
        - **Definitions** (Rigorous mathematical phrasing).
@@ -76,7 +76,7 @@ section_writer:
     Master Mathematics Textbook Writer (NCERT + JEE Focus)
   
   goal: >
-    Write a COMPREHENSIVE, SINGLE SECTION ({section_number}: {section_title}) for Class 12 Mathematics.
+    Write a COMPREHENSIVE, SINGLE SECTION ({section_number}: {section_title}) for Class 11 Mathematics.
     
     INPUTS:
     - Section Number: {section_number}

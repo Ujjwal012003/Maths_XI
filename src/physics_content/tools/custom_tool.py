@@ -1,6 +1,6 @@
 """
-Custom RAG Tool for Physics Content Generation
-Retrieves content from processed Class 12 Physics chapters
+Custom RAG Tool for Mathematics Content Generation
+Retrieves content from processed Class 11 Mathematics chapters
 """
 
 from crewai.tools import BaseTool
@@ -11,9 +11,11 @@ import os
 from pathlib import Path
 
 # Add parent directories to Python path
-current_dir = Path(__file__).parent.parent.parent
-sys.path.insert(0, str(current_dir))
-sys.path.insert(0, str(current_dir / "RAG-Anything"))
+# custom_tool.py is at src/physics_content/tools/custom_tool.py
+# query_documents.py is at project root (4 levels up)
+project_root = Path(__file__).parent.parent.parent.parent
+sys.path.insert(0, str(project_root))
+sys.path.insert(0, str(project_root / "RAG-Anything"))
 
 
 class RAGQueryInput(BaseModel):
@@ -26,22 +28,28 @@ class RAGQueryInput(BaseModel):
 
 class PhysicsRAGTool(BaseTool):
     """
-    RAG-powered retrieval tool for Class 12 Physics content
-    Sources: Processed NCERT + HC Verma chapters (5 chapters available)
+    RAG-powered retrieval tool for Class 11 Mathematics content
+    Sources: Processed NCERT chapters
     """
     
     name: str = "rag_anything_enhancer"
     description: str = """
-    Retrieves Mathematics content from processed Class 12 chapters:
+    Retrieves Mathematics content from processed Class 11 chapters:
     
     AVAILABLE CHAPTERS:
+    - Sets
     - Relations and Functions
-    - Inverse Trigonometric Functions
-    - Matrices & Determinants
-    - Continuity & Differentiability
-    - Integrals & Applications
-    - Differential Equations
-    - Vector Algebra & 3D Geometry
+    - Trigonometric Functions
+    - Complex Numbers and Quadratic Equations
+    - Linear Inequalities
+    - Permutations and Combinations
+    - Binomial Theorem
+    - Sequences and Series
+    - Straight Lines
+    - Conic Sections
+    - Introduction to Three Dimensional Geometry
+    - Limits and Derivatives
+    - Statistics
     - Probability
     
     WHAT YOU CAN GET:
@@ -52,9 +60,9 @@ class PhysicsRAGTool(BaseTool):
     - Geometric Interpretations and Graphs
     
     QUERY EXAMPLES:
-    Good: "Integration by parts formula and proof"
-    Good: "Bayes theorem statement and solved example"
-    Good: "Properties of determinants with proof"
+    Good: "Binomial theorem for positive integral indices proof"
+    Good: "Sum of n terms of AP and GP formulas"
+    Good: "Properties of sets with Venn diagram examples"
     Bad: "tell me everything" (too broad)
     Bad: "chapter 1" (too vague)
     

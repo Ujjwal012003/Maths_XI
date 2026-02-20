@@ -156,7 +156,7 @@ def stitch_chapter(chapter_number, chapter_name):
     print("\n🧵 ASSEMBLING CHAPTER...")
     
     chapter_dir = CONTENT_DIR / str(chapter_number)
-    output_file = f"class_12_math_chapter_{chapter_number}_{chapter_name}_Full.md"
+    output_file = f"class_11_math_chapter_{chapter_number}_{chapter_name}_Full.md"
     
     # Robust sorting: Natural Sort (1.2 before 1.10)
     import re
@@ -187,21 +187,22 @@ def stitch_chapter(chapter_number, chapter_name):
     
     print(f"🎉 Chapter Complete! Saved to {output_file}")
 
-# Define Class 12 Mathematics Chapters
+# Define Class 11 Mathematics Chapters
 CHAPTERS_TO_GENERATE = [
-    {"chapter_number": "1", "chapter_name": "Relations_and_Functions"},
-    {"chapter_number": "2", "chapter_name": "Inverse_Trigonometric_Functions"},
-    {"chapter_number": "3", "chapter_name": "Matrices"},
-    {"chapter_number": "4", "chapter_name": "Determinants"},
-    {"chapter_number": "5", "chapter_name": "Continuity_and_Differentiability"},
-    {"chapter_number": "6", "chapter_name": "Application_of_Derivatives"},
-    {"chapter_number": "7", "chapter_name": "Integrals"},
-    {"chapter_number": "8", "chapter_name": "Application_of_Integrals"},
-    {"chapter_number": "9", "chapter_name": "Differential_Equations"},
-    {"chapter_number": "10", "chapter_name": "Vector_Algebra"},
-    {"chapter_number": "11", "chapter_name": "Three_Dimensional_Geometry"},
-    {"chapter_number": "12", "chapter_name": "Linear_Programming"},
-    {"chapter_number": "13", "chapter_name": "Probability"},
+    {"chapter_number": "1", "chapter_name": "Sets"},
+    {"chapter_number": "2", "chapter_name": "Relations_and_Functions"},
+    {"chapter_number": "3", "chapter_name": "Trigonometric_Functions"},
+    {"chapter_number": "4", "chapter_name": "Complex_Numbers_and_Quadratic_Equations"},
+    {"chapter_number": "5", "chapter_name": "Linear_Inequalities"},
+    {"chapter_number": "6", "chapter_name": "Permutations_and_Combinations"},
+    {"chapter_number": "7", "chapter_name": "Binomial_Theorem"},
+    {"chapter_number": "8", "chapter_name": "Sequences_and_Series"},
+    {"chapter_number": "9", "chapter_name": "Straight_Lines"},
+    {"chapter_number": "10", "chapter_name": "Conic_Sections"},
+    {"chapter_number": "11", "chapter_name": "Introduction_to_Three_Dimensional_Geometry"},
+    {"chapter_number": "12", "chapter_name": "Limits_and_Derivatives"},
+    {"chapter_number": "13", "chapter_name": "Statistics"},
+    {"chapter_number": "14", "chapter_name": "Probability"}
 ]
 
 def main():
@@ -217,7 +218,7 @@ def main():
             stitch_chapter(chapter_number, chapter_name)
     else:
         # Interactive Mode
-        print("\nwm MATHEMATICS GENERATOR wm")
+        print("\n📐 CLASS 11 MATHEMATICS GENERATOR 📐")
         print("======================================")
         print("Available Chapters:")
         for ch in CHAPTERS_TO_GENERATE:

@@ -1,0 +1,105 @@
+[
+  {
+    "section_number": "3.1",
+    "title": "Introduction to Angles",
+    "subtopics": [
+      "Definition of Angles",
+      "Measurement of Angles in Degrees and Radians",
+      "Conversion between Degrees and Radians"
+    ]
+  },
+  {
+    "section_number": "3.2",
+    "title": "Definition of Trigonometric Functions",
+    "subtopics": [
+      "Sine, Cosine and Tangent Ratios",
+      "Reciprocal Functions: Cosecant, Secant, Cotangent",
+      "Relationships Between Trigonometric Functions",
+      "Unit Circle Representation"
+    ]
+  },
+  {
+    "section_number": "3.3",
+    "title": "Values of Trigonometric Functions at Standard Angles",
+    "subtopics": [
+      "Exact Values at 0\u00b0, 30\u00b0, 45\u00b0, 60\u00b0, 90\u00b0",
+      "Use of the Unit Circle for Value Determination"
+    ]
+  },
+  {
+    "section_number": "3.4",
+    "title": "Graphs of Trigonometric Functions",
+    "subtopics": [
+      "Graph of Sine and Cosine Functions",
+      "Graph of Tangent, Cotangent Functions",
+      "Graphs of Reciprocal Functions: Secant and Cosecant",
+      "Periodicity, Amplitude, and Symmetry of Graphs",
+      "Quadrantal Angles and their Graphical Significance"
+    ]
+  },
+  {
+    "section_number": "3.5",
+    "title": "Fundamental Trigonometric Identities",
+    "subtopics": [
+      "Pythagorean Identities",
+      "Proofs Using Unit Circle",
+      "Applications in Simplification"
+    ]
+  },
+  {
+    "section_number": "3.6",
+    "title": "Angle Addition and Subtraction Formulas",
+    "subtopics": [
+      "Sine and Cosine Addition Formulas",
+      "Tangent Addition and Subtraction Formulas",
+      "Proofs and Examples"
+    ]
+  },
+  {
+    "section_number": "3.7",
+    "title": "Double Angle and Half Angle Formulas",
+    "subtopics": [
+      "Double Angle Formulas for Sine, Cosine and Tangent",
+      "Half Angle Formulas",
+      "Derivation from Addition Formulas",
+      "Sign Determination and Applications"
+    ]
+  },
+  {
+    "section_number": "3.8",
+    "title": "Solving Trigonometric Equations",
+    "subtopics": [
+      "Basic Trigonometric Equations",
+      "Use of Identities in Solving Equations",
+      "General Solutions for Equations"
+    ]
+  },
+  {
+    "section_number": "3.9",
+    "title": "Inverse Trigonometric Functions",
+    "subtopics": [
+      "Definition and Principal Values",
+      "Properties and Graphs",
+      "Applications in Finding Angles"
+    ]
+  },
+  {
+    "section_number": "3.10",
+    "title": "Applications of Trigonometric Functions",
+    "subtopics": [
+      "Height and Distance Problems",
+      "Inclination and Bearings",
+      "Modeling Periodic Phenomena",
+      "Real World Applications"
+    ]
+  },
+  {
+    "section_number": "3.11",
+    "title": "Problem Classification and Solution Techniques",
+    "subtopics": [
+      "Direct Computation of Trigonometric Ratios",
+      "Using Identities in Problem Solving",
+      "Application of Formulas in Various Problem Types"
+    ]
+  }
+]
