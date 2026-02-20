@@ -1,0 +1,13 @@
+[2026-02-20T06:12:25] Using OpenAI multimodal for images/tables/equations (model: gpt-4.1-mini)
+[2026-02-20T06:12:25] Setting up LightRAG model functions with LOCAL MODELS...
+[2026-02-20T06:12:25] RAG-Anything initialized with OpenAI multimodal + OpenAI text (gpt-4.1-mini), local embeddings
+[2026-02-20T06:12:25] Verifying LightRAG initialization...
+[2026-02-20T06:12:46] ⚠️ LightRAG initialization issue: Failed to initialize LightRAG instance: Expecting value: line 1 column 1 (char 0)
+[2026-02-20T06:12:46] Start: kemh110.pdf
+[2026-02-20T06:12:46] Invoking process_document_complete(timeout=600s) for kemh110.pdf
+[2026-02-20T06:21:10] Error: kemh110.pdf -> 'NoneType' object has no attribute 'ainsert'
+[2026-02-20T06:21:10] Start: kemh111.pdf
+[2026-02-20T06:21:10] Invoking process_document_complete(timeout=600s) for kemh111.pdf
+[2026-02-20T06:24:29] Error: kemh111.pdf -> 'NoneType' object has no attribute 'ainsert'
+[2026-02-20T06:24:29] Start: kemh112.pdf
+[2026-02-20T06:24:29] Invoking process_document_complete(timeout=600s) for kemh112.pdf
